@@ -1,0 +1,4 @@
+*.tsv !text !filter !merge !diff
+processed_data/0186/0186_descriptors_canonical_success.tsv filter=lfs diff=lfs merge=lfs -text
+*.txt !text !filter !merge !diff
+processed_data/0186/0186_descriptors_canonical_success.txt filter=lfs diff=lfs merge=lfs -text
