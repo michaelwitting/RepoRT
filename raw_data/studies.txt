@@ -1,2 +1,2 @@
-id	name	doi	pmid	source
-0001	FEM_short	10.1007/s11306-014-0638-x		PredRet
+id	name	doi	pmid	source	method.type
+0001	FEM_short	10.1007/s11306-014-0638-x		PredRet	RP
