@@ -11,7 +11,29 @@ This repository contains training data for retention time prediction. Data was
 collected from different sources, such as PredRet, Metabolights, primary literature
 and own data sets.
 
+# Submitting data
+
+If you would like to submit a retention time data directly via GitHub please first request and ID for your data via eMail to michael.witting@helmholtz-muenchen.de.
+
 # Retention time data
+
+The retention time data has to contain the following columns
+
+- id
+- name
+- formula
+- rt
+- pubchem.cid
+- pubchem.smiles.isomeric
+- pubchem.smiles.canonical
+- pubchem.inchi
+- pubchem.inchikey
+- id.chebi
+- id.hmdb
+- id.lipidmaps
+- id.kegg
+
+The substance id consists of the data id (e.g. 0001) concatenated to a running number for each metabolite by an underscore. An example would be 0001_00001. This allows to identify each individual substance throughout the entire dataset. Minimum one chemical identifier is required to obtain the substance structure. Pubchem CIDs are prefered. If the subtance is not found in a database yet, please add the SMILES of the substance in the field pubchem.smiles.isomeric. Standardization of SMILES and generation of InChI and InChIKey is performed automatically and data is transferred to a corresponding subfolder in the processed_data folder.
 
 # Metadata
 

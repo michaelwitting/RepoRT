@@ -370,8 +370,29 @@ summary {
 <p>Metabolite identification is the current bottleneck in non-targeted metabolomics. While tandem MS data allows to identify metabolites to a certain degree, but orthogonal information such as retention time is required to achieve higher confidence. <i>in silico</i> analysis of tandem MS data is fairly advanced, but only marginal improvements for the prediction of retention times have been made. One reason is missingness of comprehensive training data.</p>
 <p>This repository contains training data for retention time prediction. Data was collected from different sources, such as PredRet, Metabolights, primary literature and own data sets.</p>
 </div>
+<div id="submitting-data" class="section level1">
+<h1>Submitting data</h1>
+<p>If you would like to submit a retention time data directly via GitHub please first request and ID for your data via eMail to <a href="mailto:michael.witting@helmholtz-muenchen.de" class="email">michael.witting@helmholtz-muenchen.de</a>.</p>
+</div>
 <div id="retention-time-data" class="section level1">
 <h1>Retention time data</h1>
+<p>The retention time data has to contain the following columns</p>
+<ul>
+<li>id</li>
+<li>name</li>
+<li>formula</li>
+<li>rt</li>
+<li>pubchem.cid</li>
+<li>pubchem.smiles.isomeric</li>
+<li>pubchem.smiles.canonical</li>
+<li>pubchem.inchi</li>
+<li>pubchem.inchikey</li>
+<li>id.chebi</li>
+<li>id.hmdb</li>
+<li>id.lipidmaps</li>
+<li>id.kegg</li>
+</ul>
+<p>The substance id consists of the data id (e.g. 0001) concatenated to a running number for each metabolite by an underscore. An example would be 0001_00001. This allows to identify each individual substance throughout the entire dataset. Minimum one chemical identifier is required to obtain the substance structure. Pubchem CIDs are prefered. If the subtance is not found in a database yet, please add the SMILES of the substance in the field pubchem.smiles.isomeric. Standardization of SMILES and generation of InChI and InChIKey is performed automatically and data is transferred to a corresponding subfolder in the processed_data folder.</p>
 </div>
 <div id="metadata" class="section level1">
 <h1>Metadata</h1>
@@ -718,6 +739,124 @@ column.particle.size column.temperature column.flowrate</p>
 <td>%</td>
 <td>gradient.start.hept</td>
 <td>gradient.end.hept</td>
+</tr>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col width="24%"></col>
+<col width="16%"></col>
+<col width="4%"></col>
+<col width="26%"></col>
+<col width="26%"></col>
+</colgroup>
+<thead>
+<tr class="header">
+<th>additive</th>
+<th>abbrev</th>
+<th>unit</th>
+<th>gradient start</th>
+<th>gradient end</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>formic acid</td>
+<td>formic</td>
+<td>%</td>
+<td>gradient.start.formic</td>
+<td>eluent.B.formic</td>
+</tr>
+<tr class="even">
+<td>acetic acid</td>
+<td>acetic</td>
+<td>%</td>
+<td>eluent.A.acetic</td>
+<td>eluent.B.acetic</td>
+</tr>
+<tr class="odd">
+<td>trifluoroacetic acid</td>
+<td>trifluoroacetic</td>
+<td>%</td>
+<td>eluent.A.trifluoroacetic</td>
+<td>eluent.B.trifluoroacetic</td>
+</tr>
+<tr class="even">
+<td>phosphoric acid</td>
+<td>phosphor</td>
+<td>%</td>
+<td>eluent.A.phosphor</td>
+<td>eluent.B.phosphor</td>
+</tr>
+<tr class="odd">
+<td>ammonium acetate</td>
+<td>nh4ac</td>
+<td>mM</td>
+<td>eluent.A.nh4ac</td>
+<td>eluent.B.nh4ac</td>
+</tr>
+<tr class="even">
+<td>ammonium formiate</td>
+<td>nh4form</td>
+<td>mM</td>
+<td>eluent.A.nh4form</td>
+<td>eluent.B.nh4form</td>
+</tr>
+<tr class="odd">
+<td>ammonium carbonate</td>
+<td>nh4carb</td>
+<td>mM</td>
+<td>eluent.A.nh4carb</td>
+<td>eluent.B.nh4carb</td>
+</tr>
+<tr class="even">
+<td>ammonium bicarbonate</td>
+<td>nh4bicarb</td>
+<td>mM</td>
+<td>eluent.A.nh4bicarb</td>
+<td>eluent.B.nh4bicarb</td>
+</tr>
+<tr class="odd">
+<td>ammonium fluoride</td>
+<td>nh4f</td>
+<td>mM</td>
+<td>eluent.A.nh4f</td>
+<td>eluent.B.nh4f</td>
+</tr>
+<tr class="even">
+<td>ammonium hydroxide</td>
+<td>nh4oh</td>
+<td>mM</td>
+<td>eluent.A.nh4oh</td>
+<td>eluent.B.nh4oh</td>
+</tr>
+<tr class="odd">
+<td>triethylamine</td>
+<td>trieth</td>
+<td>mM</td>
+<td>eluent.A.trieth</td>
+<td>eluent.B.trieth</td>
+</tr>
+<tr class="even">
+<td>tripropylamine</td>
+<td>triprop</td>
+<td>mM</td>
+<td>eluent.A.triprop</td>
+<td>eluent.B.triprop</td>
+</tr>
+<tr class="odd">
+<td>tributylamine</td>
+<td>tribut</td>
+<td>mM</td>
+<td>eluent.A.tribut</td>
+<td>eluent.B.tribut</td>
+</tr>
+<tr class="even">
+<td>N,N-dimethylhexylamine</td>
+<td>nndimethylhex</td>
+<td>mM</td>
+<td>eluent.A.nndimethylhex</td>
+<td>eluent.B.nndimethylhex</td>
 </tr>
 </tbody>
 </table>
