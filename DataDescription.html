@@ -365,6 +365,11 @@ summary {
 </div>
 
 
+<div id="introduction" class="section level1">
+<h1>Introduction</h1>
+<p>Metabolite identification is the current bottleneck in non-targeted metabolomics. While tandem MS data allows to identify metabolites to a certain degree, but orthogonal information such as retention time is required to achieve higher confidence. <i>in silico</i> analysis of tandem MS data is fairly advanced, but only marginal improvements for the prediction of retention times have been made. One reason is missingness of comprehensive training data.</p>
+<p>This repository contains training data for retention time prediction. Data was collected from different sources, such as PredRet, Metabolights, primary literature and own data sets.</p>
+</div>
 <div id="retention-time-data" class="section level1">
 <h1>Retention time data</h1>
 </div>
@@ -480,7 +485,156 @@ column.particle.size column.temperature column.flowrate</p>
 </div>
 <div id="additives" class="section level3">
 <h3>Additives</h3>
-<p>additives abbrev unit A B C D formic acid formic % eluent.A.formic eluent.B.formic eluent.C.formic eluent.D.formic acetic acid acetic % eluent.A.acetic eluent.B.acetic eluent.C.acetic eluent.D.acetic trifluoroacetic acid trifluoroacetic % eluent.A.trifluoroacetic eluent.B.trifluoroacetic eluent.C.trifluoroacetic eluent.D.trifluoroacetic phosphoric acid phosphor % eluent.A.phosphor eluent.B.phosphor eluent.C.phosphor eluent.D.phosphor ammonium acetate nh4ac mM eluent.A.nh4ac eluent.B.nh4ac eluent.C.nh4ac eluent.D.nh4ac ammonium formiate nh4form mM eluent.A.nh4form eluent.B.nh4form eluent.C.nh4form eluent.D.nh4form ammonium carbonate nh4carb mM eluent.A.nh4carb eluent.B.nh4carb eluent.C.nh4carb eluent.D.nh4carb ammonium bicarbonate nh4bicarb mM eluent.A.nh4bicarb eluent.B.nh4bicarb eluent.C.nh4bicarb eluent.D.nh4bicarb ammonium fluoride nh4f mM eluent.A.nh4f eluent.B.nh4f eluent.C.nh4f eluent.D.nh4f ammonium hydroxide nh4oh mM eluent.A.nh4oh eluent.B.nh4oh eluent.C.nh4oh eluent.D.nh4oh triethylamine trieth mM eluent.A.trieth eluent.B.trieth eluent.C.trieth eluent.D.trieth tripropylamine triprop mM eluent.A.triprop eluent.B.triprop eluent.C.triprop eluent.D.triprop tributylamine tribut mM eluent.A.tribut eluent.B.tribut eluent.C.tribut eluent.D.tribut N,N-dimethylhexylamine nndimethylhex mM eluent.A.nndimethylhex eluent.B.nndimethylhex eluent.C.nndimethylhex eluent.D.nndimethylhex</p>
+<table>
+<colgroup>
+<col width="16%"></col>
+<col width="10%"></col>
+<col width="2%"></col>
+<col width="17%"></col>
+<col width="17%"></col>
+<col width="17%"></col>
+<col width="17%"></col>
+</colgroup>
+<thead>
+<tr class="header">
+<th>additive</th>
+<th>abbrev</th>
+<th>unit</th>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+<th>D</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>formic acid</td>
+<td>formic</td>
+<td>%</td>
+<td>eluent.A.formic</td>
+<td>eluent.B.formic</td>
+<td>eluent.C.formic</td>
+<td>eluent.D.formic</td>
+</tr>
+<tr class="even">
+<td>acetic acid</td>
+<td>acetic</td>
+<td>%</td>
+<td>eluent.A.acetic</td>
+<td>eluent.B.acetic</td>
+<td>eluent.C.acetic</td>
+<td>eluent.D.acetic</td>
+</tr>
+<tr class="odd">
+<td>trifluoroacetic acid</td>
+<td>trifluoroacetic</td>
+<td>%</td>
+<td>eluent.A.trifluoroacetic</td>
+<td>eluent.B.trifluoroacetic</td>
+<td>eluent.C.trifluoroacetic</td>
+<td>eluent.D.trifluoroacetic</td>
+</tr>
+<tr class="even">
+<td>phosphoric acid</td>
+<td>phosphor</td>
+<td>%</td>
+<td>eluent.A.phosphor</td>
+<td>eluent.B.phosphor</td>
+<td>eluent.C.phosphor</td>
+<td>eluent.D.phosphor</td>
+</tr>
+<tr class="odd">
+<td>ammonium acetate</td>
+<td>nh4ac</td>
+<td>mM</td>
+<td>eluent.A.nh4ac</td>
+<td>eluent.B.nh4ac</td>
+<td>eluent.C.nh4ac</td>
+<td>eluent.D.nh4ac</td>
+</tr>
+<tr class="even">
+<td>ammonium formiate</td>
+<td>nh4form</td>
+<td>mM</td>
+<td>eluent.A.nh4form</td>
+<td>eluent.B.nh4form</td>
+<td>eluent.C.nh4form</td>
+<td>eluent.D.nh4form</td>
+</tr>
+<tr class="odd">
+<td>ammonium carbonate</td>
+<td>nh4carb</td>
+<td>mM</td>
+<td>eluent.A.nh4carb</td>
+<td>eluent.B.nh4carb</td>
+<td>eluent.C.nh4carb</td>
+<td>eluent.D.nh4carb</td>
+</tr>
+<tr class="even">
+<td>ammonium bicarbonate</td>
+<td>nh4bicarb</td>
+<td>mM</td>
+<td>eluent.A.nh4bicarb</td>
+<td>eluent.B.nh4bicarb</td>
+<td>eluent.C.nh4bicarb</td>
+<td>eluent.D.nh4bicarb</td>
+</tr>
+<tr class="odd">
+<td>ammonium fluoride</td>
+<td>nh4f</td>
+<td>mM</td>
+<td>eluent.A.nh4f</td>
+<td>eluent.B.nh4f</td>
+<td>eluent.C.nh4f</td>
+<td>eluent.D.nh4f</td>
+</tr>
+<tr class="even">
+<td>ammonium hydroxide</td>
+<td>nh4oh</td>
+<td>mM</td>
+<td>eluent.A.nh4oh</td>
+<td>eluent.B.nh4oh</td>
+<td>eluent.C.nh4oh</td>
+<td>eluent.D.nh4oh</td>
+</tr>
+<tr class="odd">
+<td>triethylamine</td>
+<td>trieth</td>
+<td>mM</td>
+<td>eluent.A.trieth</td>
+<td>eluent.B.trieth</td>
+<td>eluent.C.trieth</td>
+<td>eluent.D.trieth</td>
+</tr>
+<tr class="even">
+<td>tripropylamine</td>
+<td>triprop</td>
+<td>mM</td>
+<td>eluent.A.triprop</td>
+<td>eluent.B.triprop</td>
+<td>eluent.C.triprop</td>
+<td>eluent.D.triprop</td>
+</tr>
+<tr class="odd">
+<td>tributylamine</td>
+<td>tribut</td>
+<td>mM</td>
+<td>eluent.A.tribut</td>
+<td>eluent.B.tribut</td>
+<td>eluent.C.tribut</td>
+<td>eluent.D.tribut</td>
+</tr>
+<tr class="even">
+<td>N,N-dimethylhexylamine</td>
+<td>nndimethylhex</td>
+<td>mM</td>
+<td>eluent.A.nndimethylhex</td>
+<td>eluent.B.nndimethylhex</td>
+<td>eluent.C.nndimethylhex</td>
+<td>eluent.D.nndimethylhex</td>
+</tr>
+</tbody>
+</table>
 </div>
 <div id="gradient" class="section level3">
 <h3>Gradient</h3>
