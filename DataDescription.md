@@ -1,3 +1,16 @@
+# Introduction
+
+Metabolite identification is the current bottleneck in non-targeted metabolomics.
+While tandem MS data allows to identify metabolites to a certain degree, but 
+orthogonal information such as retention time is required to achieve higher
+confidence. <i>in silico</i> analysis of tandem MS data is fairly advanced, but
+only marginal improvements for the prediction of retention times have been made.
+One reason is missingness of comprehensive training data.
+
+This repository contains training data for retention time prediction. Data was 
+collected from different sources, such as PredRet, Metabolights, primary literature
+and own data sets.
+
 # Retention time data
 
 # Metadata
@@ -40,21 +53,22 @@ used, as well as the naming of the variable for the eluents A-D.
 ### Additives
 
 
-additives	abbrev	unit	A	B	C	D
-formic acid	formic	%	eluent.A.formic	eluent.B.formic	eluent.C.formic	eluent.D.formic
-acetic acid	acetic	%	eluent.A.acetic	eluent.B.acetic	eluent.C.acetic	eluent.D.acetic
-trifluoroacetic acid	trifluoroacetic	%	eluent.A.trifluoroacetic	eluent.B.trifluoroacetic	eluent.C.trifluoroacetic	eluent.D.trifluoroacetic
-phosphoric acid	phosphor	%	eluent.A.phosphor	eluent.B.phosphor	eluent.C.phosphor	eluent.D.phosphor
-ammonium acetate	nh4ac	mM	eluent.A.nh4ac	eluent.B.nh4ac	eluent.C.nh4ac	eluent.D.nh4ac
-ammonium formiate	nh4form	mM	eluent.A.nh4form	eluent.B.nh4form	eluent.C.nh4form	eluent.D.nh4form
-ammonium carbonate	nh4carb	mM	eluent.A.nh4carb	eluent.B.nh4carb	eluent.C.nh4carb	eluent.D.nh4carb
-ammonium bicarbonate	nh4bicarb	mM	eluent.A.nh4bicarb	eluent.B.nh4bicarb	eluent.C.nh4bicarb	eluent.D.nh4bicarb
-ammonium fluoride	nh4f	mM	eluent.A.nh4f	eluent.B.nh4f	eluent.C.nh4f	eluent.D.nh4f
-ammonium hydroxide	nh4oh	mM	eluent.A.nh4oh	eluent.B.nh4oh	eluent.C.nh4oh	eluent.D.nh4oh
-triethylamine	trieth	mM	eluent.A.trieth	eluent.B.trieth	eluent.C.trieth	eluent.D.trieth
-tripropylamine	triprop	mM	eluent.A.triprop	eluent.B.triprop	eluent.C.triprop	eluent.D.triprop
-tributylamine	tribut	mM	eluent.A.tribut	eluent.B.tribut	eluent.C.tribut	eluent.D.tribut
-N,N-dimethylhexylamine	nndimethylhex	mM	eluent.A.nndimethylhex	eluent.B.nndimethylhex	eluent.C.nndimethylhex	eluent.D.nndimethylhex
+|additive              |abbrev         |unit|A                       |B                       |C                       |D                       |
+|----------------------|---------------|----|------------------------|------------------------|------------------------|------------------------|
+|formic acid           |formic	       |%	  |eluent.A.formic         |eluent.B.formic       	|eluent.C.formic	       |eluent.D.formic         |
+|acetic acid           |acetic	       |%	  |eluent.A.acetic         |eluent.B.acetic	        |eluent.C.acetic	       |eluent.D.acetic         |
+|trifluoroacetic acid  |trifluoroacetic|%	  |eluent.A.trifluoroacetic|eluent.B.trifluoroacetic|eluent.C.trifluoroacetic|eluent.D.trifluoroacetic|
+|phosphoric acid       |phosphor       |%  	|eluent.A.phosphor	     |eluent.B.phosphor	      |eluent.C.phosphor	     |eluent.D.phosphor       |
+|ammonium acetate      |nh4ac          |mM  |eluent.A.nh4ac	         |eluent.B.nh4ac	        |eluent.C.nh4ac	         |eluent.D.nh4ac          |
+|ammonium formiate     |nh4form        |mM	|eluent.A.nh4form	       |eluent.B.nh4form	      |eluent.C.nh4form	       |eluent.D.nh4form        |
+|ammonium carbonate    |nh4carb        |mM	|eluent.A.nh4carb	       |eluent.B.nh4carb	      |eluent.C.nh4carb	       |eluent.D.nh4carb        |
+|ammonium bicarbonate  |nh4bicarb      |mM	|eluent.A.nh4bicarb      |eluent.B.nh4bicarb	    |eluent.C.nh4bicarb	     |eluent.D.nh4bicarb      |
+|ammonium fluoride	   |nh4f           |mM	|eluent.A.nh4f	         |eluent.B.nh4f	          |eluent.C.nh4f	         |eluent.D.nh4f           |
+|ammonium hydroxide	   |nh4oh          |mM	|eluent.A.nh4oh	         |eluent.B.nh4oh	        |eluent.C.nh4oh	         |eluent.D.nh4oh          |
+|triethylamine	       |trieth         |mM	|eluent.A.trieth	       |eluent.B.trieth	        |eluent.C.trieth	       |eluent.D.trieth         |
+|tripropylamine	       |triprop	       |mM	|eluent.A.triprop	       |eluent.B.triprop	      |eluent.C.triprop	       |eluent.D.triprop        |
+|tributylamine	       |tribut	       |mM	|eluent.A.tribut	       |eluent.B.tribut	        |eluent.C.tribut	       |eluent.D.tribut         |
+|N,N-dimethylhexylamine|nndimethylhex  |mM	|eluent.A.nndimethylhex	 |eluent.B.nndimethylhex	|eluent.C.nndimethylhex	 |eluent.D.nndimethylhex  |
 
 ### Gradient
 
@@ -110,3 +124,22 @@ different eluents and the gradient conditions.
 |chloroform	    |chcl3 |%	  |gradient.start.chcl3 |gradient.end.chcl3 |
 |dichloromethane|ch2cl2|%	  |gradient.start.ch2cl2|gradient.end.ch2cl2|
 |heptane        |hept  |%	  |gradient.start.hept  |gradient.end.hept  |
+
+
+
+|additive              |abbrev         |unit|gradient start          |gradient end            |
+|----------------------|---------------|----|------------------------|------------------------|
+|formic acid           |formic	       |%	  |gradient.start.formic   |eluent.B.formic       	|
+|acetic acid           |acetic	       |%	  |eluent.A.acetic         |eluent.B.acetic	        |
+|trifluoroacetic acid  |trifluoroacetic|%	  |eluent.A.trifluoroacetic|eluent.B.trifluoroacetic|
+|phosphoric acid       |phosphor       |%  	|eluent.A.phosphor	     |eluent.B.phosphor	      |
+|ammonium acetate      |nh4ac          |mM  |eluent.A.nh4ac	         |eluent.B.nh4ac	        |
+|ammonium formiate     |nh4form        |mM	|eluent.A.nh4form	       |eluent.B.nh4form	      |
+|ammonium carbonate    |nh4carb        |mM	|eluent.A.nh4carb	       |eluent.B.nh4carb	      |
+|ammonium bicarbonate  |nh4bicarb      |mM	|eluent.A.nh4bicarb      |eluent.B.nh4bicarb	    |
+|ammonium fluoride	   |nh4f           |mM	|eluent.A.nh4f	         |eluent.B.nh4f	          |
+|ammonium hydroxide	   |nh4oh          |mM	|eluent.A.nh4oh	         |eluent.B.nh4oh	        |
+|triethylamine	       |trieth         |mM	|eluent.A.trieth	       |eluent.B.trieth	        |
+|tripropylamine	       |triprop	       |mM	|eluent.A.triprop	       |eluent.B.triprop	      |
+|tributylamine	       |tribut	       |mM	|eluent.A.tribut	       |eluent.B.tribut	        |
+|N,N-dimethylhexylamine|nndimethylhex  |mM	|eluent.A.nndimethylhex	 |eluent.B.nndimethylhex	|
