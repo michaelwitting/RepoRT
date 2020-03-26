@@ -5,7 +5,7 @@ id	name	doi	pmid	source	method.type
 0004	MTBLS20	10.1021/ac300829f		PredRet	RP
 0005	MTBLS38			PredRet	RP
 0006	MTBLS39			PredRet	RP
-0007	MTBLS87			PredRet	RP
+0007	MTBLS87			PredRet	HILIC
 0008	MTBLS4	10.1002/rcm.4015		PredRet	RP
 0009	RIKEN	10.1093/pcp/pcn183		PredRet	RP
 0010	FEM_lipids			PredRet	RP
