@@ -60,16 +60,18 @@ Values for all solvents for one eluent should add up to 100%.
 The following table summarizes all currently used solvents, their abbrevation
 used, as well as the naming of the variable for the eluents A-D.
 
-|name           |abbrev|unit|A              |B              |C              |D              |
-|---------------|------|----|---------------|---------------|---------------|---------------|
-|water          |h2o   |%   |eluent.A.h2o   |eluent.B.h2o   |eluent.C.h2o   |eluent.D.h2o   |
-|methanol       |meoh  |%   |eluent.A.meoh  |eluent.B.meoh  |eluent.C.meoh  |eluent.D.meoh  |
-|acetonitrile   |acn   |%   |eluent.A.acn   |eluent.B.acn   |eluent.C.acn   |eluent.D.acn   |
-|2-propanol     |iproh |%   |eluent.A.iproh |eluent.B.iproh |eluent.C.iproh |eluent.D.iproh |
-|hexane	        |hex   |%	  |eluent.A.hex	  |eluent.B.hex   |eluent.C.hex	  |eluent.D.hex   |
-|chloroform	    |chcl3 |%	  |eluent.A.chcl3 |eluent.B.chcl3 |eluent.C.chcl3 |eluent.D.chcl3 |
-|dichloromethane|ch2cl2|%	  |eluent.A.ch2cl2|eluent.B.ch2cl2|eluent.C.ch2cl2|eluent.D.ch2cl2|
-|heptane        |hept  |%	  |eluent.A.hept  |eluent.B.hept	|eluent.C.hept	|eluent.D.hept  |
+|name           |abbrev |unit|A               |B               |C               |D               |
+|---------------|-------|----|----------------|----------------|----------------|----------------|
+|water          |h2o    |%   |eluent.A.h2o    |eluent.B.h2o    |eluent.C.h2o    |eluent.D.h2o    |
+|methanol       |meoh   |%   |eluent.A.meoh   |eluent.B.meoh   |eluent.C.meoh   |eluent.D.meoh   |
+|acetonitrile   |acn    |%   |eluent.A.acn    |eluent.B.acn    |eluent.C.acn    |eluent.D.acn    |
+|2-propanol     |iproh  |%   |eluent.A.iproh  |eluent.B.iproh  |eluent.C.iproh  |eluent.D.iproh  |
+|hexane	        |hex    |%	 |eluent.A.hex	  |eluent.B.hex    |eluent.C.hex	  |eluent.D.hex    |
+|chloroform	    |chcl3  |%	 |eluent.A.chcl3  |eluent.B.chcl3  |eluent.C.chcl3  |eluent.D.chcl3  |
+|dichloromethane|ch2cl2 |%	 |eluent.A.ch2cl2 |eluent.B.ch2cl2 |eluent.C.ch2cl2 |eluent.D.ch2cl2 |
+|heptane        |hept   |%	 |eluent.A.hept   |eluent.B.hept	 |eluent.C.hept	  |eluent.D.hept   |
+|acetone        |acetone|%	 |eluent.A.acetone|eluent.B.acetone|eluent.C.acetone|eluent.D.acetone|
+
 
 
 ### Additives
@@ -136,16 +138,17 @@ prediction of retention times. To overcome this issue the "true" gradient starti
 and ending conditions are calculated based on the solvent composition of the
 different eluents and the gradient conditions.
 
-|solvent        |abrev |unit|gradient start       |gradient end       |
-|---------------|------|----|---------------------|-------------------|
-|water          |h2o   |%   |gradient.start.h2o   |gradient.end.h2o   |
-|methanol       |meoh  |%   |gradient.start.meoh  |gradient.end.meoh  |
-|acetonitrile   |acn   |%   |gradient.start.acn   |gradient.end.acn   |
-|2-propanol     |iproh |%   |gradient.start.iproh |gradient.end.iproh |
-|hexane	        |hex   |%	  |gradient.start.hex   |gradient.end.hex   |
-|chloroform	    |chcl3 |%	  |gradient.start.chcl3 |gradient.end.chcl3 |
-|dichloromethane|ch2cl2|%	  |gradient.start.ch2cl2|gradient.end.ch2cl2|
-|heptane        |hept  |%	  |gradient.start.hept  |gradient.end.hept  |
+|solvent        |abrev  |unit|gradient start        |gradient end          |
+|---------------|-------|----|----------------------|----------------------|
+|water          |h2o    |%   |gradient.start.h2o    |gradient.end.h2o      |
+|methanol       |meoh   |%   |gradient.start.meoh   |gradient.end.meoh     |
+|acetonitrile   |acn    |%   |gradient.start.acn    |gradient.end.acn      |
+|2-propanol     |iproh  |%   |gradient.start.iproh  |gradient.end.iproh    |
+|hexane	        |hex    |%   |gradient.start.hex    |gradient.end.hex      |
+|chloroform	    |chcl3  |%   |gradient.start.chcl3  |gradient.end.chcl3    |
+|dichloromethane|ch2cl2 |%   |gradient.start.ch2cl2 |gradient.end.ch2cl2   |
+|heptane        |hept   |%   |gradient.start.hept   |gradient.end.hept     |
+|acetone        |acetone|%   |gradient.start.acetone|gradient.start.acetone|
 
 
 
