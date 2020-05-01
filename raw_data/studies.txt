@@ -1,31 +1,186 @@
-id	name	doi	pmid	source	method.type	comment	missing information
-0001	FEM_short	10.1007/s11306-014-0638-x		PredRet	RP	guard column	
-0002	FEM_long	10.1007/s11306-011-0298-z		PredRet	RP		
-0003	IPB_Halle	10.1007/s00216-013-6954-6		PredRet	RP		temperature, flow rate
-0004	MTBLS20	10.1021/ac300829f		PredRet	RP		temperature, flow rate
-0005	MTBLS38			PredRet	RP	different flow rates during gradient (0,25 and 0,4 ml/min)	
-0006	MTBLS39			PredRet	RP	guard column	temperature
-0007	MTBLS87			PredRet	HILIC		temperature
-0008	MTBLS4	10.1002/rcm.4015		PredRet	RP		
-0009	RIKEN	10.1093/pcp/pcn183		PredRet	RP		column length, ID and particle size
-0010	FEM_lipids			PredRet	RP		
-0011	FEM_orbitrap_plasma			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate
-0012	FEM_orbitrap_urine			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate
-0013	MTBLS17			PredRet	RP	column name not specific	temperature
-0014	MTBLS19			PredRet	RP	column name not specific	temperature
-0015	MTBLS36			PredRet	RP	different flow rates during gradient (0,25 and 0,4 ml/min)	
-0016	MTBLS52			PredRet	RP		
-0017	UFZ_Phenomenex	www.massbank.eu		PredRet	RP		temperature, gradient and flow rate
-0018	UniToyama_Atlantis	www.massbank.eu		PredRet	RP		temperature, gradient and flow rate
-0019	Eawag_XBridgeC18	10.1021/es4044374; 10.1002/jms.3131		PredRet	RP		
-0020	Cao_HILIC	10.1007/s11306-014-0727-x		PredRet	HILIC		flow rate
-0021	MPI_Symmetry	10.1021/ac101825k		PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate
-0022	1290SQ			PredRet	RP		temperature, gradient and flow rate
-0023	PFR-TK72			PredRet	RP		
-0024	Waters ACQUITY UPLC with synapt G1			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate
-0025	OBSF			PredRet	RP		temperature
-0026	re			PredRet	RP		column length and ID; temperature, gradient and flow rate
-0027	KI_GIAR_zic_HILIC_ph2_7	10.1021/acs.analchem.7b00925		PredRet	HILIC		
-0028	CS6			PredRet	RP		temperature
-0029	CS3			PredRet	RP		temperature
-0030	CS11			PredRet	RP		temperature
+id	name	doi	pmid	source	method.type	comment	missing information	author
+0001	FEM_short	10.1007/s11306-014-0638-x		PredRet	RP	guard column		
+0002	FEM_long	10.1007/s11306-011-0298-z		PredRet	RP			
+0003	IPB_Halle	10.1007/s00216-013-6954-6		PredRet	RP		temperature, flow rate	
+0004	MTBLS20	10.1021/ac300829f		PredRet	RP	different chromatographic conditions of HPLC and UHPLC but only one RT	temperature, flow rate	
+0005	MTBLS38			PredRet	RP	different flow rates during gradient (0,25 and 0,4 ml/min)		
+0006	MTBLS39			PredRet	RP	guard column	temperature	
+0007	MTBLS87			PredRet	HILIC		temperature	
+0008	MTBLS4	10.1002/rcm.4015		PredRet	RP			
+0009	RIKEN	10.1093/pcp/pcn183		PredRet	RP		column length, ID and particle size	
+0010	FEM_lipids			PredRet	RP			
+0011	FEM_orbitrap_plasma			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
+0012	FEM_orbitrap_urine			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
+0013	MTBLS17			PredRet	RP	column name not specific	temperature	
+0014	MTBLS19			PredRet	RP	column name not specific	temperature	
+0015	MTBLS36			PredRet	RP	different flow rates during gradient (0,25 and 0,4 ml/min)		
+0016	MTBLS52			PredRet	RP			
+0017	UFZ_Phenomenex	www.massbank.eu		PredRet	RP		temperature, gradient and flow rate	
+0018	UniToyama_Atlantis	www.massbank.eu		PredRet	RP		temperature, gradient and flow rate	
+0019	Eawag_XBridgeC18	10.1021/es4044374; 10.1002/jms.3131		PredRet	RP			
+0020	Cao_HILIC	10.1007/s11306-014-0727-x		PredRet	HILIC	unknown amount of solvent	flow rate	
+0021	MPI_Symmetry	10.1021/ac101825k		PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
+0022	1290SQ			PredRet	RP		temperature, gradient and flow rate	
+0023	PFR-TK72			PredRet	RP			
+0024	Waters ACQUITY UPLC with synapt G1			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
+0025	OBSF			PredRet	RP		temperature	
+0026	re			PredRet	RP		column length and ID; temperature, gradient and flow rate	
+0027	KI_GIAR_zic_HILIC_ph2_7	10.1021/acs.analchem.7b00925		PredRet	HILIC			
+0028	CS6			PredRet	RP		temperature	
+0029	CS3			PredRet	RP		temperature	
+0030	CS11			PredRet	RP		temperature	
+0031	CS12			PredRet	RP		temperature	
+0032	CS13			PredRet	RP		temperature	
+0033	CS15			PredRet	RP		temperature	
+0034	CS16			PredRet	RP		temperature	
+0035	METBLS20-LIUMIN	10.1021/ac300829f		PredRet	RP	different chromatographic conditions of HPLC and UHPLC but only one RT	temperature	
+0036	CS8			PredRet	RP		temperature	
+0037	CS9			PredRet	RP		temperature	
+0038	CS10			PredRet	RP		temperature	
+0039	CS21			PredRet	RP	column name not specific	temperature	
+0040	CS7			PredRet	RP		temperature	
+0041	CS23			PredRet	RP		column length, ID and particle size; temperature, flow rate	
+0042	CS24			PredRet	RP			
+0043	C18_SOP3			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
+0044	HILIC_BDD_2			PredRet	HILIC		column length, ID and particle size	
+0045	Bade_Publi	https://www.sciencedirect.com/science/article/pii/S0048969715305817?via%3Dihub		PredRet	RP		temperature	
+0046	Waters_Chiu_T3_pos			PredRet	RP		column length, ID and particle size; temperature	
+0047	Acquity HSST3-RP-60mn			PredRet	RP		column length, ID and particle size; temperature	
+0048	BDD_C18			PredRet	RP		column length and ID	
+0049	CS2			PredRet	RP		column length and ID	
+0050	CS1			PredRet	RP		temperature	
+0051	CS17			PredRet	RP		temperature	
+0052	CS14			PredRet	RP		temperature	
+0053	CS20			PredRet	RP		temperature	
+0054	LIFE_old	10.1016/j.aca.2011.12.065		PredRet	RP		temperature and flow rate	
+0055	LIFE_new	10.1016/j.aca.2011.12.065		PredRet	RP		column length, ID and particle size; temperature and flow rate	
+0056	CS4			PredRet	RP		temperature	
+0057	CS5			PredRet	RP	column name not specific	temperature	
+0058	CS18			PredRet	RP		temperature	
+0059	CS19			PredRet	RP		temperature	
+0060	CS22			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
+0061	cuw			PredRet	RP	unknown amount of solvent	temperature, gradient and flow rate	
+0062	JP_RP			PredRet	RP		temperature, gradient and flow rate	
+0063	RPMMFDA			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
+0064	RPFDAMM			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
+0065	RP1 pos	10.1016@j.jchromb.2020.122105		Folberth et al. (2020)	RP		temperature	
+0066	RP2 pos	10.1016@j.jchromb.2020.122106		Folberth et al. (2020)	RP		temperature	
+0067	RP3 pos	10.1016@j.jchromb.2020.122107		Folberth et al. (2020)	RP		temperature	
+0068	RP4 pos	10.1016@j.jchromb.2020.122108		Folberth et al. (2020)	RP		temperature	
+0069	RP5 pos	10.1016@j.jchromb.2020.122109		Folberth et al. (2020)	RP		temperature	
+0070	RP6 pos	10.1016@j.jchromb.2020.122110		Folberth et al. (2020)	RP		temperature	
+0071	RP7 pos	10.1016@j.jchromb.2020.122111		Folberth et al. (2020)	RP		temperature	
+0072	RP8 pos	10.1016@j.jchromb.2020.122112		Folberth et al. (2020)	RP		temperature	
+0073	RP9 pos	10.1016@j.jchromb.2020.122113		Folberth et al. (2020)	RP		temperature	
+0074	RP10 pos	10.1016@j.jchromb.2020.122114		Folberth et al. (2020)	RP		temperature	
+0075	RP11 pos	10.1016@j.jchromb.2020.122115		Folberth et al. (2020)	RP		temperature	
+0076	RP12 pos	10.1016@j.jchromb.2020.122116		Folberth et al. (2020)	RP		temperature	
+0077	RP13 pos	10.1016@j.jchromb.2020.122117		Folberth et al. (2020)	RP		temperature	
+0078	RP14 pos	10.1016@j.jchromb.2020.122118		Folberth et al. (2020)	RP		temperature	
+0079	RP15 pos	10.1016@j.jchromb.2020.122119		Folberth et al. (2020)	RP		temperature	
+0080	RP16 pos	10.1016@j.jchromb.2020.122120		Folberth et al. (2020)	RP		temperature	
+0081	RP17 pos	10.1016@j.jchromb.2020.122121		Folberth et al. (2020)	RP		temperature	
+0082	RP18 pos	10.1016@j.jchromb.2020.122122		Folberth et al. (2020)	RP		temperature	
+0083	RP19 pos	10.1016@j.jchromb.2020.122123		Folberth et al. (2020)	RP		temperature	
+0084	RP20 pos	10.1016@j.jchromb.2020.122124		Folberth et al. (2020)	RP		temperature	
+0085	RP21 pos	10.1016@j.jchromb.2020.122125		Folberth et al. (2020)	RP		temperature	
+0086	RP22 pos	10.1016@j.jchromb.2020.122126		Folberth et al. (2020)	RP		temperature	
+0087	RP23 pos	10.1016@j.jchromb.2020.122127		Folberth et al. (2020)	RP		temperature	
+0088	RP24 pos	10.1016@j.jchromb.2020.122128		Folberth et al. (2020)	RP		temperature	
+0089	RP25 pos	10.1016@j.jchromb.2020.122129		Folberth et al. (2020)	RP		temperature	
+0090	RP26 pos	10.1016@j.jchromb.2020.122130		Folberth et al. (2020)	RP		temperature	
+0091	RP27 pos	10.1016@j.jchromb.2020.122131		Folberth et al. (2020)	RP		temperature	
+0092	RP28 pos	10.1016@j.jchromb.2020.122132		Folberth et al. (2020)	RP		temperature	
+0093	RP29 pos	10.1016@j.jchromb.2020.122133		Folberth et al. (2020)	RP		temperature	
+0094	RP30 pos	10.1016@j.jchromb.2020.122134		Folberth et al. (2020)	RP		temperature	
+0095	RP31 pos	10.1016@j.jchromb.2020.122135		Folberth et al. (2020)	RP		temperature	
+0096	RP32 pos	10.1016@j.jchromb.2020.122136		Folberth et al. (2020)	RP		temperature	
+0097	RP33 pos	10.1016@j.jchromb.2020.122137		Folberth et al. (2020)	RP		temperature	
+0098	RP34 pos	10.1016@j.jchromb.2020.122138		Folberth et al. (2020)	RP		temperature	
+0099	RP35 pos	10.1016@j.jchromb.2020.122139		Folberth et al. (2020)	RP		temperature	
+0100	RP36 pos	10.1016@j.jchromb.2020.122140		Folberth et al. (2020)	RP		temperature	
+0101	RP37 pos	10.1016@j.jchromb.2020.122141		Folberth et al. (2020)	RP		temperature	
+0102	RP38 pos	10.1016@j.jchromb.2020.122142		Folberth et al. (2020)	RP		temperature	
+0103	HILIC1 pos	10.1016@j.jchromb.2020.122143		Folberth et al. (2020)	HILIC		temperature	
+0104	HILIC2 pos	10.1016@j.jchromb.2020.122144		Folberth et al. (2020)	HILIC		temperature	
+0105	HILIC3 pos	10.1016@j.jchromb.2020.122145		Folberth et al. (2020)	HILIC		temperature	
+0106	HILIC4 pos	10.1016@j.jchromb.2020.122146		Folberth et al. (2020)	HILIC		temperature	
+0107	HILIC5 pos	10.1016@j.jchromb.2020.122147		Folberth et al. (2020)	HILIC		temperature	
+0108	HILIC6 pos	10.1016@j.jchromb.2020.122148		Folberth et al. (2020)	HILIC		temperature	
+0109	HILIC7 pos	10.1016@j.jchromb.2020.122149		Folberth et al. (2020)	HILIC		temperature	
+0110	HILIC8 pos	10.1016@j.jchromb.2020.122150		Folberth et al. (2020)	HILIC		temperature	
+0111	HILIC9 pos	10.1016@j.jchromb.2020.122151		Folberth et al. (2020)	HILIC		temperature	
+0112	HILIC10 pos	10.1016@j.jchromb.2020.122152		Folberth et al. (2020)	HILIC		temperature	
+0113	HILIC11 pos	10.1016@j.jchromb.2020.122153		Folberth et al. (2020)	HILIC		temperature	
+0114	HILIC12 pos	10.1016@j.jchromb.2020.122154		Folberth et al. (2020)	HILIC		temperature	
+0115	HILIC13 pos	10.1016@j.jchromb.2020.122155		Folberth et al. (2020)	HILIC		temperature	
+0116	HILIC14 pos	10.1016@j.jchromb.2020.122156		Folberth et al. (2020)	HILIC		temperature	
+0117	HILIC15 pos	10.1016@j.jchromb.2020.122157		Folberth et al. (2020)	HILIC		temperature	
+0118	HILIC16 pos	10.1016@j.jchromb.2020.122158		Folberth et al. (2020)	HILIC		temperature	
+0119	HILIC17 pos	10.1016@j.jchromb.2020.122159		Folberth et al. (2020)	HILIC		temperature	
+0120	HILIC18 pos	10.1016@j.jchromb.2020.122160		Folberth et al. (2020)	HILIC		temperature	
+0121	HILIC19 pos	10.1016@j.jchromb.2020.122161		Folberth et al. (2020)	HILIC		temperature	
+0122	RP1 neg	10.1016@j.jchromb.2020.122162		Folberth et al. (2020)	RP		temperature	
+0123	RP2 neg	10.1016@j.jchromb.2020.122163		Folberth et al. (2020)	RP		temperature	
+0124	RP3 neg	10.1016@j.jchromb.2020.122164		Folberth et al. (2020)	RP		temperature	
+0125	RP4 neg	10.1016@j.jchromb.2020.122165		Folberth et al. (2020)	RP		temperature	
+0126	RP5 neg	10.1016@j.jchromb.2020.122166		Folberth et al. (2020)	RP		temperature	
+0127	RP6 neg	10.1016@j.jchromb.2020.122167		Folberth et al. (2020)	RP		temperature	
+0128	RP7 neg	10.1016@j.jchromb.2020.122168		Folberth et al. (2020)	RP		temperature	
+0129	RP8 neg	10.1016@j.jchromb.2020.122169		Folberth et al. (2020)	RP		temperature	
+0130	RP9 neg	10.1016@j.jchromb.2020.122170		Folberth et al. (2020)	RP		temperature	
+0131	RP10 neg	10.1016@j.jchromb.2020.122171		Folberth et al. (2020)	RP		temperature	
+0132	RP11 neg	10.1016@j.jchromb.2020.122172		Folberth et al. (2020)	RP		temperature	
+0133	RP12 neg	10.1016@j.jchromb.2020.122173		Folberth et al. (2020)	RP		temperature	
+0134	RP13 neg	10.1016@j.jchromb.2020.122174		Folberth et al. (2020)	RP		temperature	
+0135	RP14 neg	10.1016@j.jchromb.2020.122175		Folberth et al. (2020)	RP		temperature	
+0136	RP15 neg	10.1016@j.jchromb.2020.122176		Folberth et al. (2020)	RP		temperature	
+0137	RP16 neg	10.1016@j.jchromb.2020.122177		Folberth et al. (2020)	RP		temperature	
+0138	RP17 neg	10.1016@j.jchromb.2020.122178		Folberth et al. (2020)	RP		temperature	
+0139	RP18 neg	10.1016@j.jchromb.2020.122179		Folberth et al. (2020)	RP		temperature	
+0140	RP19 neg	10.1016@j.jchromb.2020.122180		Folberth et al. (2020)	RP		temperature	
+0141	RP20 neg	10.1016@j.jchromb.2020.122181		Folberth et al. (2020)	RP		temperature	
+0142	RP21 neg	10.1016@j.jchromb.2020.122182		Folberth et al. (2020)	RP		temperature	
+0143	RP22 neg	10.1016@j.jchromb.2020.122183		Folberth et al. (2020)	RP		temperature	
+0144	RP23 neg	10.1016@j.jchromb.2020.122184		Folberth et al. (2020)	RP		temperature	
+0145	RP24 neg	10.1016@j.jchromb.2020.122185		Folberth et al. (2020)	RP		temperature	
+0146	RP25 neg	10.1016@j.jchromb.2020.122186		Folberth et al. (2020)	RP		temperature	
+0147	RP26 neg	10.1016@j.jchromb.2020.122187		Folberth et al. (2020)	RP		temperature	
+0148	RP27 neg	10.1016@j.jchromb.2020.122188		Folberth et al. (2020)	RP		temperature	
+0149	RP28 neg	10.1016@j.jchromb.2020.122189		Folberth et al. (2020)	RP		temperature	
+0150	RP29 neg	10.1016@j.jchromb.2020.122190		Folberth et al. (2020)	RP		temperature	
+0151	RP30 neg	10.1016@j.jchromb.2020.122191		Folberth et al. (2020)	RP		temperature	
+0152	RP31 neg	10.1016@j.jchromb.2020.122192		Folberth et al. (2020)	RP		temperature	
+0153	RP32 neg	10.1016@j.jchromb.2020.122193		Folberth et al. (2020)	RP		temperature	
+0154	RP33 neg	10.1016@j.jchromb.2020.122194		Folberth et al. (2020)	RP		temperature	
+0155	RP34 neg	10.1016@j.jchromb.2020.122195		Folberth et al. (2020)	RP		temperature	
+0156	RP35 neg	10.1016@j.jchromb.2020.122196		Folberth et al. (2020)	RP		temperature	
+0157	RP36 neg	10.1016@j.jchromb.2020.122197		Folberth et al. (2020)	RP		temperature	
+0158	RP37 neg	10.1016@j.jchromb.2020.122198		Folberth et al. (2020)	RP		temperature	
+0159	RP38 neg	10.1016@j.jchromb.2020.122199		Folberth et al. (2020)	RP		temperature	
+0160	HILIC1 neg	10.1016@j.jchromb.2020.122200		Folberth et al. (2020)	HILIC		temperature	
+0161	HILIC2 neg	10.1016@j.jchromb.2020.122201		Folberth et al. (2020)	HILIC		temperature	
+0162	HILIC3 neg	10.1016@j.jchromb.2020.122202		Folberth et al. (2020)	HILIC		temperature	
+0163	HILIC4 neg	10.1016@j.jchromb.2020.122203		Folberth et al. (2020)	HILIC		temperature	
+0164	HILIC5 neg	10.1016@j.jchromb.2020.122204		Folberth et al. (2020)	HILIC		temperature	
+0165	HILIC6 neg	10.1016@j.jchromb.2020.122205		Folberth et al. (2020)	HILIC		temperature	
+0166	HILIC7 neg	10.1016@j.jchromb.2020.122206		Folberth et al. (2020)	HILIC		temperature	
+0167	HILIC8 neg	10.1016@j.jchromb.2020.122207		Folberth et al. (2020)	HILIC		temperature	
+0168	HILIC9 neg	10.1016@j.jchromb.2020.122208		Folberth et al. (2020)	HILIC		temperature	
+0169	HILIC10 neg	10.1016@j.jchromb.2020.122209		Folberth et al. (2020)	HILIC		temperature	
+0170	HILIC11 neg	10.1016@j.jchromb.2020.122210		Folberth et al. (2020)	HILIC		temperature	
+0171	HILIC12 neg	10.1016@j.jchromb.2020.122211		Folberth et al. (2020)	HILIC		temperature	
+0172	HILIC13 neg	10.1016@j.jchromb.2020.122212		Folberth et al. (2020)	HILIC		temperature	
+0173	HILIC14 neg	10.1016@j.jchromb.2020.122213		Folberth et al. (2020)	HILIC		temperature	
+0174	HILIC15 neg	10.1016@j.jchromb.2020.122214		Folberth et al. (2020)	HILIC		temperature	
+0175	HILIC16 neg	10.1016@j.jchromb.2020.122215		Folberth et al. (2020)	HILIC		temperature	
+0176	HILIC17 neg	10.1016@j.jchromb.2020.122216		Folberth et al. (2020)	HILIC		temperature	
+0177	HILIC18 neg	10.1016@j.jchromb.2020.122217		Folberth et al. (2020)	HILIC		temperature	
+0178	HILIC19 neg	10.1016@j.jchromb.2020.122218		Folberth et al. (2020)	HILIC		temperature	
+0179	RP Geneva DB maXisQTOF pos	1-s2.0-S0021967319300378-main		Pezzatti et al. (2019)	RP			
+0180	RP Geneva DB maXisQTOF neg	1-s2.0-S0021967319300378-main		Pezzatti et al. (2019)	RP			
+0181	RP VION QTOF pos	1-s2.0-S0021967319300378-main		Pezzatti et al. (2019)	RP	sometimes two RTs		
+0182	RP VION QTOF new	1-s2.0-S0021967319300378-main		Pezzatti et al. (2019)	RP	sometimes two RTs		
+0183	aHILIC Geneva DB maXisQTOF pos	1-s2.0-S0021967319300378-main		Pezzatti et al. (2019)	HILIC			
+0184	aHILIC Geneva DB maXisQTOF neg	1-s2.0-S0021967319300378-main		Pezzatti et al. (2019)	HILIC			
+0185	zHILIC Geneva DB VION QTOF neg	1-s2.0-S0021967319300378-main		Pezzatti et al. (2019)	HILIC			
