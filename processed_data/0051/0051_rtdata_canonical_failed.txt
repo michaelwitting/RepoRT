@@ -1,0 +1,2 @@
+id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+0051_00050	Isoferulic acid-3-O-glucuronide	C9H10O2	34.36	SHJZLGVIOYFHCB-MBAOVNHDSA-N	FAILED_STANDARDIZATION		

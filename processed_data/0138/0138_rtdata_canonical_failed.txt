@@ -1,0 +1,2 @@
+id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+0138_00055	MENAQUINONE		34.53		FAILED_STANDARDIZATION		

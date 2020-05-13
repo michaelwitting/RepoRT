@@ -1,0 +1,2 @@
+id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+0023_00010	malvidin 3-glucoside		3.86		FAILED_STANDARDIZATION		

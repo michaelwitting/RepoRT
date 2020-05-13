@@ -1,0 +1,1 @@
+id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std

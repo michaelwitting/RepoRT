@@ -1,0 +1,2 @@
+id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+0129_00033	GLYCERALDEHYDE 3-PHOSPHATE DIETHYL ACETAL		11.05		FAILED_STANDARDIZATION		
