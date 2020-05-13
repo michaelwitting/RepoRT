@@ -1,0 +1,2 @@
+id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+0005_00005	1-methyl-2-hydroadenosine	C11H17N5O4	5.503119585		FAILED_STANDARDIZATION		

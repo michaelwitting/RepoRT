@@ -1,0 +1,3 @@
+id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+0007_00121	S-Methyl-ergothioneine		7.9		FAILED_STANDARDIZATION		
+0007_00134	Trimethyl-phenylalanine		5.4		FAILED_STANDARDIZATION		

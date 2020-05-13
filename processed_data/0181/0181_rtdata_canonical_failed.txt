@@ -1,0 +1,2 @@
+id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+0181_00181	CYCLIC AMP	C10H12N5O6P	2.78		FAILED_STANDARDIZATION		

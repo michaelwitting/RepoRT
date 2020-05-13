@@ -1,0 +1,6 @@
+id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+0040_00027	Dihydrolactucin-5-glycoside		9.8		FAILED_STANDARDIZATION		
+0040_00029	lactucIn-15-glycoside		10.4		FAILED_STANDARDIZATION		
+0040_00036	8-deoxylactucin-15-glycoside		11.8		FAILED_STANDARDIZATION		
+0040_00052	Dihydro-8-deoxylactucin		14.52		FAILED_STANDARDIZATION		
+0040_00053	Dihydro-8-deoxylactucin-15-glycoside		14.52		FAILED_STANDARDIZATION		

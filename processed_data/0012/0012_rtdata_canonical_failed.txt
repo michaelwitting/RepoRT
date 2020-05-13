@@ -1,0 +1,2 @@
+id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+0012_00027	C6 Hexanoyl-L-Carnitine*HCl	C13H25NO4	7.82	VVPRQWTYSNDTEA-LLVKDONJSA-N	FAILED_STANDARDIZATION		

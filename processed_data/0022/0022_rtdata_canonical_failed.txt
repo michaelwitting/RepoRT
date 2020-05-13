@@ -1,0 +1,2 @@
+id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+0022_00008	TPAB		31.676		FAILED_STANDARDIZATION		

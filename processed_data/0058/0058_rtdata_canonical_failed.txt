@@ -1,0 +1,2 @@
+id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+0058_00023	Tryptophol-2-sulfonate		4.73		FAILED_STANDARDIZATION		
