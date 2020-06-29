@@ -1,0 +1,165 @@
+## ---------------------------
+##
+## Script name: compounds_classyfire.R
+##
+## Purpose of script: Add ClassyFire annotation, if available
+##
+## Author: Dr. Michael Witting
+##
+## Date Created: 2020-06-15
+##
+## Copyright (c) Michael Witting, 2020
+## Email: michael.witting@helmholtz-muenchen.de
+##
+## -----------------------------------------------------------------------------
+##
+## Notes:
+##
+## This script add ClassyFire compound class annotation to standardized data.
+##
+## -----------------------------------------------------------------------------
+
+# ==============================================================================
+# load required libraries
+# ==============================================================================
+library(tidyverse)
+library(classyfireR)
+
+# ==============================================================================
+# read the data and create tibble for data analysis
+# ==============================================================================
+# get list of all folders ------------------------------------------------------
+data_folders <- list.dirs("processed_data", full.names = TRUE, recursive = FALSE)
+
+
+# iterate through folder and add data to full_rt_data_canonical ----------------
+for(data_folder in data_folders) {
+  
+  # canconical smiles data -----------------------------------------------------
+  # read canonical smiles data
+  rt_data_file <- list.files(data_folder,
+                             pattern = "_rtdata_canonical_success.txt$",
+                             full.names = TRUE)
+  
+  rt_data_canonical <- read_tsv(rt_data_file,
+                                col_types = cols(id = col_character(),
+                                                 name = col_character(),
+                                                 formula = col_character(),
+                                                 rt = col_double(),
+                                                 pubchem.smiles.canonical = col_character(),
+                                                 InChI.std = col_character(),
+                                                 InChIKey.std = col_character()))
+  
+  # perform classification
+  classyfire <- map_dfr(rt_data_canonical$InChIKey.std, function(x) {
+    
+    Sys.sleep(10)
+    
+    # get classifiction from ClassyFire server
+    classification_result <- get_classification(x)
+    
+    # check results and retrieve results
+    if(is.null(classification_result)) {
+      
+      kingdom <- NA
+      superclass <- NA
+      class <- NA
+      subclass <- NA
+      level5 <- NA
+      level6 <- NA
+      
+    } else {
+      
+      kingdom <- paste0(classification_result@classification$Classification[1],
+                        " (", classification_result@classification$CHEMONT[1], ")")
+      superclass <- paste0(classification_result@classification$Classification[2],
+                           " (", classification_result@classification$CHEMONT[2], ")")
+      class <- paste0(classification_result@classification$Classification[3],
+                      " (", classification_result@classification$CHEMONT[3], ")")
+      subclass <- paste0(classification_result@classification$Classification[4],
+                         " (", classification_result@classification$CHEMONT[4], ")")
+      level5 <- paste0(classification_result@classification$Classification[5],
+                       " (", classification_result@classification$CHEMONT[5], ")")
+      level6 <- paste0(classification_result@classification$Classification[6],
+                       " (", classification_result@classification$CHEMONT[6], ")")
+      
+    }
+    
+    # combine different results in columns
+    bind_cols(classyfire.kingdom = kingdom,
+              classyfire.superclass = superclass,
+              classyfire.class = class,
+              classyfire.subclass = subclass,
+              classyfire.level5 = level5,
+              classyfire.level6 = level6)
+    
+  })
+  
+  # combine tables
+  rt_data_canonical <- bind_cols(rt_data_canonical, classyfire)
+
+  # isomeric smiles data -------------------------------------------------------
+  # read isomeric smiles data
+  rt_data_file <- list.files(data_folder,
+                             pattern = "_rtdata_isomeric_success.txt$",
+                             full.names = TRUE)
+  
+  rt_data_isomeric <- read_tsv(rt_data_file,
+                                col_types = cols(id = col_character(),
+                                                 name = col_character(),
+                                                 formula = col_character(),
+                                                 rt = col_double(),
+                                                 pubchem.smiles.isomeric = col_character(),
+                                                 InChI.std = col_character(),
+                                                 InChIKey.std = col_character()))
+  
+  # perform classification
+  classyfire <- map_dfr(rt_data_isomeric$InChIKey.std, function(x) {
+    
+    Sys.sleep(10)
+    
+    # get classifiction from ClassyFire server
+    classification_result <- get_classification(x)
+    
+    # check results and retrieve results
+    if(is.null(classification_result)) {
+      
+      kingdom <- NA
+      superclass <- NA
+      class <- NA
+      subclass <- NA
+      level5 <- NA
+      level6 <- NA
+      
+    } else {
+      
+      kingdom <- paste0(classification_result@classification$Classification[1],
+                        " (", classification_result@classification$CHEMONT[1], ")")
+      superclass <- paste0(classification_result@classification$Classification[2],
+                           " (", classification_result@classification$CHEMONT[2], ")")
+      class <- paste0(classification_result@classification$Classification[3],
+                      " (", classification_result@classification$CHEMONT[3], ")")
+      subclass <- paste0(classification_result@classification$Classification[4],
+                         " (", classification_result@classification$CHEMONT[4], ")")
+      level5 <- paste0(classification_result@classification$Classification[5],
+                       " (", classification_result@classification$CHEMONT[5], ")")
+      level6 <- paste0(classification_result@classification$Classification[6],
+                       " (", classification_result@classification$CHEMONT[6], ")")
+      
+    }
+    
+    # combine different results in columns
+    bind_cols(classyfire.kingdom = kingdom,
+              classyfire.superclass = superclass,
+              classyfire.class = class,
+              classyfire.subclass = subclass,
+              classyfire.level5 = level5,
+              classyfire.level6 = level6)
+    
+  })
+  
+  # combine tables
+  rt_data_isomeric <- bind_cols(rt_data_isomeric, classyfire)
+  
+}
+
