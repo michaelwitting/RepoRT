@@ -2,7 +2,7 @@
 ##
 ## Script name: compounds_standardize.R
 ##
-## Purpose of script: Analyze RT data
+## Purpose of script: Standardization of structures according to PubChem
 ##
 ## Author: Dr. Michael Witting
 ##
@@ -16,8 +16,7 @@
 ## Notes:
 ##
 ## This script performs a PubChem API based standardization of SMILES. Data is
-## splitted into substances having isomeric or canonical SMILES. Additionally, 
-## ClassyFire classification is added.
+## splitted into substances having isomeric or canonical SMILES.
 ##
 ## -----------------------------------------------------------------------------
 
@@ -32,11 +31,6 @@ library(rinchi)
 # read the data and create tibble for data analysis
 # ==============================================================================
 # get list of all folders ------------------------------------------------------
-#data_folders_raw <- list.dirs("raw_data", full.names = TRUE, recursive = FALSE)
-#data_folders_processed <- list.dirs("processed_data", full.names = TRUE, recursive = FALSE)
-
-# select only folders not exisisting in processed_data -------------------------
-#data_folders <- data_folders_raw[!basename(data_folders_raw) %in% basename(data_folders_processed)]
 data_folders <- list.dirs("raw_data", full.names = TRUE, recursive = FALSE)
 
 # read data  and peform standardization ----------------------------------------
@@ -111,12 +105,12 @@ for(data_folder in data_folders) {
   
   # calculate InChI and InChIKey -----------------------------------------------
   smiles_canonical_std <- smiles_canonical_std %>% 
-    mutate(InChI.std = sapply(smiles.std, get.inchi),
-           InChIKey.std = sapply(smiles.std, get.inchi.key))
+    mutate(inchi.std = sapply(smiles.std, get.inchi),
+           inchikey.std = sapply(smiles.std, get.inchi.key))
   
   smiles_canonical_failed <- smiles_canonical_failed %>% 
-    mutate(InChI.std = NA,
-           InChIKey.std = NA)
+    mutate(inchi.std = NA,
+           inchikey.std = NA)
   
   # combine tables and write results to clipboard ------------------------------
   rt_data_canonical_success <- right_join(rt_data %>% select(id,
@@ -183,12 +177,12 @@ for(data_folder in data_folders) {
   
   # calculate InChI and InChIKey -----------------------------------------------
   smiles_isomeric_std <- smiles_isomeric_std %>% 
-    mutate(InChI.std = sapply(smiles.std, get.inchi),
-           InChIKey.std = sapply(smiles.std, get.inchi.key))
+    mutate(inchi.std = sapply(smiles.std, get.inchi),
+           inchikey.std = sapply(smiles.std, get.inchi.key))
   
   smiles_canonical_failed <- smiles_isomeric_failed %>% 
-    mutate(InChI.std = NA,
-           InChIKey.std = NA)
+    mutate(inchi.std = NA,
+           inchikey.std = NA)
   
   # combine tables and write results to clipboard ------------------------------
   rt_data_isomeric_success <- right_join(rt_data %>% select(id,
