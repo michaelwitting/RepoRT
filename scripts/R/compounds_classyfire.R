@@ -97,7 +97,12 @@ for(data_folder in data_folders) {
   
   # combine tables
   rt_data_canonical <- bind_cols(rt_data_canonical, classyfire)
-
+  
+  # write results
+  write_tsv(rt_data_canonical,
+            rt_data_file,
+            na = "")
+  
   # isomeric smiles data -------------------------------------------------------
   # read isomeric smiles data
   rt_data_file <- list.files(data_folder,
@@ -160,6 +165,11 @@ for(data_folder in data_folders) {
   
   # combine tables
   rt_data_isomeric <- bind_cols(rt_data_isomeric, classyfire)
+  
+  # write results
+  write_tsv(rt_data_isomeric,
+            rt_data_file,
+            na = "")
   
 }
 
