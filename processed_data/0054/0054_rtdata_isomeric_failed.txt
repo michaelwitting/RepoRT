@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0054_00001	(DL)-p-hydroxyphenyllactic acid	C9H10O4	1.54435		FAILED_STANDARDIZATION
 0054_00002	(R)-2-hydroxybutyric acid	C4H8O3	1.3994		FAILED_STANDARDIZATION
 0054_00004	2-Hydroxy-2-methylbutyric acid	C5H10O3	1.625783333		FAILED_STANDARDIZATION

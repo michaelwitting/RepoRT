@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0010_00002	1,2dioleoyl_GLP_Na	C42H79O10P	15.7		FAILED_STANDARDIZATION
 0010_00008	1-palmitoyl-sn-glycero-3PC	C24H50NO7P	5.9		FAILED_STANDARDIZATION
 0010_00010	5alfa-colestane	C27H48	9.2		FAILED_STANDARDIZATION

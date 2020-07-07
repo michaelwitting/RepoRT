@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0016_00006	isovitexin 7-O-[sinapoyl]-glucoside		8.5016665		FAILED_STANDARDIZATION
 0016_00008	sinapoyl-isovitexin 2''-O-glucoside 2		10.51708		FAILED_STANDARDIZATION
 0016_00009	chrysoeriol 7-O-[6''-coumaroyl]-glucoside		10.64375		FAILED_STANDARDIZATION

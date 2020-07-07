@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0025_00002	betaine	C5H11NO2	0.68		FAILED_STANDARDIZATION
 0025_00003	uracil	C4H4N2O2	1.01		FAILED_STANDARDIZATION
 0025_00004	niacinamide	C6H6N2O	1.15		FAILED_STANDARDIZATION

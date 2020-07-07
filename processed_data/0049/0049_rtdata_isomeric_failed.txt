@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0049_00001	Glycine betaine	C5H11NO2	0.58		FAILED_STANDARDIZATION
 0049_00002	Citric acid	C6H8O7	1.087		FAILED_STANDARDIZATION
 0049_00003	Pyridoxal	C8H9NO3	1.35		FAILED_STANDARDIZATION

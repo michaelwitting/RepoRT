@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0048_00010	C16_PlasmLPC		10.47		FAILED_STANDARDIZATION		
 0048_00020	N-ACETYLGALACTOSAMINE		0.67		FAILED_STANDARDIZATION		
 0048_00095	N-ACETYLGLUCOSAMINE		0.67		FAILED_STANDARDIZATION		
