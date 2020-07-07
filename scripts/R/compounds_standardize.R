@@ -33,7 +33,7 @@ library(rinchi)
 # get list of all folders ------------------------------------------------------
 data_folders <- list.dirs("raw_data", full.names = TRUE, recursive = FALSE)
 
-# read data  and peform standardization ----------------------------------------
+# read data  and perform standardization ----------------------------------------
 for(data_folder in data_folders) {
   
   # ============================================================================
