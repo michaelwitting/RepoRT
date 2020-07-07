@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0015_00001	2-oxoglutaric acid	C5H6O5	3.043912185		FAILED_STANDARDIZATION
 0015_00002	2-oxobutanoic acid	C4H6O3	1.684481128		FAILED_STANDARDIZATION
 0015_00003	2-oxobutanoic acid	C4H6O3	3.05899095		FAILED_STANDARDIZATION

@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0061_0001	1-Octanol, 8-chloro-	C8H17ClO	3.24		FAILED_STANDARDIZATION
 0061_0002	Phosphinic acid, P-ethyl-P-methyl-, 2-methylpropyl ester	C7H17O2P	3.24		FAILED_STANDARDIZATION
 0061_0003	1-Octanol, 4-chloro-	C8H17ClO	3.24		FAILED_STANDARDIZATION

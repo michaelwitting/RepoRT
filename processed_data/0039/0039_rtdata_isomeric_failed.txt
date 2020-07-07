@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0039_00001	Tartaric Acid	C4H6O6	7.51		FAILED_STANDARDIZATION
 0039_00002	Quinic acid	C7H12O6	7.7		FAILED_STANDARDIZATION
 0039_00003	malic acid	C4H6O5	8.06		FAILED_STANDARDIZATION

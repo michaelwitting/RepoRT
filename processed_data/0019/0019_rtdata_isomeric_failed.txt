@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0019_00001	Metamitron-desamino	C10H9N3O	5.1		FAILED_STANDARDIZATION
 0019_00002	Bromoxynil	C7H3Br2NO	8.3		FAILED_STANDARDIZATION
 0019_00003	4-Isopropylaniline	C9H13N	5.2		FAILED_STANDARDIZATION

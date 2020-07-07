@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0008_00002	lysoPC(16:0)	C24H50NO7P	6.89		FAILED_STANDARDIZATION
 0008_00004	lysoPC(18:0)	C26H54NO7P	7.22		FAILED_STANDARDIZATION
 0008_00005	lysoPC(18:1)	C26H52NO7P	6.93		FAILED_STANDARDIZATION

@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0006_00001	cyanidin-(coumaroyl)-3-O glucoside, trans isomer		27.58450808		FAILED_STANDARDIZATION		
 0006_00002	delfinidin-(coumaroyl)-3-O glucoside, cis isomer		22.9960399		FAILED_STANDARDIZATION		
 0006_00003	delphinidin-(acetyl)-3-O-glucoside		19.38963261		FAILED_STANDARDIZATION		

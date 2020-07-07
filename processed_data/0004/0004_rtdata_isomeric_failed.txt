@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0004_00001	3-hydroxy-3-methylbutyric acid (3-hydroxyisovaleric acid)	C5H10O3	4.2		FAILED_STANDARDIZATION
 0004_00002	trimethylamine oxide	C3H9NO	0.9		FAILED_STANDARDIZATION
 0004_00003	carnitine	C7H15NO3	1		FAILED_STANDARDIZATION

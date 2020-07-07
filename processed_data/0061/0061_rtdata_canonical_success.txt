@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.canonical	InChI.std	InChIKey.std
+id	name	formula	rt	smiles.std	inchi.std	inchikey.std
 0061_0001	1-Octanol, 8-chloro-	C8H17ClO	3.24	C(CCCCCl)CCCO	InChI=1S/C8H17ClO/c9-7-5-3-1-2-4-6-8-10/h10H,1-8H2	YDFAJMDFCCJZSI-UHFFFAOYSA-N
 0061_0002	Phosphinic acid, P-ethyl-P-methyl-, 2-methylpropyl ester	C7H17O2P	3.24	CCP(=O)(C)OCC(C)C	InChI=1S/C7H17O2P/c1-5-10(4,8)9-6-7(2)3/h7H,5-6H2,1-4H3	LAUOWESHBLLZHR-UHFFFAOYSA-N
 0061_0003	1-Octanol, 4-chloro-	C8H17ClO	3.24	CCCCC(CCCO)Cl	InChI=1S/C8H17ClO/c1-2-3-5-8(9)6-4-7-10/h8,10H,2-7H2,1H3	MMVJPTKAKBJYGU-UHFFFAOYSA-N

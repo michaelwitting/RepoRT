@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0048_00006	2-Isopropylmalic acid	C7H12O5	4.79		FAILED_STANDARDIZATION
 0048_00010	C16_PlasmLPC		10.47		FAILED_STANDARDIZATION
 0048_00011	QUINOLINE	C9H7N	3.83		FAILED_STANDARDIZATION

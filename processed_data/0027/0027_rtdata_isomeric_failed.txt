@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0027_00002	Creatinine	C4H7N3O	8.008616		FAILED_STANDARDIZATION
 0027_00003	4-aminobutyric acid betaine	C7H16NO2+	6.508117		FAILED_STANDARDIZATION
 0027_00005	1,3,7-trimethyluric acid	C8H10N4O3	1.866		FAILED_STANDARDIZATION

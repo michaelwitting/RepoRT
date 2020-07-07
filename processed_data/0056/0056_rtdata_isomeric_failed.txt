@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0056_00001	Pyrogallol-1-O-sulfate	C6H6O6S	1.559		FAILED_STANDARDIZATION
 0056_00002	Gallic acid	C7H6O5	1.642		FAILED_STANDARDIZATION
 0056_00003	Protocatechuic acid	C7H6O4	2.12		FAILED_STANDARDIZATION

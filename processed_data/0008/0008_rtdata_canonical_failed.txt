@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0008_00013	PC(34:2)		6.89		FAILED_STANDARDIZATION		
 0008_00014	PC(34:3)		7.4		FAILED_STANDARDIZATION		
 0008_00015	PC(34:4)		6.97		FAILED_STANDARDIZATION		

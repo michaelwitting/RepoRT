@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0045_00001	Fluomethuron	C10H11F3N2O	8.25		FAILED_STANDARDIZATION
 0045_00002	Fluquinconazole	C16H8Cl2FN5O	10.72		FAILED_STANDARDIZATION
 0045_00003	Fluridone	C19H14F3NO	9.63		FAILED_STANDARDIZATION

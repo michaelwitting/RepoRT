@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0053_00001	Procyanidin B1	C30H26O12	2.717		FAILED_STANDARDIZATION
 0053_00002	Phloroglucinol	C6H6O3	2.902		FAILED_STANDARDIZATION
 0053_00003	Gallic acid	C7H6O5	3.003		FAILED_STANDARDIZATION

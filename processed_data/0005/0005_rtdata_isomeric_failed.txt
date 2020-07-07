@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0005_00001	(-)-epigallocatechin	C15H14O7	8.977786457		FAILED_STANDARDIZATION
 0005_00002	1-8-diaminooctane	C8H20N2	1.738150935		FAILED_STANDARDIZATION
 0005_00003	1H-indole	C88H7N	10.22933344		FAILED_STANDARDIZATION

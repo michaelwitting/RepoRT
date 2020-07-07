@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0052_00056	Dihydroresveratrol 3-O-glucuronide		9.84		FAILED_STANDARDIZATION		
 0052_00076	Hesperetin 7-sulfate		12.55		FAILED_STANDARDIZATION		
 0052_00160	Dihydroresveratrol 3-O-glucuronide		9.84		FAILED_STANDARDIZATION		

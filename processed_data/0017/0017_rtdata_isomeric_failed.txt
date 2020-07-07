@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0017_00001	Dichlorvos	C4H7Cl2O4P	21.4	-	FAILED_STANDARDIZATION
 0017_00002	Azinphos-methyl	C10H12N3O3PS2	24.1	-	FAILED_STANDARDIZATION
 0017_00003	Dimethoate	C5H12NO3PS2	18.5	-	FAILED_STANDARDIZATION

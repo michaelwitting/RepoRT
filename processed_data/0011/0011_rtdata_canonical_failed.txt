@@ -1,2 +1,2 @@
-id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0011_0028	C6 Hexanoyl-L-Carnitine*HCl	C13H25NO4	6.69	VVPRQWTYSNDTEA-LLVKDONJSA-N	FAILED_STANDARDIZATION		
