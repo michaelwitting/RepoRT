@@ -46,12 +46,12 @@ for(data_folder in data_folders) {
                                                  name = col_character(),
                                                  formula = col_character(),
                                                  rt = col_double(),
-                                                 pubchem.smiles.canonical = col_character(),
-                                                 InChI.std = col_character(),
-                                                 InChIKey.std = col_character()))
+                                                 smiles.std = col_character(),
+                                                 inchi.std = col_character(),
+                                                 inchikey.std = col_character()))
   
   # perform classification
-  classyfire <- map_dfr(rt_data_canonical$InChIKey.std, function(x) {
+  classyfire <- map_dfr(rt_data_canonical$inchikey.std, function(x) {
     
     Sys.sleep(10)
     
@@ -96,7 +96,13 @@ for(data_folder in data_folders) {
   })
   
   # combine tables
-  rt_data_canonical <- bind_cols(rt_data_canonical, classyfire)
+  rt_data_canonical <- bind_cols(rt_data_canonical %>% select(id,
+                                                              name,
+                                                              formula,
+                                                              rt,
+                                                              smiles.std,
+                                                              inchi.std,
+                                                              inchikey.std), classyfire)
   
   # write results
   write_tsv(rt_data_canonical,
@@ -114,12 +120,12 @@ for(data_folder in data_folders) {
                                                  name = col_character(),
                                                  formula = col_character(),
                                                  rt = col_double(),
-                                                 pubchem.smiles.isomeric = col_character(),
-                                                 InChI.std = col_character(),
-                                                 InChIKey.std = col_character()))
+                                                 smiles.std = col_character(),
+                                                 inchi.std = col_character(),
+                                                 inchikey.std = col_character()))
   
   # perform classification
-  classyfire <- map_dfr(rt_data_isomeric$InChIKey.std, function(x) {
+  classyfire <- map_dfr(rt_data_isomeric$inchikey.std, function(x) {
     
     Sys.sleep(10)
     
@@ -164,7 +170,13 @@ for(data_folder in data_folders) {
   })
   
   # combine tables
-  rt_data_isomeric <- bind_cols(rt_data_isomeric, classyfire)
+  rt_data_isomeric <- bind_cols(rt_data_isomeric %>% select(id,
+                                                            name,
+                                                            formula,
+                                                            rt,
+                                                            smiles.std,
+                                                            inchi.std,
+                                                            inchikey.std), classyfire)
   
   # write results
   write_tsv(rt_data_isomeric,
