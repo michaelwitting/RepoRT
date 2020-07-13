@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0036_00001	Phloridzin	C21H24O10	30.8		FAILED_STANDARDIZATION
 0036_00003	Daidzein	C15H10O4	34.6		FAILED_STANDARDIZATION
 0036_00004	Quercetin	C15H10O7	37.2		FAILED_STANDARDIZATION

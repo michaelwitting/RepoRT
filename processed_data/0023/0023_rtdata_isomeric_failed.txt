@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0023_00001	gallic acid	C7H6O5	1.6		FAILED_STANDARDIZATION
 0023_00002	protocatechuic acid	C7H6O4	2.41		FAILED_STANDARDIZATION
 0023_00003	hydroxytyrosol	C8H10O3	2.46		FAILED_STANDARDIZATION

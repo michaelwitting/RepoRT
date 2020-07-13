@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0020_00001	L-Theanine	C7H14N2O3	10.61	439378	FAILED_STANDARDIZATION
 0020_00002	Pyridoxine	C8H11NO3	9.21	1054	FAILED_STANDARDIZATION
 0020_00003	Beta-Penta acetyl glucose	C16H22O11	1.06	79064	FAILED_STANDARDIZATION

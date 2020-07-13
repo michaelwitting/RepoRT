@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0042_00001	Hydroxybenzoic acid-4-sulfate	C7H6O6S	2.55		FAILED_STANDARDIZATION
 0042_00002	Hydroxybenzoic acid-4-glucuronide	C13C14O9	1.06		FAILED_STANDARDIZATION
 0042_00003	protocatechuic acid-3-O-sulfate	C7H6O7S	2.38		FAILED_STANDARDIZATION
