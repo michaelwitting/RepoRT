@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0022_00001	Chlorogenic acid	C16H18O9	6.869		FAILED_STANDARDIZATION
 0022_00002	N-allyl aniline	C9H11N	7.419		FAILED_STANDARDIZATION
 0022_00003	7-Amino-4-methycoumarin	C10H9N2	12.411		FAILED_STANDARDIZATION

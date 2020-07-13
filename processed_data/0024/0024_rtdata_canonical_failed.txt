@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0024_00066	HMDB0014609		9.07075		FAILED_STANDARDIZATION		
 0024_00179	HMDB0029151		2.447066667		FAILED_STANDARDIZATION		
 0024_00236	HMDB0062178		8.849583333		FAILED_STANDARDIZATION		

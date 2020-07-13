@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0031_00001	Gallic acid	C7H6O5	1.22		FAILED_STANDARDIZATION
 0031_00002	Pyrogallol 2-O-sulfate	C6H6O6S	1.61		FAILED_STANDARDIZATION
 0031_00003	4-O-methylgallic acid 3-O-sulfate	C8H8O8S	1.78		FAILED_STANDARDIZATION

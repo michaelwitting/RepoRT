@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0041_00001	Myo-inositol	C6H12O6	0.4614		FAILED_STANDARDIZATION
 0041_00004	N,N-Dimethylglycine	C4H9NO2	0.49		FAILED_STANDARDIZATION
 0041_00006	Quinic acid	C7H12O6	0.58		FAILED_STANDARDIZATION

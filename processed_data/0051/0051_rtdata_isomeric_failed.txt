@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0051_00001	Quinic acid	C10H10O3	3.21		FAILED_STANDARDIZATION
 0051_00002	malic acid	C10H10O3	3.87		FAILED_STANDARDIZATION
 0051_00003	Ascorbic acid	C10H10O3	4.28		FAILED_STANDARDIZATION

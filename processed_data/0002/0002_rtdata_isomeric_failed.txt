@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0002_00001	epicatechin	C15H14O6	20.465		FAILED_STANDARDIZATION
 0002_00002	epicatechin gallate	C22H18O10	24.72		FAILED_STANDARDIZATION
 0002_00003	epigallocatechin	C15H14O7	16.505		FAILED_STANDARDIZATION

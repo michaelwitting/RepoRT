@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	InChI.std	InChIKey.std
+id	name	formula	rt	smiles.std	inchi.std	inchikey.std
 0020_00006	Isonipecotic acid	C6H11NO2	11	S	InChI=1S/H2S/h1H2	RWSOTUBLDIXVET-UHFFFAOYSA-N
 0020_00015	Xanthone	C13H8O2	1.22	P	InChI=1S/H3P/h1H3	XYFCBTPGUUZFHI-UHFFFAOYSA-N
 0020_00092	L-Ornithine	C5H12N2O2	15.93	B=B	InChI=1S/B2H2/c1-2/h1-2H	HWGHUECIBSMKRW-UHFFFAOYSA-N

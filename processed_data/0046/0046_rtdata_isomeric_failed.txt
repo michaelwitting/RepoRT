@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0046_00003	2'-O-methylcytidine	C17H19N3O6	2.94		FAILED_STANDARDIZATION
 0046_00005	guanosine	C10H13N5O5	4.08		FAILED_STANDARDIZATION
 0046_00008	2'-O-methyladenosine	C11H15N5O4	5.78		FAILED_STANDARDIZATION
