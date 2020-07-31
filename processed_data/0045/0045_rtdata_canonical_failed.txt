@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0045_00121	Chlortetracyclin		6.11		FAILED_STANDARDIZATION		
 0045_00193	Doxycycline		7.42		FAILED_STANDARDIZATION		
 0045_00389	Oxytetracycline		3.94		FAILED_STANDARDIZATION		

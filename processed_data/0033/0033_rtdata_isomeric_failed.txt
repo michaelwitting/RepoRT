@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0033_00002	Trigonelline	C7H7NO2	0.771		FAILED_STANDARDIZATION
 0033_00003	Pyrogallol 2-O-sulfate	C6H6O6S	1.397		FAILED_STANDARDIZATION
 0033_00004	Gallic acid	C7H6O5	1.44		FAILED_STANDARDIZATION

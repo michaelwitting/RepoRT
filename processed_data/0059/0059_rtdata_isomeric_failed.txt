@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0059_00001	Dopamine	C8H11NO2	0.93		FAILED_STANDARDIZATION
 0059_00002	Serotonin	C10H12N2O	1.45		FAILED_STANDARDIZATION
 0059_00003	Pyrogallol	C6H6O3	1.87		FAILED_STANDARDIZATION

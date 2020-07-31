@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0002_00031	oxovitisin A	C25H24O13	33.21		FAILED_STANDARDIZATION		
 0002_00051	vitisin A	C26H25O14	28.3		FAILED_STANDARDIZATION		
 0002_00052	vitisin B	C56H42O12	26.994		FAILED_STANDARDIZATION		

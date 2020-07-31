@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0021_00002	Laudanosine	C21H27NO4	8.390866667		FAILED_STANDARDIZATION
 0021_00003	Genistein	C15H10O5	13.08253333		FAILED_STANDARDIZATION
 0021_00004	Tyramine	C8H11NO	8.44655		FAILED_STANDARDIZATION

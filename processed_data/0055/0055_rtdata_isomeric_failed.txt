@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0055_00001	(DL)-p-hydroxyphenyllactic acid	C9H10O4	2.66345		FAILED_STANDARDIZATION
 0055_00002	2-hydroxy-2-methylbutyric acid	C5H10O3	2.23045		FAILED_STANDARDIZATION
 0055_00004	androstan	C9H10O4	3.0216		FAILED_STANDARDIZATION

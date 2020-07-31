@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0020_00002	Pyridoxine	C8H11NO3	9.21		FAILED_STANDARDIZATION		
 0020_00003	Beta-Penta acetyl glucose	C16H22O11	1.06		FAILED_STANDARDIZATION		
 0020_00005	Indole-3-acetamide	C10H10N2O	2.48		FAILED_STANDARDIZATION		

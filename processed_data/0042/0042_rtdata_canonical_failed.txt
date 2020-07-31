@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0042_00005	Vanillic acid-4-glucuronide		1.45		FAILED_STANDARDIZATION		
 0042_00025	Isoferulic acid-3-O-glucuronide	C16H18O10	4.25	SHJZLGVIOYFHCB-MBAOVNHDSA-N	FAILED_STANDARDIZATION		
 0042_00045	5-(5'-Hydroxyphenyl)-gamma-valerolactone-3'-glucuronide		2.34		FAILED_STANDARDIZATION		
