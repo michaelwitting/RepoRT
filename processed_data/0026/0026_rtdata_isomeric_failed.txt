@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0026_00001	Fentanyl	C22H28N2O	10.4		FAILED_STANDARDIZATION
 0026_00002	Fexofenadine	C32H39NO4	11.5		FAILED_STANDARDIZATION
 0026_00004	Flecainide	C17H20F6N2O3	12.6		FAILED_STANDARDIZATION

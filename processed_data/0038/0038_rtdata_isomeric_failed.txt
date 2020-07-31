@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0038_00001	Gallic acid	C7H6O5	1.56		FAILED_STANDARDIZATION
 0038_00002	Pyrogallol	C6H6O3	1.93		FAILED_STANDARDIZATION
 0038_00004	Protocatechuic acid	C7H6O4	2.23		FAILED_STANDARDIZATION

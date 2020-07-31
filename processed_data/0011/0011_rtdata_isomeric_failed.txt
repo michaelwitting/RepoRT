@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0011_0006	Muricholic acid (hyocholic)	C24H40O5	11.21		FAILED_STANDARDIZATION
 0011_0007	Hyodeoxycholic acid (6a-OH Lithocholate)	C24H40O4	12.05		FAILED_STANDARDIZATION
 0011_0008	Sodium glycocholate hydrate	C26H43NO6	10.3		FAILED_STANDARDIZATION

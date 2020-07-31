@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0018_00002	Ginsenoside Rc	C53H90O22	16.26666667		FAILED_STANDARDIZATION
 0018_00009	Bufotalin	C26H36O6	17.77831667		FAILED_STANDARDIZATION
 0018_00012	Ginsenoside Rc	C53H90O22	16.24498333		FAILED_STANDARDIZATION

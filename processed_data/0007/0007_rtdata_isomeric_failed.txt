@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0007_00004	2-Aminoadipate	C6H11NO4	12.2		FAILED_STANDARDIZATION
 0007_00005	2-Oxoglutarate	C5H6O5	12.9		FAILED_STANDARDIZATION
 0007_00007	4-Aminobenzoate	C7H7NO2	7.2		FAILED_STANDARDIZATION

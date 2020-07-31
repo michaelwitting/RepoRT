@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.isomeric	status
+id	name	formula	rt	smiles.std	status
 0062_00001	1-Amino-1-cyclopentanecarboxylic acid	C6H11NO2	0.32		FAILED_STANDARDIZATION
 0062_00005	(+-)-3-Methyl-2-oxovaleric acid sodium salt	C6H10O3	1.21		FAILED_STANDARDIZATION
 0062_00006	(+-)-Baclofen	C10H12ClNO2	1.24		FAILED_STANDARDIZATION

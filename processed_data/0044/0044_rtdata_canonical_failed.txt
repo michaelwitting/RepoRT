@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0044_00301	iso-Methylpyridine (4-Picoline)		3.66		FAILED_STANDARDIZATION		
 0044_00334	Hexanoyl-L-carnitine	C13H25NO4	10.36	VVPRQWTYSNDTEA-LLVKDONJSA-N	FAILED_STANDARDIZATION		
 0044_00361	Tigloyl-Lcarnitine		10.76		FAILED_STANDARDIZATION		

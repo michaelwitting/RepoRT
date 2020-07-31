@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.smiles.canonical	status	InChI.std	InChIKey.std
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0053_00017	Ampelopsin-3-O-sulfate		5.309		FAILED_STANDARDIZATION		
 0053_00020	Ampelosin-7,4-disulfate		5.675		FAILED_STANDARDIZATION		
 0053_00026	Silybin A 7-O-glucuronide		7.185		FAILED_STANDARDIZATION		
