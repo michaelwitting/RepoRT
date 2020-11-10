@@ -372,7 +372,7 @@ summary {
 </div>
 <div id="submitting-data" class="section level1">
 <h1>Submitting data</h1>
-<p>If you would like to submit a retention time data directly via GitHub please first request and ID for your data via eMail to <a href="mailto:michael.witting@helmholtz-muenchen.de" class="email">michael.witting@helmholtz-muenchen.de</a>.</p>
+<p>If you would like to submit a retention time data directly via GitHub, but please first request an ID for your data via eMail to <a href="mailto:michael.witting@helmholtz-muenchen.de" class="email">michael.witting@helmholtz-muenchen.de</a>. An example dataset and Excel template can be found <a href="example">here</a></p>
 </div>
 <div id="retention-time-data" class="section level1">
 <h1>Retention time data</h1>
@@ -398,11 +398,53 @@ summary {
 <h1>Metadata</h1>
 <div id="chromatographic-column" class="section level2">
 <h2>Chromatographic column</h2>
-<p>column.name column.usp.code column.length column.id<br />
-column.particle.size column.temperature column.flowrate</p>
+<p>The following information helps to classify and describe the employed chromatogrpahic system. Please use standardized names as found in Resources/usp_classification.</p>
+<table>
+<colgroup>
+<col width="21%"></col>
+<col width="78%"></col>
+</colgroup>
+<thead>
+<tr class="header">
+<th>name</th>
+<th>information</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>column.name</td>
+<td>Standardized name according to list found Resources/usp_classification</td>
+</tr>
+<tr class="even">
+<td>column.usp.code</td>
+<td>USP code of column according to list found Resources/usp_classification</td>
+</tr>
+<tr class="odd">
+<td>column.length</td>
+<td>Length of column in mm</td>
+</tr>
+<tr class="even">
+<td>column.id</td>
+<td>Inner diameter of column in mm</td>
+</tr>
+<tr class="odd">
+<td>column.particle.size</td>
+<td>Particle size in um</td>
+</tr>
+<tr class="even">
+<td>column.temperature</td>
+<td>Temperature of column in °C</td>
+</tr>
+<tr class="odd">
+<td>column.flowrate</td>
+<td>Flowrate in mL/min</td>
+</tr>
+</tbody>
+</table>
 </div>
 <div id="eluent-composition" class="section level2">
 <h2>Eluent composition</h2>
+<p>Beside the chromatographic column data on eluents is encoded in the metadata table. This contains information on solvents and additives used.</p>
 <div id="base-solvents" class="section level3">
 <h3>Base solvents</h3>
 <p>At the current stage only up to 4 solvent channels are available. Practically, all common cases are covered with ths. If additional solvents are required, they can be added at any time. Base composition of solvents is recored in volume-%. Values for all solvents for one eluent should add up to 100%.</p>
@@ -668,6 +710,7 @@ column.particle.size column.temperature column.flowrate</p>
 </div>
 <div id="gradient" class="section level3">
 <h3>Gradient</h3>
+<p>Please indicate the starting end condition of the gradient by specifying the proportion of each eluent in %.</p>
 <p>gradient.start.A gradient.start.B gradient.start.C gradient.start.D gradient.end.A gradient.end.B gradient.end.C gradient.end.D</p>
 <div id="starting-and-end-conditions" class="section level4">
 <h4>Starting and end conditions</h4>
