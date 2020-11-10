@@ -13,7 +13,10 @@ and own data sets.
 
 # Submitting data
 
-If you would like to submit a retention time data directly via GitHub please first request and ID for your data via eMail to michael.witting@helmholtz-muenchen.de.
+If you would like to submit a retention time data directly via GitHub, but
+please first request an ID for your data via eMail to
+michael.witting@helmholtz-muenchen.de.
+An example dataset and Excel template can be found [here](example)
 
 # Retention time data
 
@@ -39,16 +42,24 @@ The substance id consists of the data id (e.g. 0001) concatenated to a running n
 
 ## Chromatographic column
 
-column.name
-column.usp.code
-column.length
-column.id	
-column.particle.size
-column.temperature
-column.flowrate
+The following information helps to classify and describe the employed chromatogrpahic
+system. Please use standardized names as found in Resources/usp_classification.
+
+|name                |information                                                            |
+|--------------------|-----------------------------------------------------------------------|
+|column.name         |Standardized name according to list found Resources/usp_classification |
+|column.usp.code     |USP code of column according to list found Resources/usp_classification|
+|column.length       |Length of column in mm                                                 |
+|column.id           |Inner diameter of column in mm                                         |
+|column.particle.size|Particle size in um                                                    |
+|column.temperature  |Temperature of column in °C                                            |
+|column.flowrate     |Flowrate in mL/min                                                     |
 
 
 ## Eluent composition
+
+Beside the chromatographic column data on eluents is encoded in the metadata 
+table. This contains information on solvents and additives used.
 
 ### Base solvents
 
@@ -73,9 +84,7 @@ used, as well as the naming of the variable for the eluents A-D.
 |acetone        |acetone|%	 |eluent.A.acetone|eluent.B.acetone|eluent.C.acetone|eluent.D.acetone|
 
 
-
 ### Additives
-
 
 |additive              |abbrev         |unit|A                       |B                       |C                       |D                       |
 |----------------------|---------------|----|------------------------|------------------------|------------------------|------------------------|
@@ -95,6 +104,9 @@ used, as well as the naming of the variable for the eluents A-D.
 |N,N-dimethylhexylamine|nndimethylhex  |mM	|eluent.A.nndimethylhex	 |eluent.B.nndimethylhex	|eluent.C.nndimethylhex	 |eluent.D.nndimethylhex  |
 
 ### Gradient
+
+Please indicate the starting end condition of the gradient by specifying the
+proportion of each eluent in %.
 
 gradient.start.A
 gradient.start.B
@@ -149,7 +161,6 @@ different eluents and the gradient conditions.
 |dichloromethane|ch2cl2 |%   |gradient.start.ch2cl2 |gradient.end.ch2cl2   |
 |heptane        |hept   |%   |gradient.start.hept   |gradient.end.hept     |
 |acetone        |acetone|%   |gradient.start.acetone|gradient.start.acetone|
-
 
 
 |additive              |abbrev         |unit|gradient start          |gradient end            |
