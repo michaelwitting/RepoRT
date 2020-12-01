@@ -24,6 +24,10 @@
 # load required libraries
 # ==============================================================================
 library(tidyverse)
+library(gridExtra)
+library(grid)
+library(viridis)
+library(treemapify)
 
 # ==============================================================================
 # read the data and create tibble for data analysis
@@ -37,7 +41,38 @@ full_rt_data_isomeric <- tibble()
 
 # iterate through folder and add data to full_rt_data_canonical ----------------
 for(data_folder in data_folders) {
+
+  # ============================================================================
+  # gradient
+  # ============================================================================
+  gradient_table <- read_tsv(paste0(data_folder, "/", basename(data_folder), "_gradient.txt"))
   
+  gradient_plot <- gradient_table %>%
+    select(-flow) %>%
+    pivot_longer(cols = c(-time)) %>%
+    rename("eluent" = "name") %>% 
+    ggplot(aes(x = time, y = value, group = eluent, colour = eluent)) +
+    geom_line() +
+    theme_bw() +
+    theme(legend.position = "bottom",
+          axis.text.y = element_text(angle = 90, hjust = 0.5)) +
+    scale_x_continuous(limits = c(0,max(gradient_table$time)))
+  
+  flow_plot <- gradient_table %>% 
+    ggplot(aes(x = time, y = flow)) +
+    geom_line() +
+    theme_bw()+
+    theme(legend.position = "bottom",
+          axis.text.y = element_text(angle = 90, hjust = 0.5)) +
+    scale_x_continuous(limits = c(0,max(gradient_table$time)))
+
+  
+  # ============================================================================
+  # canonical SMILES
+  # ============================================================================
+  # setup plotting device to pdf
+  report_file <- paste0(data_folder, "/", basename(data_folder), "_report_canonical.pdf")
+  pdf(file = report_file, onefile = TRUE, paper = "a4")
   
   # read canonical smiles data
   rt_data_file <- list.files(data_folder,
@@ -49,12 +84,73 @@ for(data_folder in data_folders) {
                                                  name = col_character(),
                                                  formula = col_character(),
                                                  rt = col_double(),
-                                                 pubchem.smiles.isomeric = col_character(),
-                                                 InChI.std = col_character(),
-                                                 InChIKey.std = col_character()))
+                                                 smiles.std = col_character(),
+                                                 inchi.std = col_character(),
+                                                 inchikey.std = col_character(),
+                                                 classyfire.kingdom = col_character(),
+                                                 classyfire.superclass = col_character(),
+                                                 classyfire.class = col_character(),
+                                                 classyfire.subclass = col_character(),
+                                                 classyfire.level5 = col_character(),
+                                                 classyfire.level6 = col_character()),
+                                na = c("NA (NA)", ""))
   
+  # add to full overview table
   full_rt_data_canonical <- bind_rows(full_rt_data_canonical,
                                       rt_data_clipboard)
+  
+  # create overview on RT range
+  histo <- rt_data_clipboard %>% ggplot(aes(x = rt)) +
+    geom_histogram(binwidth = 0.5, colour = "black", fill = viridis(1)) +
+    xlab("RT (min)") +
+    ylab("Count") +
+    theme_bw() +
+    theme(legend.position = "bottom",
+          axis.text.y = element_text(angle = 90, hjust = 0.5)) +
+    scale_x_continuous(limits = c(0,max(gradient_table$time)))
+  
+  p1 <- grid.arrange(flow_plot, gradient_plot, histo, heights = c(0.33, 0.33, 0.33))
+  
+  # create overview on compound classes
+  p2_data <- rt_data_clipboard %>% count(classyfire.kingdom)
+  p2_1 <- p2_data %>% ggplot(aes(area = n, fill = classyfire.kingdom)) +
+    geom_treemap(fill = viridis(n = nrow(p2_data))) +
+    theme_bw() +
+    theme(legend.position = "none")
+  p2_2 <- p2_data %>% tableGrob()
+  p2 <- grid.arrange(p2_1, p2_2, heights = c(0.33, 0.66))
+  
+  p2 %>% grid.draw()
+  
+  p3_data <- rt_data_clipboard %>% count(classyfire.superclass)
+  p3_1 <- p3_data %>% ggplot(aes(area = n, fill = classyfire.kingdom)) +
+    geom_treemap(fill = viridis(n = nrow(p3_data))) +
+    theme_bw() +
+    theme(legend.position = "none")
+  p3_2 <- p3_data %>% tableGrob()
+  p3 <- grid.arrange(p3_1, p3_2, heights = c(0.33, 0.66))
+  
+  p3 %>% grid.draw()
+
+  p4_data <- rt_data_clipboard %>% count(classyfire.class)
+  p4_1 <- p4_data %>% ggplot(aes(area = n, fill = classyfire.kingdom)) +
+    geom_treemap(fill = viridis(n = nrow(p4_data))) +
+    theme_bw() +
+    theme(legend.position = "none")
+  p4_2 <- p4_data %>% tableGrob()
+  p4 <- grid.arrange(p4_1, p4_2, heights = c(0.33, 0.66))
+  
+  p4 %>% grid.draw()
+  
+  # switch off device
+  dev.off()
+
+  # ============================================================================
+  # isomeric SMILES
+  # ============================================================================
+  # setup plotting device to pdf
+  report_file <- paste0(data_folder, "/", basename(data_folder), "_report_isomeric.pdf")
+  pdf(file = report_file, onefile = TRUE, paper = "a4")
   
   # read isomeric smiles data
   rt_data_file <- list.files(data_folder,
@@ -66,15 +162,66 @@ for(data_folder in data_folders) {
                                                  name = col_character(),
                                                  formula = col_character(),
                                                  rt = col_double(),
-                                                 pubchem.smiles.isomeric = col_character(),
-                                                 InChI.std = col_character(),
-                                                 InChIKey.std = col_character()))
+                                                 smiles.std = col_character(),
+                                                 inchi.std = col_character(),
+                                                 inchikey.std = col_character(),
+                                                 classyfire.kingdom = col_character(),
+                                                 classyfire.superclass = col_character(),
+                                                 classyfire.class = col_character(),
+                                                 classyfire.subclass = col_character(),
+                                                 classyfire.level5 = col_character(),
+                                                 classyfire.level6 = col_character()),
+                                na = c("NA (NA)", ""))
   
+  # add to full overview table
   full_rt_data_isomeric <- bind_rows(full_rt_data_isomeric,
                                      rt_data_clipboard)
   
+  # create overview on RT range
+  histo <- rt_data_clipboard %>% ggplot(aes(x = rt)) +
+    geom_histogram(binwidth = 0.5, colour = "black", fill = viridis(1)) +
+    xlab("RT (min)") +
+    ylab("Count") +
+    theme_bw()+
+    theme(legend.position = "bottom",
+          axis.text.y = element_text(angle = 90, hjust = 0.5)) +
+    scale_x_continuous(limits = c(0,max(gradient_table$time)))
   
+  p1 <- grid.arrange(flow_plot, gradient_plot, histo, heights = c(0.33, 0.33, 0.33))
   
+  # create overview on compound classes
+  p2_data <- rt_data_clipboard %>% count(classyfire.kingdom)
+  p2_1 <- p2_data %>% ggplot(aes(area = n, fill = classyfire.kingdom)) +
+    geom_treemap(fill = viridis(n = nrow(p2_data))) +
+    theme_bw() +
+    theme(legend.position = "none")
+  p2_2 <- p2_data %>% tableGrob()
+  p2 <- grid.arrange(p2_1, p2_2, heights = c(0.33, 0.66))
+  
+  p2 %>% grid.draw()
+  
+  p3_data <- rt_data_clipboard %>% count(classyfire.superclass)
+  p3_1 <- p3_data %>% ggplot(aes(area = n, fill = classyfire.kingdom)) +
+    geom_treemap(fill = viridis(n = nrow(p3_data))) +
+    theme_bw() +
+    theme(legend.position = "none")
+  p3_2 <- p3_data %>% tableGrob()
+  p3 <- grid.arrange(p3_1, p3_2, heights = c(0.33, 0.66))
+  
+  p3 %>% grid.draw()
+  
+  p4_data <- rt_data_clipboard %>% count(classyfire.class)
+  p4_1 <- p4_data %>% ggplot(aes(area = n, fill = classyfire.kingdom)) +
+    geom_treemap(fill = viridis(n = nrow(p4_data))) +
+    theme_bw() +
+    theme(legend.position = "none")
+  p4_2 <- p4_data %>% tableGrob()
+  p4 <- grid.arrange(p4_1, p4_2, heights = c(0.33, 0.66))
+  
+  p4 %>% grid.draw()
+  
+  # switch off device
+  dev.off()
   
 }
 
@@ -117,10 +264,10 @@ sizes_isomeric %>%
 # ==============================================================================
 # count occurrence of metabolites ----------------------------------------------
 metabolite_count_canonical <- full_rt_data_canonical %>% 
-  count(InChIKey.std)
+  count(inchikey.std)
 
 metabolite_count_canonical %>%
-  ggplot(aes(x = InChIKey.std, y = n)) +
+  ggplot(aes(x = inchikey.std, y = n)) +
   geom_bar(stat = "identity") +
   theme_bw() +
   theme(legend.position = "none")

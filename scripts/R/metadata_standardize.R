@@ -64,4 +64,33 @@ for(data_folder in data_folders) {
                      "_metadata.txt"),
               na = "")
   }
+  
+  # ============================================================================
+  # read and standardize gradient data
+  # ============================================================================
+  gradient_data_file <- list.files(data_folder,
+                               pattern = "_gradient.txt$",
+                               full.names = TRUE)
+  
+  if(length(gradient_data_file) > 0 && file.exists(gradient_data_file)) {
+    
+    gradient_data <- read_tsv(gradient_data_file)
+    
+    # ============================================================================
+    # write results
+    # ============================================================================
+    # create new path ------------------------------------------------------------
+    result_folder <- paste0("processed_data/", basename(data_folder))
+    
+    if(!dir.exists(result_folder)) {
+      dir.create(result_folder)
+    }
+    
+    write_tsv(gradient_data,
+              paste0(result_folder,
+                     "/",
+                     basename(data_folder),
+                     "_gradient.txt"),
+              na = "")
+  }
 }
