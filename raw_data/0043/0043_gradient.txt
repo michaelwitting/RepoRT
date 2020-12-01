@@ -1,0 +1,2 @@
+t [min]	A [%]	B [%]	C [%]	D [%]	flow rate [ml/min]
+NA	NA	NA	NA	NA	NA
