@@ -1,0 +1,3 @@
+t [min]	A [%]	B [%]	C [%]	D [%]	flow rate [ml/min]
+0	100	0	0	0	
+7	0	100	0	0	
