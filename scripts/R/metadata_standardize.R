@@ -24,8 +24,6 @@
 # load required libraries
 # ==============================================================================
 library(tidyverse)
-library(rcdk)
-library(rinchi)
 
 # ==============================================================================
 # read the data and create tibble for data analysis
@@ -46,6 +44,9 @@ for(data_folder in data_folders) {
   if(length(meta_data_file) > 0 && file.exists(meta_data_file)) {
     
     meta_data <- read_tsv(meta_data_file)
+    
+    # calculate additional parameters
+    meta_data$column.t0 <- ((0.5 * meta_data$column.length * meta_data$column.id ^ 2) / 1000) / meta_data$column.flowrate
     
     # ============================================================================
     # write results
