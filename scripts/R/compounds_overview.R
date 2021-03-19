@@ -41,30 +41,48 @@ full_rt_data_isomeric <- tibble()
 
 # iterate through folder and add data to full_rt_data_canonical ----------------
 for(data_folder in data_folders) {
+  
+  # ============================================================================
+  # meta data
+  # ============================================================================
+  meta_data <- read_tsv(paste0(data_folder, "/", basename(data_folder), "_metadata.txt"))
 
   # ============================================================================
   # gradient
   # ============================================================================
-  gradient_table <- read_tsv(paste0(data_folder, "/", basename(data_folder), "_gradient.txt"))
+  gradient_table <- read_tsv(paste0(data_folder, "/", basename(data_folder), "_gradient.txt")) %>% 
+    filter(!is.na(`t [min]`))
   
-  gradient_plot <- gradient_table %>%
-    select(-flow) %>%
-    pivot_longer(cols = c(-time)) %>%
-    rename("eluent" = "name") %>% 
-    ggplot(aes(x = time, y = value, group = eluent, colour = eluent)) +
-    geom_line() +
-    theme_bw() +
-    theme(legend.position = "bottom",
-          axis.text.y = element_text(angle = 90, hjust = 0.5)) +
-    scale_x_continuous(limits = c(0,max(gradient_table$time)))
-  
-  flow_plot <- gradient_table %>% 
-    ggplot(aes(x = time, y = flow)) +
-    geom_line() +
-    theme_bw()+
-    theme(legend.position = "bottom",
-          axis.text.y = element_text(angle = 90, hjust = 0.5)) +
-    scale_x_continuous(limits = c(0,max(gradient_table$time)))
+  if(nrow(gradient_table) > 0) {
+    
+    maxrtime <- max(gradient_table$`t [min]`)
+    
+    gradient_plot <- gradient_table %>%
+      select(-`flow rate [ml/min]`) %>%
+      pivot_longer(cols = c(-`t [min]`)) %>%
+      rename("eluent" = "name") %>% 
+      ggplot(aes(x = `t [min]`, y = value, group = eluent, colour = eluent)) +
+      geom_line() +
+      theme_bw() +
+      theme(legend.position = "bottom",
+            axis.text.y = element_text(angle = 90, hjust = 0.5)) +
+      scale_x_continuous(limits = c(0,maxrtime))
+    
+    flow_plot <- gradient_table %>% 
+      ggplot(aes(x = `t [min]`, y = `flow rate [ml/min]`)) +
+      geom_line() +
+      theme_bw()+
+      theme(legend.position = "bottom",
+            axis.text.y = element_text(angle = 90, hjust = 0.5)) +
+      scale_x_continuous(limits = c(0,maxrtime))
+    
+  } else {
+    
+    maxrtime <- 0
+    gradient_plot <- ggplot() + theme_void()
+    flow_plot <- ggplot() + theme_void()
+    
+  }
 
   
   # ============================================================================
@@ -107,7 +125,8 @@ for(data_folder in data_folders) {
     theme_bw() +
     theme(legend.position = "bottom",
           axis.text.y = element_text(angle = 90, hjust = 0.5)) +
-    scale_x_continuous(limits = c(0,max(gradient_table$time)))
+    scale_x_continuous(limits = c(0,maxrtime)) +
+    geom_vline(xintercept = meta_data$column.t0, colour = "red")
   
   p1 <- grid.arrange(flow_plot, gradient_plot, histo, heights = c(0.33, 0.33, 0.33))
   
@@ -185,7 +204,8 @@ for(data_folder in data_folders) {
     theme_bw()+
     theme(legend.position = "bottom",
           axis.text.y = element_text(angle = 90, hjust = 0.5)) +
-    scale_x_continuous(limits = c(0,max(gradient_table$time)))
+    scale_x_continuous(limits = c(0,maxrtime)) +
+    geom_vline(xintercept = meta_data$column.t0, colour = "red")
   
   p1 <- grid.arrange(flow_plot, gradient_plot, histo, heights = c(0.33, 0.33, 0.33))
   
