@@ -185,3 +185,21 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0184	aHILIC Geneva DB maXisQTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
 0185	zHILIC Geneva DB VION QTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
 0186	SMRT_METLIN	https://doi.org/10.1038/s41467-019-13680-7		Publication	RP			Xavier Domingo-Almenara, Carlos Guijas, Elizabeth Billings, J. Rafael Montenegro-Burke, Winnie Uritboonthai, Aries E. Aisporna, Emily Chen, H. Paul Benton, Gary Siuzdak
+0187	RTI_Standard_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0188	RTI_Standard_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0189	RTI_flow0.2_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0190	RTI_flow0.2_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0191	RTI_flow0.25_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0192	RTI_flow0.25_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0193	RTI_flow0.35_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0194	RTI_flow0.35_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0195	RTI_flow0.4_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0196	RTI_flow0.4_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0197	RTI_temp37.5_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0198	RTI_temp37.5_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0199	RTI_temp39_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0200	RTI_temp39_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0201	RTI_temp41_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0202	RTI_temp41_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0203	RTI_temp42.5_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0204	RTI_temp42.5_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
