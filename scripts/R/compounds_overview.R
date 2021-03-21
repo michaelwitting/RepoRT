@@ -126,7 +126,9 @@ for(data_folder in data_folders) {
     theme(legend.position = "bottom",
           axis.text.y = element_text(angle = 90, hjust = 0.5)) +
     scale_x_continuous(limits = c(0,maxrtime)) +
-    geom_vline(xintercept = meta_data$column.t0, colour = "red")
+    geom_vline(xintercept = meta_data$column.t0 * 1, colour = "red", linetype = "dashed") +
+    geom_vline(xintercept = meta_data$column.t0 * 2, colour = "orange", linetype = "dashed") +
+    geom_vline(xintercept = meta_data$column.t0 * 3, colour = "green", linetype = "dashed")
   
   p1 <- grid.arrange(flow_plot, gradient_plot, histo, heights = c(0.33, 0.33, 0.33))
   
@@ -205,7 +207,9 @@ for(data_folder in data_folders) {
     theme(legend.position = "bottom",
           axis.text.y = element_text(angle = 90, hjust = 0.5)) +
     scale_x_continuous(limits = c(0,maxrtime)) +
-    geom_vline(xintercept = meta_data$column.t0, colour = "red")
+    geom_vline(xintercept = meta_data$column.t0 * 1, colour = "red", linetype = "dashed") +
+    geom_vline(xintercept = meta_data$column.t0 * 2, colour = "orange", linetype = "dashed") +
+    geom_vline(xintercept = meta_data$column.t0 * 3, colour = "green", linetype = "dashed")
   
   p1 <- grid.arrange(flow_plot, gradient_plot, histo, heights = c(0.33, 0.33, 0.33))
   

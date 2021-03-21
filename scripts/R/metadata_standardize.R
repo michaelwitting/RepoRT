@@ -46,7 +46,17 @@ for(data_folder in data_folders) {
     meta_data <- read_tsv(meta_data_file)
     
     # calculate additional parameters
-    meta_data$column.t0 <- ((0.5 * meta_data$column.length * meta_data$column.id ^ 2) / 1000) / meta_data$column.flowrate
+    t0 <- ((0.5 * meta_data$column.length * meta_data$column.id ^ 2) / 1000) / meta_data$column.flowrate
+    
+    if(!is.na(t0)) {
+      
+      meta_data$column.t0 <- t0
+      
+    } else {
+      
+      meta_data$column.t0 <- 0
+      
+    }
     
     # ============================================================================
     # write results
