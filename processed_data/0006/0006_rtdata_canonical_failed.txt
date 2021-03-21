@@ -1,14 +1,3 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0006_00001	cyanidin-(coumaroyl)-3-O glucoside, trans isomer		27.58450808		FAILED_STANDARDIZATION		
-0006_00002	delfinidin-(coumaroyl)-3-O glucoside, cis isomer		22.9960399		FAILED_STANDARDIZATION		
-0006_00003	delphinidin-(acetyl)-3-O-glucoside		19.38963261		FAILED_STANDARDIZATION		
-0006_00004	delphinidin-(coumaroyl)-3-O glucoside, trans isomer		25.2991509		FAILED_STANDARDIZATION		
-0006_00005	malvidin-(acetyl)-3-O-glucoside		25.52273675		FAILED_STANDARDIZATION		
-0006_00006	malvidin-(coumaroyl)-3-O-glucoside, cis isomer		29.06512376		FAILED_STANDARDIZATION		
-0006_00007	malvidin-(coumaroyl)-3-O-glucoside, trans isomer		31.95577771		FAILED_STANDARDIZATION		
-0006_00008	peonidin-(acetyl)-3-O-glucoside		24.81813922		FAILED_STANDARDIZATION		
-0006_00009	peonidin-(coumaroyl)-3-O-glucoside, cis isomer		28.62227494		FAILED_STANDARDIZATION		
-0006_00010	peonidin-(coumaroyl)-3-O-glucoside, trans isomer		31.27734035		FAILED_STANDARDIZATION		
-0006_00011	petunidin-(coumaroyl)-3-O-glucoside, cis isomer		26.93317316		FAILED_STANDARDIZATION		
-0006_00012	petunidin-(coumaroyl)-3-O-glucoside, trans isomer		28.54420887		FAILED_STANDARDIZATION		
-0006_00015	malvidin-3-O-glucoside		18.02641852		FAILED_STANDARDIZATION		
+version https://git-lfs.github.com/spec/v1
+oid sha256:b94b4ff721dd28627c0def4e8c7dbe0c035f6cca2b58c2a3d321444ad2b200cf
+size 1270

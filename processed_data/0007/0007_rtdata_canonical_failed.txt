@@ -1,3 +1,3 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0007_00121	S-Methyl-ergothioneine		7.9		FAILED_STANDARDIZATION		
-0007_00134	Trimethyl-phenylalanine		5.4		FAILED_STANDARDIZATION		
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfddee8d568da867d3a2bafa3c4ac1547ce3afc67570181166342ec0f130c89f
+size 191

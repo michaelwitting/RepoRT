@@ -1,2 +1,3 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0136_00030	GLYCERALDEHYDE 3-PHOSPHATE DIETHYL ACETAL		1.41		FAILED_STANDARDIZATION		
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c7196137503363eea6bbf862262012e3bb27f94d156932db7d72463fa7cde02
+size 145

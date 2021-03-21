@@ -1,3 +1,3 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0198_0535	SORBOSE	C6H12O6	0.696666667		FAILED_STANDARDIZATION		
-0198_0578	ROSMARINATE	C18H16O8	6.153333333		FAILED_STANDARDIZATION		
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5a4d79fd6193a7ddf694b9fcdd373f301efd27572d0e6e685231be90abc8350
+size 193

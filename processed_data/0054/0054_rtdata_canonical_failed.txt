@@ -1,4 +1,3 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0054_00049	Cyclic(asp-ile)		1.650683333		FAILED_STANDARDIZATION		
-0054_00050	Cyclic(asp-leu)		1.675366667		FAILED_STANDARDIZATION		
-0054_00106	GALA ((2s)-2-amino-6-(2-hydroxy-acetylamino)-hexanoic acid)		0.67575		FAILED_STANDARDIZATION		
+version https://git-lfs.github.com/spec/v1
+oid sha256:b99c47a2b733af9687307b5db186b97e4932c97287731bf4a0c21713276f8cf9
+size 298

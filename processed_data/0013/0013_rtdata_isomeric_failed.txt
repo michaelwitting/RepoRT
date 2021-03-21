@@ -1,5 +1,3 @@
-id	name	formula	rt	smiles.std	status
-0013_00002	dibenzyl disulfide	C14H14S2	2.388333333		FAILED_STANDARDIZATION
-0013_00003	4-trifluoro methylaniline	C7H6F3N	0.383333333		FAILED_STANDARDIZATION
-0013_00006	bisphenol AF	C15H10F6O2	0.396666667		FAILED_STANDARDIZATION
-0013_00007	dibenzo[1,4]dioxin-2,3-dione	C12H6O4	2.573333333		FAILED_STANDARDIZATION
+version https://git-lfs.github.com/spec/v1
+oid sha256:daec1aa6ea025dacfdef30811432e64bf6dacc18dc98e227489d88e2bf9a238a
+size 348

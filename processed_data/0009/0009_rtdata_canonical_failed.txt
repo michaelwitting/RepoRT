@@ -1,4 +1,3 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0009_00258	malvidin-3-galactoside chloride	C23H25O12+	1.28		FAILED_STANDARDIZATION		
-0009_00259	Malvin chloride	C29H35O17+	1.15		FAILED_STANDARDIZATION		
-0009_00260	Oenin	C23h25o12+	1.29		FAILED_STANDARDIZATION		
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3def8b953c3b43a663f6b346f067b99db2309be3818d075f2ac38affa114daa
+size 273

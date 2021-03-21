@@ -1,4 +1,3 @@
-id	name	formula	rt	smiles.std	status
-0046_00003	2'-O-methylcytidine	C17H19N3O6	2.94		FAILED_STANDARDIZATION
-0046_00005	guanosine	C10H13N5O5	4.08		FAILED_STANDARDIZATION
-0046_00008	2'-O-methyladenosine	C11H15N5O4	5.78		FAILED_STANDARDIZATION
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc5ca6c40a990cb55927d455d10afb7b5c4ac06384c3ea8839705a2e2ca2ff31
+size 241

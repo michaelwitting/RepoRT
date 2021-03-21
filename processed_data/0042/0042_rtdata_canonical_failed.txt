@@ -1,4 +1,3 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0042_00005	Vanillic acid-4-glucuronide		1.45		FAILED_STANDARDIZATION		
-0042_00025	Isoferulic acid-3-O-glucuronide	C16H18O10	4.25	SHJZLGVIOYFHCB-MBAOVNHDSA-N	FAILED_STANDARDIZATION		
-0042_00045	5-(5'-Hydroxyphenyl)-gamma-valerolactone-3'-glucuronide		2.34		FAILED_STANDARDIZATION		
+version https://git-lfs.github.com/spec/v1
+oid sha256:44ad59a026b275650d47ad83c81c71b5e7aa65628bdfa7d132c13a0fbfaa63db
+size 341

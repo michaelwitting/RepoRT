@@ -1,2 +1,3 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0051_00050	Isoferulic acid-3-O-glucuronide	C9H10O2	34.36	SHJZLGVIOYFHCB-MBAOVNHDSA-N	FAILED_STANDARDIZATION		
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d53b65af67d17b6cd959d6b78d775d224bbc0e7501674283f261eca7cc60b7a
+size 170

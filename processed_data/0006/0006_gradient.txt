@@ -1,7 +1,3 @@
-t [min]	A [%]	B [%]	C [%]	D [%]	flow rate [ml/min]
-0	100	0	0	0	0.2
-5	90	10	0	0	0.2
-25	80	20	0	0	0.2
-30	75	25	0	0	0.2
-45	30	70	0	0	0.2
-65	100	0	0	0	0.2
+version https://git-lfs.github.com/spec/v1
+oid sha256:52dec9292b6dbbf11e84ee6e9390c6caf9a28eae2efd87560a36c2f142b69152
+size 151

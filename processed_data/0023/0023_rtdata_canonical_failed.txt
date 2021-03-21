@@ -1,2 +1,3 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0023_00010	malvidin 3-glucoside		3.86		FAILED_STANDARDIZATION		
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef7e48613cfad79ca5fe46acfb42aa008a4d69d318441d3f0d3b38c26ce8825a
+size 124

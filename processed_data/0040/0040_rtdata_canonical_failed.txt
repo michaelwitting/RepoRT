@@ -1,6 +1,3 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0040_00027	Dihydrolactucin-5-glycoside		9.8		FAILED_STANDARDIZATION		
-0040_00029	lactucIn-15-glycoside		10.4		FAILED_STANDARDIZATION		
-0040_00036	8-deoxylactucin-15-glycoside		11.8		FAILED_STANDARDIZATION		
-0040_00052	Dihydro-8-deoxylactucin		14.52		FAILED_STANDARDIZATION		
-0040_00053	Dihydro-8-deoxylactucin-15-glycoside		14.52		FAILED_STANDARDIZATION		
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdbe9faa6f3fe505f7527a6ac1fbbde429f7d29787238db6d2d4c33871b42bd2
+size 416
