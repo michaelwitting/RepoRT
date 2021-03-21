@@ -1,2 +1,3 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0005_00005	1-methyl-2-hydroadenosine	C11H17N5O4	5.503119585		FAILED_STANDARDIZATION		
+version https://git-lfs.github.com/spec/v1
+oid sha256:e40c5881911401f62261e6447ab2a99232c942a321ebf1b9590d7b877e257690
+size 146

@@ -1,2 +1,3 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0001_00052	methylpyrano malvidin 3-glucoside		19.74327586		FAILED_STANDARDIZATION		
+version https://git-lfs.github.com/spec/v1
+oid sha256:bff7428467b828efc63442f4055feef69b1e609f93118904a187fe9db619d427
+size 144
