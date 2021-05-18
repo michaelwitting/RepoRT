@@ -221,39 +221,58 @@ for(data_folder in data_folders) {
     dir.create(result_folder)
   }
   
-  write_tsv(rt_data_canonical_success,
-            paste0(result_folder,
-                   "/",
-                   basename(data_folder),
-                   "_rtdata_canonical_success.txt"),
-            na = "")
-  
-  write_tsv(rt_data_canonical_failed,
-            paste0(result_folder,
-                   "/",
-                   basename(data_folder),
-                   "_rtdata_canonical_failed.txt"),
-            na = "")
-  
-  write_tsv(rt_data_isomeric_success,
-            paste0(result_folder,
-                   "/",
-                   basename(data_folder),
-                   "_rtdata_isomeric_success.txt"),
-            na = "")
-  
-  write_tsv(rt_data_isomeric_failed,
-            paste0(result_folder,
-                   "/",
-                   basename(data_folder),
-                   "_rtdata_isomeric_failed.txt"),
-            na = "")
-  
-  write_tsv(meta_data,
-            paste0(result_folder,
-                   "/",
-                   basename(data_folder),
-                   "_metadata.txt"),
-            na = "")
+  if(nrow(rt_data_canonical_success) > 0) {
+    
+    write_tsv(rt_data_canonical_success,
+              paste0(result_folder,
+                     "/",
+                     basename(data_folder),
+                     "_rtdata_canonical_success.txt"),
+              na = "")
+    
+  }
 
+  if(nrow(rt_data_canonical_failed) > 0) {
+    
+    write_tsv(rt_data_canonical_failed,
+              paste0(result_folder,
+                     "/",
+                     basename(data_folder),
+                     "_rtdata_canonical_failed.txt"),
+              na = "")
+    
+  }
+
+  if(nrow(rt_data_isomeric_success) > 0) {
+    
+    write_tsv(rt_data_isomeric_success,
+              paste0(result_folder,
+                     "/",
+                     basename(data_folder),
+                     "_rtdata_isomeric_success.txt"),
+              na = "")
+    
+  }
+
+  if(nrow(rt_data_isomeric_failed) > 0) {
+    
+    write_tsv(rt_data_isomeric_failed,
+              paste0(result_folder,
+                     "/",
+                     basename(data_folder),
+                     "_rtdata_isomeric_failed.txt"),
+              na = "")
+    
+  }
+
+  if(nrow(meta_data) > 0) {
+    
+    write_tsv(meta_data,
+              paste0(result_folder,
+                     "/",
+                     basename(data_folder),
+                     "_metadata.txt"),
+              na = "")
+    
+  }
 }
