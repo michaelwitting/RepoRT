@@ -185,21 +185,45 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0184	aHILIC Geneva DB maXisQTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
 0185	zHILIC Geneva DB VION QTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
 0186	SMRT_METLIN	https://doi.org/10.1038/s41467-019-13680-7		Publication	RP			Xavier Domingo-Almenara, Carlos Guijas, Elizabeth Billings, J. Rafael Montenegro-Burke, Winnie Uritboonthai, Aries E. Aisporna, Emily Chen, H. Paul Benton, Gary Siuzdak
-0187	RTI_Standard_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0188	RTI_Standard_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0189	RTI_flow0.2_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0190	RTI_flow0.2_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0191	RTI_flow0.25_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0192	RTI_flow0.25_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0193	RTI_flow0.35_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0194	RTI_flow0.35_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0195	RTI_flow0.4_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0196	RTI_flow0.4_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0197	RTI_temp37.5_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0198	RTI_temp37.5_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0199	RTI_temp39_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0200	RTI_temp39_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0201	RTI_temp41_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0202	RTI_temp41_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0203	RTI_temp42.5_pos	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
-0204	RTI_temp42.5_neg	under revision		Publication	RP			Rainer Stoffel, Michael Quilliam, Normand Hardt, Anders Fridstrom, Michael Witting
+0187	Standard_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0188	Standard_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0189	flow0.2_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0190	flow0.2_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0191	flow0.25_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0192	flow0.25_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0193	flow0.35_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0194	flow0.35_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0195	flow0.4_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0196	flow0.4_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0197	temp37.5_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0198	temp37.5_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0199	temp39_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0200	temp39_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0201	temp41_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0202	temp41_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0203	temp42.5_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0204	temp42.5_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0205	Orbitrap1			PredRet	RP			
+0206	RP_PSB_HF			PredRet	RP			
+0207	hypergold_pea			PredRet	RP		gradient, temperatur, flow rate	
+0208	IJM_TEST			PredRet	HILIC		column length, ID, particle size, gradient, temperature, flow rate	
+0209	SMRT			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0210	ABC			PredRet	RP		column name, temperature, gradient, flow rate	
+0211	SNU-Test			PredRet	RP		temperature	
+0212	SNU_RP_70			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0213	SNU_RP_108			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0214	SNU_RP_10			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0215	SNU_RP_20			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0216	SNU_RP_30			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0217	SNU_RP_50			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0218	#HILIC_tip			PredRet	NA		all	
+0219	SNU_RIKEN_POS			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0220	cecum_JS			PredRet	RP	gradient: missing times	temperature	
+0221	SNU_RP_indole_annotation			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0222	METLIN RP			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0223	SNU_RP_indole_order			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0224	JKC_Probiotics			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0225	AjsTestF			PredRet	HILIC		temperature, flow rate	
+0226	SNU_organoid			PredRet	RP		column length, ID, temperature, gradient, flow rate	
+0227	Meister zic-pHILIC ph9.3			PredRet	HILIC	gradient: missing times	-	
+0228	AnnieTestFiehn			PredRet	HILIC		temperature, flow rate	
