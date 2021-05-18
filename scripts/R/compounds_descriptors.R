@@ -42,48 +42,58 @@ for(data_folder in data_folders) {
                              pattern = "_rtdata_canonical_success.txt$",
                              full.names = TRUE)
   
-  rt_data_canonical <- read_tsv(rt_data_file,
-                                col_types = cols(id = col_character(),
-                                                 name = col_character(),
-                                                 formula = col_character(),
-                                                 rt = col_double(),
-                                                 smiles.std = col_character(),
-                                                 inchi.std = col_character(),
-                                                 inchikey.std = col_character()))
   
-  # perform classification
-  rcdk_descriptors <- map_dfr(rt_data_canonical$smiles.std, function(x) {
+  if(length(rt_data_file) == 1) {
     
-    # parse smiles into molecules
-    mol <- parse.smiles(x)
-
-    # get all descriptor categories and unique descriptor names
-    desc_categories <-get.desc.categories()
-    desc_names <- c()
-
-    for(desc_category in desc_categories) {
+    rt_data_canonical <- read_tsv(rt_data_file,
+                                  col_types = cols(id = col_character(),
+                                                   name = col_character(),
+                                                   formula = col_character(),
+                                                   rt = col_double(),
+                                                   smiles.std = col_character(),
+                                                   inchi.std = col_character(),
+                                                   inchikey.std = col_character()))
+    
+    # perform classification
+    rcdk_descriptors <- map_dfr(rt_data_canonical$smiles.std, function(x) {
       
-      desc_names <-c(desc_names, get.desc.names(type = desc_category))
+      # parse smiles into molecules
+      mol <- parse.smiles(x)
       
-    }
+      # get all descriptor categories and unique descriptor names
+      desc_categories <-get.desc.categories()
+      desc_names <- c()
+      
+      for(desc_category in desc_categories) {
+        
+        desc_names <-c(desc_names, get.desc.names(type = desc_category))
+        
+      }
+      
+      desc_names <- unique(desc_names)
+      
+      # predict descriptors
+      desc <- eval.desc(mol, desc_names, verbose = FALSE)
+      row.names(desc) <- NULL
+      
+      desc
+      
+    })
     
-    desc_names <- unique(desc_names)
+    # combine tables
+    rt_data_canonical <- bind_cols(rt_data_canonical %>% select(id), rcdk_descriptors)
     
-    # predict descriptors
-    desc <- eval.desc(mol, desc_names, verbose = FALSE)
-    row.names(desc) <- NULL
-
-    desc
+    # write results
+    write_tsv(rt_data_canonical,
+              gsub("_rtdata_canonical_success.txt", "_descriptors_canonical_success.txt", rt_data_file),
+              na = "")
     
-  })
+    # remove to avoid overlap
+    rm(rt_data_canonical)
+    rm(rcdk_descriptors)
+    
+  }
   
-  # combine tables
-  rt_data_canonical <- bind_cols(rt_data_canonical %>% select(id), rcdk_descriptors)
-  
-  # write results
-  write_tsv(rt_data_canonical,
-            gsub("_rtdata_canonical_success.txt", "_descriptors_canonical_success.txt", rt_data_file),
-            na = "")
   
   # canconical smiles data -----------------------------------------------------
   # read canonical smiles data
@@ -91,48 +101,55 @@ for(data_folder in data_folders) {
                              pattern = "_rtdata_isomeric_success.txt$",
                              full.names = TRUE)
   
-  rt_data_isomeric <- read_tsv(rt_data_file,
-                                col_types = cols(id = col_character(),
-                                                 name = col_character(),
-                                                 formula = col_character(),
-                                                 rt = col_double(),
-                                                 smiles.std = col_character(),
-                                                 inchi.std = col_character(),
-                                                 inchikey.std = col_character()))
-  
-  # perform classification
-  rcdk_descriptors <- map_dfr(rt_data_isomeric$smiles.std, function(x) {
+  if(length(rt_data_file) == 1) {
     
-    # parse smiles into molecules
-    mol <- parse.smiles(x)
+    rt_data_isomeric <- read_tsv(rt_data_file,
+                                 col_types = cols(id = col_character(),
+                                                  name = col_character(),
+                                                  formula = col_character(),
+                                                  rt = col_double(),
+                                                  smiles.std = col_character(),
+                                                  inchi.std = col_character(),
+                                                  inchikey.std = col_character()))
     
-    # get all descriptor categories and unique descriptor names
-    desc_categories <-get.desc.categories()
-    desc_names <- c()
-    
-    for(desc_category in desc_categories) {
+    # perform classification
+    rcdk_descriptors <- map_dfr(rt_data_isomeric$smiles.std, function(x) {
       
-      desc_names <-c(desc_names, get.desc.names(type = desc_category))
+      # parse smiles into molecules
+      mol <- parse.smiles(x)
       
-    }
+      # get all descriptor categories and unique descriptor names
+      desc_categories <-get.desc.categories()
+      desc_names <- c()
+      
+      for(desc_category in desc_categories) {
+        
+        desc_names <-c(desc_names, get.desc.names(type = desc_category))
+        
+      }
+      
+      desc_names <- unique(desc_names)
+      
+      # predict descriptors
+      desc <- eval.desc(mol, desc_names, verbose = FALSE)
+      row.names(desc) <- NULL
+      
+      desc
+      
+    })
     
-    desc_names <- unique(desc_names)
+    # combine tables
+    rt_data_isomeric <- bind_cols(rt_data_isomeric %>% select(id), rcdk_descriptors)
     
-    # predict descriptors
-    desc <- eval.desc(mol, desc_names, verbose = FALSE)
-    row.names(desc) <- NULL
+    # write results
+    write_tsv(rt_data_isomeric,
+              gsub("_rtdata_isomeric_success.txt", "_descriptors_isomeric_success.txt", rt_data_file),
+              na = "")
     
-    desc
+    # remove to avoid overlap
+    rm(rt_data_isomeric)
+    rm(rcdk_descriptors)
     
-  })
-  
-  # combine tables
-  rt_data_isomeric <- bind_cols(rt_data_isomeric %>% select(id), rcdk_descriptors)
-  
-  # write results
-  write_tsv(rt_data_isomeric,
-            gsub("_rtdata_isomeric_success.txt", "_descriptors_isomeric_success.txt", rt_data_file),
-            na = "")
-  
+  }
 }
 
