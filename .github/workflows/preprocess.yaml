@@ -1,0 +1,23 @@
+name: preprocess
+
+on:
+  pull_request:
+
+jobs:
+  php-cs-fixer:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
+
+    - name: get_changed_data
+      run: for f in $(git diff origin/master --name-only | grep raw_data); do basename $(dirname $f); done | sort | uniq
+      
+    - name: preprocess
+      run: for ds in {{steps.get_chaned_data.outputs.result}}; do touch processed_data/$ds/test.txt; done
+
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Preprocessing
