@@ -1,0 +1,1 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
