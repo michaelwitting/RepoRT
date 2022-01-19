@@ -32,7 +32,10 @@ for(data_folder in data_folders) {
   
 }
 
-full_meta_data <- full_join(studies_data, meta_data)
+# combine with study list
+full_meta_data <- full_join(studies_data,
+                            meta_data,
+                            by = "id")
 
 # ==============================================================================
 # Overview on separation methods
