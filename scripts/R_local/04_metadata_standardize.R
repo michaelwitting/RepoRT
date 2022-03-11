@@ -1,8 +1,8 @@
 ## ---------------------------
 ##
-## Script name: compounds_standardize.R
+## Script name: 04_metadata_standardize.R
 ##
-## Purpose of script: Standardization of structures according to PubChem
+## Purpose of script: Standardization of meta data
 ##
 ## Author: Dr. Michael Witting
 ##
@@ -15,8 +15,7 @@
 ##
 ## Notes:
 ##
-## This script performs a PubChem API based standardization of SMILES. Data is
-## splitted into substances having isomeric or canonical SMILES.
+## This script performs the standardization of the separation metadata
 ##
 ## -----------------------------------------------------------------------------
 
@@ -30,6 +29,11 @@ library(tidyverse)
 # ==============================================================================
 # get list of all folders ------------------------------------------------------
 data_folders <- list.dirs("raw_data", full.names = TRUE, recursive = FALSE)
+
+# filter potential data folders found in negative list
+if(!length(negative_list) == 1 && !is.na(negative_list)) {
+  data_folders <- data_folders[which(!str_detect(data_folders, paste0(negative_list, collapse = "|")))]
+}
 
 # read data  and perform standardization ----------------------------------------
 for(data_folder in data_folders) {
