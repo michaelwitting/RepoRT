@@ -1,0 +1,100 @@
+name: Preprocessing
+
+on:
+  pull_request_target:
+    # (re)opened PR or new commit in fork
+    types: [ opened, synchronize, reopened ]
+
+jobs:
+  preprocess:
+    name: Preprocess raw data
+    # NOTE: on windows as computing of descriptors has a bug on linux right now
+    runs-on: windows-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }} # needed for pulling R packages from github
+
+    steps:
+    - name: Checkout fork repository
+      uses: actions/checkout@v2
+      with:
+         fetch-depth: 0
+         repository: ${{github.event.pull_request.head.repo.full_name}}
+
+
+    - name: Get changed files
+      id: files
+      uses: Ana06/get-changed-files@v1.1
+
+    - name: Get new/changed datasets
+      id: filesfolders
+      shell: bash {0}
+      run: echo "::set-output name=files::$(for f in ${{ steps.files.outputs.all }}; do basename $(dirname $f); done | grep -E '^[0-9]+$' | sort | uniq | tr '\n' ' ')"
+
+    - name: Pyton dependencies
+      run: pip install pubchempy
+
+    - name: Setup R
+      uses: r-lib/actions/setup-r@v1
+
+    - name: Set java version
+      run: echo ("JAVA_HOME=" + $Env:JAVA_HOME_13_X64) >> $env:GITHUB_ENV
+
+    - name: Install R packages
+      run: Rscript scripts/R/dependencies.R
+
+    - name: Standardize compounds
+      run: Rscript scripts/R/01_compounds_standardize.R ${{ steps.filesfolders.outputs.files }}
+
+    - name: Compounds classyfire classes
+      run: Rscript scripts/R/02_compounds_classyfire.R ${{ steps.filesfolders.outputs.files }}
+
+    - name: Compounds descriptors
+      run: Rscript scripts/R/03_compounds_descriptors.R ${{ steps.filesfolders.outputs.files }}
+
+    - name: Metadata standardization
+      run: Rscript scripts/R/04_metadata_standardize.R ${{ steps.filesfolders.outputs.files }}
+
+    - name: Verify that required files are present
+      run: Rscript scripts/R/05_files_complete.R ${{ steps.filesfolders.outputs.files }}
+
+    - name: Compounds overview
+      run: Rscript scripts/R/06_compounds_overview.R
+
+    - name: Metadata overview
+      run: Rscript scripts/R/07_metadata_overview.R
+
+    - name: Commit preprocessing
+      run: |
+        git config --global user.email 'actions@github.com'
+        git config --global user.name 'Github Actions'
+        git add processed_data raw_data
+        git commit -m "Preprocessing ${{ steps.filesfolders.outputs.files }}"
+        git push origin HEAD
+
+    - name: Label as successfully preprocessed
+      if: ${{ success() }}
+      uses: actions/github-script@v3
+      with:
+        script: |
+          github.issues.addLabels({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                labels: ['preprocessing successful']
+              })
+
+    # - name: Debug with tmate on failure
+    #   if: ${{ failure() }}
+    #   uses: mxschmitt/action-tmate@v3
+
+    - name: Label as failed
+      if: ${{ failure() }}
+      uses: actions/github-script@v3
+      with:
+        script: |
+          github.issues.addLabels({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                labels: ['preprocessing failed']
+              })
