@@ -13,3 +13,6 @@ with open(sys.argv[1]) as inhandle, open(sys.argv[1] + '_standardized', 'w') as 
             success_handle.write('\t'.join([id_, c.isomeric_smiles]) + '\n')
         except Exception as e:
             fail_handle.write('\t'.join([id_, smiles, str(e).strip()]) + '\n')
+    # make sure output files (even if empty) exist
+    success_handle.write('')
+    fail_handle.write('')
