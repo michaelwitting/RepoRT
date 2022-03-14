@@ -30,6 +30,13 @@ jobs:
       shell: bash {0}
       run: echo "::set-output name=files::$(for f in ${{ steps.files.outputs.all }}; do basename $(dirname $f); done | grep -E '^[0-9]+$' | sort | uniq | tr '\n' ' ')"
 
+    - name: List all added files
+      shell: bash {0}
+      run: |
+        for f in ${{ steps.filesfolders.outputs.files }}; do
+          ls -lh raw_data/$f
+        done
+
     - name: Pyton dependencies
       run: pip install pubchempy
 
@@ -83,9 +90,9 @@ jobs:
                 labels: ['preprocessing successful']
               })
 
-    # - name: Debug with tmate on failure
-    #   if: ${{ failure() }}
-    #   uses: mxschmitt/action-tmate@v3
+    - name: Debug with tmate on failure
+      if: ${{ failure() }}
+      uses: mxschmitt/action-tmate@v3
 
     - name: Label as failed
       if: ${{ failure() }}
