@@ -9,7 +9,7 @@ jobs:
   preprocess:
     name: Preprocess raw data
     # NOTE: on windows as computing of descriptors has a bug on linux right now
-    runs-on: windows-latest
+    runs-on: windows-2019
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }} # needed for pulling R packages from github
 
