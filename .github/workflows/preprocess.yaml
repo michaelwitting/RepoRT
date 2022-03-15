@@ -65,11 +65,11 @@ jobs:
     - name: Verify that required files are present
       run: Rscript scripts/R/05_files_complete.R ${{ steps.filesfolders.outputs.files }}
 
-    - name: Compounds overview
-      run: Rscript scripts/R/06_compounds_overview.R
+    # - name: Compounds overview
+    #   run: Rscript scripts/R/06_compounds_overview.R
 
-    - name: Metadata overview
-      run: Rscript scripts/R/07_metadata_overview.R
+    # - name: Metadata overview
+    #   run: Rscript scripts/R/07_metadata_overview.R
 
     - name: Commit preprocessing
       run: |
@@ -91,9 +91,9 @@ jobs:
                 labels: ['preprocessing successful']
               })
 
-    - name: Debug with tmate on failure
-      if: ${{ failure() }}
-      uses: mxschmitt/action-tmate@v3
+    # - name: Debug with tmate on failure
+    #   if: ${{ failure() }}
+    #   uses: mxschmitt/action-tmate@v3
 
     - name: Label as failed
       if: ${{ failure() }}
