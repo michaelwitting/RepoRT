@@ -15,7 +15,7 @@ jobs:
 
     steps:
     - name: Checkout fork repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
          fetch-depth: 0
          repository: ${{github.event.pull_request.head.repo.full_name}}
@@ -75,8 +75,11 @@ jobs:
       run: |
         git config --global user.email 'actions@github.com'
         git config --global user.name 'Github Actions'
+        # Use LFS storage of main repository: no push access to fork LFS storage
+        git config lfs.url 'https://github.com/michaelwitting/RtPredTrainingData.git/info/lfs'
         git add processed_data raw_data
         git commit -m "Preprocessing ${{ steps.filesfolders.outputs.files }}"
+        git lfs push origin HEAD # first push LFS, otherwise failure because of lfs.url
         git push origin HEAD
 
     - name: Label as successfully preprocessed
@@ -91,9 +94,9 @@ jobs:
                 labels: ['preprocessing successful']
               })
 
-    # - name: Debug with tmate on failure
-    #   if: ${{ failure() }}
-    #   uses: mxschmitt/action-tmate@v3
+    - name: Debug with tmate on failure
+      if: ${{ failure() }}
+      uses: mxschmitt/action-tmate@v3
 
     - name: Label as failed
       if: ${{ failure() }}
