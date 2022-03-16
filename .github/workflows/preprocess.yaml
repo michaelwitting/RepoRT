@@ -19,6 +19,7 @@ jobs:
       with:
          fetch-depth: 0
          repository: ${{github.event.pull_request.head.repo.full_name}}
+         ref: ${{ github.head_ref }}
          lfs: true
 
 
@@ -84,15 +85,10 @@ jobs:
 
     - name: Label as successfully preprocessed
       if: ${{ success() }}
-      uses: actions/github-script@v3
+      uses: andymckay/labeler@master
       with:
-        script: |
-          github.issues.addLabels({
-                issue_number: context.issue.number,
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                labels: ['preprocessing successful']
-              })
+        add-labels: "preprocessing successful"
+        remove-labels: "preprocessing failed"
 
     - name: Debug with tmate on failure
       if: ${{ failure() }}
@@ -100,12 +96,7 @@ jobs:
 
     - name: Label as failed
       if: ${{ failure() }}
-      uses: actions/github-script@v3
+      uses: andymckay/labeler@master
       with:
-        script: |
-          github.issues.addLabels({
-                issue_number: context.issue.number,
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                labels: ['preprocessing failed']
-              })
+        add-labels: "preprocessing failed"
+        remove-labels: "preprocessing successful"
