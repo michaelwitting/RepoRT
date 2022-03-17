@@ -229,3 +229,4 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0228	AnnieTestFiehn			PredRet	HILIC		temperature, flow rate	
 0229	Dafachronic acids			BGC	RP			
 0230	AjsUoB			PredRet	NA			
+0231	HPOS_ROI_V_3_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	HILIC			
