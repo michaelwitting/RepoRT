@@ -1,0 +1,2 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0235_00105	Hexadecenoylcarnitine CAR (16:1)	C23H43NO4	10.72		'PUGREST.BadRequest: error: '		
