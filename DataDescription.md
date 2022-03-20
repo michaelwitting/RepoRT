@@ -14,9 +14,12 @@ and own data sets.
 # Submitting data
 
 If you would like to submit a retention time data directly via GitHub, but
-please first request an ID for your data via eMail to
-michael.witting@helmholtz-muenchen.de.
-An example dataset and Excel template can be found [here](example)
+please first request an ID for your data via eMail to Dr. Michael Witting 
+[eMail](michael.witting@helmholtz-muenchen.de).
+An example dataset and Excel template can be found [here](example).
+Data is typically submitted via a fork and pull request. Upon pull request a 
+GitHub action workflow is triggered for checking data quality and performing 
+standardization.
 
 # Retention time data
 
