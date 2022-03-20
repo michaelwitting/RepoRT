@@ -184,25 +184,25 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0183	aHILIC Geneva DB maXisQTOF pos	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
 0184	aHILIC Geneva DB maXisQTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
 0185	zHILIC Geneva DB VION QTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
-0186	SMRT_METLIN	https://doi.org/10.1038/s41467-019-13680-7		Publication	RP			Xavier Domingo-Almenara, Carlos Guijas, Elizabeth Billings, J. Rafael Montenegro-Burke, Winnie Uritboonthai, Aries E. Aisporna, Emily Chen, H. Paul Benton, Gary Siuzdak
-0187	Standard_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0188	Standard_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0189	flow0.2_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0190	flow0.2_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0191	flow0.25_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0192	flow0.25_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0193	flow0.35_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0194	flow0.35_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0195	flow0.4_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0196	flow0.4_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0197	temp37.5_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0198	temp37.5_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0199	temp39_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0200	temp39_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0201	temp41_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0202	temp41_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0203	temp42.5_pos			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0204	temp42.5_neg			Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0186	SMRT_METLIN	https://doi.org/10.1038/s41467-019-13680-7	34907452	Publication	RP			Xavier Domingo-Almenara, Carlos Guijas, Elizabeth Billings, J. Rafael Montenegro-Burke, Winnie Uritboonthai, Aries E. Aisporna, Emily Chen, H. Paul Benton, Gary Siuzdak
+0187	Standard_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0188	Standard_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0189	flow0.2_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0190	flow0.2_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0191	flow0.25_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0192	flow0.25_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0193	flow0.35_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0194	flow0.35_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0195	flow0.4_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0196	flow0.4_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0197	temp37.5_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0198	temp37.5_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0199	temp39_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0200	temp39_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0201	temp41_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0202	temp41_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0203	temp42.5_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0204	temp42.5_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
 0205	Orbitrap1			PredRet	RP			
 0206	RP_PSB_HF			PredRet	RP			
 0207	hypergold_pea			PredRet	RP		gradient, temperatur, flow rate	
@@ -233,3 +233,8 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0232	LNEG_ROI_V_5_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
 0233	LPOS_ROI_V_5_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
 0234	RNEG_ROI_V_3_1_0			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
+0235	RPOS_ROI_V_3_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
+0236	MSMS_pos_30_ACN_HSS T3			BGC	RP			
+0237	MSMS_neg_30_ACN_HSS T3			BGC	RP			
+0238	MSMS_pos_40_ACN_HSS T3			BGC	RP			
+0239	MSMS_neg_40_ACN_HSS T3			BGC	RP			
