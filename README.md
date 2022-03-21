@@ -9,7 +9,7 @@ part of the collaborative project between Prof. Dr. Sebastian Böcker
 
 # Contributing data
 We are welcoming data submissions. If you want to submit data to this repository,
-please get in contact with Michael Witting [eMail](michael.witting@helmholtz-muenchen.de).
+please get in contact with Michael Witting (michael.witting@helmholtz-muenchen.de).
 
 # Contributors
 The following people and resources contributed training data for this repository.
