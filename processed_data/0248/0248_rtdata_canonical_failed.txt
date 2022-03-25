@@ -1,0 +1,3 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0248_00020	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.53		'PUGREST.BadRequest: error: '		
+0248_00392	O-Succinyl-L-carnitine lithium salt	C11H19NO6	0.554	HAEVNYBCYZZDFL-UHFFFAOYSA-N	'PUGREST.BadRequest: error: '		
