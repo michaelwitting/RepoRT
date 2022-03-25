@@ -244,3 +244,5 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0243	CCS_neg_40_ACN_HSS T3			BGC	RP			
 0244	MSMS_pos_30_ACN_XB-C18			BGC	RP			
 0245	MSMS_neg_30_ACN_XB-C18			BGC	RP			
+0246	MSMS_pos_40_ACN_XB-C18			BGC	RP			
+0247	MSMS_neg_40_ACN_XB-C18			BGC	RP			
