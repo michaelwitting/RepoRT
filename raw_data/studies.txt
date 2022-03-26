@@ -227,26 +227,28 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0226	SNU_organoid			PredRet	RP		column length, ID, temperature, gradient, flow rate	
 0227	Meister zic-pHILIC ph9.3			PredRet	HILIC	gradient: missing times	-	
 0228	AnnieTestFiehn			PredRet	HILIC		temperature, flow rate	
-0229	Dafachronic acids			BGC	RP			
+0229	Dafachronic acids			BGC	RP			E.-M. Harrieder, M. Witting
 0230	AjsUoB			PredRet	NA			
 0231	HPOS_ROI_V_3_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	HILIC			
 0232	LNEG_ROI_V_5_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
 0233	LPOS_ROI_V_5_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
 0234	RNEG_ROI_V_3_1_0			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
 0235	RPOS_ROI_V_3_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
-0236	MSMS_pos_30_ACN_HSS T3			BGC	RP			
-0237	MSMS_neg_30_ACN_HSS T3			BGC	RP			
-0238	MSMS_pos_40_ACN_HSS T3			BGC	RP			
-0239	MSMS_neg_40_ACN_HSS T3			BGC	RP			
-0240	MSMS_pos_50_ACN_HSS T3			BGC	RP			
-0241	MSMS_neg_50_ACN_HSS T3			BGC	RP			
-0242	CCS_pos_40_ACN_HSS T3			BGC	RP			
-0243	CCS_neg_40_ACN_HSS T3			BGC	RP			
-0244	MSMS_pos_30_ACN_XB-C18			BGC	RP			
-0245	MSMS_neg_30_ACN_XB-C18			BGC	RP			
-0246	MSMS_pos_40_ACN_XB-C18			BGC	RP			
-0247	MSMS_neg_40_ACN_XB-C18			BGC	RP			
-0248	MSMS_pos_50_ACN_XB-C18			BGC	RP			
-0249	MSMS_neg_50_ACN_XB-C18			BGC	RP			
-0250	CCS_pos_40_ACN_XB-C18			BGC	RP			
-0251	CCS_neg_40_ACN_XB-C18			BGC	RP			
+0236	MSMS_pos_30_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
+0237	MSMS_neg_30_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
+0238	MSMS_pos_40_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
+0239	MSMS_neg_40_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
+0240	MSMS_pos_50_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
+0241	MSMS_neg_50_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
+0242	CCS_pos_40_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
+0243	CCS_neg_40_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
+0244	MSMS_pos_30_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
+0245	MSMS_neg_30_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
+0246	MSMS_pos_40_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
+0247	MSMS_neg_40_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
+0248	MSMS_pos_50_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
+0249	MSMS_neg_50_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
+0250	CCS_pos_40_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
+0251	CCS_neg_40_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
+0252	MSMS_pos_30_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
+0253	MSMS_neg_30_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
