@@ -252,3 +252,5 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0251	CCS_neg_40_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
 0252	MSMS_pos_30_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
 0253	MSMS_neg_30_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
+0254	MSMS_pos_40_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
+0255	MSMS_neg_40_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
