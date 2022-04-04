@@ -49,28 +49,22 @@ jobs:
       run: echo ("JAVA_HOME=" + $Env:JAVA_HOME_13_X64) >> $env:GITHUB_ENV
 
     - name: Install R packages
-      run: Rscript scripts/R/dependencies.R
+      run: Rscript scripts/R_ci/dependencies.R
 
     - name: Standardize compounds
-      run: Rscript scripts/R/01_compounds_standardize.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/01_compounds_standardize.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Compounds classyfire classes
-      run: Rscript scripts/R/02_compounds_classyfire.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/02_compounds_classyfire.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Compounds descriptors
-      run: Rscript scripts/R/03_compounds_descriptors.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/03_compounds_descriptors.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Metadata standardization
-      run: Rscript scripts/R/04_metadata_standardize.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/04_metadata_standardize.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Verify that required files are present
-      run: Rscript scripts/R/05_files_complete.R ${{ steps.filesfolders.outputs.files }}
-
-    # - name: Compounds overview
-    #   run: Rscript scripts/R/06_compounds_overview.R
-
-    # - name: Metadata overview
-    #   run: Rscript scripts/R/07_metadata_overview.R
+      run: Rscript scripts/R_ci/05_files_complete.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Commit preprocessing
       run: |
