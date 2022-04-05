@@ -175,7 +175,7 @@ for(data_folder in data_folders) {
     
   } else {
     
-    smiles_isomericl_failed <- tibble(id = character(0),
+    smiles_isomeric_failed <- tibble(id = character(0),
                                       smiles.std = character(0),
                                       status = character(0))
     

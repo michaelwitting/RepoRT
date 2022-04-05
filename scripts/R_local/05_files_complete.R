@@ -94,6 +94,12 @@ for(data_folder in data_folders) {
 }
 
 # check if everything is in place
-file_complete_processed <- file_complete_processed %>% 
-  rowwise() %>% 
-  mutate(complete = all(across(ends_with("file"))))
+file_complete <- full_join(file_complete_raw,
+                           file_complete_processed,
+                           by = "id",
+                           suffix = c("_raw", "_processed")) %>% 
+  mutate(complete = all(across(-c("id"))))
+
+file_complete %>% 
+  filter(!complete) %>% 
+  View()
