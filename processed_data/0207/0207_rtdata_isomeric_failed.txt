@@ -1,0 +1,10 @@
+id	name	formula	rt	smiles.std	status
+0207_00001	Gallic acid	C7H6O5	3.05		'PUGREST.BadRequest: error: '
+0207_00002	p-hydroxybenzoic acid	C7H6O3	11.7		'PUGREST.BadRequest: error: '
+0207_00003	Catechin	C15H14O6	15.02		'PUGREST.BadRequest: error: '
+0207_00004	Caffeic acid	C9H8O4	15.61		'PUGREST.BadRequest: error: '
+0207_00005	Coumaric acid	C9H8O3	19.34		'PUGREST.BadRequest: error: '
+0207_00006	Ferulic acid	C10H10O4	21.08		'PUGREST.BadRequest: error: '
+0207_00007	Synapic acid	C11H12O5	21.44		'PUGREST.BadRequest: error: '
+0207_00008	Rutine	C27H30O16	22.41		'PUGREST.BadRequest: error: '
+0207_00009	Glycoside 3 O quercetin	C21H20O12	22.94		'PUGREST.BadRequest: error: '
