@@ -1,0 +1,11 @@
+id	name	formula	rt	smiles.std	status
+0215_00001	Glycitein	C16H12O5	6.936		'PUGREST.BadRequest: error: '
+0215_00002	2-Linoleoyl glycerol	C21H38O4	10.769		'PUGREST.BadRequest: error: '
+0215_00005	Indole	C88H7N	4.604		'PUGREST.BadRequest: error: '
+0215_00009	Spermidine	C7H19N3	1.12		'PUGREST.BadRequest: error: '
+0215_00011	Pipecolic acid	C6H11NO2	1.148		'PUGREST.BadRequest: error: '
+0215_00012	4-Phenylbutyric acid	C10H12O2	12.07		'PUGREST.BadRequest: error: '
+0215_00013	Uracil	C4H4N2O2	2.086		'PUGREST.BadRequest: error: '
+0215_00016	Cytosine	C4H5N3O	1.372		'PUGREST.BadRequest: error: '
+0215_00018	Acetylcholine	C7H16NO2+	1.298		'PUGREST.BadRequest: error: '
+0215_00019	Nicotinic acid	C6H5NO2	1.502		'PUGREST.BadRequest: error: '

@@ -1,0 +1,9 @@
+id	name	formula	rt	smiles.std	status
+0214_00005	Pelargonidin	C15H11O5+	6.431		'PUGREST.BadRequest: error: '
+0214_00007	Nornicotine	C9H12N2	1.426		'PUGREST.BadRequest: error: '
+0214_00008	Hypoxanthine	C5H4N4O	1.584		'PUGREST.BadRequest: error: '
+0214_00010	4-Hydroxyindole	C8H7NO	5.96		'PUGREST.BadRequest: error: '
+0214_00015	Pelargonidin	C15H11O5+	6.431		'PUGREST.BadRequest: error: '
+0214_00017	Nornicotine	C9H12N2	1.426		'PUGREST.BadRequest: error: '
+0214_00018	Hypoxanthine	C5H4N4O	1.584		'PUGREST.BadRequest: error: '
+0214_00020	4-Hydroxyindole	C8H7NO	5.96		'PUGREST.BadRequest: error: '

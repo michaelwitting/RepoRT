@@ -1,0 +1,11 @@
+id	name	formula	rt	smiles.std	status
+0216_00003	Nicotinic acid	C6H5NO2	1.502		'PUGREST.BadRequest: error: '
+0216_00004	Leucylproline	C11H20N2O3	4.635		'PUGREST.BadRequest: error: '
+0216_00006	7-Methyladenine	C6H7N5	1.336		'PUGREST.BadRequest: error: '
+0216_00007	5-Methylcytosine	C5H7N3O	1.65		'PUGREST.BadRequest: error: '
+0216_00008	Spermidine	C7H19N3	1.12		'PUGREST.BadRequest: error: '
+0216_00013	N,N-Diethylethanolamine	C6H15NO	1.371		'PUGREST.BadRequest: error: '
+0216_00017	Caprolactam	C6H11NO	4.775		'PUGREST.BadRequest: error: '
+0216_00020	Daidzein	C15H10O4	6.818		'PUGREST.BadRequest: error: '
+0216_00022	indole-3-propionic acid	C11H11NO2	7.07		'PUGREST.BadRequest: error: '
+0216_00025	Hypoxanthine	C5H4N4O	1.584		'PUGREST.BadRequest: error: '
