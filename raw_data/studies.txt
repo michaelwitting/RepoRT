@@ -258,3 +258,7 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0257	MSMS_neg_50_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
 0258	CCS_pos_40_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
 0259	CCS_neg_40_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
+0260	reserved for Caro Huber							
+0261	reserved for Caro Huber							
+0262	reserved for Caro Huber							
+0263	reserved for Caro Huber							
