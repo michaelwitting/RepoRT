@@ -205,8 +205,5 @@ for(data_folder in data_folders) {
     rm(classyfire)
     
   }
-  
-
-  
 }
 
