@@ -99,8 +99,7 @@ id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	
 0260_00098	Prochloraz		11.527			CCCN(CCOC1=C(Cl)C=C(Cl)C=C1Cl)C(=O)N1C=CN=C1		TVLSRXXIMLFWEO-UHFFFAOYSA-N				
 0260_00099	Simeton		8.895			CCNC1=NC(OC)=NC(NCC)=N1		HKAMKLBXTLTVCN-UHFFFAOYSA-N				
 0260_00100	Azoxystrobin		11.226			CO\C=C(\C(=O)OC)C1=CC=CC=C1OC1=CC(OC2=CC=CC=C2C#N)=NC=N1		WFDXOXNFNRHQEC-GHRIWEEISA-N				
-0260_00101	"4,4-Pentamethylene-2-pyrrolidone 
-(Gabapentin-Lactam)"		9.566			O=C1CC2(CN1)CCCCC2		JAWPQJDOQPSNIQ-UHFFFAOYSA-N				
+0260_00101	4,4-Pentamethylene-2-pyrrolidone		9.566			O=C1CC2(CN1)CCCCC2		JAWPQJDOQPSNIQ-UHFFFAOYSA-N				
 0260_00102	Flumioxazin		11.527			FC1=CC2=C(C=C1N1C(=O)C3=C(CCCC3)C1=O)N(CC#C)C(=O)CO2		FOUWCSDKDDHKQP-UHFFFAOYSA-N				
 0260_00103	Amidosulfuron		10.671			COC1=CC(OC)=NC(NC(=O)NS(=O)(=O)N(C)S(C)(=O)=O)=N1		CTTHWASMBLQOFR-UHFFFAOYSA-N				
 0260_00104	Bensulfuron-methyl		11.087			COC(=O)C1=CC=CC=C1CS(=O)(=O)NC(=O)NC1=NC(OC)=CC(OC)=N1		XMQFTWRPUQYINF-UHFFFAOYSA-N				
@@ -153,8 +152,7 @@ id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	
 0260_00151	Phenacetin		9.281			CCOC1=CC=C(NC(C)=O)C=C1		CPJSUEIXXCENMM-UHFFFAOYSA-N				
 0260_00152	Atrazin-2-hydroxy		8.071			CCNC1=NC(=O)N=C(NC(C)C)N1		NFMIMWNQWAWNDW-UHFFFAOYSA-N				
 0260_00153	Atrazin-desethyl-2-hydroxy		2.892			CC(C)NC1=NC(=O)N=C(N)N1		GCKLGRUZDXSATG-UHFFFAOYSA-N				
-0260_00154	"1-(4-Isopropylphenyl)-3-methyl-Harnstoff 
-(Isoproturon Desmethyl)"		9.964			CNC(=O)NC1=CC=C(C=C1)C(C)C		DOULWWSSZVEPIN-UHFFFAOYSA-N				
+0260_00154	1-(4-Isopropylphenyl)-3-methyl-Harnstoff		9.964			CNC(=O)NC1=CC=C(C=C1)C(C)C		DOULWWSSZVEPIN-UHFFFAOYSA-N				
 0260_00155	1-(3,4-Dichlorphenyl)-3-methyl-Harnstoff		10.015			CNC(=O)NC1=CC(Cl)=C(Cl)C=C1		IDQHRQQSSQDLTR-UHFFFAOYSA-N				
 0260_00156	1-(4-Isopropylphenyl)-Harnstoff		9.719			CC(C)C1=CC=C(NC(N)=O)C=C1		ABBKOIZWGCVCKE-UHFFFAOYSA-N				
 0260_00157	1-(3,4-Dichlorphenyl)-Harnstoff		9.784			NC(=O)NC1=CC(Cl)=C(Cl)C=C1		CYESCLHCWJKRKM-UHFFFAOYSA-N				
@@ -425,8 +423,7 @@ id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	
 0260_00422	Tributylphosphat		11.16			CCCCOP(=O)(OCCCC)OCCCC		STCOOQWBFONSKY-UHFFFAOYSA-N				
 0260_00423	Thiophanate-methyl		10.171			COC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OC		QGHREAKMXXNCOA-UHFFFAOYSA-N				
 0260_00424	3-Amino-1-adamantanol		2.501			NC12CC3CC(C1)CC(O)(C3)C2		DWPIPTNBOVJYAD-UHFFFAOYSA-N				
-0260_00425	"2,4,6-Tris[bis(methoxy methyl)amino]
--1,3,5-triazine (HMMM)"		10.461			COCN(COC)C1=NC(=NC(=N1)N(COC)COC)N(COC)COC		BNCADMBVWNPPIZ-UHFFFAOYSA-N				
+0260_00425	2,4,6-Tris[bis(methoxy methyl)amino]-1,3,5-triazine		10.461			COCN(COC)C1=NC(=NC(=N1)N(COC)COC)N(COC)COC		BNCADMBVWNPPIZ-UHFFFAOYSA-N				
 0260_00426	Picoxystrobin		11.26			CO\C=C(\C(=O)OC)C1=CC=CC=C1COC1=CC=CC(=N1)C(F)(F)F		IBSNKSODLGJUMQ-SDNWHVSQSA-N				
 0260_00427	Fluopicolide		10.894			FC(F)(F)C1=CN=C(CNC(=O)C2=C(Cl)C=CC=C2Cl)C(Cl)=C1		GBOYJIHYACSLGN-UHFFFAOYSA-N				
 0260_00428	Terbutylazin 1 SYN 545666		8.293			CC(C)(C)Nc1[nH]c(=O)n(c(=O)n1)C		SKWILWLBILDCEB-UHFFFAOYSA-N				
@@ -633,7 +630,7 @@ id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	
 0260_00629	Galantamine		7.179			COC1=CC=C2CN(C)CC[C@@]34C=C[C@H](O)C[C@@H]3OC1=C24		ASUTZQLVASHGKV-JDFRZJQESA-N				
 0260_00630	Irbesartan_446		10.476			CCCCC(=O)NC1(CCCC1)C(=O)NCc2ccc(cc2)c3ccccc3c4[nH]nnn4		PAKGYCNZUGIDHV-UHFFFAOYSA-N				
 0260_00631	Methyl-Desphenyl-Chloridazon		5.459			CN1C(=O)C(=C(C=N1)N)Cl		XNSGCNYTNLWRKM-UHFFFAOYSA-N				
-0260_00632	S-Metolachlor CGA 380168 CGA 354743 = Metolachlor ESA		9.906			CCC1=CC=CC(=C1N(C(C)COC)C(=O)CS(=O)(=O)O)C		CIGKZVUEZXGYSV-UHFFFAOYSA-N				
+0260_00632	S-Metolachlor CGA 380168 CGA 354743 Metolachlor ESA		9.906			CCC1=CC=CC(=C1N(C(C)COC)C(=O)CS(=O)(=O)O)C		CIGKZVUEZXGYSV-UHFFFAOYSA-N				
 0260_00633	Dimethachlor CGA 369873		7.049			Cc1cccc(c1NC(=O)CS(=O)(=O)O)C		ZNKNVJGSYJFDHT-UHFFFAOYSA-N				
 0260_00634	Dimethenamid-M 27 (ESA)		9.417			Cc1csc(c1N(C(C)COC)C(=O)CS(=O)(=O)O)C		YMYKMSAZEZQEER-UHFFFAOYSA-N				
 0260_00635	Dimethenamid-M 23 (OA)		9.7			CC1=CSC(=C1N(C(C)COC)C(=O)C(=O)O)C		HOYCASTVMCEOTP-UHFFFAOYSA-N				
