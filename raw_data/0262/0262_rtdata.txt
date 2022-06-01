@@ -931,7 +931,9 @@ id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	
 0262_00930	Sulfadiazin		5.9962418			NC1=CC=C(C=C1)S(=O)(=O)NC1=NC=CC=N1						
 0262_00931	Dimethachlor CGA 50266 (OA)		14.620923			CC1=C(C(=CC=C1)C)N(CCOC)C(=O)C(=O)O						
 0262_00932	S-Metolachlor CGA 351916 . 51202		16.4712315			CCC1=CC=CC(=C1N(C(C)COC)C(=O)C(=O)O)C						
-0262_00933	Metazachlor BH 479-4		9.28615875			CC1=C(C(=CC=C1)C)N(CN2C=CC=N2)C(=O)C(=O)O						
+0262_00933	"Metazachlor BH 479-4
+
+(Metazachlor oxanilic acid (OA))"		9.28615875			CC1=C(C(=CC=C1)C)N(CN2C=CC=N2)C(=O)C(=O)O						
 0262_00934	4-Acetylamidoantipyrine		7.8984277			CN1N(C(=O)C(NC(C)=O)=C1C)C1=CC=CC=C1						
 0262_00935	4-Formylaminoantipyrine		7.8025419			CN1N(C(=O)C(NC=O)=C1C)C1=CC=CC=C1						
 0262_00936	DEHP Phthalic acid, bis-2-ethylhexyl ester		19.2077845			CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC						
