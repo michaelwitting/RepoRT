@@ -27,3 +27,4 @@ The following people and resources contributed training data for this repository
 ## People:
 - Serge Rudaz, University of Geneva
 - Eva-Maria Harrieder, Helmholtz Munich
+- Carolin Huber, UFZ
