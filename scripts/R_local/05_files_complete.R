@@ -77,8 +77,12 @@ for(data_folder in data_folders) {
   # descriptor files
   desc_canonical_file <- file.exists(paste0(data_folder, "/", study_id, "_descriptors_canonical_success.txt"))
   desc_isomeric_file <- file.exists(paste0(data_folder, "/", study_id, "_descriptors_isomeric_success.txt"))
-
   
+  # report files
+  report_canonical_file <- file.exists(paste0(data_folder, "/", study_id, "_report_canonical.pdf"))
+  report_isomeric_file <- file.exists(paste0(data_folder, "/", study_id, "_report_isomeric.pdf"))
+  
+  # combine in data frame
   file_complete_processed <- bind_rows(file_complete_processed,
                                        tibble(id = study_id,
                                               gradient_file = gradient_file,
@@ -88,9 +92,9 @@ for(data_folder in data_folders) {
                                               rtdata_isomeric_success_file = rtdata_isomeric_success_file,
                                               rtdata_isomeric_failed_file = rtdata_isomeric_failed_file,
                                               desc_canonical_file = desc_canonical_file,
-                                              desc_isomeric_file = desc_isomeric_file))
-  
-  
+                                              desc_isomeric_file = desc_isomeric_file,
+                                              report_canonical_file = report_canonical_file,
+                                              report_isomeric_file = report_isomeric_file))
 }
 
 # check if everything is in place
