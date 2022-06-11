@@ -1,0 +1,3 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0311_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3			'PUGREST.BadRequest: error: '		
+0311_00895	DL-Isocitric acid trisodium salt hydrate	C6H8O7		ODBLHEXUDAPZAU-UHFFFAOYSA-N	'PUGREST.BadRequest: error: '		
