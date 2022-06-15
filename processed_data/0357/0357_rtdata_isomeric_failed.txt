@@ -1,0 +1,12 @@
+id	name	formula	rt	smiles.std	status
+0357_00274	QUINATE	C7H12O6			'PUGREST.BadRequest: error: '
+0357_00284	CYTIDINE	C9H13N3O5			'PUGREST.BadRequest: error: '
+0357_00440	ADENINE	C5H5N5			'PUGREST.BadRequest: error: '
+0357_00479	N,N,N-TRIMETHYLLYSINE	C9H20N2O2			'PUGREST.BadRequest: error: '
+0357_00850	DL-Vanillactic acid lithium salt hydrate	C10H12O5			'PUGREST.BadRequest: error: '
+0357_00951	Bifentrin	C23H22ClF3O2			'PUGREST.BadRequest: error: '
+0357_01116	Spiromesifen	C23H30O4			'PUGREST.BadRequest: error: '
+0357_01227	C10-APS	C15H25NO3S			'PUGREST.BadRequest: error: '
+0357_01228	C11-APS	C16H27NO3S			'PUGREST.BadRequest: error: '
+0357_01229	C12-APS	C17H29NO3S			'PUGREST.BadRequest: error: '
+0357_01232	C15-APS	C20H35NO3S			'PUGREST.BadRequest: error: '
