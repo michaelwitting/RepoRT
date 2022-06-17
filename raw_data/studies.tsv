@@ -308,54 +308,54 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 307	reserved for Kruve Lab							
 308	reserved for Kruve Lab							
 309	reserved for Kruve Lab							
-310	reserved for Eva							
-311	reserved for Eva							
-312	reserved for Eva							
-313	reserved for Eva							
-314	reserved for Eva							
-315	reserved for Eva							
-316	reserved for Eva							
-317	reserved for Eva							
-318	reserved for Eva							
-319	reserved for Eva							
-320	reserved for Eva							
-321	reserved for Eva							
-322	reserved for Eva							
-323	reserved for Eva							
-324	reserved for Eva							
-325	reserved for Eva							
-326	reserved for Eva							
-327	reserved for Eva							
-328	reserved for Eva							
-329	reserved for Eva							
-330	reserved for Eva							
-331	reserved for Eva							
-332	reserved for Eva							
-333	reserved for Eva							
-334	reserved for Eva							
-335	reserved for Eva							
-336	reserved for Eva							
-337	reserved for Eva							
-338	reserved for Eva							
-339	reserved for Eva							
-340	reserved for Eva							
-341	reserved for Eva							
-342	reserved for Eva							
-343	reserved for Eva							
-344	reserved for Eva							
-345	reserved for Eva							
-346	reserved for Eva							
-347	reserved for Eva							
-348	reserved for Eva							
-349	reserved for Eva							
-350	reserved for Eva							
-351	reserved for Eva							
-352	reserved for Eva							
-353	reserved for Eva							
-354	reserved for Eva							
-355	reserved for Eva							
-356	reserved for Eva							
-357	reserved for Eva							
+310	MSMS_pos_30_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+311	MSMS_neg_30_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+312	MSMS_pos_40_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+313	MSMS_neg_40_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+314	MSMS_pos_50_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+315	MSMS_neg_50_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+316	CCS_pos_40_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+317	CCS_neg_40_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+318	MSMS_pos_30_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+319	MSMS_neg_30_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+320	MSMS_pos_40_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+321	MSMS_neg_40_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+322	MSMS_pos_50_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+323	MSMS_neg_50_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+324	CCS_pos_40_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+325	CCS_neg_40_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
+326	MSMS_pos_30_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+327	MSMS_neg_30_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+328	MSMS_pos_40_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+329	MSMS_neg_40_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+330	MSMS_pos_50_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+331	MSMS_neg_50_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+332	CCS_pos_40_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+333	CCS_neg_40_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+334	MSMS_pos_30_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+335	MSMS_neg_30_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+336	MSMS_pos_40_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+337	MSMS_neg_40_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+338	MSMS_pos_50_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+339	MSMS_neg_50_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+340	CCS_pos_40_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+341	CCS_neg_40_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
+342	MSMS_pos_30_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+343	MSMS_neg_30_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+344	MSMS_pos_40_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+345	MSMS_neg_40_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+346	MSMS_pos_50_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+347	MSMS_neg_50_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+348	CCS_pos_40_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+349	CCS_neg_40_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+350	MSMS_pos_30_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+351	MSMS_neg_30_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+352	MSMS_pos_40_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+353	MSMS_neg_40_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+354	MSMS_pos_50_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+355	MSMS_neg_50_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+356	CCS_pos_40_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+357	CCS_neg_40_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
 358	reserved for Maria Eugenia Monge							
 359	reserved for Maria Eugenia Monge							
 360	reserved for Maria Eugenia Monge							
