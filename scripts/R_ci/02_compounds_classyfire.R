@@ -33,6 +33,7 @@ data_folders <- file.path('processed_data', commandArgs(trailingOnly=TRUE))
 
 
 # load already classified inchikeys
+start.time <- Sys.time()
 classyfire_db <- new.env(hash=TRUE)
 for (rt_data_file in list.files("processed_data", pattern="_rtdata_.*_success.txt$",
                                 full.names=TRUE, recursive=TRUE)){
@@ -45,6 +46,10 @@ for (rt_data_file in list.files("processed_data", pattern="_rtdata_.*_success.tx
                                                            rt_data[[i, "classyfire.level5"]],
                                                            rt_data[[i, "classyfire.level6"]])
 }
+end.time <- Sys.time()
+time.taken <- end.time - start.time
+cat(paste("read in", length(classyfire_db), "already classified inchikeys in", round(time.taken, 2), "min\n"))
+
 
 # iterate through folder and add data to full_rt_data_canonical ----------------
 for(data_folder in data_folders) {
@@ -110,6 +115,8 @@ for(data_folder in data_folders) {
                            " (", classification_result@classification$CHEMONT[5], ")")
           level6 <- paste0(classification_result@classification$Classification[6],
                            " (", classification_result@classification$CHEMONT[6], ")")
+
+          classyfire_db[[x]] <- c(kingdom, superclass, class, subclass, level5, level6)
 
         }
 
@@ -209,6 +216,8 @@ for(data_folder in data_folders) {
                            " (", classification_result@classification$CHEMONT[5], ")")
           level6 <- paste0(classification_result@classification$Classification[6],
                            " (", classification_result@classification$CHEMONT[6], ")")
+
+          classyfire_db[[x]] <- c(kingdom, superclass, class, subclass, level5, level6)
 
         }
 
