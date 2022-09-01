@@ -1,0 +1,2 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0243_00077	[(3R)-3-Hydroxydodecanoyl]-L-carnitine	C19H37NO5	4.467		'PUGREST.BadRequest: error: '		
