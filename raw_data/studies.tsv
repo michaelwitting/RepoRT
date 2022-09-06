@@ -355,7 +355,7 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 354	MSMS_pos_50_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
 355	MSMS_neg_50_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
 356	CCS_pos_40_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-357	CCS_neg_40_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+357	CCS_neg_40_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting	
 358	reserved for Maria Eugenia Monge							
 359	reserved for Maria Eugenia Monge							
 360	reserved for Maria Eugenia Monge							
@@ -370,3 +370,13 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 369	JB_MM15			Dataset	HILIC			J. Büscher
 370	JB_MM18			Dataset	HILIC			J. Büscher
 371	JB_MM20			Dataset	HILIC			J. Büscher
+372	reserved for Jörg Büscher							
+373	reserved for Jörg Büscher							
+374	reserved for Jörg Büscher							
+375	reserved for Jörg Büscher							
+376	reserved for Jörg Büscher							
+377	reserved for Jörg Büscher							
+378	reserved for Jörg Büscher							
+379	reserved for Jörg Büscher							
+380	reserved for Jörg Büscher							
+381	reserved for Jörg Büscher							
