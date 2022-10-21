@@ -14,10 +14,10 @@ library(tidyverse)
 # get list of all folders ------------------------------------------------------
 data_folders <- list.dirs("processed_data", full.names = TRUE, recursive = FALSE)
 
-# filter potential data folders found in negative list
-if(!length(negative_list) == 1 && !is.na(negative_list)) {
-  data_folders <- data_folders[which(!str_detect(data_folders, paste0(negative_list, collapse = "|")))]
-}
+# # filter potential data folders found in negative list
+# if(!length(negative_list) == 1 && !is.na(negative_list)) {
+#   data_folders <- data_folders[which(!str_detect(data_folders, paste0(negative_list, collapse = "|")))]
+# }
 
 # read data --------------------------------------------------------------------
 studies_data <- read_tsv("processed_data/studies.txt")

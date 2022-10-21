@@ -79,11 +79,15 @@ check_metadata <- function(x) {
   # additives
   if(!"eluent.A.formic" %in% colnames(x)) {
     x <- add_column(x, eluent.A.formic = 0)
-  } 
+  }
   
   if(!"eluent.A.formic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.A.formic.unit = NA_character_)
-  } 
+  } else {
+    if(all(x$eluent.A.formic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.formic.unit = NA_character_)
+    }
+  }
   
   if(!"eluent.A.acetic" %in% colnames(x)) {
     x <- add_column(x, eluent.A.acetic = 0)
@@ -91,7 +95,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.A.acetic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.A.acetic.unit = NA_character_)
-  } 
+  } else {
+    if(all(x$eluent.A.acetic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.acetic.unit = NA_character_)
+    }
+  }
   
   if(!"eluent.A.trifluoroacetic" %in% colnames(x)) {
     x <- add_column(x, eluent.A.trifluoroacetic = 0)
@@ -99,7 +107,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.A.trifluoroacetic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.A.trifluoroacetic.unit = NA_character_)
-  }   
+  } else {
+    if(all(x$eluent.A.trifluoroacetic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.trifluoroacetic.unit = NA_character_)
+    }
+  }  
   
   if(!"eluent.A.phosphor" %in% colnames(x)) {
     x <- add_column(x, eluent.A.phosphor = 0)
@@ -107,6 +119,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.A.phosphor.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.A.phosphor.unit = NA_character_)
+  } else {
+    if(all(x$eluent.A.phosphor.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.phosphor.unit = NA_character_)
+    }
   }  
   
   if(!"eluent.A.nh4ac" %in% colnames(x)) {
@@ -115,6 +131,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.A.nh4ac.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.A.nh4ac.unit = NA_character_)
+  } else {
+    if(all(x$eluent.A.nh4ac.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.nh4ac.unit = NA_character_)
+    }
   }    
   
   if(!"eluent.A.nh4form" %in% colnames(x)) {
@@ -123,6 +143,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.A.nh4form.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.A.nh4form.unit = NA_character_)
+  } else {
+    if(all(x$eluent.A.nh4form.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.nh4form.unit = NA_character_)
+    }
   }    
 
   if(!"eluent.A.nh4carb" %in% colnames(x)) {
@@ -131,7 +155,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.A.nh4carb.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.A.nh4carb.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.A.nh4carb.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.nh4carb.unit = NA_character_)
+    }
+  }   
   
   if(!"eluent.A.nh4bicarb" %in% colnames(x)) {
     x <- add_column(x, eluent.A.nh4bicarb = 0)
@@ -139,7 +167,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.A.nh4bicarb.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.A.nh4bicarb.unit = NA_character_)
-  }   
+  } else {
+    if(all(x$eluent.A.nh4bicarb.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.nh4bicarb.unit = NA_character_)
+    }
+  }    
   
   if(!"eluent.A.nh4f" %in% colnames(x)) {
     x <- add_column(x, eluent.A.nh4f = 0)
@@ -147,6 +179,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.A.nh4f.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.A.nh4f.unit = NA_character_)
+  } else {
+    if(all(x$eluent.A.nh4f.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.nh4f.unit = NA_character_)
+    }
   }  
   
   if(!"eluent.A.nh4oh" %in% colnames(x)) {
@@ -155,7 +191,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.A.nh4oh.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.A.nh4oh.unit = NA_character_)
-  }    
+  } else {
+    if(all(x$eluent.A.nh4oh.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.nh4oh.unit = NA_character_)
+    }
+  }   
   
   if(!"eluent.A.trieth" %in% colnames(x)) {
     x <- add_column(x, eluent.A.trieth = 0)
@@ -163,6 +203,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.A.trieth.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.A.trieth.unit = NA_character_)
+  } else {
+    if(all(x$eluent.A.trieth.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.trieth.unit = NA_character_)
+    }
   }  
   
   if(!"eluent.A.triprop" %in% colnames(x)) {
@@ -171,7 +215,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.A.triprop.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.A.triprop.unit = NA_character_)
-  }   
+  } else {
+    if(all(x$eluent.A.triprop.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.triprop.unit = NA_character_)
+    }
+  }     
  
   if(!"eluent.A.tribut" %in% colnames(x)) {
     x <- add_column(x, eluent.A.tribut = 0)
@@ -179,7 +227,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.A.tribut.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.A.tribut.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.A.tribut.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.tribut.unit = NA_character_)
+    }
+  } 
   
   if(!"eluent.A.nndimethylhex" %in% colnames(x)) {
     x <- add_column(x, eluent.A.nndimethylhex = 0)
@@ -187,7 +239,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.A.nndimethylhex.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.A.nndimethylhex.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.A.nndimethylhex.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.nndimethylhex.unit = NA_character_)
+    }
+  }   
   
   if(!"eluent.A.medronic" %in% colnames(x)) {
     x <- add_column(x, eluent.A.medronic = 0)
@@ -195,7 +251,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.A.medronic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.A.medronic.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.A.medronic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.medronic.unit = NA_character_)
+    }
+  }   
   
   # pH value
   if(!"eluent.A.pH" %in% colnames(x)) {
@@ -244,11 +304,15 @@ check_metadata <- function(x) {
   # additives
   if(!"eluent.B.formic" %in% colnames(x)) {
     x <- add_column(x, eluent.B.formic = 0)
-  } 
+  }
   
   if(!"eluent.B.formic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.B.formic.unit = NA_character_)
-  } 
+  } else {
+    if(all(x$eluent.B.formic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.formic.unit = NA_character_)
+    }
+  }
   
   if(!"eluent.B.acetic" %in% colnames(x)) {
     x <- add_column(x, eluent.B.acetic = 0)
@@ -256,7 +320,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.B.acetic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.B.acetic.unit = NA_character_)
-  } 
+  } else {
+    if(all(x$eluent.B.acetic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.acetic.unit = NA_character_)
+    }
+  }
   
   if(!"eluent.B.trifluoroacetic" %in% colnames(x)) {
     x <- add_column(x, eluent.B.trifluoroacetic = 0)
@@ -264,7 +332,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.B.trifluoroacetic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.B.trifluoroacetic.unit = NA_character_)
-  }   
+  } else {
+    if(all(x$eluent.B.trifluoroacetic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.trifluoroacetic.unit = NA_character_)
+    }
+  }  
   
   if(!"eluent.B.phosphor" %in% colnames(x)) {
     x <- add_column(x, eluent.B.phosphor = 0)
@@ -272,6 +344,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.B.phosphor.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.B.phosphor.unit = NA_character_)
+  } else {
+    if(all(x$eluent.B.phosphor.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.phosphor.unit = NA_character_)
+    }
   }  
   
   if(!"eluent.B.nh4ac" %in% colnames(x)) {
@@ -280,6 +356,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.B.nh4ac.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.B.nh4ac.unit = NA_character_)
+  } else {
+    if(all(x$eluent.B.nh4ac.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.nh4ac.unit = NA_character_)
+    }
   }    
   
   if(!"eluent.B.nh4form" %in% colnames(x)) {
@@ -288,6 +368,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.B.nh4form.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.B.nh4form.unit = NA_character_)
+  } else {
+    if(all(x$eluent.B.nh4form.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.nh4form.unit = NA_character_)
+    }
   }    
   
   if(!"eluent.B.nh4carb" %in% colnames(x)) {
@@ -296,7 +380,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.B.nh4carb.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.B.nh4carb.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.B.nh4carb.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.nh4carb.unit = NA_character_)
+    }
+  }   
   
   if(!"eluent.B.nh4bicarb" %in% colnames(x)) {
     x <- add_column(x, eluent.B.nh4bicarb = 0)
@@ -304,7 +392,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.B.nh4bicarb.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.B.nh4bicarb.unit = NA_character_)
-  }   
+  } else {
+    if(all(x$eluent.B.nh4bicarb.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.nh4bicarb.unit = NA_character_)
+    }
+  }    
   
   if(!"eluent.B.nh4f" %in% colnames(x)) {
     x <- add_column(x, eluent.B.nh4f = 0)
@@ -312,6 +404,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.B.nh4f.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.B.nh4f.unit = NA_character_)
+  } else {
+    if(all(x$eluent.B.nh4f.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.nh4f.unit = NA_character_)
+    }
   }  
   
   if(!"eluent.B.nh4oh" %in% colnames(x)) {
@@ -320,7 +416,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.B.nh4oh.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.B.nh4oh.unit = NA_character_)
-  }    
+  } else {
+    if(all(x$eluent.B.nh4oh.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.nh4oh.unit = NA_character_)
+    }
+  }   
   
   if(!"eluent.B.trieth" %in% colnames(x)) {
     x <- add_column(x, eluent.B.trieth = 0)
@@ -328,6 +428,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.B.trieth.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.B.trieth.unit = NA_character_)
+  } else {
+    if(all(x$eluent.B.trieth.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.trieth.unit = NA_character_)
+    }
   }  
   
   if(!"eluent.B.triprop" %in% colnames(x)) {
@@ -336,7 +440,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.B.triprop.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.B.triprop.unit = NA_character_)
-  }   
+  } else {
+    if(all(x$eluent.B.triprop.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.triprop.unit = NA_character_)
+    }
+  }     
   
   if(!"eluent.B.tribut" %in% colnames(x)) {
     x <- add_column(x, eluent.B.tribut = 0)
@@ -344,7 +452,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.B.tribut.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.B.tribut.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.B.tribut.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.tribut.unit = NA_character_)
+    }
+  } 
   
   if(!"eluent.B.nndimethylhex" %in% colnames(x)) {
     x <- add_column(x, eluent.B.nndimethylhex = 0)
@@ -352,7 +464,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.B.nndimethylhex.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.B.nndimethylhex.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.B.nndimethylhex.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.nndimethylhex.unit = NA_character_)
+    }
+  }   
   
   if(!"eluent.B.medronic" %in% colnames(x)) {
     x <- add_column(x, eluent.B.medronic = 0)
@@ -360,7 +476,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.B.medronic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.B.medronic.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.B.medronic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.medronic.unit = NA_character_)
+    }
+  } 
   
   # pH value
   if(!"eluent.B.pH" %in% colnames(x)) {
@@ -408,11 +528,15 @@ check_metadata <- function(x) {
   # additives
   if(!"eluent.C.formic" %in% colnames(x)) {
     x <- add_column(x, eluent.C.formic = 0)
-  } 
+  }
   
   if(!"eluent.C.formic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.C.formic.unit = NA_character_)
-  } 
+  } else {
+    if(all(x$eluent.C.formic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.formic.unit = NA_character_)
+    }
+  }
   
   if(!"eluent.C.acetic" %in% colnames(x)) {
     x <- add_column(x, eluent.C.acetic = 0)
@@ -420,7 +544,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.C.acetic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.C.acetic.unit = NA_character_)
-  } 
+  } else {
+    if(all(x$eluent.C.acetic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.acetic.unit = NA_character_)
+    }
+  }
   
   if(!"eluent.C.trifluoroacetic" %in% colnames(x)) {
     x <- add_column(x, eluent.C.trifluoroacetic = 0)
@@ -428,7 +556,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.C.trifluoroacetic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.C.trifluoroacetic.unit = NA_character_)
-  }   
+  } else {
+    if(all(x$eluent.C.trifluoroacetic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.trifluoroacetic.unit = NA_character_)
+    }
+  }  
   
   if(!"eluent.C.phosphor" %in% colnames(x)) {
     x <- add_column(x, eluent.C.phosphor = 0)
@@ -436,6 +568,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.C.phosphor.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.C.phosphor.unit = NA_character_)
+  } else {
+    if(all(x$eluent.C.phosphor.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.phosphor.unit = NA_character_)
+    }
   }  
   
   if(!"eluent.C.nh4ac" %in% colnames(x)) {
@@ -444,6 +580,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.C.nh4ac.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.C.nh4ac.unit = NA_character_)
+  } else {
+    if(all(x$eluent.C.nh4ac.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.nh4ac.unit = NA_character_)
+    }
   }    
   
   if(!"eluent.C.nh4form" %in% colnames(x)) {
@@ -452,6 +592,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.C.nh4form.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.C.nh4form.unit = NA_character_)
+  } else {
+    if(all(x$eluent.C.nh4form.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.nh4form.unit = NA_character_)
+    }
   }    
   
   if(!"eluent.C.nh4carb" %in% colnames(x)) {
@@ -460,7 +604,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.C.nh4carb.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.C.nh4carb.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.C.nh4carb.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.nh4carb.unit = NA_character_)
+    }
+  }   
   
   if(!"eluent.C.nh4bicarb" %in% colnames(x)) {
     x <- add_column(x, eluent.C.nh4bicarb = 0)
@@ -468,7 +616,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.C.nh4bicarb.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.C.nh4bicarb.unit = NA_character_)
-  }   
+  } else {
+    if(all(x$eluent.C.nh4bicarb.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.nh4bicarb.unit = NA_character_)
+    }
+  }    
   
   if(!"eluent.C.nh4f" %in% colnames(x)) {
     x <- add_column(x, eluent.C.nh4f = 0)
@@ -476,6 +628,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.C.nh4f.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.C.nh4f.unit = NA_character_)
+  } else {
+    if(all(x$eluent.C.nh4f.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.nh4f.unit = NA_character_)
+    }
   }  
   
   if(!"eluent.C.nh4oh" %in% colnames(x)) {
@@ -484,7 +640,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.C.nh4oh.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.C.nh4oh.unit = NA_character_)
-  }    
+  } else {
+    if(all(x$eluent.C.nh4oh.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.nh4oh.unit = NA_character_)
+    }
+  }   
   
   if(!"eluent.C.trieth" %in% colnames(x)) {
     x <- add_column(x, eluent.C.trieth = 0)
@@ -492,6 +652,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.C.trieth.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.C.trieth.unit = NA_character_)
+  } else {
+    if(all(x$eluent.C.trieth.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.trieth.unit = NA_character_)
+    }
   }  
   
   if(!"eluent.C.triprop" %in% colnames(x)) {
@@ -500,7 +664,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.C.triprop.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.C.triprop.unit = NA_character_)
-  }   
+  } else {
+    if(all(x$eluent.C.triprop.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.triprop.unit = NA_character_)
+    }
+  }     
   
   if(!"eluent.C.tribut" %in% colnames(x)) {
     x <- add_column(x, eluent.C.tribut = 0)
@@ -508,7 +676,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.C.tribut.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.C.tribut.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.C.tribut.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.tribut.unit = NA_character_)
+    }
+  } 
   
   if(!"eluent.C.nndimethylhex" %in% colnames(x)) {
     x <- add_column(x, eluent.C.nndimethylhex = 0)
@@ -516,7 +688,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.C.nndimethylhex.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.C.nndimethylhex.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.C.nndimethylhex.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.nndimethylhex.unit = NA_character_)
+    }
+  }   
   
   if(!"eluent.C.medronic" %in% colnames(x)) {
     x <- add_column(x, eluent.C.medronic = 0)
@@ -524,7 +700,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.C.medronic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.C.medronic.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.C.medronic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.medronic.unit = NA_character_)
+    }
+  }
   
   # pH value
   if(!"eluent.C.pH" %in% colnames(x)) {
@@ -572,11 +752,15 @@ check_metadata <- function(x) {
   # additives
   if(!"eluent.D.formic" %in% colnames(x)) {
     x <- add_column(x, eluent.D.formic = 0)
-  } 
+  }
   
   if(!"eluent.D.formic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.D.formic.unit = NA_character_)
-  } 
+  } else {
+    if(all(x$eluent.D.formic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.formic.unit = NA_character_)
+    }
+  }
   
   if(!"eluent.D.acetic" %in% colnames(x)) {
     x <- add_column(x, eluent.D.acetic = 0)
@@ -584,7 +768,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.D.acetic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.D.acetic.unit = NA_character_)
-  } 
+  } else {
+    if(all(x$eluent.D.acetic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.acetic.unit = NA_character_)
+    }
+  }
   
   if(!"eluent.D.trifluoroacetic" %in% colnames(x)) {
     x <- add_column(x, eluent.D.trifluoroacetic = 0)
@@ -592,7 +780,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.D.trifluoroacetic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.D.trifluoroacetic.unit = NA_character_)
-  }   
+  } else {
+    if(all(x$eluent.D.trifluoroacetic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.trifluoroacetic.unit = NA_character_)
+    }
+  }  
   
   if(!"eluent.D.phosphor" %in% colnames(x)) {
     x <- add_column(x, eluent.D.phosphor = 0)
@@ -600,6 +792,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.D.phosphor.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.D.phosphor.unit = NA_character_)
+  } else {
+    if(all(x$eluent.D.phosphor.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.phosphor.unit = NA_character_)
+    }
   }  
   
   if(!"eluent.D.nh4ac" %in% colnames(x)) {
@@ -608,6 +804,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.D.nh4ac.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.D.nh4ac.unit = NA_character_)
+  } else {
+    if(all(x$eluent.D.nh4ac.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.nh4ac.unit = NA_character_)
+    }
   }    
   
   if(!"eluent.D.nh4form" %in% colnames(x)) {
@@ -616,6 +816,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.D.nh4form.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.D.nh4form.unit = NA_character_)
+  } else {
+    if(all(x$eluent.D.nh4form.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.nh4form.unit = NA_character_)
+    }
   }    
   
   if(!"eluent.D.nh4carb" %in% colnames(x)) {
@@ -624,7 +828,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.D.nh4carb.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.D.nh4carb.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.D.nh4carb.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.nh4carb.unit = NA_character_)
+    }
+  }   
   
   if(!"eluent.D.nh4bicarb" %in% colnames(x)) {
     x <- add_column(x, eluent.D.nh4bicarb = 0)
@@ -632,7 +840,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.D.nh4bicarb.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.D.nh4bicarb.unit = NA_character_)
-  }   
+  } else {
+    if(all(x$eluent.D.nh4bicarb.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.nh4bicarb.unit = NA_character_)
+    }
+  }    
   
   if(!"eluent.D.nh4f" %in% colnames(x)) {
     x <- add_column(x, eluent.D.nh4f = 0)
@@ -640,6 +852,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.D.nh4f.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.D.nh4f.unit = NA_character_)
+  } else {
+    if(all(x$eluent.D.nh4f.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.nh4f.unit = NA_character_)
+    }
   }  
   
   if(!"eluent.D.nh4oh" %in% colnames(x)) {
@@ -648,7 +864,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.D.nh4oh.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.D.nh4oh.unit = NA_character_)
-  }    
+  } else {
+    if(all(x$eluent.D.nh4oh.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.nh4oh.unit = NA_character_)
+    }
+  }   
   
   if(!"eluent.D.trieth" %in% colnames(x)) {
     x <- add_column(x, eluent.D.trieth = 0)
@@ -656,6 +876,10 @@ check_metadata <- function(x) {
   
   if(!"eluent.D.trieth.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.D.trieth.unit = NA_character_)
+  } else {
+    if(all(x$eluent.D.trieth.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.trieth.unit = NA_character_)
+    }
   }  
   
   if(!"eluent.D.triprop" %in% colnames(x)) {
@@ -664,7 +888,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.D.triprop.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.D.triprop.unit = NA_character_)
-  }   
+  } else {
+    if(all(x$eluent.D.triprop.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.triprop.unit = NA_character_)
+    }
+  }     
   
   if(!"eluent.D.tribut" %in% colnames(x)) {
     x <- add_column(x, eluent.D.tribut = 0)
@@ -672,7 +900,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.D.tribut.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.D.tribut.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.D.tribut.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.tribut.unit = NA_character_)
+    }
+  } 
   
   if(!"eluent.D.nndimethylhex" %in% colnames(x)) {
     x <- add_column(x, eluent.D.nndimethylhex = 0)
@@ -680,7 +912,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.D.nndimethylhex.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.D.nndimethylhex.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.D.nndimethylhex.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.nndimethylhex.unit = NA_character_)
+    }
+  }   
   
   if(!"eluent.D.medronic" %in% colnames(x)) {
     x <- add_column(x, eluent.D.medronic = 0)
@@ -688,7 +924,11 @@ check_metadata <- function(x) {
   
   if(!"eluent.D.medronic.unit" %in% colnames(x)) {
     x <- add_column(x, eluent.D.medronic.unit = NA_character_)
-  }  
+  } else {
+    if(all(x$eluent.D.medronic.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.medronic.unit = NA_character_)
+    }
+  }
   
   # pH value
   if(!"eluent.D.pH" %in% colnames(x)) {
