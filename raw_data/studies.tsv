@@ -262,8 +262,8 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 261	Synergi_Neg	https://doi.org/10.1021/acs.analchem.1c00972		Dataset	RP			C. Huber
 262	SPECIMEN_Pos	https://doi.org/10.1021/acs.analchem.2c00061		Dataset	RP			C. Huber
 263	SPECIMEN_Neg	https://doi.org/10.1021/acs.analchem.2c00061		Dataset	RP			C. Huber
-264	reserved for Adriano Rutz							
-265	reseverd for Mitja							
+264	AR			Dataset	RP			Adriano Rutz
+265	MZ			Dataset	RP			Mitja Zdouc
 266	reserved for Kruve Lab							
 267	reserved for Kruve Lab							
 268	reserved for Kruve Lab							
@@ -355,12 +355,12 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 354	MSMS_pos_50_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
 355	MSMS_neg_50_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
 356	CCS_pos_40_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-357	CCS_neg_40_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting	
-358	reserved for Maria Eugenia Monge							
-359	reserved for Maria Eugenia Monge							
-360	reserved for Maria Eugenia Monge							
-361	reserved for Maria Eugenia Monge							
-362	reserved for Maria Eugenia Monge							
+357	CCS_neg_40_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+358	EM_1			Dataset	RP			E. Monge
+359	EM_2			Dataset	RP			E. Monge
+360	EM_3			Dataset	RP			E. Monge
+361	EM_4			Dataset	RP			E. Monge
+362	EM_5			Dataset	RP			E. Monge
 363	JB_MM03			Dataset	HILIC			J. Büscher
 364	JB_MM05			Dataset	HILIC			J. Büscher
 365	JB_MM07			Dataset	HILIC			J. Büscher
@@ -370,13 +370,13 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 369	JB_MM15			Dataset	HILIC			J. Büscher
 370	JB_MM18			Dataset	HILIC			J. Büscher
 371	JB_MM20			Dataset	HILIC			J. Büscher
-372	reserved for Jörg Büscher							
-373	reserved for Jörg Büscher							
-374	reserved for Jörg Büscher							
-375	reserved for Jörg Büscher							
-376	reserved for Jörg Büscher							
-377	reserved for Jörg Büscher							
-378	reserved for Jörg Büscher							
-379	reserved for Jörg Büscher							
-380	reserved for Jörg Büscher							
-381	reserved for Jörg Büscher							
+372	JB_1			Dataset	HILIC			J. Büscher
+373	JB_2			Dataset	HILIC			J. Büscher
+374	JB_3			Dataset	HILIC			J. Büscher
+375	JB_4			Dataset	HILIC			J. Büscher
+376	JB_5			Dataset	HILIC			J. Büscher
+377	JB_6			Dataset	HILIC			J. Büscher
+378	JB_7			Dataset	HILIC			J. Büscher
+379	JB_8			Dataset	HILIC			J. Büscher
+380	JB_9			Dataset	HILIC			J. Büscher
+381	JB_10			Dataset	HILIC			
