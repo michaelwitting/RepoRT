@@ -1,0 +1,7 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0210_00185	OSI1103	C7H16NO2	0.75		'PUGREST.BadRequest: error: '		
+0210_00465	OSI1096	C10H11N5O6P2	0.735		'PUGREST.BadRequest: error: '		
+0210_00595	OSI359	C6H6N2O2	0.77		'PUGREST.BadRequest: error: '		
+0210_00652	OSI1519	C10H12N2O2	2.23		'PUGREST.BadRequest: error: '		
+0210_00702	OSI319	C12H13N3O4	1.698333333		'PUGREST.BadRequest: error: '		
+0210_00756	OSI961	C5H14NO	0.69		'PUGREST.BadRequest: error: '		
