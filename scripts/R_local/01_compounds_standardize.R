@@ -66,7 +66,6 @@ for(data_folder in data_folders) {
   # ============================================================================
   # standardize canonical smiles
   # ============================================================================
-  
   rt_data %>% 
     select(id, pubchem.smiles.canonical) %>% 
     write_tsv("temp.txt", col_names = FALSE)
@@ -139,7 +138,6 @@ for(data_folder in data_folders) {
   # ============================================================================
   # standardize isomeric smiles
   # ============================================================================
-  
   rt_data %>% 
     select(id, pubchem.smiles.isomeric) %>% 
     write_tsv("temp.txt", col_names = FALSE)
