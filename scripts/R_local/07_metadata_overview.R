@@ -20,7 +20,7 @@ data_folders <- list.dirs("processed_data", full.names = TRUE, recursive = FALSE
 # }
 
 # read data --------------------------------------------------------------------
-studies_data <- read_tsv("processed_data/studies.txt")
+studies_data <- read_tsv("processed_data/studies.tsv")
 meta_data <- tibble()
 
 for(data_folder in data_folders) {
