@@ -1,7 +1,3 @@
-												
-	Study ID		0273									
-												
-												
 id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	pubchem.inchi	pubchem.inchikey	id.chebi	id.hmdb	id.lipidmaps	id.kegg
 0273_00001	1-Nitropyrene		18.01				InChI=1S/C16H9NO2/c18-17(19)14-9-7-12-5-4-10-2-1-3-11-6-8-13(14)16(12)15(10)11/h1-9H					
 0273_00002	17beta estradiol		14.802				InChI=1S/C18H24O2/c1-18-9-8-14-13-5-3-12(19)10-11(13)2-4-15(14)16(18)6-7-17(18)20/h3,5,10,14-17,19-20H,2,4,6-9H2,1H3/t14-,15-,16+,17+,18+/m1/s1					

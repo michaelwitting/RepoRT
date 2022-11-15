@@ -1,7 +1,3 @@
-												
-	Study ID		0272									
-												
-												
 id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	pubchem.inchi	pubchem.inchikey	id.chebi	id.hmdb	id.lipidmaps	id.kegg
 0272_00001	17beta estradiol		10.80285714				InChI=1S/C18H24O2/c1-18-9-8-14-13-5-3-12(19)10-11(13)2-4-15(14)16(18)6-7-17(18)20/h3,5,10,14-17,19-20H,2,4,6-9H2,1H3/t14-,15-,16+,17+,18+/m1/s1					
 0272_00002	1H-Benzotriazole		4.383333333				InChI=1S/C6H5N3/c1-2-4-6-5(3-1)7-9-8-6/h1-4H,(H,7,8,9)					
