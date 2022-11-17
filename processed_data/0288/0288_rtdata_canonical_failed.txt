@@ -1,0 +1,2 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0288_00042	Sudan I		15.33333333		'PUGREST.BadRequest: error: '		
