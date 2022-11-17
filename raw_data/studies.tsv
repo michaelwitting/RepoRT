@@ -264,36 +264,36 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 263	SPECIMEN_Neg	https://doi.org/10.1021/acs.analchem.2c00061		Dataset	RP			C. Huber
 264	AR			Dataset	RP			Adriano Rutz
 265	MZ			Dataset	RP			Mitja Zdouc
-266	reserved for Kruve Lab							
-267	reserved for Kruve Lab							
-268	reserved for Kruve Lab							
-269	reserved for Kruve Lab							
-270	reserved for Kruve Lab							
-271	reserved for Kruve Lab							
-272	reserved for Kruve Lab							
-273	reserved for Kruve Lab							
-274	reserved for Kruve Lab							
-275	reserved for Kruve Lab							
-276	reserved for Kruve Lab							
-277	reserved for Kruve Lab							
-278	reserved for Kruve Lab							
-279	reserved for Kruve Lab							
-280	reserved for Kruve Lab							
-281	reserved for Kruve Lab							
-282	reserved for Kruve Lab							
-283	reserved for Kruve Lab							
-284	reserved for Kruve Lab							
-285	reserved for Kruve Lab							
-286	reserved for Kruve Lab							
-287	reserved for Kruve Lab							
-288	reserved for Kruve Lab							
-289	reserved for Kruve Lab							
-290	reserved for Kruve Lab							
-291	reserved for Kruve Lab							
-292	reserved for Kruve Lab							
-293	reserved for Kruve Lab							
-294	reserved for Kruve Lab							
-295	reserved for Kruve Lab							
+266	Kruve Lab_1	https://doi.org/10.1016/j.chroma.2022.462867		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+267	Kruve Lab_2	https://doi.org/10.1016/j.chroma.2022.462868		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+268	Kruve Lab_3	https://doi.org/10.1016/j.chroma.2022.462869		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+269	Kruve Lab_4	https://doi.org/10.1016/j.chroma.2022.462870		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+270	Kruve Lab_5	https://doi.org/10.1016/j.chroma.2022.462871		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+271	Kruve Lab_6	https://doi.org/10.1016/j.chroma.2022.462872		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+272	Kruve Lab_7	https://doi.org/10.1016/j.chroma.2022.462873		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+273	Kruve Lab_8	https://doi.org/10.1016/j.chroma.2022.462874		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+274	Kruve Lab_9	https://doi.org/10.1016/j.chroma.2022.462875		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+275	Kruve Lab_10	https://doi.org/10.1016/j.chroma.2022.462876		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+276	Kruve Lab_11	https://doi.org/10.1016/j.chroma.2022.462877		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+277	Kruve Lab_12	https://doi.org/10.1016/j.chroma.2022.462878		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+278	Kruve Lab_13	https://doi.org/10.1016/j.chroma.2022.462879		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+279	Kruve Lab_14	https://doi.org/10.1016/j.chroma.2022.462880		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+280	Kruve Lab_15	https://doi.org/10.1016/j.chroma.2022.462881		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+281	Kruve Lab_16	https://doi.org/10.1016/j.chroma.2022.462882		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+282	Kruve Lab_17	https://doi.org/10.1016/j.chroma.2022.462883		Kruve Lab-Publication	HILIC			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+283	Kruve Lab_18	https://doi.org/10.1016/j.chroma.2022.462884		Kruve Lab-Publication	HILIC			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+284	Kruve Lab_19	https://doi.org/10.1016/j.chroma.2022.462885		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+285	Kruve Lab_20	https://doi.org/10.1016/j.chroma.2022.462886		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+286	Kruve Lab_21	https://doi.org/10.1016/j.chroma.2022.462887		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+287	Kruve Lab_22	https://doi.org/10.1016/j.chroma.2022.462888		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+288	Kruve Lab_23	https://doi.org/10.1016/j.chroma.2022.462889		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+289	Kruve Lab_24	https://doi.org/10.1016/j.chroma.2022.462890		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+290	Kruve Lab_25	https://doi.org/10.1016/j.chroma.2022.462891		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+291	Kruve Lab_26	https://doi.org/10.1016/j.chroma.2022.462892		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+292	Kruve Lab_27	https://doi.org/10.1016/j.chroma.2022.462893		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+293	Kruve Lab_28	https://doi.org/10.1016/j.chroma.2022.462894		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+294	Kruve Lab_29	https://doi.org/10.1016/j.chroma.2022.462895		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+295	Kruve Lab_30	https://doi.org/10.1016/j.chroma.2022.462896		Kruve Lab-Publication	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
 296	reserved for Kruve Lab							
 297	reserved for Kruve Lab							
 298	reserved for Kruve Lab							
@@ -379,4 +379,4 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 378	JB_7			Dataset	HILIC			J. Büscher
 379	JB_8			Dataset	HILIC			J. Büscher
 380	JB_9			Dataset	HILIC			J. Büscher
-381	JB_10			Dataset	HILIC			
+381	JB_10			Dataset	HILIC			J. Büscher
