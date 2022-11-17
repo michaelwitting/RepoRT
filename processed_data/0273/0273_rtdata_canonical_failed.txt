@@ -1,0 +1,3 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0273_00037	Monocrotophos		6.7475		'PUGREST.BadRequest: error: '		
+0273_00052	Sudan I		18.86		'PUGREST.BadRequest: error: '		
