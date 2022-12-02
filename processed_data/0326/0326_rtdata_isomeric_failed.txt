@@ -24,6 +24,3 @@ id	name	formula	rt	smiles.std	status
 0326_01065	Prosulfocarb	C14H21NOS	4.978		'PUGREST.BadRequest: error: '
 0326_01066	Rimsulfuron	C14H17N5O7S2	4.687		'PUGREST.BadRequest: error: '
 0326_01124	Mixture of Avermectin B1a and B1b	C48H72O14	5.474		'PUGREST.BadRequest: error: '
-0326_01201	Taurohyodeoxycholic acid	C26H43NO6	4.061		'PUGREST.BadRequest: error: '
-0326_01202	Glycocholic acid	C26H43NO6	4.061		'PUGREST.BadRequest: error: '
-0326_01203	Hyocholic acid	C26H43NO6	4.061		'PUGREST.BadRequest: error: '

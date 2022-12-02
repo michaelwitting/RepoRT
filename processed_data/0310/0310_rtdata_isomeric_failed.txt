@@ -14,7 +14,3 @@ id	name	formula	rt	smiles.std	status
 0310_01009	Pendimethalin (Penoxalin)	C13H19N3O4	5.262		'PUGREST.BadRequest: error: '
 0310_01017	Tolylfluanid	C10H13Cl2FN2O2S2	4.465		'PUGREST.BadRequest: error: '
 0310_01124	Mixture of Avermectin B1a and B1b	C48H72O14	6.597		'PUGREST.BadRequest: error: '
-0310_01195	Cholic acid 7-​sulfate	C24H40O8S	3.887		'PUGREST.BadRequest: error: '
-0310_01201	Taurohyodeoxycholic acid	C26H43NO6	4.623		'PUGREST.BadRequest: error: '
-0310_01203	Hyocholic acid	C26H43NO6	4.623		'PUGREST.BadRequest: error: '
-0310_01204	Taurolithocholic acid	C26H45NO5S	4.628		'PUGREST.BadRequest: error: '

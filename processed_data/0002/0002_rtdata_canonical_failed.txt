@@ -1,19 +1,19 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0002_00031	oxovitisin A	C25H24O13	33.21		FAILED_STANDARDIZATION		
-0002_00051	vitisin A	C26H25O14	28.3		FAILED_STANDARDIZATION		
-0002_00052	vitisin B	C56H42O12	26.994		FAILED_STANDARDIZATION		
-0002_00053	methylpyrano malvidin 3-glucoside		28.63		FAILED_STANDARDIZATION		
-0002_00100	ampelopsin D + quadrangularin A		26.215		FAILED_STANDARDIZATION		
-0002_00141	citronellyl glucoside		39.3		FAILED_STANDARDIZATION		
-0002_00148	Cyanidin 3-sambubioside	C26H29P15+	22.6		FAILED_STANDARDIZATION		
-0002_00163	delphinidin		27.1		FAILED_STANDARDIZATION		
-0002_00184	farnesyl glucoside		46.275		FAILED_STANDARDIZATION		
-0002_00272	malvidin 3-p-coumarylglucoside		32.5		FAILED_STANDARDIZATION		
-0002_00273	malvidin-3,5-diglucoside		20.68		FAILED_STANDARDIZATION		
-0002_00274	malvidin-3-galactoside		24.2		FAILED_STANDARDIZATION		
-0002_00275	malvidin-3-glucoside methyl acetate		28.9		FAILED_STANDARDIZATION		
-0002_00292	methyl sanguisorboate		30.1		FAILED_STANDARDIZATION		
-0002_00327	peonidin-3-O-(6-acetyl)-glucoside		29.2		FAILED_STANDARDIZATION		
-0002_00328	peonidin-3-O-(6-p-coumaroyl)-glucoside		32.985		FAILED_STANDARDIZATION		
-0002_00399	vaticanol C like isomer		28.99		FAILED_STANDARDIZATION		
-0002_00400	vitamin B12		21.7		FAILED_STANDARDIZATION		
+0002_00031	oxovitisin A	C25H24O13	33.21		'PUGREST.BadRequest: error: '		
+0002_00051	vitisin A	C26H25O14	28.3		'PUGREST.BadRequest: error: '		
+0002_00052	vitisin B	C56H42O12	26.994		'PUGREST.BadRequest: error: '		
+0002_00053	methylpyrano malvidin 3-glucoside		28.63		'PUGREST.BadRequest: error: '		
+0002_00100	ampelopsin D + quadrangularin A		26.215		'PUGREST.BadRequest: error: '		
+0002_00141	citronellyl glucoside		39.3		'PUGREST.BadRequest: error: '		
+0002_00148	Cyanidin 3-sambubioside	C26H29P15+	22.6		'PUGREST.BadRequest: error: '		
+0002_00163	delphinidin		27.1		'PUGREST.BadRequest: error: '		
+0002_00184	farnesyl glucoside		46.275		'PUGREST.BadRequest: error: '		
+0002_00272	malvidin 3-p-coumarylglucoside		32.5		'PUGREST.BadRequest: error: '		
+0002_00273	malvidin-3,5-diglucoside		20.68		'PUGREST.BadRequest: error: '		
+0002_00274	malvidin-3-galactoside		24.2		'PUGREST.BadRequest: error: '		
+0002_00275	malvidin-3-glucoside methyl acetate		28.9		'PUGREST.BadRequest: error: '		
+0002_00292	methyl sanguisorboate		30.1		'PUGREST.BadRequest: error: '		
+0002_00327	peonidin-3-O-(6-acetyl)-glucoside		29.2		'PUGREST.BadRequest: error: '		
+0002_00328	peonidin-3-O-(6-p-coumaroyl)-glucoside		32.985		'PUGREST.BadRequest: error: '		
+0002_00399	vaticanol C like isomer		28.99		'PUGREST.BadRequest: error: '		
+0002_00400	vitamin B12		21.7		'PUGREST.BadRequest: error: '		

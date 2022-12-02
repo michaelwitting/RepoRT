@@ -422,8 +422,6 @@ id	name	formula	rt	smiles.std	status
 0318_01169	Halofenozide	C13H15ClN6O7S	5.582		'PUGREST.BadRequest: error: '
 0318_01170	Halosulfuron-methyl	C21H16ClFN4O5	5.942		'PUGREST.BadRequest: error: '
 0318_01172	Metobromuron	C18H14BrCl2N5O2	5.184		'PUGREST.BadRequest: error: '
-0318_01196	Glycolithocholic acid	C26H43NO4	6.53		'PUGREST.BadRequest: error: '
-0318_01200	Glycodeoxycholic acid	C26H43NO5	6.334		'PUGREST.BadRequest: error: '
 0318_01218	C1-APS	C6H7NO3S	0.561		'PUGREST.BadRequest: error: '
 0318_01219	C2-APS	C7H9NO3S	0.578		'PUGREST.BadRequest: error: '
 0318_01221	C4-APS	C9H13NO3S	1.268		'PUGREST.BadRequest: error: '
