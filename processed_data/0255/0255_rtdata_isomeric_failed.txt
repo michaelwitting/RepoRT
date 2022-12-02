@@ -63,7 +63,7 @@ id	name	formula	rt	smiles.std	status
 0255_01135	Forchlorfenuron	C12H10ClN3O	4.375		'PUGREST.BadRequest: error: '
 0255_01137	Hexaflumuron	C16H8Cl2F6N2O3	5.783		'PUGREST.BadRequest: error: '
 0255_01138	Hydramethylnon (Amdro)	C25H24F6N4	5.338		'PUGREST.BadRequest: error: '
-0255_01139	Mixture of Ivermectini B1a and B1b	C48H74O14	7.19		'PUGREST.BadRequest: error: '
+0255_01139	Mixture of Ivermectin B1a and B1b	C48H74O14	7.19		'PUGREST.BadRequest: error: '
 0255_01142	Moxidectin	C37H53NO8	6.932		'PUGREST.BadRequest: error: '
 0255_01143	Nitenpyram	C11H15ClN4O2	2.805		'PUGREST.BadRequest: error: '
 0255_01152	Thidiazuron	C9H8N4OS	3.932		'PUGREST.BadRequest: error: '

@@ -1,5 +1,2 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0240_00077	[(3R)-3-Hydroxydodecanoyl]-L-carnitine	C19H37NO5	4.432		'PUGREST.BadRequest: error: '		
-0240_00092	trans-2-Tetradecenoyl-L-carnitine	C21H39NO4	5.218		'PUGREST.BadRequest: error: '		
 0240_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.616		'PUGREST.BadRequest: error: '		
-0240_01190	ω-Muricholic acid	C24H40O5	4.789		'PUGREST.BadRequest: error: '		
