@@ -1,4 +1,4 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0239_00077	[(3R)-3-Hydroxydodecanoyl]-L-carnitine	C19H37NO5	4.453		'PUGREST.BadRequest: error: '		
-0239_00092	trans-2-Tetradecenoyl-L-carnitine	C21H39NO4	5.273		'PUGREST.BadRequest: error: '		
+0239_00088	O-Succinyl-L-carnitine lithium salt	C11H19NO6	0.915	HAEVNYBCYZZDFL-UHFFFAOYSA-N	'PUGREST.BadRequest: error: '		
 0239_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.628		'PUGREST.BadRequest: error: '		
+0239_00895	DL-Isocitric acid trisodium salt hydrate	C6H8O7	0.77	ODBLHEXUDAPZAU-UHFFFAOYSA-N	'PUGREST.BadRequest: error: '		
