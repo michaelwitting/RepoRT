@@ -1,3 +1,5 @@
+library("rjson")
+
 check_metadata <- function(x) {
 
   # data set id ----------------------------------------------------------------
@@ -1145,4 +1147,42 @@ check_metadata <- function(x) {
                "gradient.end.B",
                "gradient.end.C",
                "gradient.end.D")
+}
+
+
+query_cache <- function(type, key) {
+  if (!exists("computation_cache_updated") || !computation_cache_updated){
+    start.time <- Sys.time()
+    result <- system("python3 scripts/Python/cache.py")
+    stopifnot(result == 0)
+    end.time <- Sys.time()
+    cat(paste("updated cache", " in", round(difftime(end.time, start.time, units="mins"), 2), "min\n"))
+    computation_cache_updated <<- TRUE
+    computation_cache <<- NULL # to force reload
+    computation_cache_hit_counter <<- list(smiles=0, classyfire=0, descriptors=0)
+    computation_cache_miss_counter <<- list(smiles=0, classyfire=0, descriptors=0)
+  }
+  if (!exists("computation_cache") || is.null(computation_cache)){
+    start.time <- Sys.time()
+    computation_cache <<- fromJSON(file='_computation_cache.json')
+    end.time <- Sys.time()
+    cat(paste("read in cache (", length(computation_cache[["cached_files"]]),
+              "files) in", round(difftime(end.time, start.time, units="mins"), 2), "min\n"))
+    computation_cache_hit_counter <<- list(smiles=0, classyfire=0, descriptors=0)
+    computation_cache_miss_counter <<- list(smiles=0, classyfire=0, descriptors=0)
+  }
+  result <- computation_cache[[type]][[key]]
+  if (is.null(result)) { # NULL has to be transformed to NA for convenience
+    if (type == "smiles")
+      result <- NA
+    computation_cache_miss_counter[[type]] <<- computation_cache_miss_counter[[type]] + 1
+  } else
+    computation_cache_hit_counter[[type]] <<- computation_cache_hit_counter[[type]] + 1
+  result
+}
+
+## Temporarily add item to cache
+set_cache <- function(type, key, value) {
+  query_cache("smiles", NA) # make sure cache is loaded and all
+  computation_cache[[type]][[key]] <<- value
 }

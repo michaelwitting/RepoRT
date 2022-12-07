@@ -24,32 +24,13 @@
 # ==============================================================================
 library(tidyverse)
 library(classyfireR)
+source("scripts/R_ci/XX_functions.R")
 
 # ==============================================================================
 # read the data and create tibble for data analysis
 # ==============================================================================
 # folders from command arguments -----------------------------------------------
 data_folders <- file.path('processed_data', commandArgs(trailingOnly=TRUE))
-
-
-# load already classified inchikeys
-start.time <- Sys.time()
-classyfire_db <- new.env(hash=TRUE)
-for (rt_data_file in list.files("processed_data", pattern="_rtdata_.*_success.txt$",
-                                full.names=TRUE, recursive=TRUE)){
-    rt_data <- read_tsv(rt_data_file, show_col_types = FALSE)
-    for (i in 1:nrow(rt_data))
-        classyfire_db[[rt_data[[i, "inchikey.std"]]]] <- c(rt_data[[i, "classyfire.kingdom"]],
-                                                           rt_data[[i, "classyfire.superclass"]],
-                                                           rt_data[[i, "classyfire.class"]],
-                                                           rt_data[[i, "classyfire.subclass"]],
-                                                           rt_data[[i, "classyfire.level5"]],
-                                                           rt_data[[i, "classyfire.level6"]])
-}
-end.time <- Sys.time()
-time.taken <- end.time - start.time
-cat(paste("read in", length(classyfire_db), "already classified inchikeys in", round(time.taken, 2), "min\n"))
-
 
 # iterate through folder and add data to full_rt_data_canonical ----------------
 for(data_folder in data_folders) {
@@ -74,15 +55,16 @@ for(data_folder in data_folders) {
     # perform classification
     classyfire <- map_dfr(rt_data_canonical$inchikey.std, function(x) {
 
-      if(!is.null(classyfire_db[[x]])){
+      classification_result <- query_cache("classyfire", x)
 
-        classification_result <- classyfire_db[[x]]
-        kingdom <- classification_result[1]
-        superclass<- classification_result[2]
-        class <- classification_result[3]
-        subclass <- classification_result[4]
-        level5 <- classification_result[5]
-        level6 <- classification_result[6]
+      if(!is.null(classification_result)){
+
+        kingdom <- classification_result$classyfire.kingdom
+        superclass<- classification_result$classyfire.superclass
+        class <- classification_result$classyfire.class
+        subclass <- classification_result$classyfire.subclass
+        level5 <- classification_result$classyfire.level5
+        level6 <- classification_result$classyfire.level6
 
       } else {
 
@@ -116,7 +98,10 @@ for(data_folder in data_folders) {
           level6 <- paste0(classification_result@classification$Classification[6],
                            " (", classification_result@classification$CHEMONT[6], ")")
 
-          classyfire_db[[x]] <- c(kingdom, superclass, class, subclass, level5, level6)
+          result_to_cache <- as.list(c(kingdom, superclass, class, subclass, level5, level6))
+          names(result_to_cache) <- c("classyfire.kingdom", "classyfire.superclass", "classyfire.class",
+                                      "classyfire.subclass", "classyfire.level5", "classyfire.level6")
+          set_cache("classyfire", x, result_to_cache)
 
         }
 
@@ -175,15 +160,16 @@ for(data_folder in data_folders) {
     # perform classification
     classyfire <- map_dfr(rt_data_isomeric$inchikey.std, function(x) {
 
-      if(!is.null(classyfire_db[[x]])){
+      classification_result <- query_cache("classyfire", x)
 
-        classification_result <- classyfire_db[[x]]
-        kingdom <- classification_result[1]
-        superclass<- classification_result[2]
-        class <- classification_result[3]
-        subclass <- classification_result[4]
-        level5 <- classification_result[5]
-        level6 <- classification_result[6]
+      if(!is.null(classification_result)){
+
+        kingdom <- classification_result$classyfire.kingdom
+        superclass<- classification_result$classyfire.superclass
+        class <- classification_result$classyfire.class
+        subclass <- classification_result$classyfire.subclass
+        level5 <- classification_result$classyfire.level5
+        level6 <- classification_result$classyfire.level6
 
       } else {
 
@@ -217,7 +203,10 @@ for(data_folder in data_folders) {
           level6 <- paste0(classification_result@classification$Classification[6],
                            " (", classification_result@classification$CHEMONT[6], ")")
 
-          classyfire_db[[x]] <- c(kingdom, superclass, class, subclass, level5, level6)
+          result_to_cache <- as.list(c(kingdom, superclass, class, subclass, level5, level6))
+          names(result_to_cache) <- c("classyfire.kingdom", "classyfire.superclass", "classyfire.class",
+                                      "classyfire.subclass", "classyfire.level5", "classyfire.level6")
+          set_cache("classyfire", x, result_to_cache)
 
         }
 
@@ -256,3 +245,5 @@ for(data_folder in data_folders) {
 
 
 }
+
+print(computation_cache_hit_counter)
