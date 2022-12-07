@@ -69,14 +69,21 @@ for(data_folder in data_folders) {
     "pubchem.smiles.canonical.std"=sapply(rt_data$pubchem.smiles.canonical,
                                           function (s) query_cache("smiles", s), USE.NAMES=F),
     "pubchem.smiles.isomeric.std"=sapply(rt_data$pubchem.smiles.isomeric,
-                                         function (s) query_cache("smiles", s), USE.NAMES=F))
+                                         function (s) query_cache("smiles", s), USE.NAMES=F)) %>%
+    ## make sure those columns are of type "character"
+    mutate(across(pubchem.smiles.canonical.std, as.character)) %>%
+    mutate(across(pubchem.smiles.isomeric.std, as.character))
 
   # ============================================================================
   # standardize canonical smiles
   # ============================================================================
 
-
   print(rt_data %>% select(id, pubchem.smiles.canonical, pubchem.smiles.canonical.std))
+
+  cat("Canonical standardized SMILES retrieved from cache:",
+      nrow(rt_data %>% filter(!is.na(pubchem.smiles.canonical.std) & !is.na(pubchem.smiles.canonical))), "\n")
+  cat("Canonical standardized SMILES to compute:",
+      nrow(rt_data %>% filter(is.na(pubchem.smiles.canonical.std) & !is.na(pubchem.smiles.canonical))), "\n")
 
   rt_data %>%
     filter(is.na(pubchem.smiles.canonical.std)) %>%
@@ -156,6 +163,11 @@ for(data_folder in data_folders) {
   # ============================================================================
   # standardize isomeric smiles
   # ============================================================================
+
+  cat("Isomeric standardized SMILES retrieved from cache:",
+      nrow(rt_data %>% filter(!is.na(pubchem.smiles.isomeric.std) & !is.na(pubchem.smiles.isomeric))), "\n")
+  cat("Isomeric standardized SMILES to compute:",
+      nrow(rt_data %>% filter(is.na(pubchem.smiles.isomeric.std) & !is.na(pubchem.smiles.isomeric))), "\n")
 
   rt_data %>%
     filter(is.na(pubchem.smiles.isomeric.std)) %>%
