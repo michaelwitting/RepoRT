@@ -23,6 +23,7 @@
 # load required libraries
 # ==============================================================================
 library(tidyverse)
+source("scripts/R_ci/XX_functions.R")
 
 # ==============================================================================
 # read the data and create tibble for data analysis
@@ -66,6 +67,8 @@ for(data_folder in data_folders) {
     if(!dir.exists(result_folder)) {
       dir.create(result_folder)
     }
+
+    meta_data <- check_metadata(meta_data)
 
     write_tsv(meta_data,
               paste0(result_folder,
