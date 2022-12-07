@@ -25,12 +25,12 @@ jobs:
 
     - name: Get changed files
       id: files
-      uses: Ana06/get-changed-files@v1.1
+      uses: Ana06/get-changed-files@v2.2.0
 
     - name: Get new/changed datasets
       id: filesfolders
       shell: bash {0}
-      run: echo "::set-output name=files::$(for f in ${{ steps.files.outputs.all }}; do basename $(dirname $f); done | grep -E '^[0-9]+$' | sort | uniq | tr '\n' ' ')"
+      run: echo "files=$(for f in ${{ steps.files.outputs.all }}; do basename $(dirname $f); done | grep -E '^[0-9]+$' | sort | uniq | tr '\n' ' ')" >> $GITHUB_OUTPUT
 
     - name: List all added files
       shell: bash {0}
@@ -43,7 +43,7 @@ jobs:
       run: pip install pubchempy
 
     - name: Setup R
-      uses: r-lib/actions/setup-r@v1
+      uses: r-lib/actions/setup-r@v2
 
     - name: Set java version
       run: echo ("JAVA_HOME=" + $Env:JAVA_HOME_13_X64) >> $env:GITHUB_ENV
