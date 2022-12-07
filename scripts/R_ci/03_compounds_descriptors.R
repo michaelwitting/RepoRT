@@ -25,6 +25,7 @@
 # ==============================================================================
 library(tidyverse)
 library(rcdk)
+source("scripts/R_ci/XX_functions.R")
 ## get smiles parser
 sp <- get.smiles.parser()
 
@@ -59,26 +60,36 @@ for(data_folder in data_folders) {
     # perform classification
     rcdk_descriptors <- map_dfr(rt_data_canonical$smiles.std, function(x) {
 
-      # parse smiles into molecules
-      mol <- parse.smiles(x)
+      desc_cache <- as.data.frame(lapply(query_cache('descriptors', x), as.numeric))
 
-      # get all descriptor categories and unique descriptor names
-      desc_categories <-get.desc.categories()
-      desc_names <- c()
+      if (ncol(desc_cache) > 0)
 
-      for(desc_category in desc_categories) {
+        desc_cache
 
-        desc_names <-c(desc_names, get.desc.names(type = desc_category))
+      else {
+
+        # parse smiles into molecules
+        mol <- parse.smiles(x)
+
+        # get all descriptor categories and unique descriptor names
+        desc_categories <-get.desc.categories()
+        desc_names <- c()
+
+        for(desc_category in desc_categories) {
+
+          desc_names <-c(desc_names, get.desc.names(type = desc_category))
+
+        }
+
+        desc_names <- unique(desc_names)
+
+        # predict descriptors
+        desc <- eval.desc(mol, desc_names, verbose = FALSE)
+        row.names(desc) <- NULL
+
+        desc
 
       }
-
-      desc_names <- unique(desc_names)
-
-      # predict descriptors
-      desc <- eval.desc(mol, desc_names, verbose = FALSE)
-      row.names(desc) <- NULL
-
-      desc
 
     })
 
@@ -117,26 +128,36 @@ for(data_folder in data_folders) {
     # perform classification
     rcdk_descriptors <- map_dfr(rt_data_isomeric$smiles.std, function(x) {
 
-      # parse smiles into molecules
-      mol <- parse.smiles(x)
+      desc_cache <- as.data.frame(lapply(query_cache('descriptors', x), as.numeric))
 
-      # get all descriptor categories and unique descriptor names
-      desc_categories <-get.desc.categories()
-      desc_names <- c()
+      if (ncol(desc_cache) > 0)
 
-      for(desc_category in desc_categories) {
+        desc_cache
 
-        desc_names <-c(desc_names, get.desc.names(type = desc_category))
+      else {
+
+        # parse smiles into molecules
+        mol <- parse.smiles(x)
+
+        # get all descriptor categories and unique descriptor names
+        desc_categories <-get.desc.categories()
+        desc_names <- c()
+
+        for(desc_category in desc_categories) {
+
+          desc_names <-c(desc_names, get.desc.names(type = desc_category))
+
+        }
+
+        desc_names <- unique(desc_names)
+
+        # predict descriptors
+        desc <- eval.desc(mol, desc_names, verbose = FALSE)
+        row.names(desc) <- NULL
+
+        desc
 
       }
-
-      desc_names <- unique(desc_names)
-
-      # predict descriptors
-      desc <- eval.desc(mol, desc_names, verbose = FALSE)
-      row.names(desc) <- NULL
-
-      desc
 
     })
 
@@ -154,3 +175,5 @@ for(data_folder in data_folders) {
 
   }
 }
+
+print(computation_cache_hit_counter)

@@ -26,6 +26,7 @@
 library(tidyverse)
 library(rcdk)
 library(rinchi)
+source("scripts/R_ci/XX_functions.R")
 
 # ==============================================================================
 # read the data and create tibble for data analysis
@@ -63,11 +64,22 @@ for(data_folder in data_folders) {
                                        id.lipidmaps = col_character(),
                                        id.kegg = col_character()))
 
+  # try to use standardized SMILES from cache
+  rt_data <- rt_data %>% add_column(
+    "pubchem.smiles.canonical.std"=sapply(rt_data$pubchem.smiles.canonical,
+                                          function (s) query_cache("smiles", s), USE.NAMES=F),
+    "pubchem.smiles.isomeric.std"=sapply(rt_data$pubchem.smiles.isomeric,
+                                         function (s) query_cache("smiles", s), USE.NAMES=F))
+
   # ============================================================================
   # standardize canonical smiles
   # ============================================================================
 
+
+  print(rt_data %>% select(id, pubchem.smiles.canonical, pubchem.smiles.canonical.std))
+
   rt_data %>%
+    filter(is.na(pubchem.smiles.canonical.std)) %>%
     select(id, pubchem.smiles.canonical) %>%
     write_tsv("temp.txt", col_names = FALSE)
 
@@ -82,14 +94,19 @@ for(data_folder in data_folders) {
   # check if it contains data and rename column names --------------------------
   if(nrow(smiles_canonical_std) > 0) {
 
-    smiles_canonical_std <- smiles_canonical_std %>%
-      rename(id = X1,
-             smiles.std = X2)
+    ## cached standardized SMILES plus newly computed ones
+    smiles_canonical_std <- rt_data %>% select(id, pubchem.smiles.canonical.std) %>%
+      rows_update(smiles_canonical_std %>% rename(id = X1, pubchem.smiles.canonical.std = X2),
+                  by = "id") %>%
+      filter(!is.na(pubchem.smiles.canonical.std)) %>%
+      rename(smiles.std = pubchem.smiles.canonical.std)
+
 
   } else {
 
-    smiles_canonical_std <- tibble(id = character(0),
-                                   smiles.std = character(0))
+    smiles_canonical_std <- rt_data %>% select(id, pubchem.smiles.canonical.std) %>%
+      filter(!is.na(pubchem.smiles.canonical.std)) %>%
+      rename(smiles.std = pubchem.smiles.canonical.std)
 
   }
 
@@ -141,6 +158,7 @@ for(data_folder in data_folders) {
   # ============================================================================
 
   rt_data %>%
+    filter(is.na(pubchem.smiles.isomeric.std)) %>%
     select(id, pubchem.smiles.isomeric) %>%
     write_tsv("tempiso.txt", col_names = FALSE)
 
@@ -154,14 +172,18 @@ for(data_folder in data_folders) {
   # check if it contains data and rename column names --------------------------
   if(nrow(smiles_isomeric_std) > 0) {
 
-    smiles_isomeric_std <- smiles_isomeric_std %>%
-      rename(id = X1,
-             smiles.std = X2)
+    ## cached standardized SMILES plus newly computed ones
+    smiles_isomeric_std <- rt_data %>% select(id, pubchem.smiles.isomeric.std) %>%
+      rows_update(smiles_isomeric_std %>% rename(id = X1, pubchem.smiles.isomeric.std = X2),
+                  by = "id") %>%
+      filter(!is.na(pubchem.smiles.isomeric.std)) %>%
+      rename(smiles.std = pubchem.smiles.isomeric.std)
 
   } else {
 
-    smiles_isomeric_std <- tibble(id = character(0),
-                                  smiles.std = character(0))
+    smiles_isomeric_std <- rt_data %>% select(id, pubchem.smiles.isomeric.std) %>%
+      filter(!is.na(pubchem.smiles.isomeric.std)) %>%
+      rename(smiles.std = pubchem.smiles.isomeric.std)
 
   }
 
@@ -186,7 +208,7 @@ for(data_folder in data_folders) {
     mutate(inchi.std = sapply(smiles.std, get.inchi),
            inchikey.std = sapply(smiles.std, get.inchi.key))
 
-  smiles_canonical_failed <- smiles_isomeric_failed %>%
+  smiles_isomeric_failed <- smiles_isomeric_failed %>%
     mutate(inchi.std = NA,
            inchikey.std = NA)
 
@@ -282,3 +304,5 @@ for(data_folder in data_folders) {
 
   }
 }
+
+print(computation_cache_hit_counter)
