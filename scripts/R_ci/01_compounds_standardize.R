@@ -86,7 +86,7 @@ for(data_folder in data_folders) {
       nrow(rt_data %>% filter(is.na(pubchem.smiles.canonical.std) & !is.na(pubchem.smiles.canonical))), "\n")
 
   rt_data %>%
-    filter(is.na(pubchem.smiles.canonical.std)) %>%
+    filter(is.na(pubchem.smiles.canonical.std) & !is.na(pubchem.smiles.canonical)) %>%
     select(id, pubchem.smiles.canonical) %>%
     write_tsv("temp.txt", col_names = FALSE)
 
@@ -170,7 +170,7 @@ for(data_folder in data_folders) {
       nrow(rt_data %>% filter(is.na(pubchem.smiles.isomeric.std) & !is.na(pubchem.smiles.isomeric))), "\n")
 
   rt_data %>%
-    filter(is.na(pubchem.smiles.isomeric.std)) %>%
+    filter(is.na(pubchem.smiles.isomeric.std) & !is.na(pubchem.smiles.isomeric)) %>%
     select(id, pubchem.smiles.isomeric) %>%
     write_tsv("tempiso.txt", col_names = FALSE)
 
