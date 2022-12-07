@@ -1,2 +1,2 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0262_01667	Pendimethalin-desethyl		8.48	C(CC=)NC1=C(C=C(C(=C1[N+](=O)[O-])C)C)[N+](=O)[O-]	'PUGREST.BadRequest: error: '		
+0262_01667	Pendimethalin-desethyl	C8H9N3O4	8.48	C(CC=)NC1=C(C=C(C(=C1[N+](=O)[O-])C)C)[N+](=O)[O-]	'PUGREST.BadRequest: error: '		
