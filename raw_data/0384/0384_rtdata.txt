@@ -1,0 +1,84 @@
+id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	pubchem.inchi	pubchem.inchikey	id.chebi	id.hmdb	id.lipidmaps	id.kegg
+0384_00001	Amitrole		1.23			NC1=NNC=N1						
+0384_00002	Guanylurea		1.24			NC(=N)NC(N)=O						
+0384_00003	Histamine		1.03			NCCC1=CN=CN1						
+0384_00004	Benzotriazole (BTR)		5.161			c1ccc2c(c1)[nH]nn2						
+0384_00005	Nicotinamide		2.394			c1cc(cnc1)C(=O)N						
+0384_00006	Chlormequate		1.36			C[N+](C)(C)CCCl						
+0384_00007	Vigabatrin		1.46			C=CC(CCC(=O)O)N						
+0384_00008	Amphetamine		4.094			C[C@@H](Cc1ccccc1)N						
+0384_00009	Tyramine		2.66			CCNc1ccc(cc1)O						
+0384_00010	Apophedrin  (Phenylethanolamine)		2.99			c1ccc(cc1)C(CN)O						
+0384_00011	Methamidophos		3.24			COP(N)(=O)SC						
+0384_00012	Benzothiazole -2-OH		7.044			c1ccc2c(c1)nc(s2)O						
+0384_00013	Paracetamol		3.927			CC(=O)Nc1ccc(cc1)O						
+0384_00014	Anatabine		2.53			c1cc(cnc1)[C@@H]2CC=CCN2						
+0384_00015	Nicotine		2.34			CN1CCC[C@H]1c2cccnc2						
+0384_00016	Cyromazine		2.861			C1CC1Nc2nc(nc(n2)N)N						
+0384_00017	Levetiracetam		4.194			CC[C@@H](C(=O)N)N1CCCC1=O						
+0384_00018	Atrazine-desisopropyl		5.111			CCNc1nc(nc(n1)Cl)N						
+0384_00019	Cotinine		2.644			CN1[C@@H](CCC1=O)c2cccnc2						
+0384_00020	MDAI		3.844			c1c2c(cc3c1OCO3)CC(C2)N						
+0384_00021	MDA		4.16			CC(Cc1ccc2c(c1)OCO2)N						
+0384_00022	Phenacetin		6.577			CCOc1ccc(cc1)NC(=O)C						
+0384_00023	Memantine		6.46			CC12CC3CC(C1)(CC(C3)(C2)N)C						
+0384_00024	Rimantadin		6.177			CC(C12CC3CC(C1)CC(C3)C2)N						
+0384_00025	Theobromine		3.83			Cn1cnc2c1c(=O)[nH]c(=O)n2C						
+0384_00026	Theophylline		4.33			Cn1c2c(c(=O)n(c1=O)C)[nH]cn2						
+0384_00027	Phosphate-triethyl		6.677			CCOP(=O)(OCC)OCC						
+0384_00028	Deprenyl / Selegiline		4.377			C[C@H](Cc1ccccc1)N(C)CC#C						
+0384_00029	Butocarboxim		6.56			CNC(=O)ON=C(C)C(C)SC						
+0384_00030	Phthalate-Dimethyl		7.144			COC(=O)c1ccccc1C(=O)OC						
+0384_00031	Caffeine		4.694			Cn1cnc2c1c(=O)n(c(=O)n2C)C						
+0384_00032	Tetraethylene glycol		3.727			C(COCCOCCOCCO)O						
+0384_00033	Ibuprofen		10.711			CC(C)Cc1ccc(cc1)C(C)C(=O)O						
+0384_00034	Lidocaine-Nor		4.127			CCNCC(=O)Nc1c(cccc1C)C						
+0384_00035	Phenoxybenzamide		8.327			c1ccc(cc1)Oc2ccccc2C(=O)N						
+0384_00036	Atrazine		8.661			CCNc1nc(nc(n1)Cl)NC(C)C						
+0384_00037	Cimaterol		3.227			CC(C)NCC(c1ccc(c(c1)C#N)N)O						
+0384_00038	Dichlorvos		6.56			COP(=O)(OC)OC=C(Cl)Cl						
+0384_00039	Piperazine -1-Piperonyl		2.861			c1cc2c(cc1CN3CCNCC3)OCO2						
+0384_00040	Phthalate-Diethyl		8.977			CCOC(=O)c1ccccc1C(=O)OCC						
+0384_00041	Bufexamac		8.461			CCCCOc1ccc(cc1)CC(=O)NO						
+0384_00042	Ethiofencarb		8.227			CCSCc1ccccc1OC(=O)NC						
+0384_00043	Benzophenon 3 (=2-Hydroxy-4-methoxybenzophenon)		11.177			COc1ccc(c(c1)O)C(=O)c2ccccc2						
+0384_00044	Picaridin (Icaridin)		9.311			CCC(C)OC(=O)N1CCCCC1CCO						
+0384_00045	Fenfluramine		5.694			CCN[C@H](C)Cc1cccc(c1)C(F)(F)F						
+0384_00046	Lidocaine		4.377			CCN(CC)CC(=O)Nc1c(cccc1C)C						
+0384_00047	TCMTB		9.74			N#CSCSC1=NC2=CC=CC=C2S1						
+0384_00048	Albuterol / Salbutamol		3.361			CC(C)(C)NCC(c1ccc(c(c1)CO)O)O						
+0384_00049	Pindolol		3.961			CC(C)NCC(COc1cccc2c1cc[nH]2)O						
+0384_00050	Tramadol-O-Desmethyl		4.077			CN(C)CC1CCCCC1(c2cccc(c2)O)O						
+0384_00051	Lacosamide		5.644			CC(=O)N[C@H](COC)C(=O)NCc1ccccc1						
+0384_00052	Rivastigmine		4.677			CCN(C)C(=O)Oc1cccc(c1)[C@H](C)N(C)C						
+0384_00053	Cimetidine		3.444			Cc1c([nH]cn1)CSCC/N=C(\NC)/NC#N						
+0384_00054	Lamotrigine		4.994			c1cc(c(c(c1)Cl)Cl)c2c(nc(nn2)N)N						
+0384_00055	Trichlorfon		5.66			COP(=O)(OC)C(O)C(Cl)(Cl)Cl						
+0384_00056	Propranolol		6.144			CC(C)NCC(COc1cccc2c1cccc2)O						
+0384_00057	Diaveridine		3.944			COc1ccc(cc1OC)Cc2cnc(nc2N)N						
+0384_00058	Flumequine		7.944			CC1CCc2cc(cc3c2n1cc(c3=O)C(=O)O)F						
+0384_00059	Tramadol		4.744			CN(C)C[C@H]1CCCC[C@@]1(c2cccc(c2)OC)O						
+0384_00060	Adenosine		2.944			c1nc(c2c(n1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N						
+0384_00061	Metoprolol		4.777			CC(C)NCC(COc1ccc(cc1)CCOC)O						
+0384_00062	Morphine (MOR)		2.911			CN1CC[C@]23c4c5ccc(c4O[C@H]2[C@H](C=C[C@H]3[C@H]1C5)O)O						
+0384_00063	Testosterone		10.277			CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C						
+0384_00064	Trimethoprim		4.061			COc1cc(cc(c1OC)OC)Cc2cnc(nc2N)N						
+0384_00065	Fenbendazole		9.427			COC(=O)Nc1[nH]c2cc(ccc2n1)Sc3ccccc3						
+0384_00066	Vildagliptin		3.427			C1C[C@H](N(C1)C(=O)CNC23CC4CC(C2)CC(C4)(C3)O)C#N						
+0384_00067	THC		13.844			CCCCCc1cc(c2c(c1)OC([C@H]3[C@H]2C=C(CC3)C)(C)C)O						
+0384_00068	Sulfamethazine-N4-Acetyl		4.944			Cc1cc(nc(n1)NS(=O)(=O)c2ccc(cc2)/N=C(\C)/O)C						
+0384_00069	Bisoprolol		5.661			CC(C)NCC(COc1ccc(cc1)COCCOC(C)C)O						
+0384_00070	Phosphate-Triphenyl		11.427			c1ccc(cc1)OP(=O)(Oc2ccccc2)Oc3ccccc3						
+0384_00071	Ciprofloxacin		4.427			c1c2c(cc(c1F)N3CCNCC3)n(cc(c2=O)C(=O)O)C4CC4						
+0384_00072	Octocrylene		13.461			CCCCC(CC)COC(=O)C(=C(c1ccccc1)c2ccccc2)C#N						
+0384_00073	THE (Tetrahydrocortisone or 5?-Pregnan-3?.17.21-Triol-11.20-Dione)		9.611			CC12CC[C@H](CC1CCC3C2C(=O)CC4(C3CC[C@@]4(C(=O)CO)O)C)O						
+0384_00074	Celiprolol		5.094			CCN(CC)C(=O)Nc1ccc(c(c1)C(=O)C)OCC(CNC(C)(C)C)O						
+0384_00075	Colchicine		6.96			CC(=O)N[C@H]1CCc2cc(c(c(c2-c3c1cc(=O)c(cc3)OC)OC)OC)OC						
+0384_00076	Lopinavir		12.077			Cc1cccc(c1OCC(=O)N[C@@H](Cc2ccccc2)[C@H](C[C@H](Cc3ccccc3)NC(=O)[C@H](C(C)C)N4CCCNC4=O)O)C						
+0384_00077	Cefoperazone		5.18			CCN1CCN(C(=O)NC(C(=O)NC2C3SCC(CSC4=NN=NN4C)=C(N3C2=O)C(O)=O)C2=CC=C(O)C=C2)C(=O)C1=O						
+0384_00078	Spinosad_A		10.36			CCC1CCCC(C(C(=O)C2CC3C(C2CC(=O)O1)CCC4C3CC(C4)OC5CC(C(C(C5OC)OC)OC)C)C)OC6CCC(C(O6)C)N(C)C						
+0384_00079	Rifaximin		10.39			COC1C=COC2(C)OC3=C(C)C(O)=C4C(O)=C(NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C)C1=C(N=C5C=C(C)C=CN15)C4=C3C2=O						
+0384_00080	Avermectin		13.81			CC[C@H](C)[C@@H]1[C@H](C=C[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C						
+0384_00081	Ivermectin		14.49			CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(\[C@H]([C@H](/C=C\C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)/C)C						
+0384_00082	Emamectin		11.49			CC[C@H](C)[C@@H]1[C@H](C=C[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@@H]([C@@H](O7)C)NC)OC)OC)\C)C						
+0384_00083	Tylosin		7.39			CCC1OC(=O)CC(O)C(C)C(OC2OC(C)C(OC3CC(C)(O)C(O)C(C)O3)C(C2O)N(C)C)C(CC=O)CC(C)C(=O)C=CC(C)=CC1COC1OC(C)C(O)C(OC)C1OC						
