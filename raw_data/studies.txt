@@ -24,7 +24,7 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0023	PFR-TK72			PredRet	RP			
 0024	Waters ACQUITY UPLC with synapt G1			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
 0025	OBSF			PredRet	RP		temperature	
-0026	re			PredRet	RP		column length and ID; temperature, gradient and flow rate	
+0026	re			PredRet	Other		column length and ID; temperature, gradient and flow rate	
 0027	KI_GIAR_zic_HILIC_ph2_7	10.1021/acs.analchem.7b00925		PredRet	HILIC			
 0028	CS6			PredRet	RP		temperature	
 0029	CS3			PredRet	RP		temperature	
@@ -35,7 +35,7 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0034	CS16			PredRet	RP		temperature	
 0035	METBLS20-LIUMIN	10.1021/ac300829f		PredRet	RP	different chromatographic conditions of HPLC and UHPLC but only one RT	temperature	
 0036	CS8			PredRet	RP		temperature	
-0037	CS9			PredRet	RP		temperature	
+0037	CS9			PredRet	Other		temperature	
 0038	CS10			PredRet	RP		temperature	
 0039	CS21			PredRet	RP	column name not specific	temperature	
 0040	CS7			PredRet	RP		temperature	
@@ -51,7 +51,7 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0050	CS1			PredRet	RP		temperature	
 0051	CS17			PredRet	RP		temperature	
 0052	CS14			PredRet	RP		temperature	
-0053	CS20			PredRet	RP		temperature	
+0053	CS20			PredRet	Other		temperature	
 0054	LIFE_old	10.1016/j.aca.2011.12.065		PredRet	RP		temperature and flow rate	
 0055	LIFE_new	10.1016/j.aca.2011.12.065		PredRet	RP		column length, ID and particle size; temperature and flow rate	
 0056	CS4			PredRet	RP		temperature	
@@ -67,7 +67,7 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0066	RP2 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0067	RP3 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0068	RP4 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
-0069	RP5 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0069	RP5 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	Other		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0070	RP6 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0071	RP7 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0072	RP8 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
@@ -124,7 +124,7 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0123	RP2 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0124	RP3 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0125	RP4 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
-0126	RP5 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0126	RP5 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	Other		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0127	RP6 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0128	RP7 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0129	RP8 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
@@ -234,30 +234,30 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0233	LPOS_ROI_V_5_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
 0234	RNEG_ROI_V_3_1_0			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
 0235	RPOS_ROI_V_3_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
-0236	MSMS_pos_30_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
-0237	MSMS_neg_30_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
-0238	MSMS_pos_40_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
-0239	MSMS_neg_40_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
-0240	MSMS_pos_50_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
-0241	MSMS_neg_50_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
-0242	CCS_pos_40_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
-0243	CCS_neg_40_ACN_HSS T3			BGC	RP			E.-M. Harrieder, M. Witting
-0244	MSMS_pos_30_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
-0245	MSMS_neg_30_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
-0246	MSMS_pos_40_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
-0247	MSMS_neg_40_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
-0248	MSMS_pos_50_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
-0249	MSMS_neg_50_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
-0250	CCS_pos_40_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
-0251	CCS_neg_40_ACN_XB-C18			BGC	RP			E.-M. Harrieder, M. Witting
-0252	MSMS_pos_30_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
-0253	MSMS_neg_30_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
-0254	MSMS_pos_40_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
-0255	MSMS_neg_40_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
-0256	MSMS_pos_50_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
-0257	MSMS_neg_50_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
-0258	CCS_pos_40_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
-0259	CCS_neg_40_ACN_BEH C18			BGC	RP			E.-M. Harrieder, M. Witting
+0236	MSMS_pos_30_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0237	MSMS_neg_30_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0238	MSMS_pos_40_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0239	MSMS_neg_40_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0240	MSMS_pos_50_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0241	MSMS_neg_50_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0242	CCS_pos_40_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0243	CCS_neg_40_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0244	MSMS_pos_30_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0245	MSMS_neg_30_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0246	MSMS_pos_40_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0247	MSMS_neg_40_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0248	MSMS_pos_50_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0249	MSMS_neg_50_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0250	CCS_pos_40_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0251	CCS_neg_40_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0252	MSMS_pos_30_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0253	MSMS_neg_30_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0254	MSMS_pos_40_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0255	MSMS_neg_40_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0256	MSMS_pos_50_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0257	MSMS_neg_50_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0258	CCS_pos_40_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0259	CCS_neg_40_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
 0260	Synergi_Pos	https://doi.org/10.1021/acs.analchem.1c00972		Dataset - Huber	RP			C. Huber
 0261	Synergi_Neg	https://doi.org/10.1021/acs.analchem.1c00972		Dataset - Huber	RP			C. Huber
 0262	SPECIMEN_Pos	https://doi.org/10.1021/acs.analchem.2c00061		Dataset - Huber	RP			C. Huber
@@ -308,54 +308,54 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0307	reserved for Kruve Lab							
 0308	reserved for Kruve Lab							
 0309	reserved for Kruve Lab							
-0310	MSMS_pos_30_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0311	MSMS_neg_30_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0312	MSMS_pos_40_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0313	MSMS_neg_40_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0314	MSMS_pos_50_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0315	MSMS_neg_50_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0316	CCS_pos_40_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0317	CCS_neg_40_ACN_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0318	MSMS_pos_30_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0319	MSMS_neg_30_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0320	MSMS_pos_40_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0321	MSMS_neg_40_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0322	MSMS_pos_50_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0323	MSMS_neg_50_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0324	CCS_pos_40_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0325	CCS_neg_40_MeOH_Raptor Biphenyl			BGC	RP			E.-M. Harrieder, M. Witting
-0326	MSMS_pos_30_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0327	MSMS_neg_30_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0328	MSMS_pos_40_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0329	MSMS_neg_40_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0330	MSMS_pos_50_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0331	MSMS_neg_50_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0332	CCS_pos_40_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0333	CCS_neg_40_ACN_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0334	MSMS_pos_30_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0335	MSMS_neg_30_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0336	MSMS_pos_40_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0337	MSMS_neg_40_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0338	MSMS_pos_50_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0339	MSMS_neg_50_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0340	CCS_pos_40_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0341	CCS_neg_40_MeOH_CORTECS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0342	MSMS_pos_30_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0343	MSMS_neg_30_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0344	MSMS_pos_40_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0345	MSMS_neg_40_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0346	MSMS_pos_50_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0347	MSMS_neg_50_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0348	CCS_pos_40_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0349	CCS_neg_40_ACN_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0350	MSMS_pos_30_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0351	MSMS_neg_30_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0352	MSMS_pos_40_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0353	MSMS_neg_40_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0354	MSMS_pos_50_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0355	MSMS_neg_50_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0356	CCS_pos_40_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
-0357	CCS_neg_40_MeOH_HSS C18			BGC	RP			E.-M. Harrieder, M. Witting
+0310	MSMS_pos_30_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0311	MSMS_neg_30_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0312	MSMS_pos_40_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0313	MSMS_neg_40_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0314	MSMS_pos_50_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0315	MSMS_neg_50_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0316	CCS_pos_40_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0317	CCS_neg_40_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0318	MSMS_pos_30_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0319	MSMS_neg_30_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0320	MSMS_pos_40_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0321	MSMS_neg_40_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0322	MSMS_pos_50_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0323	MSMS_neg_50_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0324	CCS_pos_40_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0325	CCS_neg_40_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0326	MSMS_pos_30_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0327	MSMS_neg_30_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0328	MSMS_pos_40_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0329	MSMS_neg_40_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0330	MSMS_pos_50_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0331	MSMS_neg_50_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0332	CCS_pos_40_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0333	CCS_neg_40_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0334	MSMS_pos_30_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0335	MSMS_neg_30_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0336	MSMS_pos_40_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0337	MSMS_neg_40_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0338	MSMS_pos_50_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0339	MSMS_neg_50_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0340	CCS_pos_40_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0341	CCS_neg_40_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0342	MSMS_pos_30_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0343	MSMS_neg_30_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0344	MSMS_pos_40_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0345	MSMS_neg_40_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0346	MSMS_pos_50_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0347	MSMS_neg_50_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0348	CCS_pos_40_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0349	CCS_neg_40_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0350	MSMS_pos_30_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0351	MSMS_neg_30_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0352	MSMS_pos_40_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0353	MSMS_neg_40_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0354	MSMS_pos_50_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0355	MSMS_neg_50_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0356	CCS_pos_40_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0357	CCS_neg_40_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
 0358	EM_1			Dataset - Monge	RP			E. Monge
 0359	EM_2			Dataset - Monge	RP			E. Monge
 0360	EM_3			Dataset - Monge	RP			E. Monge
@@ -380,3 +380,11 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0379	JB_8			Dataset - Buescher	HILIC			J. Büscher
 0380	JB_9			Dataset - Buescher	HILIC			J. Büscher
 0381	JB_10			Dataset - Buescher	HILIC			J. Büscher
+0382	AA_LC1	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0383	AA_LC2	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0384	AA_LC3	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0385	AA_LC4	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0386	AA_LC5	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0387	AA_LC6	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0388	AA_LC7	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0389	AA_LC8	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
