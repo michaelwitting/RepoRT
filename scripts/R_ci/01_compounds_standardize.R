@@ -103,8 +103,6 @@ for(data_folder in data_folders) {
   # standardize canonical smiles
   # ============================================================================
 
-  print(rt_data %>% select(id, pubchem.smiles.canonical, pubchem.smiles.canonical.std))
-
   cat("Canonical standardized SMILES retrieved from cache:",
       nrow(rt_data %>% filter(!is.na(pubchem.smiles.canonical.std) & !is.na(pubchem.smiles.canonical))), "\n")
   cat("Canonical standardized SMILES to compute:",

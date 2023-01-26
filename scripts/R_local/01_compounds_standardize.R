@@ -40,14 +40,18 @@ if(!length(negative_list) == 1 && !is.na(negative_list)) {
 
 # read data  and perform standardization ----------------------------------------
 for(data_folder in data_folders) {
-  
+
   # ============================================================================
-  # read and standardize compound data 
+  # read and standardize compound data
   # ============================================================================
   rt_data_file <- list.files(data_folder,
                              pattern = "_rtdata.txt$",
                              full.names = TRUE)
-  
+
+  if (length(rt_data_file) == 0){
+    warning("no rtdata file exists for ", data_folder, ", skipping")
+    next
+  }
 
   ## get SMILES for entries where only database IDs are specified
   system(paste("python3 scripts/Python/ids_to_smiles.py", rt_data_file))
@@ -66,7 +70,6 @@ for(data_folder in data_folders) {
                                        id.hmdb = col_character(),
                                        id.lipidmaps = col_character(),
                                        id.kegg = col_character()))
-  
 
   # get canonical SMILES for entries with only isomeric ones
   sp <- get.smiles.parser()
@@ -93,218 +96,218 @@ for(data_folder in data_folders) {
   # ============================================================================
   # standardize canonical smiles
   # ============================================================================
-  rt_data %>% 
-    select(id, pubchem.smiles.canonical) %>% 
+  rt_data %>%
+    select(id, pubchem.smiles.canonical) %>%
     write_tsv("temp.txt", col_names = FALSE)
-  
+
   # perform standardization ----------------------------------------------------
   #shell("java -jar scripts/Java/structure-standardization.jar temp.txt")
   system("python3 scripts/Python/standardize.py temp.txt")
-  
+
   # read standarized smiles ----------------------------------------------------
-  smiles_canonical_std <- read_tsv("temp.txt_standardized", col_names = FALSE) 
+  smiles_canonical_std <- read_tsv("temp.txt_standardized", col_names = FALSE)
   smiles_canonical_failed <- read_tsv("temp.txt_failed", col_names = FALSE)
-  
+
   # check if it contains data and rename column names --------------------------
   if(nrow(smiles_canonical_std) > 0) {
-    
+
     smiles_canonical_std <- smiles_canonical_std %>%
       rename(id = X1,
              smiles.std = X2)
-    
+
   } else {
-    
+
     smiles_canonical_std <- tibble(id = character(0),
                                    smiles.std = character(0))
-    
+
   }
 
   if(nrow(smiles_canonical_failed) > 0) {
-    
+
     smiles_canonical_failed <- smiles_canonical_failed %>%
       rename(id = X1,
              smiles.std = X2,
              status = X3)
-    
+
   } else {
-    
+
     smiles_canonical_failed <- tibble(id = character(0),
                                       smiles.std = character(0),
                                       status = character(0))
-    
+
   }
-   
-  
+
+
   # calculate InChI and InChIKey -----------------------------------------------
-  smiles_canonical_std <- smiles_canonical_std %>% 
+  smiles_canonical_std <- smiles_canonical_std %>%
     mutate(inchi.std = sapply(smiles.std, get.inchi),
            inchikey.std = sapply(smiles.std, get.inchi.key))
-  
-  smiles_canonical_failed <- smiles_canonical_failed %>% 
+
+  smiles_canonical_failed <- smiles_canonical_failed %>%
     mutate(inchi.std = NA,
            inchikey.std = NA)
-  
+
   # combine tables and write results to clipboard ------------------------------
   rt_data_canonical_success <- right_join(rt_data %>% select(id,
                                               name,
                                               formula,
                                               rt),
                                           smiles_canonical_std)
-  
+
   rt_data_canonical_failed <- right_join(rt_data %>% select(id,
                                                  name,
                                                  formula,
                                                  rt),
                                          smiles_canonical_failed)
-  
+
   # remove temp files ----------------------------------------------------------
   file.remove("temp.txt")
   file.remove("temp.txt_standardized")
   file.remove("temp.txt_failed")
-  
+
   # ============================================================================
   # standardize isomeric smiles
   # ============================================================================
-  rt_data %>% 
-    select(id, pubchem.smiles.isomeric) %>% 
+  rt_data %>%
+    select(id, pubchem.smiles.isomeric) %>%
     write_tsv("temp.txt", col_names = FALSE)
-  
+
   # perform standardization ----------------------------------------------------
   #shell("java -jar scripts/Java/structure-standardization.jar temp.txt")
   system("python3 scripts/Python/standardize.py temp.txt")
-  
+
   # read standarized smiles ----------------------------------------------------
-  smiles_isomeric_std <- read_tsv("temp.txt_standardized", col_names = FALSE) 
+  smiles_isomeric_std <- read_tsv("temp.txt_standardized", col_names = FALSE)
   smiles_isomeric_failed <- read_tsv("temp.txt_failed", col_names = FALSE)
-  
+
   # check if it contains data and rename column names --------------------------
   if(nrow(smiles_isomeric_std) > 0) {
-    
+
     smiles_isomeric_std <- smiles_isomeric_std %>%
       rename(id = X1,
              smiles.std = X2)
-    
+
   } else {
-    
+
     smiles_isomeric_std <- tibble(id = character(0),
                                   smiles.std = character(0))
-    
+
   }
-  
+
   if(nrow(smiles_isomeric_failed) > 0) {
-    
+
     smiles_isomeric_failed <- smiles_isomeric_failed %>%
       rename(id = X1,
              smiles.std = X2,
              status = X3)
-    
+
   } else {
-    
+
     smiles_isomeric_failed <- tibble(id = character(0),
                                       smiles.std = character(0),
                                       status = character(0))
-    
+
   }
-  
-  
+
+
   # calculate InChI and InChIKey -----------------------------------------------
-  smiles_isomeric_std <- smiles_isomeric_std %>% 
+  smiles_isomeric_std <- smiles_isomeric_std %>%
     mutate(inchi.std = sapply(smiles.std, get.inchi),
            inchikey.std = sapply(smiles.std, get.inchi.key))
-  
-  smiles_canonical_failed <- smiles_isomeric_failed %>% 
+
+  smiles_canonical_failed <- smiles_isomeric_failed %>%
     mutate(inchi.std = NA,
            inchikey.std = NA)
-  
+
   # combine tables and write results to clipboard ------------------------------
   rt_data_isomeric_success <- right_join(rt_data %>% select(id,
                                                              name,
                                                              formula,
                                                              rt),
                                           smiles_isomeric_std)
-  
+
   rt_data_isomeric_failed <- right_join(rt_data %>% select(id,
                                                             name,
                                                             formula,
                                                             rt),
                                          smiles_isomeric_failed)
-  
+
   # remove temp files ----------------------------------------------------------
   file.remove("temp.txt")
   file.remove("temp.txt_standardized")
   file.remove("temp.txt_failed")
-  
+
   # ============================================================================
   # read and standardize meta data
   # ============================================================================
   meta_data_file <- list.files(data_folder,
                                pattern = "_metadata.txt$",
                                full.names = TRUE)
-  
+
   meta_data <- read_tsv(meta_data_file)
-  
+
   # ============================================================================
   # write results
   # ============================================================================
   # create new path ------------------------------------------------------------
   result_folder <- paste0("processed_data/", basename(data_folder))
-  
+
   if(!dir.exists(result_folder)) {
     dir.create(result_folder)
   }
-  
+
   if(nrow(rt_data_canonical_success) > 0) {
-    
+
     write_tsv(rt_data_canonical_success,
               paste0(result_folder,
                      "/",
                      basename(data_folder),
                      "_rtdata_canonical_success.txt"),
               na = "")
-    
+
   }
 
   if(nrow(rt_data_canonical_failed) > 0) {
-    
+
     write_tsv(rt_data_canonical_failed,
               paste0(result_folder,
                      "/",
                      basename(data_folder),
                      "_rtdata_canonical_failed.txt"),
               na = "")
-    
+
   }
 
   if(nrow(rt_data_isomeric_success) > 0) {
-    
+
     write_tsv(rt_data_isomeric_success,
               paste0(result_folder,
                      "/",
                      basename(data_folder),
                      "_rtdata_isomeric_success.txt"),
               na = "")
-    
+
   }
 
   if(nrow(rt_data_isomeric_failed) > 0) {
-    
+
     write_tsv(rt_data_isomeric_failed,
               paste0(result_folder,
                      "/",
                      basename(data_folder),
                      "_rtdata_isomeric_failed.txt"),
               na = "")
-    
+
   }
 
   if(nrow(meta_data) > 0) {
-    
+
     write_tsv(meta_data,
               paste0(result_folder,
                      "/",
                      basename(data_folder),
                      "_metadata.txt"),
               na = "")
-    
+
   }
 }
