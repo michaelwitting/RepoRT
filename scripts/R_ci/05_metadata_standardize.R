@@ -1,6 +1,6 @@
 ## ---------------------------
 ##
-## Script name: 04_metadata_standardize.R
+## Script name: 05_metadata_standardize.R
 ##
 ## Purpose of script: Standardization of meta data
 ##

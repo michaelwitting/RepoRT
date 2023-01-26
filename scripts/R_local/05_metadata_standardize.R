@@ -1,6 +1,6 @@
 ## ---------------------------
 ##
-## Script name: 04_metadata_standardize.R
+## Script name: 05_metadata_standardize.R
 ##
 ## Purpose of script: Standardization of meta data
 ##
@@ -38,43 +38,43 @@ data_folders <- list.dirs("raw_data", full.names = TRUE, recursive = FALSE)
 
 # read data  and perform standardization ----------------------------------------
 for(data_folder in data_folders) {
-  
+
   # ============================================================================
   # read and standardize meta data
   # ============================================================================
   meta_data_file <- list.files(data_folder,
                                pattern = "_metadata.txt$",
                                full.names = TRUE)
-  
+
   if(length(meta_data_file) > 0 && file.exists(meta_data_file)) {
-    
+
     meta_data <- read_tsv(meta_data_file)
-    
+
     # calculate additional parameters
     t0 <- ((0.5 * meta_data$column.length * meta_data$column.id ^ 2) / 1000) / meta_data$column.flowrate
-    
+
     if(!is.na(t0)) {
-      
+
       meta_data$column.t0 <- t0
-      
+
     } else {
-      
+
       meta_data$column.t0 <- 0
-      
+
     }
-    
+
     # ============================================================================
     # write results
     # ============================================================================
     # create new path ------------------------------------------------------------
     result_folder <- paste0("processed_data/", basename(data_folder))
-    
+
     if(!dir.exists(result_folder)) {
       dir.create(result_folder)
     }
-    
+
     meta_data <- check_metadata(meta_data)
-    
+
     write_tsv(meta_data,
               paste0(result_folder,
                      "/",
@@ -82,28 +82,28 @@ for(data_folder in data_folders) {
                      "_metadata.txt"),
               na = "")
   }
-  
+
   # ============================================================================
   # read and standardize gradient data
   # ============================================================================
   gradient_data_file <- list.files(data_folder,
                                pattern = "_gradient.txt$",
                                full.names = TRUE)
-  
+
   if(length(gradient_data_file) > 0 && file.exists(gradient_data_file)) {
-    
+
     gradient_data <- read_tsv(gradient_data_file)
-    
+
     # ============================================================================
     # write results
     # ============================================================================
     # create new path ------------------------------------------------------------
     result_folder <- paste0("processed_data/", basename(data_folder))
-    
+
     if(!dir.exists(result_folder)) {
       dir.create(result_folder)
     }
-    
+
     write_tsv(gradient_data,
               paste0(result_folder,
                      "/",
