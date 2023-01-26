@@ -75,6 +75,17 @@ for(data_folder in data_folders) {
       canonical),
     canonical=rt_data$pubchem.smiles.canonical, isomeric=rt_data$pubchem.smiles.isomeric, USE.NAMES=F))
 
+  # get formula for entries without one
+  rt_data <- rt_data %>% mutate(formula=mapply(
+    function (formula, smiles) ifelse(is.na(formula), ifelse(
+      !is.na(smiles),
+      # get formula from SMILES
+      attr(get.mol2formula(parse.smiles(smiles)[[1]]), "string"), NA),
+      # keep formula
+      formula),
+    formula=rt_data$formula, smiles=rt_data$pubchem.smiles.canonical, USE.NAMES=F))
+
+
   # ============================================================================
   # standardize canonical smiles
   # ============================================================================
