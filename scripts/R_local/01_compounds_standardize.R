@@ -48,6 +48,10 @@ for(data_folder in data_folders) {
                              pattern = "_rtdata.txt$",
                              full.names = TRUE)
   
+
+  ## get SMILES for entries where only database IDs are specified
+  system(paste("python3 scripts/Python/ids_to_smiles.py", rt_data_file))
+
   rt_data <- read_tsv(rt_data_file,
                       col_types = cols(id = col_character(),
                                        name = col_character(),
