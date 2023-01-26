@@ -30,20 +30,20 @@ negative_list <- c("0186", "0205", "0206", "0207", "0208", "0209", "0210",
 source("01_compounds_standardize.R")
 source("02_compounds_classyfire.R")
 source("03_compounds_descriptors.R")
+source("04_compounds_fingerprints.R")
 
 # ==============================================================================
 # execute all scripts on metadata
 # ==============================================================================
-source("04_metadata_standardize.R")
+source("05_metadata_standardize.R")
 
 # ==============================================================================
 # get overview on files
 # ==============================================================================
-source("05_files_complete.R")
+source("06_files_complete.R")
 
 # ==============================================================================
 # generate overviews
 # ==============================================================================
-source("06_compounds_overview.R")
-source("07_metadata_overview.R")
-
+source("07_compounds_overview.R")
+source("08_metadata_overview.R")
