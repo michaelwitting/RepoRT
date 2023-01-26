@@ -63,6 +63,18 @@ for(data_folder in data_folders) {
                                        id.lipidmaps = col_character(),
                                        id.kegg = col_character()))
   
+
+  # get canonical SMILES for entries with only isomeric ones
+  sp <- get.smiles.parser()
+  rt_data <- rt_data %>% mutate(pubchem.smiles.canonical=mapply(
+    function (canonical, isomeric) ifelse(is.na(canonical), ifelse(
+      !is.na(isomeric),
+      # convert isomeric to canonical SMILES
+      get.smiles(parse.smiles(isomeric)[[1]], smiles.flavors('Generic')), NA),
+      # keep canonical
+      canonical),
+    canonical=rt_data$pubchem.smiles.canonical, isomeric=rt_data$pubchem.smiles.isomeric, USE.NAMES=F))
+
   # ============================================================================
   # standardize canonical smiles
   # ============================================================================
