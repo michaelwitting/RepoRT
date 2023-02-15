@@ -20,7 +20,7 @@ jobs:
     - name: Get all datasets
       id: filesfolders
       shell: bash {0}
-      run: echo "files=$(ls -F processed_data/ | grep '/' | cut -d'/' -f1)" >> $GITHUB_OUTPUT
+      run: echo "files=$(ls -F processed_data/ | grep '/' | cut -d'/' -f1 | tr '\n' ' ')" >> $GITHUB_OUTPUT
 
     - name: List all added files
       shell: bash {0}
