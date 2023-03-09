@@ -109,9 +109,9 @@ for(data_folder in data_folders) {
       nrow(rt_data %>% filter(is.na(pubchem.smiles.canonical.std) & !is.na(pubchem.smiles.canonical))), "\n")
 
   rt_data %>%
-    filter(is.na(pubchem.smiles.canonical.std) & !is.na(pubchem.smiles.canonical)) %>%
+    filter(is.na(pubchem.smiles.canonical.std)) %>%
     select(id, pubchem.smiles.canonical) %>%
-    write_tsv("temp.txt", col_names = FALSE)
+    write_tsv("temp.txt", col_names = FALSE, na = "")
 
   # perform standardization ----------------------------------------------------
   #shell("java -jar scripts/Java/structure-standardization.jar temp.txt")
@@ -179,9 +179,8 @@ for(data_folder in data_folders) {
                                          smiles_canonical_failed)
 
   # remove temp files ----------------------------------------------------------
-  file.remove("temp.txt")
-  file.remove("temp.txt_standardized")
-  file.remove("temp.txt_failed")
+  for (temp_file in c("temp.txt", "temp.txt_standardized", "temp.txt_failed"))
+    if (file.exists(temp_file)) file.remove(temp_file)
 
   # ============================================================================
   # standardize isomeric smiles
@@ -193,9 +192,9 @@ for(data_folder in data_folders) {
       nrow(rt_data %>% filter(is.na(pubchem.smiles.isomeric.std) & !is.na(pubchem.smiles.isomeric))), "\n")
 
   rt_data %>%
-    filter(is.na(pubchem.smiles.isomeric.std) & !is.na(pubchem.smiles.isomeric)) %>%
+    filter(is.na(pubchem.smiles.isomeric.std)) %>%
     select(id, pubchem.smiles.isomeric) %>%
-    write_tsv("tempiso.txt", col_names = FALSE)
+    write_tsv("tempiso.txt", col_names = FALSE, na = "")
 
   # perform standardization ----------------------------------------------------
   system("python3 scripts/Python/standardize.py tempiso.txt")
@@ -261,9 +260,8 @@ for(data_folder in data_folders) {
                                          smiles_isomeric_failed)
 
   # remove temp files ----------------------------------------------------------
-  file.remove("tempiso.txt")
-  file.remove("tempiso.txt_standardized")
-  file.remove("tempiso.txt_failed")
+  for (temp_file in c("tempiso.txt", "tempiso.txt_standardized", "tempiso.txt_failed"))
+    if (file.exists(temp_file)) file.remove(temp_file)
 
   # ============================================================================
   # read and standardize meta data
@@ -284,60 +282,23 @@ for(data_folder in data_folders) {
     dir.create(result_folder)
   }
 
-  if(nrow(rt_data_canonical_success) > 0) {
+  for (output in list(
+    list(rt_data_canonical_success, paste0(result_folder, "/", basename(data_folder), "_rtdata_canonical_success.txt")),
+    list(rt_data_canonical_failed, paste0(result_folder, "/", basename(data_folder), "_rtdata_canonical_failed.txt")),
+    list(rt_data_isomeric_success, paste0(result_folder, "/", basename(data_folder), "_rtdata_isomeric_success.txt")),
+    list(rt_data_isomeric_failed, paste0(result_folder, "/", basename(data_folder), "_rtdata_isomeric_failed.txt")),
+    list(meta_data, paste0(result_folder, "/", basename(data_folder), "_metadata.txt"))
+    )) {
+      data <- output[[1]]
+      out_file <- output[[2]]
+      if(nrow(data) > 0) {
+        write_tsv(data, out_file, na = "")
+      } else {
+        # file shouldn't exist -> remove
+        if (file.exists(out_file)) file.remove(out_file)
+      }
+    }
 
-    write_tsv(rt_data_canonical_success,
-              paste0(result_folder,
-                     "/",
-                     basename(data_folder),
-                     "_rtdata_canonical_success.txt"),
-              na = "")
-
-  }
-
-  if(nrow(rt_data_canonical_failed) > 0) {
-
-    write_tsv(rt_data_canonical_failed,
-              paste0(result_folder,
-                     "/",
-                     basename(data_folder),
-                     "_rtdata_canonical_failed.txt"),
-              na = "")
-
-  }
-
-  if(nrow(rt_data_isomeric_success) > 0) {
-
-    write_tsv(rt_data_isomeric_success,
-              paste0(result_folder,
-                     "/",
-                     basename(data_folder),
-                     "_rtdata_isomeric_success.txt"),
-              na = "")
-
-  }
-
-  if(nrow(rt_data_isomeric_failed) > 0) {
-
-    write_tsv(rt_data_isomeric_failed,
-              paste0(result_folder,
-                     "/",
-                     basename(data_folder),
-                     "_rtdata_isomeric_failed.txt"),
-              na = "")
-
-  }
-
-  if(nrow(meta_data) > 0) {
-
-    write_tsv(meta_data,
-              paste0(result_folder,
-                     "/",
-                     basename(data_folder),
-                     "_metadata.txt"),
-              na = "")
-
-  }
 }
 
 print(computation_cache_hit_counter)
