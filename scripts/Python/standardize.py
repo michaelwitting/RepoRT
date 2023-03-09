@@ -311,7 +311,14 @@ if __name__ == '__main__':
     success_out = file_in + '_standardized'
     failed_out = file_in + '_failed'
     structures = pd.read_csv(file_in, sep='\t', names=['id_', 'smiles'], header=None, index_col=0).dropna(subset=['smiles'])
-    standardized = standardize_structure_list_with_pubchem(structures.smiles, 'smiles', request_processing_time=300)
-    structures['standardized'], structures['errors'] = list(zip(*standardized))
-    structures.loc[pd.isna(structures.errors), ['standardized']].to_csv(success_out, header=None, sep='\t')
-    structures.loc[~pd.isna(structures.errors), ['smiles', 'errors']].to_csv(failed_out, header=None, sep='\t')
+    if (len(structures) > 0):
+        standardized = standardize_structure_list_with_pubchem(structures.smiles, 'smiles', request_processing_time=300)
+        structures['standardized'], structures['errors'] = list(zip(*standardized))
+        structures.loc[pd.isna(structures.errors), ['standardized']].to_csv(success_out, header=None, sep='\t')
+        structures.loc[~pd.isna(structures.errors), ['smiles', 'errors']].to_csv(failed_out, header=None, sep='\t')
+    else:
+        # write empty output files
+        with open(success_out, 'w') as out:
+            out.write('')
+        with open(failed_out, 'w') as out:
+            out.write('')
