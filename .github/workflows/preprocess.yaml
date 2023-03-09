@@ -4,6 +4,9 @@ on:
   pull_request_target:
     # (re)opened PR or new commit in fork
     types: [ opened, synchronize, reopened ]
+    paths:
+      - 'raw_data/**'
+      - 'processed_data/**'
 
 jobs:
   preprocess:
