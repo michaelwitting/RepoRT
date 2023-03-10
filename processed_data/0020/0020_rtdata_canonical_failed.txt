@@ -1,0 +1,2 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0020_00032	Creatine Anhydrous	C16H14ClNO4	12.03		missing SMILES		

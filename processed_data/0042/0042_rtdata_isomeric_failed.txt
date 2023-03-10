@@ -1,0 +1,35 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0042_00001	Hydroxybenzoic acid-4-sulfate	C7H6O6S	2.55		missing SMILES		
+0042_00002	Hydroxybenzoic acid-4-glucuronide	C13C14O9	1.06		missing SMILES		
+0042_00003	protocatechuic acid-3-O-sulfate	C7H6O7S	2.38		missing SMILES		
+0042_00004	Protocatechuic acid-3-O-glucuronide	C13H14O10	1.44		missing SMILES		
+0042_00005	Vanillic acid-4-glucuronide		1.45		missing SMILES		
+0042_00006	Vanillic acid-4-O-sulfate	C8H8O7S	3.13		missing SMILES		
+0042_00011	Caffeic acid-4-glucuronide	C15H16O10	2.45		missing SMILES		
+0042_00012	Hippuric acid	C9H9NO3	3.8		missing SMILES		
+0042_00014	Quercetin 3-O-sulfate	C15H10O10S	6.76		missing SMILES		
+0042_00015	Quercetin-3-O-glucuronide	C21H18O13	4.92		missing SMILES		
+0042_00017	Chlorogenic acid	C16H18O9	3.85		missing SMILES		
+0042_00018	Protocatechuic acid	C7H6O4	1.55		missing SMILES		
+0042_00019	3-(3-hydroxyphenyl)propanoic acid	C9H10O3	4.51		missing SMILES		
+0042_00020	Gallic acid	C7H6O5	0.96		missing SMILES		
+0042_00021	Protocatechuic acid-4-O-sulfate	C7H6O7S	2.38		missing SMILES		
+0042_00022	Protocatechuic acid-4-glucuronide	C13H14O10	1.03		missing SMILES		
+0042_00023	Isovanillic acid-3-glucuronide	C14H16O10	2.34		missing SMILES		
+0042_00024	Isovanillic acid-3-O-sulfate	C8H8O7S	3.68		missing SMILES		
+0042_00027	Dihydrocaffeic acid-3-O-sulfate	C9H10O7S	4.04		missing SMILES		
+0042_00029	Dihydroferulic acid-4-O-Sulfate	C10H12O7S	4.36		missing SMILES		
+0042_00030	4-Hydroxyhippuric acid	C9H9NO4	1.55		missing SMILES		
+0042_00033	4-Hydroxybenzoic acid	C7H6O3	2.18		missing SMILES		
+0042_00034	4-Hydroxybenzaldehyde	C7H6O2	3.43		missing SMILES		
+0042_00035	3,4-Dihydroxybenzaldehyde	C7H6O3	2.18		missing SMILES		
+0042_00036	Hesperetin-7-O-glucuronide	C21H22O12	5.26		missing SMILES		
+0042_00040	5-Phenyl-gamma-valerolactone-3'-glucuronide	C17H20O9	4.31		missing SMILES		
+0042_00041	5-Phenyl-gamma-valerolactone-3'-sulfate	C11H12O6S	4.96		missing SMILES		
+0042_00042	5-(3',4'-Dihydroxyphenyl)-gamma-valerolactone	C11H12O4	4.13		missing SMILES		
+0042_00043	5-(3',5'-Dihydroxyphenyl)-gamma-valerolactone	C11H12O4	3.72		missing SMILES		
+0042_00044	5-(4'-Hydroxyphenyl)-gamma-valerolactone-3'-sulfate	C11H12O7S	4.64		missing SMILES		
+0042_00045	5-(5'-Hydroxyphenyl)-gamma-valerolactone-3'-glucuronide		2.34		missing SMILES		
+0042_00050	Urolithin A	C13H8O4	5.59		missing SMILES		
+0042_00051	Urolithin C	C13H8O5	5.11		missing SMILES		
+0042_00052	Urolithin  D	C13H8O6	4.68		missing SMILES		

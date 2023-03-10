@@ -1,0 +1,3 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0042_00005	Vanillic acid-4-glucuronide		1.45		missing SMILES		
+0042_00045	5-(5'-Hydroxyphenyl)-gamma-valerolactone-3'-glucuronide		2.34		missing SMILES		

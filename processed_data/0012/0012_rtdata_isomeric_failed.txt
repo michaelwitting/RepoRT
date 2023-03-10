@@ -1,0 +1,27 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0012_00008	Sodium glycocholate hydrate	C26H43NO6	13.26		missing SMILES		
+0012_00019	Hippuric Acid	C9H9NO3	5.97		missing SMILES		
+0012_00020	Creatinine	C4H7N3O	1.05		missing SMILES		
+0012_00021	Nicotinic Acid	C6H5NO2	1.45		missing SMILES		
+0012_00025	C4 Butyryl-L-carnitine*HCl	C11H21NO4	3.76		missing SMILES		
+0012_00026	C5 Isovaleryl L-Carnitine*HCl	C12H23NO4	5.72		missing SMILES		
+0012_00029	C10 Decanoyl-L-Carnitine*HCl	C17H33NO4	13.6		missing SMILES		
+0012_00033	C18 Octadecanoyl-L-Carnitine*HCl	C25H49NO4	17		missing SMILES		
+0012_00036	Eicosanoic Acid (Arachidic C20)	C20H40O2	17.24		missing SMILES		
+0012_00037	cis-11-eicosenoic Acid (Gondoic)	C20H38O2	17.03		missing SMILES		
+0012_00039	docosanoic acid (Behenic)	C22H44O2	18.68		missing SMILES		
+0012_00041	Pyrocatechol	C6H6O2	4.4		missing SMILES		
+0012_00042	Pyrogallol	C6H6O3	1.88		missing SMILES		
+0012_00043	4-hydroxybenzoic acid	C7H6O3	5.2		missing SMILES		
+0012_00044	3-hydroxyphenyl acetic acid	C8H8O3	6.03		missing SMILES		
+0012_00045	protocatechuic acid	C7H6O4	5.93		missing SMILES		
+0012_00049	vanillic acid	C8H8O4	6.08		missing SMILES		
+0012_00050	3,4-dihydroxyphenyl acetic acid	C8H8O4	4.11		missing SMILES		
+0012_00051	gallic acid	C7H6O5	2.04		missing SMILES		
+0012_00052	hippuric acid	C9H9NO3	5.56		missing SMILES		
+0012_00054	3 methoxy-4 hydroxyphenyl acetic acid	C9H10O4	6.19		missing SMILES		
+0012_00057	3-hydroxyhippuric acid	C9H9NO4	3.92		missing SMILES		
+0012_00058	dihydroferulic acid	C10H12O4	7.44		missing SMILES		
+0012_00059	Urolithin B	C13H8O3	12.94		missing SMILES		
+0012_00061	Urolithin A	C13H8O4	10.43		missing SMILES		
+0012_00062	ellagic acid	C14H6O8	8.11		missing SMILES		

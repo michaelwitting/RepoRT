@@ -1,0 +1,3 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0056_00018	p-Coumaric acid-4-O-glucuronide		3.804		missing SMILES		
+0056_00040	Caffeic acid-3-glucuronide		5.229		missing SMILES		
