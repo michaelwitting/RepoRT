@@ -13,17 +13,21 @@ import json
 import os.path
 from glob import glob
 from hashlib import md5
+import os
 
 def get_file_hashes(specific_file=None):
     return {f: md5(open(f, 'rb').read()).hexdigest()
             for f in (glob('processed_data/*/*_success.txt')
-                      if specific_file is None else [specific_file])}
+                      if specific_file is None else [specific_file])
+            if '_fingerprints_' not in f}
+
+def is_isomeric(smiles):
+    return any(c in smiles for c in ['\\', '/', '@'])
 
 # NOTE: NAs are cached, too! (for now)
 def cache_data(files):
     cache = {'cached_files': {}, 'classyfire': {}, 'descriptors': {}, 'smiles': {}}
     for f in files:
-        print(f)
         try:
             processed_data = [line.split('\t') for line in open(f)]
             if ('_descriptors_' in f):
@@ -70,8 +74,11 @@ def cache_data(files):
                     raw_smiles = raw_mapping[line[id_index]]
                     processed_smiles = line[smiles_index]
                     inchikey = line[inchikey_index]
-                    # cache standardized SMILES
-                    cache['smiles'][raw_smiles] = processed_smiles
+                    if is_isomeric(raw_smiles) ^ is_isomeric(processed_smiles):
+                        print('SMILES: isomeric information might be lost, not caching:', f, raw_smiles, processed_smiles)
+                    else:
+                        # cache standardized SMILES
+                        cache['smiles'][raw_smiles] = processed_smiles
                     # cache classyfire
                     for c in classyfire_fields:
                         value = line[classyfire_fields[c]].strip()
@@ -86,14 +93,19 @@ def cache_data(files):
     return cache
 
 if __name__ == '__main__':
+    cache = {'cached_files': {}, 'classyfire': {}, 'descriptors': {}, 'smiles': {}}
     # check if cache exists
     cache_file = '_computation_cache.json'
+    if os.environ.get('PREPROCESSING_NOCACHE', 0) == 1:
+        print('emptying cache')
+        with open(cache_file, 'w') as out:
+            json.dump(cache, out)
+        exit(0)
     try:
         #os.path.exists(cache_file) -> excepted
         cache = json.load(open(cache_file, 'r'))
     except Exception as e:
         print(e)
-        cache = {'cached_files': {}, 'classyfire': {}, 'descriptors': {}, 'smiles': {}}
     # has something changed?
     new_file_hashes = get_file_hashes()
     if (set(cache['cached_files']) != set(new_file_hashes)
@@ -106,5 +118,5 @@ if __name__ == '__main__':
         for key in new_cache:
             cache[key].update(new_cache[key])
         # dump
-        with open('_computation_cache.json', 'w') as out:
+        with open(cache_file, 'w') as out:
             json.dump(cache, out)
