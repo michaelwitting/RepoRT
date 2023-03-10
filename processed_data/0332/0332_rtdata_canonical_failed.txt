@@ -1,2 +1,0 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0332_00088	O-Succinyl-L-carnitine lithium salt	C11H19NO6	0.842	HAEVNYBCYZZDFL-UHFFFAOYSA-N	'PUGREST.BadRequest: error: '		

@@ -1,4 +1,0 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0056_00018	p-Coumaric acid-4-O-glucuronide		3.804		FAILED_STANDARDIZATION		
-0056_00040	Caffeic acid-3-glucuronide		5.229		FAILED_STANDARDIZATION		
-0056_00059	Isoferulic acid-3-O-glucuronide	C16H18O10	6.358	SHJZLGVIOYFHCB-MBAOVNHDSA-N	FAILED_STANDARDIZATION		

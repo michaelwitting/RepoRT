@@ -1,2 +1,0 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0351_00895	DL-Isocitric acid trisodium salt hydrate	C6H8O7	0.747	ODBLHEXUDAPZAU-UHFFFAOYSA-N	'PUGREST.BadRequest: error: '		

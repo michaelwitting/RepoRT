@@ -1,4 +1,0 @@
-id	name	formula	rt	smiles.std	inchi.std	inchikey.std	classyfire.kingdom	classyfire.superclass	classyfire.class	classyfire.subclass	classyfire.level5	classyfire.level6
-0020_00006	Isonipecotic acid	C6H11NO2	11	S	InChI=1S/H2S/h1H2	RWSOTUBLDIXVET-UHFFFAOYSA-N	Inorganic compounds (CHEMONTID:0000001)	Homogeneous non-metal compounds (CHEMONTID:0000423)	Other non-metal organides (CHEMONTID:0000453)	Other non-metal sulfides (CHEMONTID:0000555)	NA (NA)	NA (NA)
-0020_00015	Xanthone	C13H8O2	1.22	P	InChI=1S/H3P/h1H3	XYFCBTPGUUZFHI-UHFFFAOYSA-N	Inorganic compounds (CHEMONTID:0000001)	Homogeneous non-metal compounds (CHEMONTID:0000423)	Homogeneous other non-metal compounds (CHEMONTID:0000434)	NA (NA)	NA (NA)	NA (NA)
-0020_00092	L-Ornithine	C5H12N2O2	15.93	B=B	InChI=1S/B2H2/c1-2/h1-2H	HWGHUECIBSMKRW-UHFFFAOYSA-N						
