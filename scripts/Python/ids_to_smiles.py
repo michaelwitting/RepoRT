@@ -14,7 +14,7 @@ def get_formula(smiles):
 
 def inchi_to_smiles(inchi):
     compound = pcp.get_compounds(inchi, 'inchi')[0]
-    
+
 
 def get_pubchem_smiles(id_):
     id_ = int(id_)              # might be float
@@ -53,6 +53,7 @@ def get_smiles(id_, id_type):
 if __name__ == '__main__':
     in_file = sys.argv[1]
     df = pd.read_csv(in_file, sep='\t', index_col=0)
+    changed = False
     for i, r in df.iterrows():
         if not pd.isna(df.loc[i, ['pubchem.smiles.isomeric', 'pubchem.smiles.canonical']]).all():
             continue
@@ -62,8 +63,11 @@ if __name__ == '__main__':
                 try:
                     smiles = get_smiles(id_, id_type)
                     df.at[i, ('pubchem.smiles.isomeric' if is_isomeric(smiles) else 'pubchem.smiles.canonical')] = smiles
+                    print(f'retrieved {"isomeric" if is_isomeric(smiles) else "canonical"} SMILES for {i} via {id_type} with ID {id_}')
+                    changed = True
                     continue
                 except Exception as e:
                     print(i, e)
-    os.rename(in_file, in_file + '.old')
-    df.to_csv(in_file, sep='\t')
+    if (changed):
+        os.rename(in_file, in_file + '.old')
+        df.to_csv(in_file, sep='\t')

@@ -1,3 +1,4 @@
 pandas
-PubChemPy
+requests
+pubchempy
 zeep
