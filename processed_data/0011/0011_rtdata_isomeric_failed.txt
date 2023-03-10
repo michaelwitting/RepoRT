@@ -1,0 +1,61 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0011_0006	Muricholic acid (hyocholic)	C24H40O5	11.21		missing SMILES		
+0011_0007	Hyodeoxycholic acid (6a-OH Lithocholate)	C24H40O4	12.05		missing SMILES		
+0011_0008	Sodium glycocholate hydrate	C26H43NO6	10.3		missing SMILES		
+0011_0018	Hippuric Acid	C9H9NO3	5.51		missing SMILES		
+0011_0019	Creatinine	C4H7N3O	1.06		missing SMILES		
+0011_0020	Nicotinic Acid	C6H5NO2	1.44		missing SMILES		
+0011_0024	L-Carnitine*HCl	C7H15NO3	1		missing SMILES		
+0011_0025	C3 Propionyl-L-carnitine*HCl	C10H19NO4	1.83		missing SMILES		
+0011_0026	C4 Butyryl-L-carnitine*HCl	C11H21NO4	3.73		missing SMILES		
+0011_0027	C5 Isovaleryl L-Carnitine*HCl	C12H23NO4	5.25		missing SMILES		
+0011_0029	C8 Octanoyl-L-Carnitine*HCl	C15H29NO4	8.86		missing SMILES		
+0011_0030	C10 Decanoyl-L-Carnitine*HCl	C17H33NO4	10.57		missing SMILES		
+0011_0034	C18 Octadecanoyl-L-Carnitine*HCl	C25H49NO4	16.16		missing SMILES		
+0011_0035	Hexadecenoic Acid (Palmitoleic)	C16H30O2	19.03		missing SMILES		
+0011_0039	Eicosanoic Acid (Arachidic C20)	C20H40O2	15.48		missing SMILES		
+0011_0041	docosanoic acid (Behenic)	C22H44O2	17.74		missing SMILES		
+0011_0044	tetracosanoic acid (Lignoceric)	C24H48O2	16.5		missing SMILES		
+0011_0046	cysteamine	C2H7NS	0.99		missing SMILES		
+0011_0048	Cadaverine	C5H14N2	0.88		missing SMILES		
+0011_0052	Benzoic Acid	C7H6O2	1.47		missing SMILES		
+0011_0053	Nicotinic Acid	C6H5NO2	1.38		missing SMILES		
+0011_0055	Glutaric Acid	C5H8O4	2.2		missing SMILES		
+0011_0057	Tyramine	C8H11NO	1.53		missing SMILES		
+0011_0058	Lysine	C6H15N2O2	0.9		missing SMILES		
+0011_0059	Glutamic Acid	C5H9NO4	0.98		missing SMILES		
+0011_0060	Phenyl Propionic Acid	C9H10O2	1.77		missing SMILES		
+0011_0061	Guanine	C5H5N5O	1.375		missing SMILES		
+0011_0062	Histidine	C6H9N3O2	0.9		missing SMILES		
+0011_0063	Tryptamine	C10H12N2	4.8		missing SMILES		
+0011_0064	Umbelliferone	C9H6O3	6.845		missing SMILES		
+0011_0065	m-coumaric acid	C9H8O3	7.23		missing SMILES		
+0011_0067	o-coumaric acid	C9H8O3	7.75		missing SMILES		
+0011_0068	Vanillic acid	C8H8O4	5.6		missing SMILES		
+0011_0069	4-methylumbelliferone	C10H8O3	7.825		missing SMILES		
+0011_0070	Serotonin	C10H12N2O	2.04		missing SMILES		
+0011_0071	Daphnetin	C9H6O4	5.895		missing SMILES		
+0011_0072	Esculetin	C9H6O4	5.5		missing SMILES		
+0011_0073	Hippuric Acid	C9H9NO3	5.32		missing SMILES		
+0011_0074	Syringaldehyde	C9H10O4	6.69		missing SMILES		
+0011_0075	Citric Acid	C6H8O7	1.375		missing SMILES		
+0011_0078	Syringic acid	C9H10O5	5.795		missing SMILES		
+0011_0080	Kynurenine	C10H12N2O3	2.42		missing SMILES		
+0011_0083	palmitic acid (Hexadecanoic acid)	C16H32O2	14.9		missing SMILES		
+0011_0086	Baicalein	C15H10O5	10.26		missing SMILES		
+0011_0087	Naringenin	C15H12O5	9.81		missing SMILES		
+0011_0088	Phloretin	C15H14O5	9.74		missing SMILES		
+0011_0090	linoleic acid	C18H32O2	17.11		missing SMILES		
+0011_0093	Kaempferol	C15H10O6	7.315		missing SMILES		
+0011_0094	Luteolin	C15H10O6	8.945		missing SMILES		
+0011_0097	Hesperetin	C16H14O6	10.115		missing SMILES		
+0011_0103	behenic acid	C22H44O2	6.66		missing SMILES		
+0011_0105	2 deoxy guanosine 5 monophosphate	C10H14N5O7P	1.425		missing SMILES		
+0011_0115	lupeol	C30H50O	16.17		missing SMILES		
+0011_0116	cycloartenol	C30H50O	16.17		missing SMILES		
+0011_0117	Apigenin-7-o-glucoside	C21H20O10	7.43		missing SMILES		
+0011_0119	Naringenin 7-o- glucoside	C21H22O10	7.4		missing SMILES		
+0011_0122	Kaempferol-3-glucoside	C21H20O11	7.305		missing SMILES		
+0011_0124	Orientin (luteolin-8-c- glucoside)	C21H20O11	6.25		missing SMILES		
+0011_0125	Luteolin-7-o-Glucoside	C21H20O11	7.04		missing SMILES		
+0011_0134	Isorhamnetin 3 glucoside	C22H22O12	7.39		missing SMILES		

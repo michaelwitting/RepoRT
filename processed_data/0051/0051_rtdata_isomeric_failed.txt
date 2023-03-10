@@ -1,0 +1,51 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0051_00001	Quinic acid	C10H10O3	3.21		missing SMILES		
+0051_00002	malic acid	C10H10O3	3.87		missing SMILES		
+0051_00003	Ascorbic acid	C10H10O3	4.28		missing SMILES		
+0051_00007	Niacin	C11H12O5	5.51		missing SMILES		
+0051_00011	Citric acid	C15H12O7	6.32		missing SMILES		
+0051_00012	Uric acid	C15H14O5	7.67		missing SMILES		
+0051_00014	Gallic acid	C16H18O10	13.88		missing SMILES		
+0051_00015	2,4,6-trihydroxybenzoic acid	C16H18O9	15.88		missing SMILES		
+0051_00016	Protocatechuic acid	C18H16O8	16.45		missing SMILES		
+0051_00017	3,4-Dihydroxyphenylacetic acid	C19H19N7O6	16.98		missing SMILES		
+0051_00018	Folic acid	C21H20O11	19.04		missing SMILES		
+0051_00020	Gentisic acid	C21H20O11	19.89		missing SMILES		
+0051_00021	4-Hydroxybenzoic acid	C21H24O10	19.92		missing SMILES		
+0051_00024	Dihydrocaffeic acid	C27H30O14	20.11		missing SMILES		
+0051_00025	Hippuric acid	C27H30O15	20.25		missing SMILES		
+0051_00026	4-Hydroxyphenylacetic acid	C27H30O16	20.41		missing SMILES		
+0051_00028	Caffeine	C30H26O13	21.28		missing SMILES		
+0051_00029	Vanillic acid	C33H40O19	22.07		missing SMILES		
+0051_00030	3-Hydroxybenzoic acid	C4H6O5	22.74		missing SMILES		
+0051_00031	Syringic acid	C5H4N4O3	23.15		missing SMILES		
+0051_00033	Phloretic acid	C6H8O7	25.96		missing SMILES		
+0051_00035	salicylglycine	C7H6O2	27.45		missing SMILES		
+0051_00036	Phloroglucinol aldehyde	C7H6O3	27.63		missing SMILES		
+0051_00037	Hydroferulic acid	C7H6O3	28.46		missing SMILES		
+0051_00038	Quercetin-3,4'-diglucoside	C12H16O3	29.15		missing SMILES		
+0051_00039	3-(3-hydroxyphenyl)propanoic acid	C7H6O4	29.53		missing SMILES		
+0051_00041	o-Anisic acid	C7H6O4	31.44		missing SMILES		
+0051_00042	Robinin	C7H6O5	31.83		missing SMILES		
+0051_00043	homoveratric acid	C7H6O5	32.5		missing SMILES		
+0051_00045	Veratric acid	C8H8O3	32.96		missing SMILES		
+0051_00046	Sinapic acid	C8H8O3	33.03		missing SMILES		
+0051_00048	m-Coumaric acid	C8H8O4	33.9		missing SMILES		
+0051_00049	Rutin	C8H8O4	34.08		missing SMILES		
+0051_00051	Benzoic acid	C9H10O3	35.47		missing SMILES		
+0051_00054	Kaempferol 3-O-rutinoside	C9H10O4	36.98		missing SMILES		
+0051_00055	Kaempferol 3-O-D-galactoside	C9H10O4	37.18		missing SMILES		
+0051_00056	Salicylic acid	C9H10O5	37.4		missing SMILES		
+0051_00057	o-Coumaric acid	C9H8O2	37.475		missing SMILES		
+0051_00060	Isorhamnetin-3-O-glucoside	C9H8O3	38.68		missing SMILES		
+0051_00061	Quercetin-3-O-(6-acetylglucoside)	C9H9NO3	38.84		missing SMILES		
+0051_00062	p-anisic acid	C15H14O6	39.12		missing SMILES		
+0051_00063	Rosmarinic acid	C15H14O6	39.24		missing SMILES		
+0051_00064	Phloridzin	C6H8O6	39.565		missing SMILES		
+0051_00065	m-Anisic acid	C6H8O6	40.175		missing SMILES		
+0051_00066	3-phenylpropionic acid	C10H12O4	44.485		missing SMILES		
+0051_00068	Quercetin	C11H21NO10S3	46.84		missing SMILES		
+0051_00069	Luteolin	C12H23NO10S3	46.96		missing SMILES		
+0051_00074	Phloretin	C9H11NO3	50.63		missing SMILES		
+0051_00075	Hesperetin	C11H19NO10S2	51.85		missing SMILES		
+0051_00076	Kaempferol	C11H19NO10S2	52.32		missing SMILES		
