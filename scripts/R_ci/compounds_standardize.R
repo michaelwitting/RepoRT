@@ -26,7 +26,7 @@
 library(tidyverse)
 library(rcdk)
 library(rinchi)
-source("scripts/R_ci/XX_functions.R")
+source("scripts/R_ci/helper_functions.R")
 
 # ==============================================================================
 # read the data and create tibble for data analysis
@@ -36,6 +36,8 @@ data_folders <- file.path('raw_data', commandArgs(trailingOnly=TRUE))
 
 # read data  and perform standardization ----------------------------------------
 for(data_folder in data_folders) {
+
+  cat(paste(Sys.time(), "processing", data_folder, "\n"))
 
   # ============================================================================
   # read and standardize compound data
@@ -118,8 +120,8 @@ for(data_folder in data_folders) {
   system("python3 scripts/Python/standardize.py temp.txt")
 
   # read standarized smiles ----------------------------------------------------
-  smiles_canonical_std <- read_tsv("temp.txt_standardized", col_names = FALSE)
-  smiles_canonical_failed <- read_tsv("temp.txt_failed", col_names = FALSE)
+  smiles_canonical_std <- read_tsv("temp.txt_standardized", col_names = FALSE, show_col_types = FALSE)
+  smiles_canonical_failed <- read_tsv("temp.txt_failed", col_names = FALSE, show_col_types = FALSE)
 
   # check if it contains data and rename column names --------------------------
   if(nrow(smiles_canonical_std) > 0) {
@@ -200,8 +202,8 @@ for(data_folder in data_folders) {
   system("python3 scripts/Python/standardize.py tempiso.txt")
 
   # read standarized smiles ----------------------------------------------------
-  smiles_isomeric_std <- read_tsv("tempiso.txt_standardized", col_names = FALSE)
-  smiles_isomeric_failed <- read_tsv("tempiso.txt_failed", col_names = FALSE)
+  smiles_isomeric_std <- read_tsv("tempiso.txt_standardized", col_names = FALSE, show_col_types = FALSE)
+  smiles_isomeric_failed <- read_tsv("tempiso.txt_failed", col_names = FALSE, show_col_types = FALSE)
 
   # check if it contains data and rename column names --------------------------
   if(nrow(smiles_isomeric_std) > 0) {
@@ -270,7 +272,7 @@ for(data_folder in data_folders) {
                                pattern = "_metadata.txt$",
                                full.names = TRUE)
 
-  meta_data <- read_tsv(meta_data_file)
+  meta_data <- read_tsv(meta_data_file, show_col_types = FALSE)
 
   # ============================================================================
   # write results
@@ -300,5 +302,3 @@ for(data_folder in data_folders) {
     }
 
 }
-
-print(computation_cache_hit_counter)
