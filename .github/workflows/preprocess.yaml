@@ -103,6 +103,18 @@ jobs:
         git lfs push origin HEAD # first push LFS, otherwise failure because of lfs.url
         git push origin HEAD
 
+    - name: Add comment with report to PR
+      uses: actions/github-script@v6
+      with:
+        script: |
+          github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: (await exec.getExecOutput('python3 scripts/Python/report.py', '${{ steps.filesfolders.outputs.files }}'.trim().split(' '))).stdout
+          })
+      continue-on-error: true
+
     - name: Label as successfully preprocessed
       if: ${{ success() }}
       uses: andymckay/labeler@master
