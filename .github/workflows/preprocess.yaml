@@ -85,6 +85,9 @@ jobs:
     - name: Metadata standardization
       run: Rscript scripts/R_ci/metadata_standardize.R ${{ steps.filesfolders.outputs.files }}
 
+    - name: Generate dataset reports
+      run: Rscript scripts/R_ci/compounds_overview.R ${{ steps.filesfolders.outputs.files }}
+
     - name: Verify that required files are present
       run: Rscript scripts/R_ci/files_complete.R ${{ steps.filesfolders.outputs.files }}
 
