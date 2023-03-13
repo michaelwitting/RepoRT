@@ -1,2 +1,2 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0269_00041	Sudan I		19.135		'PUGREST.BadRequest: error: '		
+0269_00041	Sudan I		19.135		missing SMILES		

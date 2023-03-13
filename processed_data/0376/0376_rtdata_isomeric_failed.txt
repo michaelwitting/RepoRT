@@ -1,60 +1,60 @@
-id	name	formula	rt	smiles.std	status
-0376_00003	Acetyl-CoA		8.533		'PUGREST.BadRequest: error: '
-0376_00004	Adenine		3.45		'PUGREST.BadRequest: error: '
-0376_00005	Adenosine		3.592		'PUGREST.BadRequest: error: '
-0376_00007	ADP		12.292		'PUGREST.BadRequest: error: '
-0376_00008	AMP		8.717		'PUGREST.BadRequest: error: '
-0376_00009	Ascorbic Acid		9.167		'PUGREST.BadRequest: error: '
-0376_00010	Asparagine		10.733		'PUGREST.BadRequest: error: '
-0376_00012	ATP		13.517		'PUGREST.BadRequest: error: '
-0376_00013	Biotin		3.267		'PUGREST.BadRequest: error: '
-0376_00014	CDP		13.183		'PUGREST.BadRequest: error: '
-0376_00015	Citric acid		16.575		'PUGREST.BadRequest: error: '
-0376_00017	CMP		11.092		'PUGREST.BadRequest: error: '
-0376_00020	Cystine		11.567		'PUGREST.BadRequest: error: '
-0376_00021	Cytidine		5.883		'PUGREST.BadRequest: error: '
-0376_00022	Folic Acid		14.317		'PUGREST.BadRequest: error: '
-0376_00023	Fructose-1,6-bisphosphate		15.992		'PUGREST.BadRequest: error: '
-0376_00025	GDP		14.833		'PUGREST.BadRequest: error: '
-0376_00026	Glutamic acid		9.842		'PUGREST.BadRequest: error: '
-0376_00027	Glutamine		8.383		'PUGREST.BadRequest: error: '
-0376_00028	Glycerol-3-phosphate		10.933		'PUGREST.BadRequest: error: '
-0376_00030	GMP		14.192		'PUGREST.BadRequest: error: '
-0376_00031	GSH		8.792		'PUGREST.BadRequest: error: '
-0376_00032	GSSG		15.45		'PUGREST.BadRequest: error: '
-0376_00033	GTP		16.958		'PUGREST.BadRequest: error: '
-0376_00034	Guanosine		6.508		'PUGREST.BadRequest: error: '
-0376_00039	Isocitric acid		16.05		'PUGREST.BadRequest: error: '
-0376_00040	Isoleucine		5.8		'PUGREST.BadRequest: error: '
-0376_00041	Lactic Acid		3.242		'PUGREST.BadRequest: error: '
-0376_00042	Leucine		5.517		'PUGREST.BadRequest: error: '
-0376_00043	Lysine		18.783		'PUGREST.BadRequest: error: '
-0376_00044	Malic Acid		12.867		'PUGREST.BadRequest: error: '
-0376_00045	Malonic Acid		9.175		'PUGREST.BadRequest: error: '
-0376_00046	Methionine		5.983		'PUGREST.BadRequest: error: '
-0376_00047	N-Acetylaspartic acid		9.45		'PUGREST.BadRequest: error: '
-0376_00048	NAD		9.033		'PUGREST.BadRequest: error: '
-0376_00049	NADH		9.308		'PUGREST.BadRequest: error: '
-0376_00050	NADP		13.433		'PUGREST.BadRequest: error: '
-0376_00051	NADPH		16.892		'PUGREST.BadRequest: error: '
-0376_00052	Nicotinic acid		2.383		'PUGREST.BadRequest: error: '
-0376_00053	NMN		9.917		'PUGREST.BadRequest: error: '
-0376_00054	Ornithine		18.125		'PUGREST.BadRequest: error: '
-0376_00057	PEP		13.692		'PUGREST.BadRequest: error: '
-0376_00059	Phenylalanine		5.175		'PUGREST.BadRequest: error: '
-0376_00060	Phosphoglyceric acid A		13.583		'PUGREST.BadRequest: error: '
-0376_00062	Proline		6.542		'PUGREST.BadRequest: error: '
-0376_00064	Quinic Acid		6.608		'PUGREST.BadRequest: error: '
-0376_00065	Serine		8.667		'PUGREST.BadRequest: error: '
-0376_00066	Succinic Acid		11.625		'PUGREST.BadRequest: error: '
-0376_00068	Thiamine		12.842		'PUGREST.BadRequest: error: '
-0376_00069	Threonine		8.208		'PUGREST.BadRequest: error: '
-0376_00070	Triose phosphate		10.933		'PUGREST.BadRequest: error: '
-0376_00071	Tryptophan		6.142		'PUGREST.BadRequest: error: '
-0376_00072	Tyrosine		6.958		'PUGREST.BadRequest: error: '
-0376_00073	UDP		12.333		'PUGREST.BadRequest: error: '
-0376_00074	UDP-GlcNAc		11.933		'PUGREST.BadRequest: error: '
-0376_00075	UDP-hexose		12.817		'PUGREST.BadRequest: error: '
-0376_00076	UMP		9.35		'PUGREST.BadRequest: error: '
-0376_00078	UTP		14.158		'PUGREST.BadRequest: error: '
-0376_00079	Valine		6.3		'PUGREST.BadRequest: error: '
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0376_00003	Acetyl-CoA	C23H38N7O17P3S	8.533		missing SMILES		
+0376_00004	Adenine	C5H5N5	3.45		missing SMILES		
+0376_00005	Adenosine	C10H13N5O4	3.592		missing SMILES		
+0376_00007	ADP	C10H15N5O10P2	12.292		missing SMILES		
+0376_00008	AMP	C10H14N5O7P	8.717		missing SMILES		
+0376_00009	Ascorbic Acid	C6H8O6	9.167		missing SMILES		
+0376_00010	Asparagine	C4H8N2O3	10.733		missing SMILES		
+0376_00012	ATP	C10H16N5O13P3	13.517		missing SMILES		
+0376_00013	Biotin	C10H16N2O3S	3.267		missing SMILES		
+0376_00014	CDP	C9H15N3O11P2	13.183		missing SMILES		
+0376_00015	Citric acid	C6H8O7	16.575		missing SMILES		
+0376_00017	CMP	C9H14N3O8P	11.092		missing SMILES		
+0376_00020	Cystine	C6H12N2O4S2	11.567		missing SMILES		
+0376_00021	Cytidine	C9H13N3O5	5.883		missing SMILES		
+0376_00022	Folic Acid	C19H19N7O6	14.317		missing SMILES		
+0376_00023	Fructose-1,6-bisphosphate	C6H14O12P2	15.992		missing SMILES		
+0376_00025	GDP	C10H15N5O11P2	14.833		missing SMILES		
+0376_00026	Glutamic acid	C5H9NO4	9.842		missing SMILES		
+0376_00027	Glutamine	C5H10N2O3	8.383		missing SMILES		
+0376_00028	Glycerol-3-phosphate	C3H9O6P	10.933		missing SMILES		
+0376_00030	GMP	C10H14N5O8P	14.192		missing SMILES		
+0376_00031	GSH	C10H17N3O6S	8.792		missing SMILES		
+0376_00032	GSSG	C20H32N6O12S2	15.45		missing SMILES		
+0376_00033	GTP	C10H16N5O14P3	16.958		missing SMILES		
+0376_00034	Guanosine	C10H13N5O5	6.508		missing SMILES		
+0376_00039	Isocitric acid	C6H8O7	16.05		missing SMILES		
+0376_00040	Isoleucine	C6H13NO2	5.8		missing SMILES		
+0376_00041	Lactic Acid	C3H6O3	3.242		missing SMILES		
+0376_00042	Leucine	C6H13NO2	5.517		missing SMILES		
+0376_00043	Lysine	C6H14N2O2	18.783		missing SMILES		
+0376_00044	Malic Acid	C4H6O5	12.867		missing SMILES		
+0376_00045	Malonic Acid	C3H4O4	9.175		missing SMILES		
+0376_00046	Methionine	C5H11NO2S	5.983		missing SMILES		
+0376_00047	N-Acetylaspartic acid	C6H9NO5	9.45		missing SMILES		
+0376_00048	NAD	C21H27N7O14P2	9.033		missing SMILES		
+0376_00049	NADH	C21H29N7O14P2	9.308		missing SMILES		
+0376_00050	NADP	C21H28N7O17P3	13.433		missing SMILES		
+0376_00051	NADPH	C21H30N7O17P3	16.892		missing SMILES		
+0376_00052	Nicotinic acid	C6H5NO2	2.383		missing SMILES		
+0376_00053	NMN	C11H15N2O8P	9.917		missing SMILES		
+0376_00054	Ornithine	C5H12N2O2	18.125		missing SMILES		
+0376_00057	PEP	C3H5O6P	13.692		missing SMILES		
+0376_00059	Phenylalanine	C9H11NO2	5.175		missing SMILES		
+0376_00060	Phosphoglyceric acid A	C3H7O7P	13.583		missing SMILES		
+0376_00062	Proline	C5H9NO2	6.542		missing SMILES		
+0376_00064	Quinic Acid	C7H12O6	6.608		missing SMILES		
+0376_00065	Serine	C3H7NO3	8.667		missing SMILES		
+0376_00066	Succinic Acid	C4H6O4	11.625		missing SMILES		
+0376_00068	Thiamine	C12H17N4OS	12.842		missing SMILES		
+0376_00069	Threonine	C4H9NO3	8.208		missing SMILES		
+0376_00070	Triose phosphate	C3H7O6P	10.933		missing SMILES		
+0376_00071	Tryptophan	C11H12N2O2	6.142		missing SMILES		
+0376_00072	Tyrosine	C9H11NO3	6.958		missing SMILES		
+0376_00073	UDP	C9H14N2O12P2	12.333		missing SMILES		
+0376_00074	UDP-GlcNAc	C17H27N3O17P2	11.933		missing SMILES		
+0376_00075	UDP-hexose	C15H24N2O17P2	12.817		missing SMILES		
+0376_00076	UMP	C9H13N2O9P	9.35		missing SMILES		
+0376_00078	UTP	C9H15N2O15P3	14.158		missing SMILES		
+0376_00079	Valine	C5H11NO2	6.3		missing SMILES		

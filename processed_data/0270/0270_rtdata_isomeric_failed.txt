@@ -1,49 +1,49 @@
-id	name	formula	rt	smiles.std	status
-0270_00002	1H-Benzotriazole		5.15		'PUGREST.BadRequest: error: '
-0270_00003	2-(Methylthio)benzothiazole		12.22		'PUGREST.BadRequest: error: '
-0270_00004	4-Chloroaniline		7.45		'PUGREST.BadRequest: error: '
-0270_00005	5-Methyl-1H-benzotriazole		6.4875		'PUGREST.BadRequest: error: '
-0270_00007	Alachlor		13.6275		'PUGREST.BadRequest: error: '
-0270_00008	Atraton		7.015		'PUGREST.BadRequest: error: '
-0270_00009	Atrazine		10.26		'PUGREST.BadRequest: error: '
-0270_00010	Benzothiazole		8.416		'PUGREST.BadRequest: error: '
-0270_00012	Caffeine		4.4		'PUGREST.BadRequest: error: '
-0270_00013	Carbamazepine		8.94		'PUGREST.BadRequest: error: '
-0270_00014	Carbazole		12.8		'PUGREST.BadRequest: error: '
-0270_00015	Chloridazon		6.48		'PUGREST.BadRequest: error: '
-0270_00016	Chlorpyrifos		17.04		'PUGREST.BadRequest: error: '
-0270_00017	Chlorthalidone		6.73		'PUGREST.BadRequest: error: '
-0270_00018	Climbazole		9.6675		'PUGREST.BadRequest: error: '
-0270_00020	Cyanazine		8.99		'PUGREST.BadRequest: error: '
-0270_00021	Diuron		10.54		'PUGREST.BadRequest: error: '
-0270_00024	Flecainide		5.87		'PUGREST.BadRequest: error: '
-0270_00025	fluconazole		5.948		'PUGREST.BadRequest: error: '
-0270_00026	Glimepiride		13.456		'PUGREST.BadRequest: error: '
-0270_00027	Haloperidol		5.895		'PUGREST.BadRequest: error: '
-0270_00029	Imazalil		6.644		'PUGREST.BadRequest: error: '
-0270_00030	Iminostilbene		13.585		'PUGREST.BadRequest: error: '
-0270_00031	Irbesartan		11.7		'PUGREST.BadRequest: error: '
-0270_00033	Metazachlor		11.18		'PUGREST.BadRequest: error: '
-0270_00034	Metolachlor		13.56		'PUGREST.BadRequest: error: '
-0270_00035	Metsulfuron-methyl		9.62		'PUGREST.BadRequest: error: '
-0270_00036	Monocrotophos		4.735		'PUGREST.BadRequest: error: '
-0270_00037	Monuron		8.69		'PUGREST.BadRequest: error: '
-0270_00038	Nicotinamide		1.94		'PUGREST.BadRequest: error: '
-0270_00039	Norethindrone		11.21		'PUGREST.BadRequest: error: '
-0270_00040	Parathion		14.73		'PUGREST.BadRequest: error: '
-0270_00041	Phenazone (Antipyrine)		5.59		'PUGREST.BadRequest: error: '
-0270_00042	Progesterone		13.94		'PUGREST.BadRequest: error: '
-0270_00043	Propanil		11.66		'PUGREST.BadRequest: error: '
-0270_00044	Quinoxaline		6.13		'PUGREST.BadRequest: error: '
-0270_00045	Reserpine		7.2		'PUGREST.BadRequest: error: '
-0270_00046	Sebuthylazine		11.53		'PUGREST.BadRequest: error: '
-0270_00047	Simazine		8.7		'PUGREST.BadRequest: error: '
-0270_00048	Sudan I		16.57		'PUGREST.BadRequest: error: '
-0270_00049	Sulfamethazine		5.71		'PUGREST.BadRequest: error: '
-0270_00050	Sulfapyridine		4.82		'PUGREST.BadRequest: error: '
-0270_00051	Theophylline		3.32		'PUGREST.BadRequest: error: '
-0270_00052	Tri-isobutyl phosphate		14.6475		'PUGREST.BadRequest: error: '
-0270_00053	Triethyl phosphate		7.268333333		'PUGREST.BadRequest: error: '
-0270_00054	Trifluralin		17.25		'PUGREST.BadRequest: error: '
-0270_00055	Trimethoprim		1.96		'PUGREST.BadRequest: error: '
-0270_00056	Triphenylphosphate		14.8375		'PUGREST.BadRequest: error: '
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0270_00002	1H-Benzotriazole	C6H5N3	5.15		missing SMILES		
+0270_00003	2-(Methylthio)benzothiazole	C8H7NS2	12.22		missing SMILES		
+0270_00004	4-Chloroaniline	C6H6ClN	7.45		missing SMILES		
+0270_00005	5-Methyl-1H-benzotriazole	C7H7N3	6.4875		missing SMILES		
+0270_00007	Alachlor	C14H20ClNO2	13.6275		missing SMILES		
+0270_00008	Atraton	C9H19N5O	7.015		missing SMILES		
+0270_00009	Atrazine	C8H16ClN5	10.26		missing SMILES		
+0270_00010	Benzothiazole	C7H5NS	8.416		missing SMILES		
+0270_00012	Caffeine	C8H10N4O2	4.4		missing SMILES		
+0270_00013	Carbamazepine	C15H12N2O	8.94		missing SMILES		
+0270_00014	Carbazole	C12H9N	12.8		missing SMILES		
+0270_00015	Chloridazon	C10H8ClN3O	6.48		missing SMILES		
+0270_00016	Chlorpyrifos	C9H11Cl3NO3PS	17.04		missing SMILES		
+0270_00017	Chlorthalidone	C14H11ClN2O4S	6.73		missing SMILES		
+0270_00018	Climbazole	C15H17ClN2O2	9.6675		missing SMILES		
+0270_00020	Cyanazine	C9H17ClN6	8.99		missing SMILES		
+0270_00021	Diuron	C9H10Cl2N2O	10.54		missing SMILES		
+0270_00024	Flecainide	C17H20F6N2O3	5.87		missing SMILES		
+0270_00025	fluconazole	C13H12F2N6O	5.948		missing SMILES		
+0270_00026	Glimepiride	C24H34N4O5S	13.456		missing SMILES		
+0270_00027	Haloperidol	C21H23ClFNO2	5.895		missing SMILES		
+0270_00029	Imazalil	C14H14Cl2N2O	6.644		missing SMILES		
+0270_00030	Iminostilbene	C14H11N	13.585		missing SMILES		
+0270_00031	Irbesartan	C25H28N6O	11.7		missing SMILES		
+0270_00033	Metazachlor	C14H16ClN3O	11.18		missing SMILES		
+0270_00034	Metolachlor	C15H22ClNO2	13.56		missing SMILES		
+0270_00035	Metsulfuron-methyl	C14H25N5O6S	9.62		missing SMILES		
+0270_00036	Monocrotophos		4.735		missing SMILES		
+0270_00037	Monuron	C9H11ClN2O	8.69		missing SMILES		
+0270_00038	Nicotinamide	C6H6N2O	1.94		missing SMILES		
+0270_00039	Norethindrone	C20H26O2	11.21		missing SMILES		
+0270_00040	Parathion	C10H14NO5PS	14.73		missing SMILES		
+0270_00041	Phenazone (Antipyrine)	C11H12N2O	5.59		missing SMILES		
+0270_00042	Progesterone	C21H30O2	13.94		missing SMILES		
+0270_00043	Propanil	C9H9Cl2NO	11.66		missing SMILES		
+0270_00044	Quinoxaline	C8H6N2	6.13		missing SMILES		
+0270_00045	Reserpine	C33H40N2O9	7.2		missing SMILES		
+0270_00046	Sebuthylazine	C9H18ClN5	11.53		missing SMILES		
+0270_00047	Simazine	C7H14ClN5	8.7		missing SMILES		
+0270_00048	Sudan I		16.57		missing SMILES		
+0270_00049	Sulfamethazine	C12H14N4O2S	5.71		missing SMILES		
+0270_00050	Sulfapyridine	C11H11N3O2S	4.82		missing SMILES		
+0270_00051	Theophylline	C7H8N4O2	3.32		missing SMILES		
+0270_00052	Tri-isobutyl phosphate	C12H27O4P	14.6475		missing SMILES		
+0270_00053	Triethyl phosphate	C6H15O4P	7.268333333		missing SMILES		
+0270_00054	Trifluralin	C13H16F3N3O4	17.25		missing SMILES		
+0270_00055	Trimethoprim	C14H26N4O3	1.96		missing SMILES		
+0270_00056	Triphenylphosphate	C18H15O4P	14.8375		missing SMILES		

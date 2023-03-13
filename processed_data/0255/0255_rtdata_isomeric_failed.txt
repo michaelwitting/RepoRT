@@ -1,88 +1,88 @@
-id	name	formula	rt	smiles.std	status
-0255_00294	ADENOSINE 5'-DIPHOSPHATE	C10H15N5O10P2	0.605		'PUGREST.BadRequest: error: '
-0255_00923	Acephate	C4H10NO3PS	1.572		'PUGREST.BadRequest: error: '
-0255_00929	Diflufenican	C19H11F5N2O2	5.908		'PUGREST.BadRequest: error: '
-0255_00940	Lenacil	C13H18N2O2	4.15		'PUGREST.BadRequest: error: '
-0255_00959	Diniconazole	C15H17Cl2N3O	5.489		'PUGREST.BadRequest: error: '
-0255_00963	Fenarimol	C17H12Cl2N2O	5.066		'PUGREST.BadRequest: error: '
-0255_00964	Fenbucanozole	C19H17ClN4	5.325		'PUGREST.BadRequest: error: '
-0255_00965	Fludioxonil	C12H6F2N2O2	4.995		'PUGREST.BadRequest: error: '
-0255_00968	Hexaconazole	C14H17Cl2N3O	5.396		'PUGREST.BadRequest: error: '
-0255_00970	Ipconazole	C18H24ClN3O	5.679		'PUGREST.BadRequest: error: '
-0255_00971	Metconazole	C17H22ClN3O	5.419		'PUGREST.BadRequest: error: '
-0255_00973	Tebuconazole	C16H22ClN3O	5.28		'PUGREST.BadRequest: error: '
-0255_00976	Triticonazole	C17H20ClN3O	4.973		'PUGREST.BadRequest: error: '
-0255_00983	Fenhexamid	C14H17Cl2NO2	5.203		'PUGREST.BadRequest: error: '
-0255_00984	Foramsulfron	C17H20N6O7S	3.963		'PUGREST.BadRequest: error: '
-0255_00986	Isoxaflutole	C15H12F3NO4S	5.039		'PUGREST.BadRequest: error: '
-0255_01002	Picolinafen	C19H12F4N2O2	6.067		'PUGREST.BadRequest: error: '
-0255_01007	Propyzamide	C12H11Cl2NO	5.203		'PUGREST.BadRequest: error: '
-0255_01020	Triflumizol	C15H15ClF3N3O	5.39		'PUGREST.BadRequest: error: '
-0255_01022	Amidosulfuron	C9H15N5O7S2	4.334		'PUGREST.BadRequest: error: '
-0255_01025	Boscalid	C18H12Cl2N2O	5.177		'PUGREST.BadRequest: error: '
-0255_01028	Chloridazon	C10H8ClN3O	3.349		'PUGREST.BadRequest: error: '
-0255_01029	Chlorsulfurson	C12H12ClN5O4S	4.334		'PUGREST.BadRequest: error: '
-0255_01034	Diflubenzuron	C14H9ClF2N2O2	5.296		'PUGREST.BadRequest: error: '
-0255_01035	Ethirimol	C11H19N3O	3.141		'PUGREST.BadRequest: error: '
-0255_01038	Fipronil	C12H4Cl2F6N4OS	5.553		'PUGREST.BadRequest: error: '
-0255_01039	Flazasulfuron	C13H12F3N5O5S	4.71		'PUGREST.BadRequest: error: '
-0255_01040	Flufenoxuron	C21H11ClF6N2O3	6.255		'PUGREST.BadRequest: error: '
-0255_01041	Fuberidazole	C11H8N2O	2.717		'PUGREST.BadRequest: error: '
-0255_01043	Isocarbophos	C11H16NO4PS	2.505		'PUGREST.BadRequest: error: '
-0255_01044	Isoxaben	C18H24N2O4	5.27		'PUGREST.BadRequest: error: '
-0255_01047	Lufenuron	C17H8Cl2F8N2O3	6.069		'PUGREST.BadRequest: error: '
-0255_01048	Mandipropamid	C23H22ClNO4	5.132		'PUGREST.BadRequest: error: '
-0255_01049	Metamitron	C10H10N4O	3.234		'PUGREST.BadRequest: error: '
-0255_01051	Metribuzin	C8H14N4OS	4.475		'PUGREST.BadRequest: error: '
-0255_01052	Metsulfuron-methyl	C14H15N5O6S	4.169		'PUGREST.BadRequest: error: '
-0255_01055	Novaluron	C17H9ClF8N2O4	5.883		'PUGREST.BadRequest: error: '
-0255_01058	Triflumuron	C15H10ClF3N2O3	5.597		'PUGREST.BadRequest: error: '
-0255_01059	Phoxim	C12H15N2O3PS	4.547		'PUGREST.BadRequest: error: '
-0255_01063	Oxasulfuron	C17H18N4O6S	4.053		'PUGREST.BadRequest: error: '
-0255_01066	Rimsulfuron	C14H17N5O7S2	4.311		'PUGREST.BadRequest: error: '
-0255_01067	Triasulfuron	C14H16ClN5O5S	4.284		'PUGREST.BadRequest: error: '
-0255_01069	Thifensulfurson methyl	C12H13N5O6S2	4.098		'PUGREST.BadRequest: error: '
-0255_01070	Teflubenzuron	C14H6Cl2F4N2O2	5.905		'PUGREST.BadRequest: error: '
-0255_01071	Acetamiprid	C10H11ClN4	3.514		'PUGREST.BadRequest: error: '
-0255_01078	Diuron	C9H10Cl2N2O	4.543		'PUGREST.BadRequest: error: '
-0255_01084	Imidacloprid	C9H10ClN5O2	3.372		'PUGREST.BadRequest: error: '
-0255_01088	Methoxyfenozide	C22H28N2O3	5.27		'PUGREST.BadRequest: error: '
-0255_01096	Tebufenozide	C22H28N2O2	5.526		'PUGREST.BadRequest: error: '
-0255_01097	Thiabendazole	C10H7N3S	2.623		'PUGREST.BadRequest: error: '
-0255_01098	Thiacloprid	C10H9ClN4S	3.793		'PUGREST.BadRequest: error: '
-0255_01106	Flonicamid	C9H6F3N3O	3.062		'PUGREST.BadRequest: error: '
-0255_01109	Mesosulfuron-methyl	C17H21N5O9S2	4.425		'PUGREST.BadRequest: error: '
-0255_01111	Pencycuron	C19H21ClN2O	5.854		'PUGREST.BadRequest: error: '
-0255_01115	Carbaryl	C12H11NO2	3.324		'PUGREST.BadRequest: error: '
-0255_01118	Sulfentrazone	C11H10Cl2F2N4O3S	4.402		'PUGREST.BadRequest: error: '
-0255_01124	Mixture of Avermectin B1a and B1b	C48H72O14	6.627		'PUGREST.BadRequest: error: '
-0255_01128	Chlorotoluron	C10H13ClN2O	4.375		'PUGREST.BadRequest: error: '
-0255_01129	Chloroxuron	C15H15ClN2O2	5.054		'PUGREST.BadRequest: error: '
-0255_01131	Dinotefuran	C7H14N4O3	2.384		'PUGREST.BadRequest: error: '
-0255_01134	Flubendiamide	C23H22F7IN2O4S	5.525		'PUGREST.BadRequest: error: '
-0255_01135	Forchlorfenuron	C12H10ClN3O	4.375		'PUGREST.BadRequest: error: '
-0255_01137	Hexaflumuron	C16H8Cl2F6N2O3	5.783		'PUGREST.BadRequest: error: '
-0255_01138	Hydramethylnon (Amdro)	C25H24F6N4	5.338		'PUGREST.BadRequest: error: '
-0255_01139	Mixture of Ivermectin B1a and B1b	C48H74O14	7.19		'PUGREST.BadRequest: error: '
-0255_01142	Moxidectin	C37H53NO8	6.932		'PUGREST.BadRequest: error: '
-0255_01143	Nitenpyram	C11H15ClN4O2	2.805		'PUGREST.BadRequest: error: '
-0255_01152	Thidiazuron	C9H8N4OS	3.932		'PUGREST.BadRequest: error: '
-0255_01218	C1-APS	C6H7NO3S	0.632		'PUGREST.BadRequest: error: '
-0255_01219	C2-APS	C7H9NO3S	0.68		'PUGREST.BadRequest: error: '
-0255_01221	C4-APS	C9H13NO3S	1.309		'PUGREST.BadRequest: error: '
-0255_01222	C5-APS	C10H15NO3S	2.531		'PUGREST.BadRequest: error: '
-0255_01223	C6-APS	C11H17NO3S	3.116		'PUGREST.BadRequest: error: '
-0255_01224	C7-APS	C12H19NO3S	3.537		'PUGREST.BadRequest: error: '
-0255_01225	C8-APS	C13H21NO3S	3.915		'PUGREST.BadRequest: error: '
-0255_01226	C9-APS	C14H23NO3S	4.24		'PUGREST.BadRequest: error: '
-0255_01227	C10-APS	C15H25NO3S	4.567		'PUGREST.BadRequest: error: '
-0255_01228	C11-APS	C16H27NO3S	4.874		'PUGREST.BadRequest: error: '
-0255_01229	C12-APS	C17H29NO3S	5.179		'PUGREST.BadRequest: error: '
-0255_01230	C13-APS	C18H31NO3S	5.482		'PUGREST.BadRequest: error: '
-0255_01231	C14-APS	C19H33NO3S	5.81		'PUGREST.BadRequest: error: '
-0255_01232	C15-APS	C20H35NO3S	6.093		'PUGREST.BadRequest: error: '
-0255_01233	C16-APS	C21H37NO3S	6.374		'PUGREST.BadRequest: error: '
-0255_01234	C17-APS	C22H39NO3S	6.653		'PUGREST.BadRequest: error: '
-0255_01235	C18-APS	C23H41NO3S	6.867		'PUGREST.BadRequest: error: '
-0255_01236	C19-APS	C24H43NO3S	7.079		'PUGREST.BadRequest: error: '
-0255_01237	C20-APS	C25H45NO3S	6.816		'PUGREST.BadRequest: error: '
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0255_00294	ADENOSINE 5'-DIPHOSPHATE	C10H15N5O10P2	0.605		missing SMILES		
+0255_00923	Acephate	C4H10NO3PS	1.572		missing SMILES		
+0255_00929	Diflufenican	C19H11F5N2O2	5.908		missing SMILES		
+0255_00940	Lenacil	C13H18N2O2	4.15		missing SMILES		
+0255_00959	Diniconazole	C15H17Cl2N3O	5.489		missing SMILES		
+0255_00963	Fenarimol	C17H12Cl2N2O	5.066		missing SMILES		
+0255_00964	Fenbucanozole	C19H17ClN4	5.325		missing SMILES		
+0255_00965	Fludioxonil	C12H6F2N2O2	4.995		missing SMILES		
+0255_00968	Hexaconazole	C14H17Cl2N3O	5.396		missing SMILES		
+0255_00970	Ipconazole	C18H24ClN3O	5.679		missing SMILES		
+0255_00971	Metconazole	C17H22ClN3O	5.419		missing SMILES		
+0255_00973	Tebuconazole	C16H22ClN3O	5.28		missing SMILES		
+0255_00976	Triticonazole	C17H20ClN3O	4.973		missing SMILES		
+0255_00983	Fenhexamid	C14H17Cl2NO2	5.203		missing SMILES		
+0255_00984	Foramsulfron	C17H20N6O7S	3.963		missing SMILES		
+0255_00986	Isoxaflutole	C15H12F3NO4S	5.039		missing SMILES		
+0255_01002	Picolinafen	C19H12F4N2O2	6.067		missing SMILES		
+0255_01007	Propyzamide	C12H11Cl2NO	5.203		missing SMILES		
+0255_01020	Triflumizol	C15H15ClF3N3O	5.39		missing SMILES		
+0255_01022	Amidosulfuron	C9H15N5O7S2	4.334		missing SMILES		
+0255_01025	Boscalid	C18H12Cl2N2O	5.177		missing SMILES		
+0255_01028	Chloridazon	C10H8ClN3O	3.349		missing SMILES		
+0255_01029	Chlorsulfurson	C12H12ClN5O4S	4.334		missing SMILES		
+0255_01034	Diflubenzuron	C14H9ClF2N2O2	5.296		missing SMILES		
+0255_01035	Ethirimol	C11H19N3O	3.141		missing SMILES		
+0255_01038	Fipronil	C12H4Cl2F6N4OS	5.553		missing SMILES		
+0255_01039	Flazasulfuron	C13H12F3N5O5S	4.71		missing SMILES		
+0255_01040	Flufenoxuron	C21H11ClF6N2O3	6.255		missing SMILES		
+0255_01041	Fuberidazole	C11H8N2O	2.717		missing SMILES		
+0255_01043	Isocarbophos	C11H16NO4PS	2.505		missing SMILES		
+0255_01044	Isoxaben	C18H24N2O4	5.27		missing SMILES		
+0255_01047	Lufenuron	C17H8Cl2F8N2O3	6.069		missing SMILES		
+0255_01048	Mandipropamid	C23H22ClNO4	5.132		missing SMILES		
+0255_01049	Metamitron	C10H10N4O	3.234		missing SMILES		
+0255_01051	Metribuzin	C8H14N4OS	4.475		missing SMILES		
+0255_01052	Metsulfuron-methyl	C14H15N5O6S	4.169		missing SMILES		
+0255_01055	Novaluron	C17H9ClF8N2O4	5.883		missing SMILES		
+0255_01058	Triflumuron	C15H10ClF3N2O3	5.597		missing SMILES		
+0255_01059	Phoxim	C12H15N2O3PS	4.547		missing SMILES		
+0255_01063	Oxasulfuron	C17H18N4O6S	4.053		missing SMILES		
+0255_01066	Rimsulfuron	C14H17N5O7S2	4.311		missing SMILES		
+0255_01067	Triasulfuron	C14H16ClN5O5S	4.284		missing SMILES		
+0255_01069	Thifensulfurson methyl	C12H13N5O6S2	4.098		missing SMILES		
+0255_01070	Teflubenzuron	C14H6Cl2F4N2O2	5.905		missing SMILES		
+0255_01071	Acetamiprid	C10H11ClN4	3.514		missing SMILES		
+0255_01078	Diuron	C9H10Cl2N2O	4.543		missing SMILES		
+0255_01084	Imidacloprid	C9H10ClN5O2	3.372		missing SMILES		
+0255_01088	Methoxyfenozide	C22H28N2O3	5.27		missing SMILES		
+0255_01096	Tebufenozide	C22H28N2O2	5.526		missing SMILES		
+0255_01097	Thiabendazole	C10H7N3S	2.623		missing SMILES		
+0255_01098	Thiacloprid	C10H9ClN4S	3.793		missing SMILES		
+0255_01106	Flonicamid	C9H6F3N3O	3.062		missing SMILES		
+0255_01109	Mesosulfuron-methyl	C17H21N5O9S2	4.425		missing SMILES		
+0255_01111	Pencycuron	C19H21ClN2O	5.854		missing SMILES		
+0255_01115	Carbaryl	C12H11NO2	3.324		missing SMILES		
+0255_01118	Sulfentrazone	C11H10Cl2F2N4O3S	4.402		missing SMILES		
+0255_01124	Mixture of Avermectin B1a and B1b	C48H72O14	6.627		missing SMILES		
+0255_01128	Chlorotoluron	C10H13ClN2O	4.375		missing SMILES		
+0255_01129	Chloroxuron	C15H15ClN2O2	5.054		missing SMILES		
+0255_01131	Dinotefuran	C7H14N4O3	2.384		missing SMILES		
+0255_01134	Flubendiamide	C23H22F7IN2O4S	5.525		missing SMILES		
+0255_01135	Forchlorfenuron	C12H10ClN3O	4.375		missing SMILES		
+0255_01137	Hexaflumuron	C16H8Cl2F6N2O3	5.783		missing SMILES		
+0255_01138	Hydramethylnon (Amdro)	C25H24F6N4	5.338		missing SMILES		
+0255_01139	Mixture of Ivermectin B1a and B1b	C48H74O14	7.19		missing SMILES		
+0255_01142	Moxidectin	C37H53NO8	6.932		missing SMILES		
+0255_01143	Nitenpyram	C11H15ClN4O2	2.805		missing SMILES		
+0255_01152	Thidiazuron	C9H8N4OS	3.932		missing SMILES		
+0255_01218	C1-APS	C6H7NO3S	0.632		missing SMILES		
+0255_01219	C2-APS	C7H9NO3S	0.68		missing SMILES		
+0255_01221	C4-APS	C9H13NO3S	1.309		missing SMILES		
+0255_01222	C5-APS	C10H15NO3S	2.531		missing SMILES		
+0255_01223	C6-APS	C11H17NO3S	3.116		missing SMILES		
+0255_01224	C7-APS	C12H19NO3S	3.537		missing SMILES		
+0255_01225	C8-APS	C13H21NO3S	3.915		missing SMILES		
+0255_01226	C9-APS	C14H23NO3S	4.24		missing SMILES		
+0255_01227	C10-APS	C15H25NO3S	4.567		missing SMILES		
+0255_01228	C11-APS	C16H27NO3S	4.874		missing SMILES		
+0255_01229	C12-APS	C17H29NO3S	5.179		missing SMILES		
+0255_01230	C13-APS	C18H31NO3S	5.482		missing SMILES		
+0255_01231	C14-APS	C19H33NO3S	5.81		missing SMILES		
+0255_01232	C15-APS	C20H35NO3S	6.093		missing SMILES		
+0255_01233	C16-APS	C21H37NO3S	6.374		missing SMILES		
+0255_01234	C17-APS	C22H39NO3S	6.653		missing SMILES		
+0255_01235	C18-APS	C23H41NO3S	6.867		missing SMILES		
+0255_01236	C19-APS	C24H43NO3S	7.079		missing SMILES		
+0255_01237	C20-APS	C25H45NO3S	6.816		missing SMILES		

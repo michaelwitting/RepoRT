@@ -1,35 +1,35 @@
-id	name	formula	rt	smiles.std	status
-0212_00002	Daidzein	C15H10O4	6.818		'PUGREST.BadRequest: error: '
-0212_00003	indole-3-propionic acid	C11H11NO2	7.07		'PUGREST.BadRequest: error: '
-0212_00007	Methyl indole-3-acetate	C11H11NO2	7.272		'PUGREST.BadRequest: error: '
-0212_00008	2-Linoleoyl glycerol	C21H38O4	10.769		'PUGREST.BadRequest: error: '
-0212_00009	Spermidine	C7H19N3	1.12		'PUGREST.BadRequest: error: '
-0212_00012	Thymine	C5H6N2O2	3.667		'PUGREST.BadRequest: error: '
-0212_00013	6-Methylquinoline	C10H9N	4.608		'PUGREST.BadRequest: error: '
-0212_00016	Adenine	C5H5N5	1.373		'PUGREST.BadRequest: error: '
-0212_00017	Pelargonidin	C15H11O5+	6.431		'PUGREST.BadRequest: error: '
-0212_00018	Mono(2-ethylhexyl) phthalate (MEHP)	C16H22O4	11.302		'PUGREST.BadRequest: error: '
-0212_00019	4-Methyl-5-thiazoleethanol	C6H9NOS	3.052		'PUGREST.BadRequest: error: '
-0212_00020	Genistein	C15H10O5	7.47		'PUGREST.BadRequest: error: '
-0212_00021	Uracil	C4H4N2O2	2.086		'PUGREST.BadRequest: error: '
-0212_00025	Taurine	C2H7NO3S	1.252		'PUGREST.BadRequest: error: '
-0212_00027	Cytosine	C4H5N3O	1.372		'PUGREST.BadRequest: error: '
-0212_00029	N8-Acetylspermidine	C9H21N3O	1.231		'PUGREST.BadRequest: error: '
-0212_00030	5-Methylcytosine	C5H7N3O	1.65		'PUGREST.BadRequest: error: '
-0212_00032	Leucylproline	C11H20N2O3	4.635		'PUGREST.BadRequest: error: '
-0212_00033	7-Methyladenine	C6H7N5	1.336		'PUGREST.BadRequest: error: '
-0212_00037	Betaine	C5H11NO2	1.279		'PUGREST.BadRequest: error: '
-0212_00039	Indole	C88H7N	4.604		'PUGREST.BadRequest: error: '
-0212_00042	5-Hydroxyindole-3-acetic acid	C10H9NO3	5.648		'PUGREST.BadRequest: error: '
-0212_00043	N-Palmitoyl taurine	C18H37NO4S	12.274		'PUGREST.BadRequest: error: '
-0212_00044	4-Hydroxyindole	C8H7NO	5.96		'PUGREST.BadRequest: error: '
-0212_00045	Nornicotine	C9H12N2	1.426		'PUGREST.BadRequest: error: '
-0212_00047	Kynurenic acid	C10H7NO3	6.619		'PUGREST.BadRequest: error: '
-0212_00048	Thiamine	C12H17N4OS+	1.298		'PUGREST.BadRequest: error: '
-0212_00050	Glycitein	C16H12O5	6.936		'PUGREST.BadRequest: error: '
-0212_00051	Trigonelline	C7H7NO2	1.297		'PUGREST.BadRequest: error: '
-0212_00054	Creatinine	C4H7N3O	1.344		'PUGREST.BadRequest: error: '
-0212_00055	8-Hydroxyquinoline	C9H7NO	4.605		'PUGREST.BadRequest: error: '
-0212_00062	Kaempferol	C15H10O6	7.533		'PUGREST.BadRequest: error: '
-0212_00068	Methionine sulfoxide	C5H11NO3S	1.273		'PUGREST.BadRequest: error: '
-0212_00070	Glycerophospho-N-palmitoyl ethanolamine	C21H44NO7P	11.053		'PUGREST.BadRequest: error: '
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0212_00002	Daidzein	C15H10O4	6.818		missing SMILES		
+0212_00003	indole-3-propionic acid	C11H11NO2	7.07		missing SMILES		
+0212_00007	Methyl indole-3-acetate	C11H11NO2	7.272		missing SMILES		
+0212_00008	2-Linoleoyl glycerol	C21H38O4	10.769		missing SMILES		
+0212_00009	Spermidine	C7H19N3	1.12		missing SMILES		
+0212_00012	Thymine	C5H6N2O2	3.667		missing SMILES		
+0212_00013	6-Methylquinoline	C10H9N	4.608		missing SMILES		
+0212_00016	Adenine	C5H5N5	1.373		missing SMILES		
+0212_00017	Pelargonidin	C15H11O5+	6.431		missing SMILES		
+0212_00018	Mono(2-ethylhexyl) phthalate (MEHP)	C16H22O4	11.302		missing SMILES		
+0212_00019	4-Methyl-5-thiazoleethanol	C6H9NOS	3.052		missing SMILES		
+0212_00020	Genistein	C15H10O5	7.47		missing SMILES		
+0212_00021	Uracil	C4H4N2O2	2.086		missing SMILES		
+0212_00025	Taurine	C2H7NO3S	1.252		missing SMILES		
+0212_00027	Cytosine	C4H5N3O	1.372		missing SMILES		
+0212_00029	N8-Acetylspermidine	C9H21N3O	1.231		missing SMILES		
+0212_00030	5-Methylcytosine	C5H7N3O	1.65		missing SMILES		
+0212_00032	Leucylproline	C11H20N2O3	4.635		missing SMILES		
+0212_00033	7-Methyladenine	C6H7N5	1.336		missing SMILES		
+0212_00037	Betaine	C5H11NO2	1.279		missing SMILES		
+0212_00039	Indole	C88H7N	4.604		missing SMILES		
+0212_00042	5-Hydroxyindole-3-acetic acid	C10H9NO3	5.648		missing SMILES		
+0212_00043	N-Palmitoyl taurine	C18H37NO4S	12.274		missing SMILES		
+0212_00044	4-Hydroxyindole	C8H7NO	5.96		missing SMILES		
+0212_00045	Nornicotine	C9H12N2	1.426		missing SMILES		
+0212_00047	Kynurenic acid	C10H7NO3	6.619		missing SMILES		
+0212_00048	Thiamine	C12H17N4OS+	1.298		missing SMILES		
+0212_00050	Glycitein	C16H12O5	6.936		missing SMILES		
+0212_00051	Trigonelline	C7H7NO2	1.297		missing SMILES		
+0212_00054	Creatinine	C4H7N3O	1.344		missing SMILES		
+0212_00055	8-Hydroxyquinoline	C9H7NO	4.605		missing SMILES		
+0212_00062	Kaempferol	C15H10O6	7.533		missing SMILES		
+0212_00068	Methionine sulfoxide	C5H11NO3S	1.273		missing SMILES		
+0212_00070	Glycerophospho-N-palmitoyl ethanolamine	C21H44NO7P	11.053		missing SMILES		

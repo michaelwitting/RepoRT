@@ -1,0 +1,5 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0228_00009	(2R)-3-Hydroxyisovaleroylcarnitine		7.23		missing SMILES		
+0228_01372	Vercuronium	C34H57N2O4	5.53		missing SMILES		
+0228_01622	Vercuronium	C34H57N2O4	5.53		missing SMILES		
+0228_01644	(2R)-3-Hydroxyisovaleroylcarnitine		7.23		missing SMILES		

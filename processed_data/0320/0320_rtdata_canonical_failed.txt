@@ -1,2 +1,2 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0320_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.566		'PUGREST.BadRequest: error: '		
+0320_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.566		missing SMILES		

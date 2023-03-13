@@ -1,0 +1,64 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0388_00001	Amitrole	C2H4N4	0.91		missing SMILES		
+0388_00002	Guanylurea	C2H6N4O	0.83		missing SMILES		
+0388_00003	Histamine	C5H9N3	0.99		missing SMILES		
+0388_00004	Benzotriazole (BTR)	C6H5N3	3.694		missing SMILES		
+0388_00005	Nicotinamide	C6H6N2O	1.06		missing SMILES		
+0388_00006	Chlormequate	C5H13ClN	0.84		missing SMILES		
+0388_00007	Vigabatrin	C6H11NO2	0.81		missing SMILES		
+0388_00009	Tyramine	C8H11NO	1.06		missing SMILES		
+0388_00010	Apophedrin (Phenylethanolamine)	C8H11NO	1.38		missing SMILES		
+0388_00011	Methamidophos	C2H8NO2PS	1.18		missing SMILES		
+0388_00012	Benzothiazole-2-OH	C7H5NOS	7.777		missing SMILES		
+0388_00013	Paracetamol	C8H9NO2	1.594		missing SMILES		
+0388_00016	Cyromazine	C6H10N6	1.06		missing SMILES		
+0388_00018	Atrazine-desisopropyl	C5H8ClN5	3.51		missing SMILES		
+0388_00020	MDAI	C10H11NO2	2.344		missing SMILES		
+0388_00021	MDA	C10H13NO2	3.36		missing SMILES		
+0388_00022	Phenacetin	C10H13NO2	7.527		missing SMILES		
+0388_00023	Memantine	C12H21N	8.04		missing SMILES		
+0388_00024	Rimantadin	C12H21N	7.891		missing SMILES		
+0388_00025	Theobromine	C7H8N4O2	1.23		missing SMILES		
+0388_00026	Theophylline	C7H8N4O2	1.66		missing SMILES		
+0388_00027	Phosphate-triethyl	C6H15O4P	7.311		missing SMILES		
+0388_00029	Butocarboxim	C7H14N2O2S	7.64		missing SMILES		
+0388_00030	Phthalate-Dimethyl	C10H10O4	9.377		missing SMILES		
+0388_00031	Caffeine	C8H10N4O2	2.427		missing SMILES		
+0388_00032	Tetraethylene glycol	C8H18O5	1.16		missing SMILES		
+0388_00033	Ibuprofen	C13H18O2	13.99		missing SMILES		
+0388_00034	Lidocaine-Nor	C12H18N2O	3.594		missing SMILES		
+0388_00035	Phenoxybenzamide	C13H11NO2	11.477		missing SMILES		
+0388_00036	Atrazine	C8H14ClN5	10.344		missing SMILES		
+0388_00037	Cimaterol	C12H17N3O	1.477		missing SMILES		
+0388_00038	Dichlorvos	C4H7Cl2O4P	9.14		missing SMILES		
+0388_00039	Piperazine-1-Piperonyl	C12H16N2O2	2.627		missing SMILES		
+0388_00040	Phthalate-Diethyl	C12H14O4	12.161		missing SMILES		
+0388_00041	Bufexamac	C12H17NO3	9.744		missing SMILES		
+0388_00042	Ethiofencarb	C11H15NO2S	10.677		missing SMILES		
+0388_00043	Benzophenon 3 (=2-Hydroxy-4-methoxybenzophenon)	C14H12O3	14.461		missing SMILES		
+0388_00044	Picaridin (Icaridin)	C12H23NO3	10.827		missing SMILES		
+0388_00046	Lidocaine	C14H22N2O	5.29		missing SMILES		
+0388_00047	TCMTB	C9H6N2S3	13.39		missing SMILES		
+0388_00048	Albuterol/Salbutamol	C13H21NO3	1.277		missing SMILES		
+0388_00049	Pindolol	C14H20N2O2	4.144		missing SMILES		
+0388_00050	Tramadol-O-Desmethyl	C15H23NO2	3.56		missing SMILES		
+0388_00053	Cimetidine	C10H16N6S	1.54		missing SMILES		
+0388_00054	Lamotrigine	C9H7Cl2N5	6.411		missing SMILES		
+0388_00055	Trichlorfon	C4H8Cl3O4P	5.41		missing SMILES		
+0388_00056	Propranolol	C16H21NO2	8.911		missing SMILES		
+0388_00057	Diaveridine	C13H16N4O2	3.36		missing SMILES		
+0388_00058	Flumequine	C14H12FNO3	9.844		missing SMILES		
+0388_00061	Metoprolol	C15H25NO3	6.527		missing SMILES		
+0388_00063	Testosterone	C19H28O2	11.644		missing SMILES		
+0388_00064	Trimethoprim	C14H18N4O3	4.477		missing SMILES		
+0388_00065	Fenbendazole	C15H13N3O2S	12.227		missing SMILES		
+0388_00068	Sulfamethazine-N4-Acetyl	C14H16N4O3S	5.027		missing SMILES		
+0388_00069	Bisoprolol	C18H31NO4	8.094		missing SMILES		
+0388_00070	Phosphate-Triphenyl	C18H15O4P	15.494		missing SMILES		
+0388_00071	Ciprofloxacin	C17H18FN3O3	5.544		missing SMILES		
+0388_00072	Octocrylene	C24H27NO2	19.844		missing SMILES		
+0388_00074	Celiprolol	C20H33N3O4	7.461		missing SMILES		
+0388_00077	Cefoperazone	C25H27N9O8S2	6.08		missing SMILES		
+0388_00078	Spinosad_A	C42H71NO9	14.59		missing SMILES		
+0388_00079	Rifaximin	C43H51N3O11	13.04		missing SMILES		
+0388_00083	Tylosin	C46H77NO17	10.13		missing SMILES		

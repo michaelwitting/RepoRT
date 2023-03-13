@@ -1,2 +1,2 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0014_00025	PE(20:4/18:1)		6.591666667		FAILED_STANDARDIZATION		
+0014_00025	PE(20:4/18:1)		6.591666667		missing SMILES		

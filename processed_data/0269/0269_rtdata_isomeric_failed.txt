@@ -1,40 +1,40 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0269_00001	1-Nitropyrene	C16H9NO2	18.302		'PUGREST.BadRequest: error: '		
-0269_00003	1H-Benzotriazole	C6H5N3	7.16		'PUGREST.BadRequest: error: '		
-0269_00004	2-(Methylthio)benzothiazole	C8H7NS2	14.84857143		'PUGREST.BadRequest: error: '		
-0269_00005	2-naphthoic acid	C11H8O2	13.82666667		'PUGREST.BadRequest: error: '		
-0269_00006	4-Chloroaniline	C6H6ClN	5.29		'PUGREST.BadRequest: error: '		
-0269_00007	5-Methyl-1H-benzotriazole	C7H7N3	9.524		'PUGREST.BadRequest: error: '		
-0269_00009	Alachlor	C14H20ClNO2	15.81		'PUGREST.BadRequest: error: '		
-0269_00010	Atrazine	C8H16ClN5	13.14		'PUGREST.BadRequest: error: '		
-0269_00011	Benzothiazole	C7H5NS	10.82666667		'PUGREST.BadRequest: error: '		
-0269_00013	Carbazole	C12H9N	15.15142857		'PUGREST.BadRequest: error: '		
-0269_00014	Chlorpyrifos	C9H11Cl3NO3PS	18.69		'PUGREST.BadRequest: error: '		
-0269_00015	Chlorthalidone	C14H11ClN2O4S	9.028		'PUGREST.BadRequest: error: '		
-0269_00017	Cotinine	C10H12N2O	2.04		'PUGREST.BadRequest: error: '		
-0269_00018	Creatinine	C4H7N3O	1.81		'PUGREST.BadRequest: error: '		
-0269_00019	Cyanazine	C9H17ClN6	11.16		'PUGREST.BadRequest: error: '		
-0269_00020	Diuron	C9H10Cl2N2O	13.645		'PUGREST.BadRequest: error: '		
-0269_00023	Fipronil	C12H4Cl2F6N4OS	16.33428571		'PUGREST.BadRequest: error: '		
-0269_00024	fluconazole	C13H12F2N6O	8.383333333		'PUGREST.BadRequest: error: '		
-0269_00025	Glimepiride	C24H34N4O5S	16.43333333		'PUGREST.BadRequest: error: '		
-0269_00026	Hydrochlorothiazide	C7H8ClN3O4S2	4.62		'PUGREST.BadRequest: error: '		
-0269_00028	Iminostilbene	C14H11N	15.38		'PUGREST.BadRequest: error: '		
-0269_00029	Metolachlor	C15H22ClNO2	15.985		'PUGREST.BadRequest: error: '		
-0269_00030	Metsulfuron-methyl	C14H25N5O6S	12		'PUGREST.BadRequest: error: '		
-0269_00031	Monuron	C9H11ClN2O	11.225		'PUGREST.BadRequest: error: '		
-0269_00032	N-Methyl-N-nitrosotoluene-4-sulphonamide	C8H10N2O3S	9.666		'PUGREST.BadRequest: error: '		
-0269_00033	Nicotinamide	C6H6N2O	1.89		'PUGREST.BadRequest: error: '		
-0269_00034	Norethindrone	C20H26O2	14.735		'PUGREST.BadRequest: error: '		
-0269_00035	Parathion	C10H14NO5PS	16.51428571		'PUGREST.BadRequest: error: '		
-0269_00036	Phenazone (Antipyrine)	C11H12N2O	7.4025		'PUGREST.BadRequest: error: '		
-0269_00037	Progesterone	C21H30O2	16.695		'PUGREST.BadRequest: error: '		
-0269_00038	Propanil	C9H9Cl2NO	14.68571429		'PUGREST.BadRequest: error: '		
-0269_00039	Quinoxaline	C8H6N2	8.647142857		'PUGREST.BadRequest: error: '		
-0269_00040	Simazine	C7H14ClN5	11.45		'PUGREST.BadRequest: error: '		
-0269_00041	Sudan I		19.135		'PUGREST.BadRequest: error: '		
-0269_00042	Theophylline	C7H8N4O2	5.61		'PUGREST.BadRequest: error: '		
-0269_00043	Tri-isobutyl phosphate	C12H27O4P	17.41625		'PUGREST.BadRequest: error: '		
-0269_00044	Triethyl phosphate	C6H15O4P	10.08		'PUGREST.BadRequest: error: '		
-0269_00045	Trifluralin	C13H16F3N3O4	19.006		'PUGREST.BadRequest: error: '		
-0269_00046	Triphenylphosphate	C18H15O4P	16.955		'PUGREST.BadRequest: error: '		
+0269_00001	1-Nitropyrene	C16H9NO2	18.302		missing SMILES		
+0269_00003	1H-Benzotriazole	C6H5N3	7.16		missing SMILES		
+0269_00004	2-(Methylthio)benzothiazole	C8H7NS2	14.84857143		missing SMILES		
+0269_00005	2-naphthoic acid	C11H8O2	13.82666667		missing SMILES		
+0269_00006	4-Chloroaniline	C6H6ClN	5.29		missing SMILES		
+0269_00007	5-Methyl-1H-benzotriazole	C7H7N3	9.524		missing SMILES		
+0269_00009	Alachlor	C14H20ClNO2	15.81		missing SMILES		
+0269_00010	Atrazine	C8H16ClN5	13.14		missing SMILES		
+0269_00011	Benzothiazole	C7H5NS	10.82666667		missing SMILES		
+0269_00013	Carbazole	C12H9N	15.15142857		missing SMILES		
+0269_00014	Chlorpyrifos	C9H11Cl3NO3PS	18.69		missing SMILES		
+0269_00015	Chlorthalidone	C14H11ClN2O4S	9.028		missing SMILES		
+0269_00017	Cotinine	C10H12N2O	2.04		missing SMILES		
+0269_00018	Creatinine	C4H7N3O	1.81		missing SMILES		
+0269_00019	Cyanazine	C9H17ClN6	11.16		missing SMILES		
+0269_00020	Diuron	C9H10Cl2N2O	13.645		missing SMILES		
+0269_00023	Fipronil	C12H4Cl2F6N4OS	16.33428571		missing SMILES		
+0269_00024	fluconazole	C13H12F2N6O	8.383333333		missing SMILES		
+0269_00025	Glimepiride	C24H34N4O5S	16.43333333		missing SMILES		
+0269_00026	Hydrochlorothiazide	C7H8ClN3O4S2	4.62		missing SMILES		
+0269_00028	Iminostilbene	C14H11N	15.38		missing SMILES		
+0269_00029	Metolachlor	C15H22ClNO2	15.985		missing SMILES		
+0269_00030	Metsulfuron-methyl	C14H25N5O6S	12		missing SMILES		
+0269_00031	Monuron	C9H11ClN2O	11.225		missing SMILES		
+0269_00032	N-Methyl-N-nitrosotoluene-4-sulphonamide	C8H10N2O3S	9.666		missing SMILES		
+0269_00033	Nicotinamide	C6H6N2O	1.89		missing SMILES		
+0269_00034	Norethindrone	C20H26O2	14.735		missing SMILES		
+0269_00035	Parathion	C10H14NO5PS	16.51428571		missing SMILES		
+0269_00036	Phenazone (Antipyrine)	C11H12N2O	7.4025		missing SMILES		
+0269_00037	Progesterone	C21H30O2	16.695		missing SMILES		
+0269_00038	Propanil	C9H9Cl2NO	14.68571429		missing SMILES		
+0269_00039	Quinoxaline	C8H6N2	8.647142857		missing SMILES		
+0269_00040	Simazine	C7H14ClN5	11.45		missing SMILES		
+0269_00041	Sudan I		19.135		missing SMILES		
+0269_00042	Theophylline	C7H8N4O2	5.61		missing SMILES		
+0269_00043	Tri-isobutyl phosphate	C12H27O4P	17.41625		missing SMILES		
+0269_00044	Triethyl phosphate	C6H15O4P	10.08		missing SMILES		
+0269_00045	Trifluralin	C13H16F3N3O4	19.006		missing SMILES		
+0269_00046	Triphenylphosphate	C18H15O4P	16.955		missing SMILES		

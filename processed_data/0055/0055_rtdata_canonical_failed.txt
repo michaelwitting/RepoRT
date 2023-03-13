@@ -1,4 +1,4 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0055_00019	pc(18:0/22:6)		5.5145		FAILED_STANDARDIZATION		
-0055_00024	octanoic acid glucuronide		3.920966667		FAILED_STANDARDIZATION		
-0055_00077	GALA ((2s)-2-amino-6-(2-hydroxy-acetylamino)-hexanoic acid)		0.5271		FAILED_STANDARDIZATION		
+0055_00019	pc(18:0/22:6)		5.5145		missing SMILES		
+0055_00024	octanoic acid glucuronide		3.920966667		missing SMILES		
+0055_00077	GALA ((2s)-2-amino-6-(2-hydroxy-acetylamino)-hexanoic acid)		0.5271		missing SMILES		

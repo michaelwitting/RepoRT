@@ -1,2 +1,2 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0023_00010	malvidin 3-glucoside		3.86		FAILED_STANDARDIZATION		
+0023_00010	malvidin 3-glucoside		3.86		missing SMILES		

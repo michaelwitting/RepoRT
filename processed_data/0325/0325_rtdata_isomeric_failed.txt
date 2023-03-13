@@ -1,14 +1,14 @@
-id	name	formula	rt	smiles.std	status
-0325_00216	GLYCERATE	C3H6O4	0.862		'PUGREST.BadRequest: error: '
-0325_00388	XANTHOSINE-MONOPHOSPHATE	C10H13N4O9P	0.694		'PUGREST.BadRequest: error: '
-0325_00472	CYTIDINE MONOPHOSPHATE	C9H14N3O8P	0.596		'PUGREST.BadRequest: error: '
-0325_00590	PREGNENOLONE SULFATE	C21H32O5S	5.923		'PUGREST.BadRequest: error: '
-0325_00850	DL-Vanillactic acid lithium salt hydrate	C10H12O5	3.104		'PUGREST.BadRequest: error: '
-0325_00888	Indole-3-carboxaldehyde	C9H7NO	3.947		'PUGREST.BadRequest: error: '
-0325_00897	DL-Indole-3-lactic acid	C11H11NO3	3.865		'PUGREST.BadRequest: error: '
-0325_00965	Fludioxonil	C12H6F2N2O2	5.562		'PUGREST.BadRequest: error: '
-0325_01131	Dinotefuran	C7H14N4O3	2.81		'PUGREST.BadRequest: error: '
-0325_01134	Flubendiamide	C23H22F7IN2O4S	5.973		'PUGREST.BadRequest: error: '
-0325_01135	Forchlorfenuron	C12H10ClN3O	5.315		'PUGREST.BadRequest: error: '
-0325_01143	Nitenpyram	C11H15ClN4O2	2.974		'PUGREST.BadRequest: error: '
-0325_01152	Thidiazuron	C9H8N4OS	4.844		'PUGREST.BadRequest: error: '
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0325_00216	GLYCERATE	C3H6O4	0.862		missing SMILES		
+0325_00388	XANTHOSINE-MONOPHOSPHATE	C10H13N4O9P	0.694		missing SMILES		
+0325_00472	CYTIDINE MONOPHOSPHATE	C9H14N3O8P	0.596		missing SMILES		
+0325_00590	PREGNENOLONE SULFATE	C21H32O5S	5.923		missing SMILES		
+0325_00850	DL-Vanillactic acid lithium salt hydrate	C10H12O5	3.104		missing SMILES		
+0325_00888	Indole-3-carboxaldehyde	C9H7NO	3.947		missing SMILES		
+0325_00897	DL-Indole-3-lactic acid	C11H11NO3	3.865		missing SMILES		
+0325_00965	Fludioxonil	C12H6F2N2O2	5.562		missing SMILES		
+0325_01131	Dinotefuran	C7H14N4O3	2.81		missing SMILES		
+0325_01134	Flubendiamide	C23H22F7IN2O4S	5.973		missing SMILES		
+0325_01135	Forchlorfenuron	C12H10ClN3O	5.315		missing SMILES		
+0325_01143	Nitenpyram	C11H15ClN4O2	2.974		missing SMILES		
+0325_01152	Thidiazuron	C9H8N4OS	4.844		missing SMILES		

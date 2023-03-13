@@ -1,2 +1,2 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0059_00024	Tryptophol-2-sulfonate		4.57		FAILED_STANDARDIZATION		
+0059_00024	Tryptophol-2-sulfonate		4.57		missing SMILES		
