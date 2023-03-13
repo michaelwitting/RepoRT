@@ -71,28 +71,29 @@ jobs:
         renv::restore()
 
     - name: Standardize compounds
-      run: Rscript scripts/R_ci/01_compounds_standardize.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/compounds_standardize.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Compounds classyfire classes
-      run: Rscript scripts/R_ci/02_compounds_classyfire.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/compounds_classyfire.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Compounds descriptors
-      run: Rscript scripts/R_ci/03_compounds_descriptors.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/compounds_descriptors.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Compounds fingerprints
-      run: Rscript scripts/R_ci/04_compounds_fingerprints.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/compounds_fingerprints.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Metadata standardization
-      run: Rscript scripts/R_ci/05_metadata_standardize.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/metadata_standardize.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Verify that required files are present
-      run: Rscript scripts/R_ci/06_files_complete.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/files_complete.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Commit preprocessing
       run: |
         git config --global user.email 'actions@github.com'
         git config --global user.name 'Github Actions'
         # Use LFS storage of main repository: no push access to fork LFS storage
+        # TODO: change once repository is moved
         git config lfs.url 'https://github.com/michaelwitting/RtPredTrainingData.git/info/lfs'
         git add processed_data raw_data
         git commit -m "Preprocessing ${{ steps.filesfolders.outputs.files }}"

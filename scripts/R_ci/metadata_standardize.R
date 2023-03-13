@@ -1,6 +1,6 @@
 ## ---------------------------
 ##
-## Script name: 05_metadata_standardize.R
+## Script name: metadata_standardize.R
 ##
 ## Purpose of script: Standardization of meta data
 ##
@@ -23,7 +23,7 @@
 # load required libraries
 # ==============================================================================
 library(tidyverse)
-source("scripts/R_ci/XX_functions.R")
+source("scripts/R_ci/helper_functions.R")
 
 # ==============================================================================
 # read the data and create tibble for data analysis
@@ -34,6 +34,8 @@ data_folders <- file.path('raw_data', commandArgs(trailingOnly=TRUE))
 # read data  and perform standardization ----------------------------------------
 for(data_folder in data_folders) {
 
+  cat(paste(Sys.time(), "processing", data_folder, "\n"))
+
   # ============================================================================
   # read and standardize meta data
   # ============================================================================
@@ -43,7 +45,7 @@ for(data_folder in data_folders) {
 
   if(length(meta_data_file) > 0 && file.exists(meta_data_file)) {
 
-    meta_data <- read_tsv(meta_data_file)
+    meta_data <- read_tsv(meta_data_file, show_col_types = FALSE)
 
     # calculate additional parameters
     t0 <- ((0.5 * meta_data$column.length * meta_data$column.id ^ 2) / 1000) / meta_data$column.flowrate
@@ -87,7 +89,7 @@ for(data_folder in data_folders) {
 
   if(length(gradient_data_file) > 0 && file.exists(gradient_data_file)) {
 
-    gradient_data <- read_tsv(gradient_data_file)
+    gradient_data <- read_tsv(gradient_data_file, show_col_types = FALSE)
 
     # ============================================================================
     # write results

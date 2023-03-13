@@ -27,6 +27,8 @@ data_folders <- file.path('processed_data', commandArgs(trailingOnly=TRUE))
 # iterate through folder and add data to full_rt_data_canonical ----------------
 for(data_folder in data_folders) {
 
+  cat(paste(Sys.time(), "processing", data_folder, "\n"))
+
   # canconical smiles data -----------------------------------------------------
   # read canonical smiles data
   rt_data_file <- list.files(data_folder,
@@ -119,5 +121,3 @@ for(data_folder in data_folders) {
 
   }
 }
-
-#print(computation_cache_hit_counter)

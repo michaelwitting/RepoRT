@@ -18,6 +18,8 @@ file_complete_raw <- tibble()
 
 for(data_folder in data_folders) {
 
+  cat(paste(Sys.time(), "processing raw_data", data_folder, "\n"))
+
   study_id <- basename(data_folder)
 
   # meta data files
@@ -51,6 +53,8 @@ data_folders <- file.path('processed_data', commandArgs(trailingOnly=TRUE))
 file_complete_processed <- tibble()
 
 for(data_folder in data_folders) {
+
+  cat(paste(Sys.time(), "processing processed_data", data_folder, "\n"))
 
   study_id <- basename(data_folder)
 
