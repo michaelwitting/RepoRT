@@ -25,7 +25,7 @@
 # ==============================================================================
 library(tidyverse)
 library(rcdk)
-source("scripts/R_ci/XX_functions.R")
+source("scripts/R_ci/helper_functions.R")
 ## get smiles parser
 sp <- get.smiles.parser()
 
@@ -38,6 +38,8 @@ data_folders <- file.path('processed_data', commandArgs(trailingOnly=TRUE))
 
 # iterate through folder and add data to full_rt_data_canonical ----------------
 for(data_folder in data_folders) {
+
+  cat(paste(Sys.time(), "processing", data_folder, "\n"))
 
   # canconical smiles data -----------------------------------------------------
   # read canonical smiles data
@@ -175,5 +177,3 @@ for(data_folder in data_folders) {
 
   }
 }
-
-print(computation_cache_hit_counter)
