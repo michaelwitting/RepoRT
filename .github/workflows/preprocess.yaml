@@ -71,33 +71,49 @@ jobs:
         renv::restore()
 
     - name: Standardize compounds
-      run: Rscript scripts/R_ci/01_compounds_standardize.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/compounds_standardize.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Compounds classyfire classes
-      run: Rscript scripts/R_ci/02_compounds_classyfire.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/compounds_classyfire.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Compounds descriptors
-      run: Rscript scripts/R_ci/03_compounds_descriptors.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/compounds_descriptors.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Compounds fingerprints
-      run: Rscript scripts/R_ci/04_compounds_fingerprints.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/compounds_fingerprints.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Metadata standardization
-      run: Rscript scripts/R_ci/05_metadata_standardize.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/metadata_standardize.R ${{ steps.filesfolders.outputs.files }}
+
+    - name: Generate dataset reports
+      run: Rscript scripts/R_ci/compounds_overview.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Verify that required files are present
-      run: Rscript scripts/R_ci/06_files_complete.R ${{ steps.filesfolders.outputs.files }}
+      run: Rscript scripts/R_ci/files_complete.R ${{ steps.filesfolders.outputs.files }}
 
     - name: Commit preprocessing
       run: |
         git config --global user.email 'actions@github.com'
         git config --global user.name 'Github Actions'
         # Use LFS storage of main repository: no push access to fork LFS storage
+        # TODO: change once repository is moved
         git config lfs.url 'https://github.com/michaelwitting/RtPredTrainingData.git/info/lfs'
         git add processed_data raw_data
         git commit -m "Preprocessing ${{ steps.filesfolders.outputs.files }}"
         git lfs push origin HEAD # first push LFS, otherwise failure because of lfs.url
         git push origin HEAD
+
+    - name: Add comment with report to PR
+      uses: actions/github-script@v6
+      with:
+        script: |
+          github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: (await exec.getExecOutput('python3 scripts/Python/report.py', '${{ steps.filesfolders.outputs.files }}'.trim().split(' '))).stdout
+          })
+      continue-on-error: true
 
     - name: Label as successfully preprocessed
       if: ${{ success() }}
