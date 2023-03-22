@@ -1,0 +1,3 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0229_00001	Decanoic acid	C10H20O2	10.35		missing SMILES		
+0229_00002	Arachidic acid	C20H40O2	20.28		missing SMILES		

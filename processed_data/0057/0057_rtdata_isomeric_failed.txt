@@ -1,71 +1,71 @@
-id	name	formula	rt	smiles.std	status
-0057_00001	Gallic acid	C7H6O5	0.713		'PUGREST.BadRequest: error: '
-0057_00002	Pyrogallol-1-O-sulfate	C6H6O6S	0.774		'PUGREST.BadRequest: error: '
-0057_00003	Protocatechuic acid-4-O-sulfate	C7H6O7S	0.954		'PUGREST.BadRequest: error: '
-0057_00004	protocatechuic acid-3-O-sulfate	C7H6O7S	1.122		'PUGREST.BadRequest: error: '
-0057_00005	Protocatechuic acid-3-O-glucuronide	C13H14O10	1.122		'PUGREST.BadRequest: error: '
-0057_00006	2-Methyl-pyrogallol-O-sulfate	C7H8O6S	1.122		'PUGREST.BadRequest: error: '
-0057_00007	4-O-methylgallic acid 3-O-sulfate	C8H8O8S	1.147		'PUGREST.BadRequest: error: '
-0057_00008	Pyrogallol 2-O-sulfate	C6H6O6S	1.337		'PUGREST.BadRequest: error: '
-0057_00009	Alpha-hydroxyhippuric acid	C9H9NO4	1.372		'PUGREST.BadRequest: error: '
-0057_00010	Protocatechuic acid	C7H6O4	1.382		'PUGREST.BadRequest: error: '
-0057_00011	Resorcinol	C6H6O2	1.444		'PUGREST.BadRequest: error: '
-0057_00012	Catechol O-sulfate	C6H6O5S	1.446		'PUGREST.BadRequest: error: '
-0057_00013	3,4-Dihydroxyphenylacetic acid	C8H8O4	1.474		'PUGREST.BadRequest: error: '
-0057_00014	4-Hydroxyhippuric acid	C9H9NO4	1.63		'PUGREST.BadRequest: error: '
-0057_00015	Caffeic acid-4-glucuronide	C15H16O10	1.784		'PUGREST.BadRequest: error: '
-0057_00016	Vanillic acid	C8H8O4	1.828		'PUGREST.BadRequest: error: '
-0057_00017	p-Coumaric acid-4-O-glucuronide		1.854		'PUGREST.BadRequest: error: '
-0057_00018	3-Hydroxyhippuric acid	C9H9NO4	1.879		'PUGREST.BadRequest: error: '
-0057_00019	4-Hydroxybenzoic acid-3-O-sulfate	C7H6O7S	1.89		'PUGREST.BadRequest: error: '
-0057_00020	1-Methyl-pyrogallol-O-sulfate	C7H8O6S	1.958		'PUGREST.BadRequest: error: '
-0057_00021	Isovanillic acid	C8H8O4	1.993		'PUGREST.BadRequest: error: '
-0057_00022	Vanillic acid-4-O-sulfate	C8H8O7S	2.001		'PUGREST.BadRequest: error: '
-0057_00023	Dihydrocaffeic acid	C9H10O4	2.109		'PUGREST.BadRequest: error: '
-0057_00024	Homovanillic acid sulfate	C9H10O7S	2.118		'PUGREST.BadRequest: error: '
-0057_00025	4-Hydroxybenzoic acid	C7H6O3	2.547		'PUGREST.BadRequest: error: '
-0057_00026	Gentisic acid	C7H6O4	2.82		'PUGREST.BadRequest: error: '
-0057_00027	3,5-Dihydroxybenzoic acid	C7H6O4	2.82		'PUGREST.BadRequest: error: '
-0057_00028	Dihydrocaffeic acid-3-O-sulfate	C9H10O7S	2.835		'PUGREST.BadRequest: error: '
-0057_00029	Homovanillic acid	C9H10O4	2.835		'PUGREST.BadRequest: error: '
-0057_00030	Catechol-O-1-glucuronide	C12H14O8	3.092		'PUGREST.BadRequest: error: '
-0057_00032	Isovanillic acid-3-O-sulfate	C8H8O7S	3.47		'PUGREST.BadRequest: error: '
-0057_00033	Hippuric acid	C9H9NO3	3.492		'PUGREST.BadRequest: error: '
-0057_00034	3,4-Dihydroxybenzaldehyde	C7H6O3	3.726		'PUGREST.BadRequest: error: '
-0057_00035	(+)-2-(4-Hydroxyphenoxy)propionic acid	C9H10O4	3.735		'PUGREST.BadRequest: error: '
-0057_00036	p-Coumaric acid 4-O-sulfate	C9H8O6S	3.778		'PUGREST.BadRequest: error: '
-0057_00037	4-Methylcatechol-1-O-sulfate	C7H8O5S	3.834		'PUGREST.BadRequest: error: '
-0057_00038	4-Methylcatechol-2-O-sulfate	C7H8O5S	3.834		'PUGREST.BadRequest: error: '
-0057_00040	Catechol	C6H6O2	3.97		'PUGREST.BadRequest: error: '
-0057_00042	2,3-Dihydroxybenzoic acid	C7H6O4	3.99		'PUGREST.BadRequest: error: '
-0057_00043	2,4-Dihydroxybenzoic acid	C7H6O4	3.99		'PUGREST.BadRequest: error: '
-0057_00044	Dihydroferulic acid-4-O-Sulfate	C10H12O7S	4.052		'PUGREST.BadRequest: error: '
-0057_00045	Dihydroferulic acid	C10H12O4	4.068		'PUGREST.BadRequest: error: '
-0057_00046	Caffeic acid-3-glucuronide		4.14		'PUGREST.BadRequest: error: '
-0057_00047	3-Hydroxybenzoic acid	C7H6O3	4.261		'PUGREST.BadRequest: error: '
-0057_00048	4-Hydroxybenzaldehyde	C7H6O2	4.402		'PUGREST.BadRequest: error: '
-0057_00049	Chlorogenic acid	C16H18O9	4.485		'PUGREST.BadRequest: error: '
-0057_00051	Phenylacetic acid	C8H8O2	4.646		'PUGREST.BadRequest: error: '
-0057_00053	3-hydroxyphenylacetic acid	C8H8O3	4.665		'PUGREST.BadRequest: error: '
-0057_00056	Dihydro isoferulic acid-3-O-sulfate	C10H12O7S	5.057		'PUGREST.BadRequest: error: '
-0057_00057	Dihydroisoferulic acid	C10H12O4	5.057		'PUGREST.BadRequest: error: '
-0057_00059	(4R)-5-(3,4-Dihydroxyphenyl)-gamma-valerolactone-4'-O-sulfate	C11H12O7S	5.422		'PUGREST.BadRequest: error: '
-0057_00060	caffeic acid-4-O-sulfate	C9H8O7S	5.504		'PUGREST.BadRequest: error: '
-0057_00063	Phloretic acid	C9H10O3	6.26		'PUGREST.BadRequest: error: '
-0057_00066	2-Hydroxyhippuric acid	C9H9NO4	6.687		'PUGREST.BadRequest: error: '
-0057_00068	Myricetin	C15H10O8	7.191		'PUGREST.BadRequest: error: '
-0057_00069	3-(3-hydroxyphenyl)propanoic acid	C9H10O3	7.277		'PUGREST.BadRequest: error: '
-0057_00070	Benzoic acid	C7H6O2	7.277		'PUGREST.BadRequest: error: '
-0057_00071	Sinapic acid	C11H12O5	7.987		'PUGREST.BadRequest: error: '
-0057_00072	m-Coumaric acid	C9H8O3	7.987		'PUGREST.BadRequest: error: '
-0057_00073	Quercetin 3-O-sulfate	C15H10O10S	8.122		'PUGREST.BadRequest: error: '
-0057_00074	Salicylic acid	C12H16O3	8.16		'PUGREST.BadRequest: error: '
-0057_00075	Quercetin-7-O-glucuronide	C21H18O13	8.376		'PUGREST.BadRequest: error: '
-0057_00076	Quercetin-3-O-glucuronide	C21H18O13	8.376		'PUGREST.BadRequest: error: '
-0057_00078	o-Coumaric acid	C9H8O3	8.673		'PUGREST.BadRequest: error: '
-0057_00079	Kaempferol-3-O-glucuronide	C21H18O12	8.79		'PUGREST.BadRequest: error: '
-0057_00080	Quercetin	C15H10O7	9.187		'PUGREST.BadRequest: error: '
-0057_00081	Kaempferol	C15H10O6	9.286		'PUGREST.BadRequest: error: '
-0057_00082	Isorhamnetin	C16H12O7	9.286		'PUGREST.BadRequest: error: '
-0057_00083	Hesperetin	C16H14O6	9.289		'PUGREST.BadRequest: error: '
-0057_00084	Phloretin	C15H14O5	9.301		'PUGREST.BadRequest: error: '
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0057_00001	Gallic acid	C7H6O5	0.713		missing SMILES		
+0057_00002	Pyrogallol-1-O-sulfate	C6H6O6S	0.774		missing SMILES		
+0057_00003	Protocatechuic acid-4-O-sulfate	C7H6O7S	0.954		missing SMILES		
+0057_00004	protocatechuic acid-3-O-sulfate	C7H6O7S	1.122		missing SMILES		
+0057_00005	Protocatechuic acid-3-O-glucuronide	C13H14O10	1.122		missing SMILES		
+0057_00006	2-Methyl-pyrogallol-O-sulfate	C7H8O6S	1.122		missing SMILES		
+0057_00007	4-O-methylgallic acid 3-O-sulfate	C8H8O8S	1.147		missing SMILES		
+0057_00008	Pyrogallol 2-O-sulfate	C6H6O6S	1.337		missing SMILES		
+0057_00009	Alpha-hydroxyhippuric acid	C9H9NO4	1.372		missing SMILES		
+0057_00010	Protocatechuic acid	C7H6O4	1.382		missing SMILES		
+0057_00011	Resorcinol	C6H6O2	1.444		missing SMILES		
+0057_00012	Catechol O-sulfate	C6H6O5S	1.446		missing SMILES		
+0057_00013	3,4-Dihydroxyphenylacetic acid	C8H8O4	1.474		missing SMILES		
+0057_00014	4-Hydroxyhippuric acid	C9H9NO4	1.63		missing SMILES		
+0057_00015	Caffeic acid-4-glucuronide	C15H16O10	1.784		missing SMILES		
+0057_00016	Vanillic acid	C8H8O4	1.828		missing SMILES		
+0057_00017	p-Coumaric acid-4-O-glucuronide		1.854		missing SMILES		
+0057_00018	3-Hydroxyhippuric acid	C9H9NO4	1.879		missing SMILES		
+0057_00019	4-Hydroxybenzoic acid-3-O-sulfate	C7H6O7S	1.89		missing SMILES		
+0057_00020	1-Methyl-pyrogallol-O-sulfate	C7H8O6S	1.958		missing SMILES		
+0057_00021	Isovanillic acid	C8H8O4	1.993		missing SMILES		
+0057_00022	Vanillic acid-4-O-sulfate	C8H8O7S	2.001		missing SMILES		
+0057_00023	Dihydrocaffeic acid	C9H10O4	2.109		missing SMILES		
+0057_00024	Homovanillic acid sulfate	C9H10O7S	2.118		missing SMILES		
+0057_00025	4-Hydroxybenzoic acid	C7H6O3	2.547		missing SMILES		
+0057_00026	Gentisic acid	C7H6O4	2.82		missing SMILES		
+0057_00027	3,5-Dihydroxybenzoic acid	C7H6O4	2.82		missing SMILES		
+0057_00028	Dihydrocaffeic acid-3-O-sulfate	C9H10O7S	2.835		missing SMILES		
+0057_00029	Homovanillic acid	C9H10O4	2.835		missing SMILES		
+0057_00030	Catechol-O-1-glucuronide	C12H14O8	3.092		missing SMILES		
+0057_00032	Isovanillic acid-3-O-sulfate	C8H8O7S	3.47		missing SMILES		
+0057_00033	Hippuric acid	C9H9NO3	3.492		missing SMILES		
+0057_00034	3,4-Dihydroxybenzaldehyde	C7H6O3	3.726		missing SMILES		
+0057_00035	(+)-2-(4-Hydroxyphenoxy)propionic acid	C9H10O4	3.735		missing SMILES		
+0057_00036	p-Coumaric acid 4-O-sulfate	C9H8O6S	3.778		missing SMILES		
+0057_00037	4-Methylcatechol-1-O-sulfate	C7H8O5S	3.834		missing SMILES		
+0057_00038	4-Methylcatechol-2-O-sulfate	C7H8O5S	3.834		missing SMILES		
+0057_00040	Catechol	C6H6O2	3.97		missing SMILES		
+0057_00042	2,3-Dihydroxybenzoic acid	C7H6O4	3.99		missing SMILES		
+0057_00043	2,4-Dihydroxybenzoic acid	C7H6O4	3.99		missing SMILES		
+0057_00044	Dihydroferulic acid-4-O-Sulfate	C10H12O7S	4.052		missing SMILES		
+0057_00045	Dihydroferulic acid	C10H12O4	4.068		missing SMILES		
+0057_00046	Caffeic acid-3-glucuronide		4.14		missing SMILES		
+0057_00047	3-Hydroxybenzoic acid	C7H6O3	4.261		missing SMILES		
+0057_00048	4-Hydroxybenzaldehyde	C7H6O2	4.402		missing SMILES		
+0057_00049	Chlorogenic acid	C16H18O9	4.485		missing SMILES		
+0057_00051	Phenylacetic acid	C8H8O2	4.646		missing SMILES		
+0057_00053	3-hydroxyphenylacetic acid	C8H8O3	4.665		missing SMILES		
+0057_00056	Dihydro isoferulic acid-3-O-sulfate	C10H12O7S	5.057		missing SMILES		
+0057_00057	Dihydroisoferulic acid	C10H12O4	5.057		missing SMILES		
+0057_00059	(4R)-5-(3,4-Dihydroxyphenyl)-gamma-valerolactone-4'-O-sulfate	C11H12O7S	5.422		missing SMILES		
+0057_00060	caffeic acid-4-O-sulfate	C9H8O7S	5.504		missing SMILES		
+0057_00063	Phloretic acid	C9H10O3	6.26		missing SMILES		
+0057_00066	2-Hydroxyhippuric acid	C9H9NO4	6.687		missing SMILES		
+0057_00068	Myricetin	C15H10O8	7.191		missing SMILES		
+0057_00069	3-(3-hydroxyphenyl)propanoic acid	C9H10O3	7.277		missing SMILES		
+0057_00070	Benzoic acid	C7H6O2	7.277		missing SMILES		
+0057_00071	Sinapic acid	C11H12O5	7.987		missing SMILES		
+0057_00072	m-Coumaric acid	C9H8O3	7.987		missing SMILES		
+0057_00073	Quercetin 3-O-sulfate	C15H10O10S	8.122		missing SMILES		
+0057_00074	Salicylic acid	C12H16O3	8.16		missing SMILES		
+0057_00075	Quercetin-7-O-glucuronide	C21H18O13	8.376		missing SMILES		
+0057_00076	Quercetin-3-O-glucuronide	C21H18O13	8.376		missing SMILES		
+0057_00078	o-Coumaric acid	C9H8O3	8.673		missing SMILES		
+0057_00079	Kaempferol-3-O-glucuronide	C21H18O12	8.79		missing SMILES		
+0057_00080	Quercetin	C15H10O7	9.187		missing SMILES		
+0057_00081	Kaempferol	C15H10O6	9.286		missing SMILES		
+0057_00082	Isorhamnetin	C16H12O7	9.286		missing SMILES		
+0057_00083	Hesperetin	C16H14O6	9.289		missing SMILES		
+0057_00084	Phloretin	C15H14O5	9.301		missing SMILES		

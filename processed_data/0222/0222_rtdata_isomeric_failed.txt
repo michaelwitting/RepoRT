@@ -1,2 +1,2 @@
-id	name	formula	rt	smiles.std	status
-0222_00001	Methyl 4-[2-(3,4-dichlorophenyl)acetyl]-3-(pyrrolidin-1-ylmethyl)piperazine-1-carboxylate	C19H25Cl2N3O3	11.46333333		FAILED_STANDARDIZATION
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0222_00001	Methyl 4-[2-(3,4-dichlorophenyl)acetyl]-3-(pyrrolidin-1-ylmethyl)piperazine-1-carboxylate	C19H25Cl2N3O3	11.46333333		missing SMILES		

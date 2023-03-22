@@ -1,39 +1,39 @@
-id	name	formula	rt	smiles.std	status
-0368_00001	2-hydroxy glutaric acid		10		'PUGREST.BadRequest: error: '
-0368_00002	2-Oxoglutaric acid		9.467		'PUGREST.BadRequest: error: '
-0368_00004	Acetyl-CoA		10.692		'PUGREST.BadRequest: error: '
-0368_00005	Adenosine		4.575		'PUGREST.BadRequest: error: '
-0368_00006	ADP		11.85		'PUGREST.BadRequest: error: '
-0368_00007	AMP		9.95		'PUGREST.BadRequest: error: '
-0368_00008	Arginine		19.342		'PUGREST.BadRequest: error: '
-0368_00010	ATP		13.608		'PUGREST.BadRequest: error: '
-0368_00011	Biotin		4.892		'PUGREST.BadRequest: error: '
-0368_00012	Carnitine		10.458		'PUGREST.BadRequest: error: '
-0368_00013	carnitine-C3		7.167		'PUGREST.BadRequest: error: '
-0368_00014	Citric acid		14.083		'PUGREST.BadRequest: error: '
-0368_00015	CoenzymeA		12.317		'PUGREST.BadRequest: error: '
-0368_00016	dihydroorotic acid		4.908		'PUGREST.BadRequest: error: '
-0368_00018	FAD		7.858		'PUGREST.BadRequest: error: '
-0368_00019	Fructose-1,6-bisphosphate		15.792		'PUGREST.BadRequest: error: '
-0368_00020	Glutamic acid		10.233		'PUGREST.BadRequest: error: '
-0368_00021	Glutamine		10.908		'PUGREST.BadRequest: error: '
-0368_00022	Glycerol-3-phosphate		10.825		'PUGREST.BadRequest: error: '
-0368_00025	GTP		16.017		'PUGREST.BadRequest: error: '
-0368_00026	Hexose		8.217		'PUGREST.BadRequest: error: '
-0368_00027	Fructose 6-phosphate		11.792		'PUGREST.BadRequest: error: '
-0368_00029	Glucose-6-phosphate		12.783		'PUGREST.BadRequest: error: '
-0368_00030	Isocitric acid		13.9		'PUGREST.BadRequest: error: '
-0368_00031	Isoleucine		7.017		'PUGREST.BadRequest: error: '
-0368_00032	Lactic Acid		3.592		'PUGREST.BadRequest: error: '
-0368_00033	Leucine		6.6		'PUGREST.BadRequest: error: '
-0368_00034	Lysine		18.608		'PUGREST.BadRequest: error: '
-0368_00036	NAD		10.775		'PUGREST.BadRequest: error: '
-0368_00037	NADH		9.142		'PUGREST.BadRequest: error: '
-0368_00038	NADP		13.6		'PUGREST.BadRequest: error: '
-0368_00039	NADPH		14.108		'PUGREST.BadRequest: error: '
-0368_00040	PEP		13.767		'PUGREST.BadRequest: error: '
-0368_00042	Phosphoglyceric acid A		12.883		'PUGREST.BadRequest: error: '
-0368_00046	Succinic Acid		10.025		'PUGREST.BadRequest: error: '
-0368_00047	Triose phosphate		10.733		'PUGREST.BadRequest: error: '
-0368_00048	UDP-GlcNAc		10.367		'PUGREST.BadRequest: error: '
-0368_00049	UDP-hexose		11.258		'PUGREST.BadRequest: error: '
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0368_00001	2-hydroxy glutaric acid	C5H8O5	10		missing SMILES		
+0368_00002	2-Oxoglutaric acid	C5H6O5	9.467		missing SMILES		
+0368_00004	Acetyl-CoA	C23H38N7O17P3S	10.692		missing SMILES		
+0368_00005	Adenosine	C10H13N5O4	4.575		missing SMILES		
+0368_00006	ADP	C10H15N5O10P2	11.85		missing SMILES		
+0368_00007	AMP	C10H14N5O7P	9.95		missing SMILES		
+0368_00008	Arginine	C6H14N4O2	19.342		missing SMILES		
+0368_00010	ATP	C10H16N5O13P3	13.608		missing SMILES		
+0368_00011	Biotin	C10H16N2O3S	4.892		missing SMILES		
+0368_00012	Carnitine	C7H15NO3	10.458		missing SMILES		
+0368_00013	carnitine-C3	C10H19NO4	7.167		missing SMILES		
+0368_00014	Citric acid	C6H8O7	14.083		missing SMILES		
+0368_00015	CoenzymeA	C21H36N7O16P3S	12.317		missing SMILES		
+0368_00016	dihydroorotic acid	C5H6N2O4	4.908		missing SMILES		
+0368_00018	FAD	C27H33N9O15P2	7.858		missing SMILES		
+0368_00019	Fructose-1,6-bisphosphate	C6H14O12P2	15.792		missing SMILES		
+0368_00020	Glutamic acid	C5H9NO4	10.233		missing SMILES		
+0368_00021	Glutamine	C5H10N2O3	10.908		missing SMILES		
+0368_00022	Glycerol-3-phosphate	C3H9O6P	10.825		missing SMILES		
+0368_00025	GTP	C10H16N5O14P3	16.017		missing SMILES		
+0368_00026	Hexose	C6H12O6	8.217		missing SMILES		
+0368_00027	Fructose 6-phosphate	C6H13O9P	11.792		missing SMILES		
+0368_00029	Glucose-6-phosphate	C6H13O9P	12.783		missing SMILES		
+0368_00030	Isocitric acid	C6H8O7	13.9		missing SMILES		
+0368_00031	Isoleucine	C6H13NO2	7.017		missing SMILES		
+0368_00032	Lactic Acid	C3H6O3	3.592		missing SMILES		
+0368_00033	Leucine	C6H13NO2	6.6		missing SMILES		
+0368_00034	Lysine	C6H14N2O2	18.608		missing SMILES		
+0368_00036	NAD	C21H27N7O14P2	10.775		missing SMILES		
+0368_00037	NADH	C21H29N7O14P2	9.142		missing SMILES		
+0368_00038	NADP	C21H28N7O17P3	13.6		missing SMILES		
+0368_00039	NADPH	C21H30N7O17P3	14.108		missing SMILES		
+0368_00040	PEP	C3H5O6P	13.767		missing SMILES		
+0368_00042	Phosphoglyceric acid A	C3H7O7P	12.883		missing SMILES		
+0368_00046	Succinic Acid	C4H6O4	10.025		missing SMILES		
+0368_00047	Triose phosphate	C3H7O6P	10.733		missing SMILES		
+0368_00048	UDP-GlcNAc	C17H27N3O17P2	10.367		missing SMILES		
+0368_00049	UDP-hexose	C15H24N2O17P2	11.258		missing SMILES		

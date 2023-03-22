@@ -1,55 +1,55 @@
-id	name	formula	rt	smiles.std	status
-0372_00003	Acetyl-CoA		8.792		'PUGREST.BadRequest: error: '
-0372_00004	Adenine		3.808		'PUGREST.BadRequest: error: '
-0372_00005	Adenosine		4.008		'PUGREST.BadRequest: error: '
-0372_00007	ADP		12.558		'PUGREST.BadRequest: error: '
-0372_00008	AMP		8.608		'PUGREST.BadRequest: error: '
-0372_00009	Ascorbic Acid		9.725		'PUGREST.BadRequest: error: '
-0372_00010	Asparagine		10.85		'PUGREST.BadRequest: error: '
-0372_00012	ATP		14.033		'PUGREST.BadRequest: error: '
-0372_00013	Biotin		3.058		'PUGREST.BadRequest: error: '
-0372_00014	CDP		13.383		'PUGREST.BadRequest: error: '
-0372_00015	Citric acid		16.542		'PUGREST.BadRequest: error: '
-0372_00017	CMP		10.875		'PUGREST.BadRequest: error: '
-0372_00020	Cystine		11.717		'PUGREST.BadRequest: error: '
-0372_00021	Cytidine		6.05		'PUGREST.BadRequest: error: '
-0372_00022	Folic Acid		14.608		'PUGREST.BadRequest: error: '
-0372_00023	Fructose-1,6-bisphosphate		16.008		'PUGREST.BadRequest: error: '
-0372_00025	GDP		14.908		'PUGREST.BadRequest: error: '
-0372_00026	Glutamic acid		10.133		'PUGREST.BadRequest: error: '
-0372_00027	Glutamine		8.258		'PUGREST.BadRequest: error: '
-0372_00028	Glycerol-3-phosphate		10.867		'PUGREST.BadRequest: error: '
-0372_00030	GMP		14.292		'PUGREST.BadRequest: error: '
-0372_00031	GSH		8.933		'PUGREST.BadRequest: error: '
-0372_00032	GSSG		15.717		'PUGREST.BadRequest: error: '
-0372_00034	Guanosine		6.983		'PUGREST.BadRequest: error: '
-0372_00039	Isocitric acid		15.525		'PUGREST.BadRequest: error: '
-0372_00040	Isoleucine		5.9		'PUGREST.BadRequest: error: '
-0372_00041	Lactic Acid		2.667		'PUGREST.BadRequest: error: '
-0372_00042	Leucine		5.492		'PUGREST.BadRequest: error: '
-0372_00043	Lysine		18.15		'PUGREST.BadRequest: error: '
-0372_00044	Malic Acid		12.958		'PUGREST.BadRequest: error: '
-0372_00045	Malonic Acid		9.767		'PUGREST.BadRequest: error: '
-0372_00046	Methionine		6.617		'PUGREST.BadRequest: error: '
-0372_00047	N-Acetylaspartic acid		9.575		'PUGREST.BadRequest: error: '
-0372_00048	NAD		9.208		'PUGREST.BadRequest: error: '
-0372_00049	NADH		9.233		'PUGREST.BadRequest: error: '
-0372_00050	NADP		13.342		'PUGREST.BadRequest: error: '
-0372_00051	NADPH		16.592		'PUGREST.BadRequest: error: '
-0372_00052	Nicotinic acid		2.075		'PUGREST.BadRequest: error: '
-0372_00053	NMN		9.792		'PUGREST.BadRequest: error: '
-0372_00057	PEP		13.692		'PUGREST.BadRequest: error: '
-0372_00059	Phenylalanine		4.892		'PUGREST.BadRequest: error: '
-0372_00062	Proline		6.725		'PUGREST.BadRequest: error: '
-0372_00064	Quinic Acid		6.792		'PUGREST.BadRequest: error: '
-0372_00065	Serine		9.183		'PUGREST.BadRequest: error: '
-0372_00066	Succinic Acid		11.942		'PUGREST.BadRequest: error: '
-0372_00068	Thiamine		12.892		'PUGREST.BadRequest: error: '
-0372_00069	Threonine		8.25		'PUGREST.BadRequest: error: '
-0372_00070	Triose phosphate		11.425		'PUGREST.BadRequest: error: '
-0372_00071	Tryptophan		6.117		'PUGREST.BadRequest: error: '
-0372_00072	Tyrosine		7.675		'PUGREST.BadRequest: error: '
-0372_00073	UDP		12.333		'PUGREST.BadRequest: error: '
-0372_00074	UDP-GlcNAc		12.058		'PUGREST.BadRequest: error: '
-0372_00075	UDP-hexose		13.092		'PUGREST.BadRequest: error: '
-0372_00076	UMP		9.925		'PUGREST.BadRequest: error: '
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0372_00003	Acetyl-CoA	C23H38N7O17P3S	8.792		missing SMILES		
+0372_00004	Adenine	C5H5N5	3.808		missing SMILES		
+0372_00005	Adenosine	C10H13N5O4	4.008		missing SMILES		
+0372_00007	ADP	C10H15N5O10P2	12.558		missing SMILES		
+0372_00008	AMP	C10H14N5O7P	8.608		missing SMILES		
+0372_00009	Ascorbic Acid	C6H8O6	9.725		missing SMILES		
+0372_00010	Asparagine	C4H8N2O3	10.85		missing SMILES		
+0372_00012	ATP	C10H16N5O13P3	14.033		missing SMILES		
+0372_00013	Biotin	C10H16N2O3S	3.058		missing SMILES		
+0372_00014	CDP	C9H15N3O11P2	13.383		missing SMILES		
+0372_00015	Citric acid	C6H8O7	16.542		missing SMILES		
+0372_00017	CMP	C9H14N3O8P	10.875		missing SMILES		
+0372_00020	Cystine	C6H12N2O4S2	11.717		missing SMILES		
+0372_00021	Cytidine	C9H13N3O5	6.05		missing SMILES		
+0372_00022	Folic Acid	C19H19N7O6	14.608		missing SMILES		
+0372_00023	Fructose-1,6-bisphosphate	C6H14O12P2	16.008		missing SMILES		
+0372_00025	GDP	C10H15N5O11P2	14.908		missing SMILES		
+0372_00026	Glutamic acid	C5H9NO4	10.133		missing SMILES		
+0372_00027	Glutamine	C5H10N2O3	8.258		missing SMILES		
+0372_00028	Glycerol-3-phosphate	C3H9O6P	10.867		missing SMILES		
+0372_00030	GMP	C10H14N5O8P	14.292		missing SMILES		
+0372_00031	GSH	C10H17N3O6S	8.933		missing SMILES		
+0372_00032	GSSG	C20H32N6O12S2	15.717		missing SMILES		
+0372_00034	Guanosine	C10H13N5O5	6.983		missing SMILES		
+0372_00039	Isocitric acid	C6H8O7	15.525		missing SMILES		
+0372_00040	Isoleucine	C6H13NO2	5.9		missing SMILES		
+0372_00041	Lactic Acid	C3H6O3	2.667		missing SMILES		
+0372_00042	Leucine	C6H13NO2	5.492		missing SMILES		
+0372_00043	Lysine	C6H14N2O2	18.15		missing SMILES		
+0372_00044	Malic Acid	C4H6O5	12.958		missing SMILES		
+0372_00045	Malonic Acid	C3H4O4	9.767		missing SMILES		
+0372_00046	Methionine	C5H11NO2S	6.617		missing SMILES		
+0372_00047	N-Acetylaspartic acid	C6H9NO5	9.575		missing SMILES		
+0372_00048	NAD	C21H27N7O14P2	9.208		missing SMILES		
+0372_00049	NADH	C21H29N7O14P2	9.233		missing SMILES		
+0372_00050	NADP	C21H28N7O17P3	13.342		missing SMILES		
+0372_00051	NADPH	C21H30N7O17P3	16.592		missing SMILES		
+0372_00052	Nicotinic acid	C6H5NO2	2.075		missing SMILES		
+0372_00053	NMN	C11H15N2O8P	9.792		missing SMILES		
+0372_00057	PEP	C3H5O6P	13.692		missing SMILES		
+0372_00059	Phenylalanine	C9H11NO2	4.892		missing SMILES		
+0372_00062	Proline	C5H9NO2	6.725		missing SMILES		
+0372_00064	Quinic Acid	C7H12O6	6.792		missing SMILES		
+0372_00065	Serine	C3H7NO3	9.183		missing SMILES		
+0372_00066	Succinic Acid	C4H6O4	11.942		missing SMILES		
+0372_00068	Thiamine	C12H17N4OS	12.892		missing SMILES		
+0372_00069	Threonine	C4H9NO3	8.25		missing SMILES		
+0372_00070	Triose phosphate	C3H7O6P	11.425		missing SMILES		
+0372_00071	Tryptophan	C11H12N2O2	6.117		missing SMILES		
+0372_00072	Tyrosine	C9H11NO3	7.675		missing SMILES		
+0372_00073	UDP	C9H14N2O12P2	12.333		missing SMILES		
+0372_00074	UDP-GlcNAc	C17H27N3O17P2	12.058		missing SMILES		
+0372_00075	UDP-hexose	C15H24N2O17P2	13.092		missing SMILES		
+0372_00076	UMP	C9H13N2O9P	9.925		missing SMILES		

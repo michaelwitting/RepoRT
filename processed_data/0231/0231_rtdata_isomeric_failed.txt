@@ -1,67 +1,67 @@
-id	name	formula	rt	smiles.std	status
-0231_00001	Hydroxyisovaleroyl Carnitine CAR(5:0-OH)	C12H23NO5	5.218552609		'PUGREST.BadRequest: error: '
-0231_00003	Tetradecenoylcarnitine CAR(14:1)	C21H39NO4	3.86		'PUGREST.BadRequest: error: '
-0231_00007	Asymmetric Dimethylarginine	C8H18N4O2	5.913		'PUGREST.BadRequest: error: '
-0231_00008	Choline	C5H14NO	3.97		'PUGREST.BadRequest: error: '
-0231_00010	Decanoylcarnitine CAR(10:0)	C17H33NO4	3.92		'PUGREST.BadRequest: error: '
-0231_00012	Glutarylcarnitine CAR(5:0-DC)	C12H21NO6	5.103639754		'PUGREST.BadRequest: error: '
-0231_00013	Isovalerylcarnitine	C12H23NO4	4.38776717		'PUGREST.BadRequest: error: '
-0231_00015	2-methylbutyrylcarnitine	C12H23NO4	4.38776717		'PUGREST.BadRequest: error: '
-0231_00018	N1-Acetylspermidine	C9H21N3O	5.991623862		'PUGREST.BadRequest: error: '
-0231_00020	Nicotinamide N-oxide	C6H6N2O2	2.015842524		'PUGREST.BadRequest: error: '
-0231_00026	Taurine	C2H7NO3S	2.608966025		'PUGREST.BadRequest: error: '
-0231_00027	Paraxanthine	C7H8N4O2	0.947968571		'PUGREST.BadRequest: error: '
-0231_00028	Trigonelline	C7H7NO2	4.849972598		'PUGREST.BadRequest: error: '
-0231_00029	Trimethylaminoacetone	C6H14NO	3.508988976		'PUGREST.BadRequest: error: '
-0231_00030	Betaine	C5H11NO2	4.782913628		'PUGREST.BadRequest: error: '
-0231_00031	N-Acetylputrescine	C6H14N2O	4.401212172		'PUGREST.BadRequest: error: '
-0231_00032	4-Trimethylammoniobutanoic acid (deoxycarnitine)	C7H16NO2	4.908490814		'PUGREST.BadRequest: error: '
-0231_00034	Warfarin	C19H16O4	0.672829515		'PUGREST.BadRequest: error: '
-0231_00036	Caffeine	C8H10N4O2	0.849694404		'PUGREST.BadRequest: error: '
-0231_00037	Niacinamide	C6H6N2O	1.067510279		'PUGREST.BadRequest: error: '
-0231_00038	Cotinine	C10H12N2O	1.403694675		'PUGREST.BadRequest: error: '
-0231_00039	Creatinine	C4H7N3O	2.506753494		'PUGREST.BadRequest: error: '
-0231_00040	Phenylacetyl carnitine	C15H21NO4	4.469318064		'PUGREST.BadRequest: error: '
-0231_00041	1,1-Dimethylbiguanide (Metformin)	C4H11N5	3.423430557		'PUGREST.BadRequest: error: '
-0231_00045	Trimethylamine N-oxide	C3H9NO	4.17872877		'PUGREST.BadRequest: error: '
-0231_00048	Creatine	C4H9N3O2	5.059731114		'PUGREST.BadRequest: error: '
-0231_00053	a-Glycerophosphocholine	C8H20NO6P	6.017375625		'PUGREST.BadRequest: error: '
-0231_00058	Hypoxanthine	C5H4N4O	1.592005313		'PUGREST.BadRequest: error: '
-0231_00062	Cytosine	C4H5N3O	2.392201696		'PUGREST.BadRequest: error: '
-0231_00064	Pipecolic acid	C6H11NO2	4.478641943		'PUGREST.BadRequest: error: '
-0231_00067	Octadecenoylcarnitine CAR(18:1)	C25H47NO4	3.65		'PUGREST.BadRequest: error: '
-0231_00068	Decadienoylcarnitine CAR(10:2)	C17H29NO4	4.107490961		'PUGREST.BadRequest: error: '
-0231_00069	Decenoylcarnitine CAR(10:1)	C17H31NO4	4		'PUGREST.BadRequest: error: '
-0231_00070	Dodecenoylcarnitine CAR(12:1)	C19H35NO4	3.89		'PUGREST.BadRequest: error: '
-0231_00071	Hexadecenoylcarnitine CAR(16:1)	C23H43NO4	3.8257414		'PUGREST.BadRequest: error: '
-0231_00072	Octadecadienoylcarnitine CAR(18:2)	C25H45NO4	3.796793288		'PUGREST.BadRequest: error: '
-0231_00073	Hydroxydecanoylcarnitine CAR(10:0-OH)	C17H33NO5	4.49		'PUGREST.BadRequest: error: '
-0231_00074	3-Hydroxybutyrylcarnitine CAR(4:0-OH)	C11H21NO5	5.4		'PUGREST.BadRequest: error: '
-0231_00075	Thiamine	C12H17N4OS+	5.492515806		'PUGREST.BadRequest: error: '
-0231_00076	4-Guanidinobutanoic acid	C5H11N3O2	3.840194634		'PUGREST.BadRequest: error: '
-0231_00077	N,N-Dimethylglycine	C4H9NO2	4.638593361		'PUGREST.BadRequest: error: '
-0231_00086	Acetaminophen	C8H9NO2	0.71		'PUGREST.BadRequest: error: '
-0231_00087	7-Methylguanine	C6H7N5O	2.19		'PUGREST.BadRequest: error: '
-0231_00088	Tryptamine	C10H12N2	2.79		'PUGREST.BadRequest: error: '
-0231_00089	N1-methyl-2-pyridone-5-carboxamide	C7H8N2O2	1.24		'PUGREST.BadRequest: error: '
-0231_00090	N1-methyl-4-pyridone-3-carboxamide	C7H8N2O2	1.5		'PUGREST.BadRequest: error: '
-0231_00094	1-Methylnicotinamide	C7H9N2O	4.08		'PUGREST.BadRequest: error: '
-0231_00097	1-Methylpiperidine-2-carboxylic acid (N-methyl pipecolic acid)	C7H13NO2	4.59		'PUGREST.BadRequest: error: '
-0231_00098	Nonenoylcarnitine CAR(9:1)	C16H29NO4	4		'PUGREST.BadRequest: error: '
-0231_00100	Tetradecadienoylcarnitine CAR(14:2)	C21H37NO4	3.81		'PUGREST.BadRequest: error: '
-0231_00104	Xanthine	C5H4N4O2	1.15		'PUGREST.BadRequest: error: '
-0231_00105	Hippuric acid	C9H9NO3	1.16		'PUGREST.BadRequest: error: '
-0231_00106	Guanine	C5H5N5O	2.17		'PUGREST.BadRequest: error: '
-0231_00107	Neopterin	C9H11N5O4	2.32		'PUGREST.BadRequest: error: '
-0231_00110	Pyralline	C12H18N2O4	4.28		'PUGREST.BadRequest: error: '
-0231_00111	3-Hydroxyanthranilic acid	C7H7NO3	0.69		'PUGREST.BadRequest: error: '
-0231_00115	Dopamine-4-O-sulfate	C8H11NO5S	1.07		'PUGREST.BadRequest: error: '
-0231_00116	Dopamine-3-O-sulfate	C8H11NO5S	1.07		'PUGREST.BadRequest: error: '
-0231_00117	N-Acetylisoputreanine-gamma-lactam	C9H16N2O2	1.83		'PUGREST.BadRequest: error: '
-0231_00119	N-Methylpyridinium	C6H8N+	3.82		'PUGREST.BadRequest: error: '
-0231_00120	N-Acetylisoputreanine	C9H18N2O3	4.93		'PUGREST.BadRequest: error: '
-0231_00121	N1,N12-Diacetylspermine	C14H30N4O2	6.1		'PUGREST.BadRequest: error: '
-0231_00123	Norcotinine	C9H10N2O	1.6		'PUGREST.BadRequest: error: '
-0231_00124	Nornicotine	C9H12N2	4.22		'PUGREST.BadRequest: error: '
-0231_00126	Imidazolepropionic acid	C6H8N2O2	3.76		'PUGREST.BadRequest: error: '
-0231_00127	Phenylethylamine	C8H11N	2.91		'PUGREST.BadRequest: error: '
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0231_00001	Hydroxyisovaleroyl Carnitine CAR(5:0-OH)	C12H23NO5	5.218552609		missing SMILES		
+0231_00003	Tetradecenoylcarnitine CAR(14:1)	C21H39NO4	3.86		missing SMILES		
+0231_00007	Asymmetric Dimethylarginine	C8H18N4O2	5.913		missing SMILES		
+0231_00008	Choline	C5H14NO	3.97		missing SMILES		
+0231_00010	Decanoylcarnitine CAR(10:0)	C17H33NO4	3.92		missing SMILES		
+0231_00012	Glutarylcarnitine CAR(5:0-DC)	C12H21NO6	5.103639754		missing SMILES		
+0231_00013	Isovalerylcarnitine	C12H23NO4	4.38776717		missing SMILES		
+0231_00015	2-methylbutyrylcarnitine	C12H23NO4	4.38776717		missing SMILES		
+0231_00018	N1-Acetylspermidine	C9H21N3O	5.991623862		missing SMILES		
+0231_00020	Nicotinamide N-oxide	C6H6N2O2	2.015842524		missing SMILES		
+0231_00026	Taurine	C2H7NO3S	2.608966025		missing SMILES		
+0231_00027	Paraxanthine	C7H8N4O2	0.947968571		missing SMILES		
+0231_00028	Trigonelline	C7H7NO2	4.849972598		missing SMILES		
+0231_00029	Trimethylaminoacetone	C6H14NO	3.508988976		missing SMILES		
+0231_00030	Betaine	C5H11NO2	4.782913628		missing SMILES		
+0231_00031	N-Acetylputrescine	C6H14N2O	4.401212172		missing SMILES		
+0231_00032	4-Trimethylammoniobutanoic acid (deoxycarnitine)	C7H16NO2	4.908490814		missing SMILES		
+0231_00034	Warfarin	C19H16O4	0.672829515		missing SMILES		
+0231_00036	Caffeine	C8H10N4O2	0.849694404		missing SMILES		
+0231_00037	Niacinamide	C6H6N2O	1.067510279		missing SMILES		
+0231_00038	Cotinine	C10H12N2O	1.403694675		missing SMILES		
+0231_00039	Creatinine	C4H7N3O	2.506753494		missing SMILES		
+0231_00040	Phenylacetyl carnitine	C15H21NO4	4.469318064		missing SMILES		
+0231_00041	1,1-Dimethylbiguanide (Metformin)	C4H11N5	3.423430557		missing SMILES		
+0231_00045	Trimethylamine N-oxide	C3H9NO	4.17872877		missing SMILES		
+0231_00048	Creatine	C4H9N3O2	5.059731114		missing SMILES		
+0231_00053	a-Glycerophosphocholine	C8H20NO6P	6.017375625		missing SMILES		
+0231_00058	Hypoxanthine	C5H4N4O	1.592005313		missing SMILES		
+0231_00062	Cytosine	C4H5N3O	2.392201696		missing SMILES		
+0231_00064	Pipecolic acid	C6H11NO2	4.478641943		missing SMILES		
+0231_00067	Octadecenoylcarnitine CAR(18:1)	C25H47NO4	3.65		missing SMILES		
+0231_00068	Decadienoylcarnitine CAR(10:2)	C17H29NO4	4.107490961		missing SMILES		
+0231_00069	Decenoylcarnitine CAR(10:1)	C17H31NO4	4		missing SMILES		
+0231_00070	Dodecenoylcarnitine CAR(12:1)	C19H35NO4	3.89		missing SMILES		
+0231_00071	Hexadecenoylcarnitine CAR(16:1)	C23H43NO4	3.8257414		missing SMILES		
+0231_00072	Octadecadienoylcarnitine CAR(18:2)	C25H45NO4	3.796793288		missing SMILES		
+0231_00073	Hydroxydecanoylcarnitine CAR(10:0-OH)	C17H33NO5	4.49		missing SMILES		
+0231_00074	3-Hydroxybutyrylcarnitine CAR(4:0-OH)	C11H21NO5	5.4		missing SMILES		
+0231_00075	Thiamine	C12H17N4OS+	5.492515806		missing SMILES		
+0231_00076	4-Guanidinobutanoic acid	C5H11N3O2	3.840194634		missing SMILES		
+0231_00077	N,N-Dimethylglycine	C4H9NO2	4.638593361		missing SMILES		
+0231_00086	Acetaminophen	C8H9NO2	0.71		missing SMILES		
+0231_00087	7-Methylguanine	C6H7N5O	2.19		missing SMILES		
+0231_00088	Tryptamine	C10H12N2	2.79		missing SMILES		
+0231_00089	N1-methyl-2-pyridone-5-carboxamide	C7H8N2O2	1.24		missing SMILES		
+0231_00090	N1-methyl-4-pyridone-3-carboxamide	C7H8N2O2	1.5		missing SMILES		
+0231_00094	1-Methylnicotinamide	C7H9N2O	4.08		missing SMILES		
+0231_00097	1-Methylpiperidine-2-carboxylic acid (N-methyl pipecolic acid)	C7H13NO2	4.59		missing SMILES		
+0231_00098	Nonenoylcarnitine CAR(9:1)	C16H29NO4	4		missing SMILES		
+0231_00100	Tetradecadienoylcarnitine CAR(14:2)	C21H37NO4	3.81		missing SMILES		
+0231_00104	Xanthine	C5H4N4O2	1.15		missing SMILES		
+0231_00105	Hippuric acid	C9H9NO3	1.16		missing SMILES		
+0231_00106	Guanine	C5H5N5O	2.17		missing SMILES		
+0231_00107	Neopterin	C9H11N5O4	2.32		missing SMILES		
+0231_00110	Pyralline	C12H18N2O4	4.28		missing SMILES		
+0231_00111	3-Hydroxyanthranilic acid	C7H7NO3	0.69		missing SMILES		
+0231_00115	Dopamine-4-O-sulfate	C8H11NO5S	1.07		missing SMILES		
+0231_00116	Dopamine-3-O-sulfate	C8H11NO5S	1.07		missing SMILES		
+0231_00117	N-Acetylisoputreanine-gamma-lactam	C9H16N2O2	1.83		missing SMILES		
+0231_00119	N-Methylpyridinium	C6H8N+	3.82		missing SMILES		
+0231_00120	N-Acetylisoputreanine	C9H18N2O3	4.93		missing SMILES		
+0231_00121	N1,N12-Diacetylspermine	C14H30N4O2	6.1		missing SMILES		
+0231_00123	Norcotinine	C9H10N2O	1.6		missing SMILES		
+0231_00124	Nornicotine	C9H12N2	4.22		missing SMILES		
+0231_00126	Imidazolepropionic acid	C6H8N2O2	3.76		missing SMILES		
+0231_00127	Phenylethylamine	C8H11N	2.91		missing SMILES		

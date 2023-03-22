@@ -1,2 +1,0 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0218_00819	Vercuronium	C34H57N2O4	5.525833		FAILED_STANDARDIZATION		

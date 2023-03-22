@@ -1,53 +1,53 @@
-id	name	formula	rt	smiles.std	status
-0273_00001	1-Nitropyrene		18.01		'PUGREST.BadRequest: error: '
-0273_00003	1H-Benzotriazole		6.055		'PUGREST.BadRequest: error: '
-0273_00004	4-Chloroaniline		9.8		'PUGREST.BadRequest: error: '
-0273_00005	5-Methyl-1H-benzotriazole		8.778		'PUGREST.BadRequest: error: '
-0273_00007	Alachlor		15.655		'PUGREST.BadRequest: error: '
-0273_00008	Ametryn		14.37		'PUGREST.BadRequest: error: '
-0273_00009	Atraton		12.765		'PUGREST.BadRequest: error: '
-0273_00010	Atrazine		13.044		'PUGREST.BadRequest: error: '
-0273_00011	Benzothiazole		10.775		'PUGREST.BadRequest: error: '
-0273_00013	Caffeine		6.581666667		'PUGREST.BadRequest: error: '
-0273_00014	Carbazole		14.74166667		'PUGREST.BadRequest: error: '
-0273_00015	Chloridazon		8.54		'PUGREST.BadRequest: error: '
-0273_00016	Chlorpyrifos		18.42857143		'PUGREST.BadRequest: error: '
-0273_00017	Chlorthalidone		8.831666667		'PUGREST.BadRequest: error: '
-0273_00019	Cotinine		6.085		'PUGREST.BadRequest: error: '
-0273_00020	Cyanazine		11.035		'PUGREST.BadRequest: error: '
-0273_00021	Diuron		13.3075		'PUGREST.BadRequest: error: '
-0273_00024	Fipronil		15.855		'PUGREST.BadRequest: error: '
-0273_00025	Flecainide		15.59		'PUGREST.BadRequest: error: '
-0273_00026	fluconazole		8.5025		'PUGREST.BadRequest: error: '
-0273_00027	Gabapentin		4.3975		'PUGREST.BadRequest: error: '
-0273_00028	Glibenclamide		12.43666667		'PUGREST.BadRequest: error: '
-0273_00029	Glimepiride		12.83333333		'PUGREST.BadRequest: error: '
-0273_00030	Haloperidol		16.6525		'PUGREST.BadRequest: error: '
-0273_00032	Irbesartan		12.0725		'PUGREST.BadRequest: error: '
-0273_00033	Irgarol		15.92		'PUGREST.BadRequest: error: '
-0273_00034	Metazachlor		13.162		'PUGREST.BadRequest: error: '
-0273_00035	Metolachlor		15.796		'PUGREST.BadRequest: error: '
-0273_00036	Metsulfuron-methyl		5.51		'PUGREST.BadRequest: error: '
-0273_00037	Monocrotophos		6.7475		'PUGREST.BadRequest: error: '
-0273_00038	Monuron		10.95		'PUGREST.BadRequest: error: '
-0273_00039	N-Methyl-N-nitrosotoluene-4-sulphonamide		13.0575		'PUGREST.BadRequest: error: '
-0273_00040	Nicotinamide		2.848333333		'PUGREST.BadRequest: error: '
-0273_00041	Norethindrone		14.545		'PUGREST.BadRequest: error: '
-0273_00042	O-Desmethylvenlafaxine		12.135		'PUGREST.BadRequest: error: '
-0273_00043	Parathion		16.16333333		'PUGREST.BadRequest: error: '
-0273_00044	Phenazone (Antipyrine)		7.7275		'PUGREST.BadRequest: error: '
-0273_00045	Progesterone		16.5025		'PUGREST.BadRequest: error: '
-0273_00046	Prometryn		15.5075		'PUGREST.BadRequest: error: '
-0273_00047	Propanil		14.315		'PUGREST.BadRequest: error: '
-0273_00048	Propylthiouracil		5.223333333		'PUGREST.BadRequest: error: '
-0273_00049	Quinoxaline		8.593333333		'PUGREST.BadRequest: error: '
-0273_00050	Sebuthylazine		14.255		'PUGREST.BadRequest: error: '
-0273_00051	Simazine		11.455		'PUGREST.BadRequest: error: '
-0273_00052	Sudan I		18.86		'PUGREST.BadRequest: error: '
-0273_00053	Sulfamethazine		5.385		'PUGREST.BadRequest: error: '
-0273_00054	Sulfapyridine		5.24		'PUGREST.BadRequest: error: '
-0273_00055	Theophylline		5.03		'PUGREST.BadRequest: error: '
-0273_00056	Tri-isobutyl phosphate		17.285		'PUGREST.BadRequest: error: '
-0273_00057	Triethyl phosphate		9.977222222		'PUGREST.BadRequest: error: '
-0273_00058	Trifluralin		16.5025		'PUGREST.BadRequest: error: '
-0273_00059	Triphenylphosphate		16.785		'PUGREST.BadRequest: error: '
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0273_00001	1-Nitropyrene	C16H9NO2	18.01		missing SMILES		
+0273_00003	1H-Benzotriazole	C6H5N3	6.055		missing SMILES		
+0273_00004	4-Chloroaniline	C6H6ClN	9.8		missing SMILES		
+0273_00005	5-Methyl-1H-benzotriazole	C7H7N3	8.778		missing SMILES		
+0273_00007	Alachlor	C14H20ClNO2	15.655		missing SMILES		
+0273_00008	Ametryn	C9H19N5S	14.37		missing SMILES		
+0273_00009	Atraton	C9H19N5O	12.765		missing SMILES		
+0273_00010	Atrazine	C8H16ClN5	13.044		missing SMILES		
+0273_00011	Benzothiazole	C7H5NS	10.775		missing SMILES		
+0273_00013	Caffeine	C8H10N4O2	6.581666667		missing SMILES		
+0273_00014	Carbazole	C12H9N	14.74166667		missing SMILES		
+0273_00015	Chloridazon	C10H8ClN3O	8.54		missing SMILES		
+0273_00016	Chlorpyrifos	C9H11Cl3NO3PS	18.42857143		missing SMILES		
+0273_00017	Chlorthalidone	C14H11ClN2O4S	8.831666667		missing SMILES		
+0273_00019	Cotinine	C10H12N2O	6.085		missing SMILES		
+0273_00020	Cyanazine	C9H17ClN6	11.035		missing SMILES		
+0273_00021	Diuron	C9H10Cl2N2O	13.3075		missing SMILES		
+0273_00024	Fipronil	C12H4Cl2F6N4OS	15.855		missing SMILES		
+0273_00025	Flecainide	C17H20F6N2O3	15.59		missing SMILES		
+0273_00026	fluconazole	C13H12F2N6O	8.5025		missing SMILES		
+0273_00027	Gabapentin	C9H17NO2	4.3975		missing SMILES		
+0273_00028	Glibenclamide	C23H28ClN3O5S	12.43666667		missing SMILES		
+0273_00029	Glimepiride	C24H34N4O5S	12.83333333		missing SMILES		
+0273_00030	Haloperidol	C21H23ClFNO2	16.6525		missing SMILES		
+0273_00032	Irbesartan	C25H28N6O	12.0725		missing SMILES		
+0273_00033	Irgarol	C11H23N5S	15.92		missing SMILES		
+0273_00034	Metazachlor	C14H16ClN3O	13.162		missing SMILES		
+0273_00035	Metolachlor	C15H22ClNO2	15.796		missing SMILES		
+0273_00036	Metsulfuron-methyl	C14H25N5O6S	5.51		missing SMILES		
+0273_00037	Monocrotophos		6.7475		missing SMILES		
+0273_00038	Monuron	C9H11ClN2O	10.95		missing SMILES		
+0273_00039	N-Methyl-N-nitrosotoluene-4-sulphonamide	C8H10N2O3S	13.0575		missing SMILES		
+0273_00040	Nicotinamide	C6H6N2O	2.848333333		missing SMILES		
+0273_00041	Norethindrone	C20H26O2	14.545		missing SMILES		
+0273_00042	O-Desmethylvenlafaxine	C16H25NO2	12.135		missing SMILES		
+0273_00043	Parathion	C10H14NO5PS	16.16333333		missing SMILES		
+0273_00044	Phenazone (Antipyrine)	C11H12N2O	7.7275		missing SMILES		
+0273_00045	Progesterone	C21H30O2	16.5025		missing SMILES		
+0273_00046	Prometryn	C10H21N5S	15.5075		missing SMILES		
+0273_00047	Propanil	C9H9Cl2NO	14.315		missing SMILES		
+0273_00048	Propylthiouracil	C7H10N2OS	5.223333333		missing SMILES		
+0273_00049	Quinoxaline	C8H6N2	8.593333333		missing SMILES		
+0273_00050	Sebuthylazine	C9H18ClN5	14.255		missing SMILES		
+0273_00051	Simazine	C7H14ClN5	11.455		missing SMILES		
+0273_00052	Sudan I		18.86		missing SMILES		
+0273_00053	Sulfamethazine	C12H14N4O2S	5.385		missing SMILES		
+0273_00054	Sulfapyridine	C11H11N3O2S	5.24		missing SMILES		
+0273_00055	Theophylline	C7H8N4O2	5.03		missing SMILES		
+0273_00056	Tri-isobutyl phosphate	C12H27O4P	17.285		missing SMILES		
+0273_00057	Triethyl phosphate	C6H15O4P	9.977222222		missing SMILES		
+0273_00058	Trifluralin	C13H16F3N3O4	16.5025		missing SMILES		
+0273_00059	Triphenylphosphate	C18H15O4P	16.785		missing SMILES		

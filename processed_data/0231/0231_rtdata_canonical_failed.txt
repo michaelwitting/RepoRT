@@ -1,11 +1,11 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0231_00003	Tetradecenoylcarnitine CAR(14:1)	C21H39NO4	3.86		'PUGREST.BadRequest: error: '		
-0231_00067	Octadecenoylcarnitine CAR(18:1)	C25H47NO4	3.65		'PUGREST.BadRequest: error: '		
-0231_00068	Decadienoylcarnitine CAR(10:2)	C17H29NO4	4.107490961		'PUGREST.BadRequest: error: '		
-0231_00069	Decenoylcarnitine CAR(10:1)	C17H31NO4	4		'PUGREST.BadRequest: error: '		
-0231_00070	Dodecenoylcarnitine CAR(12:1)	C19H35NO4	3.89		'PUGREST.BadRequest: error: '		
-0231_00071	Hexadecenoylcarnitine CAR(16:1)	C23H43NO4	3.8257414		'PUGREST.BadRequest: error: '		
-0231_00072	Octadecadienoylcarnitine CAR(18:2)	C25H45NO4	3.796793288		'PUGREST.BadRequest: error: '		
-0231_00073	Hydroxydecanoylcarnitine CAR(10:0-OH)	C17H33NO5	4.49		'PUGREST.BadRequest: error: '		
-0231_00098	Nonenoylcarnitine CAR(9:1)	C16H29NO4	4		'PUGREST.BadRequest: error: '		
-0231_00100	Tetradecadienoylcarnitine CAR(14:2)	C21H37NO4	3.81		'PUGREST.BadRequest: error: '		
+0231_00003	Tetradecenoylcarnitine CAR(14:1)	C21H39NO4	3.86		missing SMILES		
+0231_00067	Octadecenoylcarnitine CAR(18:1)	C25H47NO4	3.65		missing SMILES		
+0231_00068	Decadienoylcarnitine CAR(10:2)	C17H29NO4	4.107490961		missing SMILES		
+0231_00069	Decenoylcarnitine CAR(10:1)	C17H31NO4	4		missing SMILES		
+0231_00070	Dodecenoylcarnitine CAR(12:1)	C19H35NO4	3.89		missing SMILES		
+0231_00071	Hexadecenoylcarnitine CAR(16:1)	C23H43NO4	3.8257414		missing SMILES		
+0231_00072	Octadecadienoylcarnitine CAR(18:2)	C25H45NO4	3.796793288		missing SMILES		
+0231_00073	Hydroxydecanoylcarnitine CAR(10:0-OH)	C17H33NO5	4.49		missing SMILES		
+0231_00098	Nonenoylcarnitine CAR(9:1)	C16H29NO4	4		missing SMILES		
+0231_00100	Tetradecadienoylcarnitine CAR(14:2)	C21H37NO4	3.81		missing SMILES		

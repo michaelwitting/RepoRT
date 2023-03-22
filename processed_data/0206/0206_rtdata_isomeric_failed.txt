@@ -1,29 +1,29 @@
-id	name	formula	rt	smiles.std	status
-0206_00001	1,""w/o MS2:Isoproturon-didemethyl	C10H14N2O	0.475		'PUGREST.BadRequest: error: '
-0206_00002	2,""w/o MS2:Indole-3-acetonitrile	C10H8N2	0.939		'PUGREST.BadRequest: error: '
-0206_00003	3,""w/o MS2:Thiacloprid	C10H9ClN4S	13.084		'PUGREST.BadRequest: error: '
-0206_00004	4,""w/o MS2:Levamisole	C11H12N2S	7.183		'PUGREST.BadRequest: error: '
-0206_00005	5,""w/o MS2:Irgarol	C11H19N5S	8.956		'PUGREST.BadRequest: error: '
-0206_00006	6,""w/o MS2:Pyrimethanil	C12H13N3	0.43		'PUGREST.BadRequest: error: '
-0206_00007	7,""w/o MS2:Chlorfenvinphos	C12H14Cl3O4P	12.958		'PUGREST.BadRequest: error: '
-0206_00008	8,""w/o MS2:Harmine	C13H12N2O	2.591		'PUGREST.BadRequest: error: '
-0206_00009	9,""w/o MS2:Cyprodinil	C14H15N3	0.615		'PUGREST.BadRequest: error: '
-0206_00010	10,""w/o MS2:Apigenin	C15H10O5	2.322		'PUGREST.BadRequest: error: '
-0206_00011	11,""w/o MS2:Myricetin	C15H10O8	2.3		'PUGREST.BadRequest: error: '
-0206_00012	12,""w/o MS2:Indole-3-acetyl-L-valine	C15H18N2O3	2.405		'PUGREST.BadRequest: error: '
-0206_00013	13,""w/o MS2:Cilastatin	C16H26N2O5S	3.46		'PUGREST.BadRequest: error: '
-0206_00014	14,""w/o MS2:Lincomycin	C18H34N2O6S	0.583		'PUGREST.BadRequest: error: '
-0206_00015	15,""w/o MS2:Casticin	C16H18O8	0.608		'PUGREST.BadRequest: error: '
-0206_00016	16,""w/o MS2:Dehydroepiandrosterone	C19H28O2	4.078		'PUGREST.BadRequest: error: '
-0206_00017	17,""w/o MS2:Perindopril	C19H32N2O5	0.401		'PUGREST.BadRequest: error: '
-0206_00018	18,""w/o MS2:Chloridazone-methyl-desphenyl	C5H6ClN3O	13.085		'PUGREST.BadRequest: error: '
-0206_00019	19,""w/o MS2:trans-2-Hexenal	C6H10O	3.414		'PUGREST.BadRequest: error: '
-0206_00020	20,""w/o MS2:Diglyme	C6H14O3	13.031		'PUGREST.BadRequest: error: '
-0206_00021	21,""w/o MS2:D-Sorbitol 6-phosphate	C6H15O9P	5.127		'PUGREST.BadRequest: error: '
-0206_00022	22,""w/o MS2:Benzothiazole	C7H5NS	13		'PUGREST.BadRequest: error: '
-0206_00023	23,""w/o MS2:Anthranilic acid	C7H7NO2	0.507		'PUGREST.BadRequest: error: '
-0206_00024	24,""w/o MS2:Phthalic anhydride	C8H4O3	7.179		'PUGREST.BadRequest: error: '
-0206_00025	25,""w/o MS2:Isatin	C8H5NO2	0.543		'PUGREST.BadRequest: error: '
-0206_00026	26,""w/o MS2:Fenuron	C9H12N2O	0.776		'PUGREST.BadRequest: error: '
-0206_00027	27,""w/o MS2:4-Isopropylaniline	C9H13N	12.956		'PUGREST.BadRequest: error: '
-0206_00028	28,""w/o MS2:Gabapentin	C9H17NO2	7.66		'PUGREST.BadRequest: error: '
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0206_00001	1,""w/o MS2:Isoproturon-didemethyl	C10H14N2O	0.475		missing SMILES		
+0206_00002	2,""w/o MS2:Indole-3-acetonitrile	C10H8N2	0.939		missing SMILES		
+0206_00003	3,""w/o MS2:Thiacloprid	C10H9ClN4S	13.084		missing SMILES		
+0206_00004	4,""w/o MS2:Levamisole	C11H12N2S	7.183		missing SMILES		
+0206_00005	5,""w/o MS2:Irgarol	C11H19N5S	8.956		missing SMILES		
+0206_00006	6,""w/o MS2:Pyrimethanil	C12H13N3	0.43		missing SMILES		
+0206_00007	7,""w/o MS2:Chlorfenvinphos	C12H14Cl3O4P	12.958		missing SMILES		
+0206_00008	8,""w/o MS2:Harmine	C13H12N2O	2.591		missing SMILES		
+0206_00009	9,""w/o MS2:Cyprodinil	C14H15N3	0.615		missing SMILES		
+0206_00010	10,""w/o MS2:Apigenin	C15H10O5	2.322		missing SMILES		
+0206_00011	11,""w/o MS2:Myricetin	C15H10O8	2.3		missing SMILES		
+0206_00012	12,""w/o MS2:Indole-3-acetyl-L-valine	C15H18N2O3	2.405		missing SMILES		
+0206_00013	13,""w/o MS2:Cilastatin	C16H26N2O5S	3.46		missing SMILES		
+0206_00014	14,""w/o MS2:Lincomycin	C18H34N2O6S	0.583		missing SMILES		
+0206_00015	15,""w/o MS2:Casticin	C16H18O8	0.608		missing SMILES		
+0206_00016	16,""w/o MS2:Dehydroepiandrosterone	C19H28O2	4.078		missing SMILES		
+0206_00017	17,""w/o MS2:Perindopril	C19H32N2O5	0.401		missing SMILES		
+0206_00018	18,""w/o MS2:Chloridazone-methyl-desphenyl	C5H6ClN3O	13.085		missing SMILES		
+0206_00019	19,""w/o MS2:trans-2-Hexenal	C6H10O	3.414		missing SMILES		
+0206_00020	20,""w/o MS2:Diglyme	C6H14O3	13.031		missing SMILES		
+0206_00021	21,""w/o MS2:D-Sorbitol 6-phosphate	C6H15O9P	5.127		missing SMILES		
+0206_00022	22,""w/o MS2:Benzothiazole	C7H5NS	13		missing SMILES		
+0206_00023	23,""w/o MS2:Anthranilic acid	C7H7NO2	0.507		missing SMILES		
+0206_00024	24,""w/o MS2:Phthalic anhydride	C8H4O3	7.179		missing SMILES		
+0206_00025	25,""w/o MS2:Isatin	C8H5NO2	0.543		missing SMILES		
+0206_00026	26,""w/o MS2:Fenuron	C9H12N2O	0.776		missing SMILES		
+0206_00027	27,""w/o MS2:4-Isopropylaniline	C9H13N	12.956		missing SMILES		
+0206_00028	28,""w/o MS2:Gabapentin	C9H17NO2	7.66		missing SMILES		

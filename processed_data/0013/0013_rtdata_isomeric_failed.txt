@@ -1,5 +1,5 @@
-id	name	formula	rt	smiles.std	status
-0013_00002	dibenzyl disulfide	C14H14S2	2.388333333		FAILED_STANDARDIZATION
-0013_00003	4-trifluoro methylaniline	C7H6F3N	0.383333333		FAILED_STANDARDIZATION
-0013_00006	bisphenol AF	C15H10F6O2	0.396666667		FAILED_STANDARDIZATION
-0013_00007	dibenzo[1,4]dioxin-2,3-dione	C12H6O4	2.573333333		FAILED_STANDARDIZATION
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0013_00002	dibenzyl disulfide	C14H14S2	2.388333333		missing SMILES		
+0013_00003	4-trifluoro methylaniline	C7H6F3N	0.383333333		missing SMILES		
+0013_00006	bisphenol AF	C15H10F6O2	0.396666667		missing SMILES		
+0013_00007	dibenzo[1,4]dioxin-2,3-dione	C12H6O4	2.573333333		missing SMILES		

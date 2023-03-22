@@ -1,38 +1,38 @@
-id	name	formula	rt	smiles.std	status
-0295_00001	1-hydroxypyrene		16.762		'PUGREST.BadRequest: error: '
-0295_00003	1H-Benzotriazole		7.21		'PUGREST.BadRequest: error: '
-0295_00004	2-(Methylthio)benzothiazole		15.05		'PUGREST.BadRequest: error: '
-0295_00005	4-Chloroaniline		10.36		'PUGREST.BadRequest: error: '
-0295_00006	Alachlor		16.135		'PUGREST.BadRequest: error: '
-0295_00007	Atrazine		13.46		'PUGREST.BadRequest: error: '
-0295_00008	Benzothiazole		11.13333333		'PUGREST.BadRequest: error: '
-0295_00010	Caffeine		6.703333333		'PUGREST.BadRequest: error: '
-0295_00011	Carbazole		15.28		'PUGREST.BadRequest: error: '
-0295_00012	Chlorpyrifos		18.89		'PUGREST.BadRequest: error: '
-0295_00013	Chlorthalidone		9.098		'PUGREST.BadRequest: error: '
-0295_00015	Cotinine		6.08		'PUGREST.BadRequest: error: '
-0295_00016	Diuron		13.72		'PUGREST.BadRequest: error: '
-0295_00019	Flecainide		12.3		'PUGREST.BadRequest: error: '
-0295_00020	fluconazole		8.8425		'PUGREST.BadRequest: error: '
-0295_00021	Glibenclamide		14.6875		'PUGREST.BadRequest: error: '
-0295_00022	Haloperidol		14.385		'PUGREST.BadRequest: error: '
-0295_00024	Iminostilbene		15.57428571		'PUGREST.BadRequest: error: '
-0295_00026	Metazachlor		13.56875		'PUGREST.BadRequest: error: '
-0295_00027	Metolachlor		16.23		'PUGREST.BadRequest: error: '
-0295_00028	Monuron		11.36		'PUGREST.BadRequest: error: '
-0295_00029	Nicotinamide		2.835		'PUGREST.BadRequest: error: '
-0295_00030	Norethindrone		14.84		'PUGREST.BadRequest: error: '
-0295_00031	O-Desmethylvenlafaxine		8.695		'PUGREST.BadRequest: error: '
-0295_00032	Parathion		16.67		'PUGREST.BadRequest: error: '
-0295_00033	Progesterone		16.85		'PUGREST.BadRequest: error: '
-0295_00034	Propanil		14.78		'PUGREST.BadRequest: error: '
-0295_00035	Propylthiouracil		6.586		'PUGREST.BadRequest: error: '
-0295_00036	Quinoxaline		8.82		'PUGREST.BadRequest: error: '
-0295_00037	Reserpine		17.29		'PUGREST.BadRequest: error: '
-0295_00038	Sebuthylazine		14.68		'PUGREST.BadRequest: error: '
-0295_00039	Simazine		11.85		'PUGREST.BadRequest: error: '
-0295_00040	Sudan I		19.26		'PUGREST.BadRequest: error: '
-0295_00041	Tri-isobutyl phosphate		17.71		'PUGREST.BadRequest: error: '
-0295_00042	Triethyl phosphate		10.44		'PUGREST.BadRequest: error: '
-0295_00043	Trifluralin		19.18		'PUGREST.BadRequest: error: '
-0295_00044	Trimethoprim		8.985		'PUGREST.BadRequest: error: '
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0295_00001	1-hydroxypyrene	C16H10O	16.762		missing SMILES		
+0295_00003	1H-Benzotriazole	C6H5N3	7.21		missing SMILES		
+0295_00004	2-(Methylthio)benzothiazole	C8H7NS2	15.05		missing SMILES		
+0295_00005	4-Chloroaniline	C6H6ClN	10.36		missing SMILES		
+0295_00006	Alachlor	C14H20ClNO2	16.135		missing SMILES		
+0295_00007	Atrazine	C8H16ClN5	13.46		missing SMILES		
+0295_00008	Benzothiazole	C7H5NS	11.13333333		missing SMILES		
+0295_00010	Caffeine	C8H10N4O2	6.703333333		missing SMILES		
+0295_00011	Carbazole	C12H9N	15.28		missing SMILES		
+0295_00012	Chlorpyrifos	C9H11Cl3NO3PS	18.89		missing SMILES		
+0295_00013	Chlorthalidone	C14H11ClN2O4S	9.098		missing SMILES		
+0295_00015	Cotinine	C10H12N2O	6.08		missing SMILES		
+0295_00016	Diuron	C9H10Cl2N2O	13.72		missing SMILES		
+0295_00019	Flecainide	C17H20F6N2O3	12.3		missing SMILES		
+0295_00020	fluconazole	C13H12F2N6O	8.8425		missing SMILES		
+0295_00021	Glibenclamide	C23H28ClN3O5S	14.6875		missing SMILES		
+0295_00022	Haloperidol	C21H23ClFNO2	14.385		missing SMILES		
+0295_00024	Iminostilbene	C14H11N	15.57428571		missing SMILES		
+0295_00026	Metazachlor	C14H16ClN3O	13.56875		missing SMILES		
+0295_00027	Metolachlor	C15H22ClNO2	16.23		missing SMILES		
+0295_00028	Monuron	C9H11ClN2O	11.36		missing SMILES		
+0295_00029	Nicotinamide	C6H6N2O	2.835		missing SMILES		
+0295_00030	Norethindrone	C20H26O2	14.84		missing SMILES		
+0295_00031	O-Desmethylvenlafaxine	C16H25NO2	8.695		missing SMILES		
+0295_00032	Parathion	C10H14NO5PS	16.67		missing SMILES		
+0295_00033	Progesterone	C21H30O2	16.85		missing SMILES		
+0295_00034	Propanil	C9H9Cl2NO	14.78		missing SMILES		
+0295_00035	Propylthiouracil	C7H10N2OS	6.586		missing SMILES		
+0295_00036	Quinoxaline	C8H6N2	8.82		missing SMILES		
+0295_00037	Reserpine	C33H40N2O9	17.29		missing SMILES		
+0295_00038	Sebuthylazine	C9H18ClN5	14.68		missing SMILES		
+0295_00039	Simazine	C7H14ClN5	11.85		missing SMILES		
+0295_00040	Sudan I		19.26		missing SMILES		
+0295_00041	Tri-isobutyl phosphate	C12H27O4P	17.71		missing SMILES		
+0295_00042	Triethyl phosphate	C6H15O4P	10.44		missing SMILES		
+0295_00043	Trifluralin	C13H16F3N3O4	19.18		missing SMILES		
+0295_00044	Trimethoprim	C14H26N4O3	8.985		missing SMILES		

@@ -1,115 +1,115 @@
-id	name	formula	rt	smiles.std	status
-0209_00001	Amisulpride	C17H27N3O4S	9.845		'PUGREST.BadRequest: error: '
-0209_00002	Tranylcypromine	C9H11N	10.35		'PUGREST.BadRequest: error: '
-0209_00003	Epinastine	C16H15N3	11.77666667		'PUGREST.BadRequest: error: '
-0209_00004	Tropicamide	C17H20N2O2	10.31833333		'PUGREST.BadRequest: error: '
-0209_00005	Triflupromazine	C18H19F3N2S	14.74333333		'PUGREST.BadRequest: error: '
-0209_00006	Chlormezanone	C11H12ClNO3S	12.655		'PUGREST.BadRequest: error: '
-0209_00007	Granisetron	C18H24N4O	10.65833333		'PUGREST.BadRequest: error: '
-0209_00008	Amlexanox	C16H14N2O4	14.84333333		'PUGREST.BadRequest: error: '
-0209_00009	Cilostazol	C20H27N5O2	14.66666667		'PUGREST.BadRequest: error: '
-0209_00010	Pheniramine	C16H20N2	9.671666667		'PUGREST.BadRequest: error: '
-0209_00011	Rizatriptan	C15H19N5	1.583333333		'PUGREST.BadRequest: error: '
-0209_00012	3-(Diphenylmethoxy)-8-methyl-8-azabicyclo[3.2.1]octane	C21H25NO	13.06166667		'PUGREST.BadRequest: error: '
-0209_00013	Fluspirilene	C29H31F2N3O	14.86833333		'PUGREST.BadRequest: error: '
-0209_00014	Ibudilast	C14H18N2O	16.84166667		'PUGREST.BadRequest: error: '
-0209_00016	6-Methyl-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinoline-10,11-diol	C17H17NO2	10.10833333		'PUGREST.BadRequest: error: '
-0209_00017	Aprindine	C22H30N2	12.56		'PUGREST.BadRequest: error: '
-0209_00018	Profenamine	C19H24N2S	13.555		'PUGREST.BadRequest: error: '
-0209_00019	Tolazamide	C14H21N3O3S	15.23333333		'PUGREST.BadRequest: error: '
-0209_00020	Dihydroquercetin	C15H12O7	11.45666667		'PUGREST.BadRequest: error: '
-0209_00021	Cyclophosphamide	C7H15Cl2N2O2P	12.075		'PUGREST.BadRequest: error: '
-0209_00022	(3-Methyloxiran-2-yl)phosphonate	C3H5O4P-2	1.871666667		'PUGREST.BadRequest: error: '
-0209_00023	Bifonazole	C22H18N2	15.10666667		'PUGREST.BadRequest: error: '
-0209_00024	Clomifene	C26H28ClNO	16.80333333		'PUGREST.BadRequest: error: '
-0209_00025	2-(6-Aminopurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol	C10H13N5O4	1.545		'PUGREST.BadRequest: error: '
-0209_00026	Meclofenamic acid	C14H11Cl2NO2	17.49		'PUGREST.BadRequest: error: '
-0209_00028	Alverine	C20H27N	14.56833333		'PUGREST.BadRequest: error: '
-0209_00029	6-Hydroxy-8-methyl-8-azabicyclo[3.2.1]octan-3-yl 3-hydroxy-2-phenylpropanoate	C17H23NO4	9.768333333		'PUGREST.BadRequest: error: '
-0209_00030	Strychnin	C21H22N2O2	9.72		'PUGREST.BadRequest: error: '
-0209_00031	Galantamin	C17H21NO3	1.57		'PUGREST.BadRequest: error: '
-0209_00032	Alosetron	C17H18N4O	10.865		'PUGREST.BadRequest: error: '
-0209_00033	Mephenytoin	C12H14N2O2	13.23166667		'PUGREST.BadRequest: error: '
-0209_00035	Naphazoline	C14H14N2	10.31833333		'PUGREST.BadRequest: error: '
-0209_00036	Anagrelide	C10H7Cl2N3O	11.12166667		'PUGREST.BadRequest: error: '
-0209_00038	Bioepiderm	C10H16N2O3S	10.55833333		'PUGREST.BadRequest: error: '
-0209_00039	2-[4-(1,2-Diphenylbut-1-enyl)phenoxy]-N,N-dimethylethanamine	C26H29NO	16.865		'PUGREST.BadRequest: error: '
-0209_00040	Imatinib	C29H31N7O	10.66666667		'PUGREST.BadRequest: error: '
-0209_00042	Roxatidine acetate	C19H28N2O4	10.29333333		'PUGREST.BadRequest: error: '
-0209_00043	Cevimeline	C10H17NOS	10.31833333		'PUGREST.BadRequest: error: '
-0209_00044	3-(1,3-Benzodioxol-5-yloxymethyl)-4-(4-fluorophenyl)piperidine	C19H20FNO3	12.975		'PUGREST.BadRequest: error: '
-0209_00045	(-)-Scopolamine	C17H21NO4	10.66833333		'PUGREST.BadRequest: error: '
-0209_00046	Perhexiline	C19H35N	17.65833333		'PUGREST.BadRequest: error: '
-0209_00047	3,3-Dimethyl-7-oxo-6-[(phenoxyacetyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid	C16H18N2O5S	13.68		'PUGREST.BadRequest: error: '
-0209_00048	Etambutol	C10H24N2O2	1.333333333		'PUGREST.BadRequest: error: '
-0209_00049	Sulfamerazine	C11H12N4O2S	10.87		'PUGREST.BadRequest: error: '
-0209_00050	Methotrimeprazine	C19H24N2OS	13.39333333		'PUGREST.BadRequest: error: '
-0209_00051	Methazolamide	C5H8N4O3S2	10.73333333		'PUGREST.BadRequest: error: '
-0209_00052	Vorinostat	C14H20N2O3	10.99833333		'PUGREST.BadRequest: error: '
-0209_00053	Modafinil	C15H15NO2S	11.83833333		'PUGREST.BadRequest: error: '
-0209_00054	Diphenylpyraline	C19H23NO	12.66333333		'PUGREST.BadRequest: error: '
-0209_00055	Periciazine	C21H23N3OS	12.38833333		'PUGREST.BadRequest: error: '
-0209_00056	Chloroxine	C9H5Cl2NO	17.075		'PUGREST.BadRequest: error: '
-0209_00057	5-Methoxytryptophol	C11H13NO2	11.00833333		'PUGREST.BadRequest: error: '
-0209_00058	5-(2-Aminoethyl)-2-methoxyphenol	C9H13NO2	1.446666667		'PUGREST.BadRequest: error: '
-0209_00059	2-[[5-Methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene]amino]oxyethanamine	C15H21F3N2O2	12.23166667		'PUGREST.BadRequest: error: '
-0209_00060	Mefloquine	C17H16F6N2O	12.575		'PUGREST.BadRequest: error: '
-0209_00061	Methyl 17-hydroxy-20xi-yohimban-16-carboxylate	C21H26N2O3	11.21333333		'PUGREST.BadRequest: error: '
-0209_00062	6-Hydroxynicotine	C10H14N2O	1.48		'PUGREST.BadRequest: error: '
-0209_00069	Dapiprazole	C19H27N5	9.55		'PUGREST.BadRequest: error: '
-0209_00071	Dasatinib	C22H26ClN7O2S	11.36666667		'PUGREST.BadRequest: error: '
-0209_00074	Hydrouracil, 1-beta-D-ribofuranosyl-	C9H14N2O6	17.3		'PUGREST.BadRequest: error: '
-0209_00076	1-(5-Deoxypentofuranosyl)-5-fluoro-4-{[(pentyloxy)carbonyl]amino}pyrimidin-2(1h)-one	C15H22FN3O6	14.56166667		'PUGREST.BadRequest: error: '
-0209_00085	Lofexidine	C11H12Cl2N2O	10.36166667		'PUGREST.BadRequest: error: '
-0209_00089	Bopindolol	C23H28N2O3	13.31166667		'PUGREST.BadRequest: error: '
-0209_00090	Razoxane	C11H16N4O4	8.84		'PUGREST.BadRequest: error: '
-0209_00091	Amidate	C14H16N2O2	12.90166667		'PUGREST.BadRequest: error: '
-0209_00116	Nilotinib	C28H22F3N7O	12.92833333		'PUGREST.BadRequest: error: '
-0209_00117	Tetrahydrobiopterin	C9H15N5O3	14.23333333		'PUGREST.BadRequest: error: '
-0209_00123	Tomoxetine	C17H21NO	12.96333333		'PUGREST.BadRequest: error: '
-0209_00124	Vilazodone	C26H27N5O2	11.695		'PUGREST.BadRequest: error: '
-0209_00125	5-[[2-[1-[3,5-Bis(trifluoromethyl)phenyl]ethoxy]-3-(4-fluorophenyl)morpholin-4-yl]methyl]-1,2-dihydro-1,2,4-triazol-3-one	C23H21F7N4O3	15.99833333		'PUGREST.BadRequest: error: '
-0209_00126	Prasugrel	C20H20FNO3S	12.31666667		'PUGREST.BadRequest: error: '
-0209_00132	Lercanidipine	C36H41N3O6	16.77666667		'PUGREST.BadRequest: error: '
-0209_00133	Ranolazine	C24H33N3O4	11.38		'PUGREST.BadRequest: error: '
-0209_00135	Nebivolol	C22H25F2NO4	12.40166667		'PUGREST.BadRequest: error: '
-0209_00138	Bromfenac	C15H12BrNO3	15.145		'PUGREST.BadRequest: error: '
-0209_00139	Medetomidine	C13H16N2	11.485		'PUGREST.BadRequest: error: '
-0209_00140	Pemirolast	C10H8N6O	10.76333333		'PUGREST.BadRequest: error: '
-0209_00144	1,2,3,9-Tetrahydropyrrolo[2,1-b]quinazolin-3-ol	C11H12N2O	1.526666667		'PUGREST.BadRequest: error: '
-0209_00145	Sertaconazole	C20H15Cl3N2OS	16.225		'PUGREST.BadRequest: error: '
-0209_00147	Adefovir dipivoxil	C20H32N5O8P	12.08166667		'PUGREST.BadRequest: error: '
-0209_00152	1-Naphthalenol, 5,6,7,8-tetrahydro-6-[propyl[2-(2-thienyl)ethyl]amino]-	C19H25NOS	12.61166667		'PUGREST.BadRequest: error: '
-0209_00158	Agomelatine	C15H17NO2	11.60833333		'PUGREST.BadRequest: error: '
-0209_00164	Nitisinone	C14H10F3NO5	17.79166667		'PUGREST.BadRequest: error: '
-0209_00168	Vardenafil	C23H32N6O4S	11.91833333		'PUGREST.BadRequest: error: '
-0209_00169	Bosentan	C27H29N5O6S	15.65166667		'PUGREST.BadRequest: error: '
-0209_00170	Almotriptan	C17H25N3O2S	10.47833333		'PUGREST.BadRequest: error: '
-0209_00177	Conivaptan	C32H26N4O2	13.24833333		'PUGREST.BadRequest: error: '
-0209_00178	Nepafenac	C15H14N2O2	12.24		'PUGREST.BadRequest: error: '
-0209_00180	Methyl aminolevulinate	C6H11NO3	1.338333333		'PUGREST.BadRequest: error: '
-0209_00181	Olmesartan	C24H26N6O3	11.45		'PUGREST.BadRequest: error: '
-0209_00182	N-Desisopropylpropranolol	C13H15NO2	11.32333333		'PUGREST.BadRequest: error: '
-0209_00184	Sorafenib	C21H16ClF3N4O3	19.77666667		'PUGREST.BadRequest: error: '
-0209_00188	Lenalidomide	C13H13N3O3	9.916666667		'PUGREST.BadRequest: error: '
-0209_00211	Xylazine	C12H16N2S	10.58833333		'PUGREST.BadRequest: error: '
-0209_00212	Tulobuterol	C12H18ClNO2S	10.825		'PUGREST.BadRequest: error: '
-0209_00213	1-(Tert-butylamino)-3-{[4-(morpholin-4-yl)-1,2,5-thiadiazol-3-yl]oxy}propan-2-ol	C13H24N4O3S	10.435		'PUGREST.BadRequest: error: '
-0209_00214	Tetramisole	C11H12N2S	10.305		'PUGREST.BadRequest: error: '
-0209_00216	Methocarbamol	C11H15NO5	10.83333333		'PUGREST.BadRequest: error: '
-0209_00217	Nadifloxacin	C19H21FN2O4	11.81833333		'PUGREST.BadRequest: error: '
-0209_00218	3,3-Dimethyl-6-[(5-methyl-3-phenyl-1,2-oxazole-4-carbonyl)amino]-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid	C19H19N3O5S	13.64166667		'PUGREST.BadRequest: error: '
-0209_00219	Oxibendazole	C12H15N3O3	10.87333333		'PUGREST.BadRequest: error: '
-0209_00220	Isoxsuprine	C18H23NO3	11.425		'PUGREST.BadRequest: error: '
-0209_00221	Mexate	C20H22N8O5	11.10833333		'PUGREST.BadRequest: error: '
-0209_00222	Sulfameter	C11H12N4O3S	11.24833333		'PUGREST.BadRequest: error: '
-0209_00223	5,7-Dihydroxy-2-(4-hydroxyphenyl)chroman-4-one	C15H12O5	13.06166667		'PUGREST.BadRequest: error: '
-0209_00224	Sulfadimethoxine	C12H14N4O4S	11.34		'PUGREST.BadRequest: error: '
-0209_00225	N-Acetyl-DL-tryptophan	C13H14N2O3	10.09		'PUGREST.BadRequest: error: '
-0209_00226	Purine riboside	C10H12N4O4	1.913333333		'PUGREST.BadRequest: error: '
-0209_00228	N(2)-Phenylacetylglutamine	C13H16N2O4	9.896666667		'PUGREST.BadRequest: error: '
-0209_00231	Oxfendazole	C15H13N3O3S	10.96333333		'PUGREST.BadRequest: error: '
-0209_00236	Myricetin 3-rhamnoside	C21H20O12	10.845		'PUGREST.BadRequest: error: '
-0209_00239	Tolfenamic acid	C14H12ClNO2	17.58666667		'PUGREST.BadRequest: error: '
-0209_00243	Triclabendazole	C14H9Cl3N2OS	18.06333333		'PUGREST.BadRequest: error: '
-0209_00244	Valdecoxib	C16H14N2O3S	14.48833333		'PUGREST.BadRequest: error: '
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0209_00001	Amisulpride	C17H27N3O4S	9.845		missing SMILES		
+0209_00002	Tranylcypromine	C9H11N	10.35		missing SMILES		
+0209_00003	Epinastine	C16H15N3	11.77666667		missing SMILES		
+0209_00004	Tropicamide	C17H20N2O2	10.31833333		missing SMILES		
+0209_00005	Triflupromazine	C18H19F3N2S	14.74333333		missing SMILES		
+0209_00006	Chlormezanone	C11H12ClNO3S	12.655		missing SMILES		
+0209_00007	Granisetron	C18H24N4O	10.65833333		missing SMILES		
+0209_00008	Amlexanox	C16H14N2O4	14.84333333		missing SMILES		
+0209_00009	Cilostazol	C20H27N5O2	14.66666667		missing SMILES		
+0209_00010	Pheniramine	C16H20N2	9.671666667		missing SMILES		
+0209_00011	Rizatriptan	C15H19N5	1.583333333		missing SMILES		
+0209_00012	3-(Diphenylmethoxy)-8-methyl-8-azabicyclo[3.2.1]octane	C21H25NO	13.06166667		missing SMILES		
+0209_00013	Fluspirilene	C29H31F2N3O	14.86833333		missing SMILES		
+0209_00014	Ibudilast	C14H18N2O	16.84166667		missing SMILES		
+0209_00016	6-Methyl-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinoline-10,11-diol	C17H17NO2	10.10833333		missing SMILES		
+0209_00017	Aprindine	C22H30N2	12.56		missing SMILES		
+0209_00018	Profenamine	C19H24N2S	13.555		missing SMILES		
+0209_00019	Tolazamide	C14H21N3O3S	15.23333333		missing SMILES		
+0209_00020	Dihydroquercetin	C15H12O7	11.45666667		missing SMILES		
+0209_00021	Cyclophosphamide	C7H15Cl2N2O2P	12.075		missing SMILES		
+0209_00022	(3-Methyloxiran-2-yl)phosphonate	C3H5O4P-2	1.871666667		missing SMILES		
+0209_00023	Bifonazole	C22H18N2	15.10666667		missing SMILES		
+0209_00024	Clomifene	C26H28ClNO	16.80333333		missing SMILES		
+0209_00025	2-(6-Aminopurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol	C10H13N5O4	1.545		missing SMILES		
+0209_00026	Meclofenamic acid	C14H11Cl2NO2	17.49		missing SMILES		
+0209_00028	Alverine	C20H27N	14.56833333		missing SMILES		
+0209_00029	6-Hydroxy-8-methyl-8-azabicyclo[3.2.1]octan-3-yl 3-hydroxy-2-phenylpropanoate	C17H23NO4	9.768333333		missing SMILES		
+0209_00030	Strychnin	C21H22N2O2	9.72		missing SMILES		
+0209_00031	Galantamin	C17H21NO3	1.57		missing SMILES		
+0209_00032	Alosetron	C17H18N4O	10.865		missing SMILES		
+0209_00033	Mephenytoin	C12H14N2O2	13.23166667		missing SMILES		
+0209_00035	Naphazoline	C14H14N2	10.31833333		missing SMILES		
+0209_00036	Anagrelide	C10H7Cl2N3O	11.12166667		missing SMILES		
+0209_00038	Bioepiderm	C10H16N2O3S	10.55833333		missing SMILES		
+0209_00039	2-[4-(1,2-Diphenylbut-1-enyl)phenoxy]-N,N-dimethylethanamine	C26H29NO	16.865		missing SMILES		
+0209_00040	Imatinib	C29H31N7O	10.66666667		missing SMILES		
+0209_00042	Roxatidine acetate	C19H28N2O4	10.29333333		missing SMILES		
+0209_00043	Cevimeline	C10H17NOS	10.31833333		missing SMILES		
+0209_00044	3-(1,3-Benzodioxol-5-yloxymethyl)-4-(4-fluorophenyl)piperidine	C19H20FNO3	12.975		missing SMILES		
+0209_00045	(-)-Scopolamine	C17H21NO4	10.66833333		missing SMILES		
+0209_00046	Perhexiline	C19H35N	17.65833333		missing SMILES		
+0209_00047	3,3-Dimethyl-7-oxo-6-[(phenoxyacetyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid	C16H18N2O5S	13.68		missing SMILES		
+0209_00048	Etambutol	C10H24N2O2	1.333333333		missing SMILES		
+0209_00049	Sulfamerazine	C11H12N4O2S	10.87		missing SMILES		
+0209_00050	Methotrimeprazine	C19H24N2OS	13.39333333		missing SMILES		
+0209_00051	Methazolamide	C5H8N4O3S2	10.73333333		missing SMILES		
+0209_00052	Vorinostat	C14H20N2O3	10.99833333		missing SMILES		
+0209_00053	Modafinil	C15H15NO2S	11.83833333		missing SMILES		
+0209_00054	Diphenylpyraline	C19H23NO	12.66333333		missing SMILES		
+0209_00055	Periciazine	C21H23N3OS	12.38833333		missing SMILES		
+0209_00056	Chloroxine	C9H5Cl2NO	17.075		missing SMILES		
+0209_00057	5-Methoxytryptophol	C11H13NO2	11.00833333		missing SMILES		
+0209_00058	5-(2-Aminoethyl)-2-methoxyphenol	C9H13NO2	1.446666667		missing SMILES		
+0209_00059	2-[[5-Methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene]amino]oxyethanamine	C15H21F3N2O2	12.23166667		missing SMILES		
+0209_00060	Mefloquine	C17H16F6N2O	12.575		missing SMILES		
+0209_00061	Methyl 17-hydroxy-20xi-yohimban-16-carboxylate	C21H26N2O3	11.21333333		missing SMILES		
+0209_00062	6-Hydroxynicotine	C10H14N2O	1.48		missing SMILES		
+0209_00069	Dapiprazole	C19H27N5	9.55		missing SMILES		
+0209_00071	Dasatinib	C22H26ClN7O2S	11.36666667		missing SMILES		
+0209_00074	Hydrouracil, 1-beta-D-ribofuranosyl-	C9H14N2O6	17.3		missing SMILES		
+0209_00076	1-(5-Deoxypentofuranosyl)-5-fluoro-4-{[(pentyloxy)carbonyl]amino}pyrimidin-2(1h)-one	C15H22FN3O6	14.56166667		missing SMILES		
+0209_00085	Lofexidine	C11H12Cl2N2O	10.36166667		missing SMILES		
+0209_00089	Bopindolol	C23H28N2O3	13.31166667		missing SMILES		
+0209_00090	Razoxane	C11H16N4O4	8.84		missing SMILES		
+0209_00091	Amidate	C14H16N2O2	12.90166667		missing SMILES		
+0209_00116	Nilotinib	C28H22F3N7O	12.92833333		missing SMILES		
+0209_00117	Tetrahydrobiopterin	C9H15N5O3	14.23333333		missing SMILES		
+0209_00123	Tomoxetine	C17H21NO	12.96333333		missing SMILES		
+0209_00124	Vilazodone	C26H27N5O2	11.695		missing SMILES		
+0209_00125	5-[[2-[1-[3,5-Bis(trifluoromethyl)phenyl]ethoxy]-3-(4-fluorophenyl)morpholin-4-yl]methyl]-1,2-dihydro-1,2,4-triazol-3-one	C23H21F7N4O3	15.99833333		missing SMILES		
+0209_00126	Prasugrel	C20H20FNO3S	12.31666667		missing SMILES		
+0209_00132	Lercanidipine	C36H41N3O6	16.77666667		missing SMILES		
+0209_00133	Ranolazine	C24H33N3O4	11.38		missing SMILES		
+0209_00135	Nebivolol	C22H25F2NO4	12.40166667		missing SMILES		
+0209_00138	Bromfenac	C15H12BrNO3	15.145		missing SMILES		
+0209_00139	Medetomidine	C13H16N2	11.485		missing SMILES		
+0209_00140	Pemirolast	C10H8N6O	10.76333333		missing SMILES		
+0209_00144	1,2,3,9-Tetrahydropyrrolo[2,1-b]quinazolin-3-ol	C11H12N2O	1.526666667		missing SMILES		
+0209_00145	Sertaconazole	C20H15Cl3N2OS	16.225		missing SMILES		
+0209_00147	Adefovir dipivoxil	C20H32N5O8P	12.08166667		missing SMILES		
+0209_00152	1-Naphthalenol, 5,6,7,8-tetrahydro-6-[propyl[2-(2-thienyl)ethyl]amino]-	C19H25NOS	12.61166667		missing SMILES		
+0209_00158	Agomelatine	C15H17NO2	11.60833333		missing SMILES		
+0209_00164	Nitisinone	C14H10F3NO5	17.79166667		missing SMILES		
+0209_00168	Vardenafil	C23H32N6O4S	11.91833333		missing SMILES		
+0209_00169	Bosentan	C27H29N5O6S	15.65166667		missing SMILES		
+0209_00170	Almotriptan	C17H25N3O2S	10.47833333		missing SMILES		
+0209_00177	Conivaptan	C32H26N4O2	13.24833333		missing SMILES		
+0209_00178	Nepafenac	C15H14N2O2	12.24		missing SMILES		
+0209_00180	Methyl aminolevulinate	C6H11NO3	1.338333333		missing SMILES		
+0209_00181	Olmesartan	C24H26N6O3	11.45		missing SMILES		
+0209_00182	N-Desisopropylpropranolol	C13H15NO2	11.32333333		missing SMILES		
+0209_00184	Sorafenib	C21H16ClF3N4O3	19.77666667		missing SMILES		
+0209_00188	Lenalidomide	C13H13N3O3	9.916666667		missing SMILES		
+0209_00211	Xylazine	C12H16N2S	10.58833333		missing SMILES		
+0209_00212	Tulobuterol	C12H18ClNO2S	10.825		missing SMILES		
+0209_00213	1-(Tert-butylamino)-3-{[4-(morpholin-4-yl)-1,2,5-thiadiazol-3-yl]oxy}propan-2-ol	C13H24N4O3S	10.435		missing SMILES		
+0209_00214	Tetramisole	C11H12N2S	10.305		missing SMILES		
+0209_00216	Methocarbamol	C11H15NO5	10.83333333		missing SMILES		
+0209_00217	Nadifloxacin	C19H21FN2O4	11.81833333		missing SMILES		
+0209_00218	3,3-Dimethyl-6-[(5-methyl-3-phenyl-1,2-oxazole-4-carbonyl)amino]-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid	C19H19N3O5S	13.64166667		missing SMILES		
+0209_00219	Oxibendazole	C12H15N3O3	10.87333333		missing SMILES		
+0209_00220	Isoxsuprine	C18H23NO3	11.425		missing SMILES		
+0209_00221	Mexate	C20H22N8O5	11.10833333		missing SMILES		
+0209_00222	Sulfameter	C11H12N4O3S	11.24833333		missing SMILES		
+0209_00223	5,7-Dihydroxy-2-(4-hydroxyphenyl)chroman-4-one	C15H12O5	13.06166667		missing SMILES		
+0209_00224	Sulfadimethoxine	C12H14N4O4S	11.34		missing SMILES		
+0209_00225	N-Acetyl-DL-tryptophan	C13H14N2O3	10.09		missing SMILES		
+0209_00226	Purine riboside	C10H12N4O4	1.913333333		missing SMILES		
+0209_00228	N(2)-Phenylacetylglutamine	C13H16N2O4	9.896666667		missing SMILES		
+0209_00231	Oxfendazole	C15H13N3O3S	10.96333333		missing SMILES		
+0209_00236	Myricetin 3-rhamnoside	C21H20O12	10.845		missing SMILES		
+0209_00239	Tolfenamic acid	C14H12ClNO2	17.58666667		missing SMILES		
+0209_00243	Triclabendazole	C14H9Cl3N2OS	18.06333333		missing SMILES		
+0209_00244	Valdecoxib	C16H14N2O3S	14.48833333		missing SMILES		

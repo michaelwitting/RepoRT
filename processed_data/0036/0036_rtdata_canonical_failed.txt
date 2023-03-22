@@ -1,4 +1,4 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0036_00034	Malvidin-3-O-galactoside		25		FAILED_STANDARDIZATION		
-0036_00035	Delphinidin		25.1		FAILED_STANDARDIZATION		
-0036_00039	Malvidin-3-O-glucoside		26		FAILED_STANDARDIZATION		
+0036_00034	Malvidin-3-O-galactoside		25		missing SMILES		
+0036_00035	Delphinidin		25.1		missing SMILES		
+0036_00039	Malvidin-3-O-glucoside		26		missing SMILES		

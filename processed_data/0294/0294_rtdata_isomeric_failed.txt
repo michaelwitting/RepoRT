@@ -1,30 +1,30 @@
-id	name	formula	rt	smiles.std	status
-0294_00001	1-hydroxypyrene		13.475		'PUGREST.BadRequest: error: '
-0294_00003	1H-Benzotriazole		5.07		'PUGREST.BadRequest: error: '
-0294_00004	2-(Methylthio)benzothiazole		12.23		'PUGREST.BadRequest: error: '
-0294_00005	4-Chloroaniline		8.908		'PUGREST.BadRequest: error: '
-0294_00007	Alachlor		13.635		'PUGREST.BadRequest: error: '
-0294_00008	Benzothiazole		8.43		'PUGREST.BadRequest: error: '
-0294_00010	Caffeine		4.42		'PUGREST.BadRequest: error: '
-0294_00011	Carbazole		12.79666667		'PUGREST.BadRequest: error: '
-0294_00012	Chlorpyrifos		17.038		'PUGREST.BadRequest: error: '
-0294_00013	Cotinine		4.195		'PUGREST.BadRequest: error: '
-0294_00014	Diuron		10.54		'PUGREST.BadRequest: error: '
-0294_00017	Fipronil		14.36		'PUGREST.BadRequest: error: '
-0294_00018	Flecainide		9.86		'PUGREST.BadRequest: error: '
-0294_00019	fluconazole		5.9675		'PUGREST.BadRequest: error: '
-0294_00021	Iminostilbene		13.58333333		'PUGREST.BadRequest: error: '
-0294_00023	Metolachlor		13.57		'PUGREST.BadRequest: error: '
-0294_00024	Metsulfuron-methyl		4.33		'PUGREST.BadRequest: error: '
-0294_00025	Monocrotophos		4.7425		'PUGREST.BadRequest: error: '
-0294_00026	Monuron		8.69		'PUGREST.BadRequest: error: '
-0294_00027	N-Methyl-N-nitrosotoluene-4-sulphonamide		10.06		'PUGREST.BadRequest: error: '
-0294_00028	Parathion		14.73571429		'PUGREST.BadRequest: error: '
-0294_00029	Progesterone		13.94		'PUGREST.BadRequest: error: '
-0294_00030	Propanil		11.65		'PUGREST.BadRequest: error: '
-0294_00031	Propylthiouracil		4.612		'PUGREST.BadRequest: error: '
-0294_00032	Quinoxaline		6.14		'PUGREST.BadRequest: error: '
-0294_00033	Sudan I		16.57		'PUGREST.BadRequest: error: '
-0294_00034	Theophylline		3.203333333		'PUGREST.BadRequest: error: '
-0294_00035	Triethyl phosphate		7.291666667		'PUGREST.BadRequest: error: '
-0294_00036	Triphenylphosphate		14.84		'PUGREST.BadRequest: error: '
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0294_00001	1-hydroxypyrene	C16H10O	13.475		missing SMILES		
+0294_00003	1H-Benzotriazole	C6H5N3	5.07		missing SMILES		
+0294_00004	2-(Methylthio)benzothiazole	C8H7NS2	12.23		missing SMILES		
+0294_00005	4-Chloroaniline	C6H6ClN	8.908		missing SMILES		
+0294_00007	Alachlor	C14H20ClNO2	13.635		missing SMILES		
+0294_00008	Benzothiazole	C7H5NS	8.43		missing SMILES		
+0294_00010	Caffeine	C8H10N4O2	4.42		missing SMILES		
+0294_00011	Carbazole	C12H9N	12.79666667		missing SMILES		
+0294_00012	Chlorpyrifos	C9H11Cl3NO3PS	17.038		missing SMILES		
+0294_00013	Cotinine	C10H12N2O	4.195		missing SMILES		
+0294_00014	Diuron	C9H10Cl2N2O	10.54		missing SMILES		
+0294_00017	Fipronil	C12H4Cl2F6N4OS	14.36		missing SMILES		
+0294_00018	Flecainide	C17H20F6N2O3	9.86		missing SMILES		
+0294_00019	fluconazole	C13H12F2N6O	5.9675		missing SMILES		
+0294_00021	Iminostilbene	C14H11N	13.58333333		missing SMILES		
+0294_00023	Metolachlor	C15H22ClNO2	13.57		missing SMILES		
+0294_00024	Metsulfuron-methyl	C14H25N5O6S	4.33		missing SMILES		
+0294_00025	Monocrotophos		4.7425		missing SMILES		
+0294_00026	Monuron	C9H11ClN2O	8.69		missing SMILES		
+0294_00027	N-Methyl-N-nitrosotoluene-4-sulphonamide	C8H10N2O3S	10.06		missing SMILES		
+0294_00028	Parathion	C10H14NO5PS	14.73571429		missing SMILES		
+0294_00029	Progesterone	C21H30O2	13.94		missing SMILES		
+0294_00030	Propanil	C9H9Cl2NO	11.65		missing SMILES		
+0294_00031	Propylthiouracil	C7H10N2OS	4.612		missing SMILES		
+0294_00032	Quinoxaline	C8H6N2	6.14		missing SMILES		
+0294_00033	Sudan I		16.57		missing SMILES		
+0294_00034	Theophylline	C7H8N4O2	3.203333333		missing SMILES		
+0294_00035	Triethyl phosphate	C6H15O4P	7.291666667		missing SMILES		
+0294_00036	Triphenylphosphate	C18H15O4P	14.84		missing SMILES		

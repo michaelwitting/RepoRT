@@ -1,16 +1,16 @@
-id	name	formula	rt	smiles.std	status
-0310_00108	Heptacosanoic Acid	C27H54O2	6.529		'PUGREST.BadRequest: error: '
-0310_00137	2-Ethyl-2-hydroxybutyric acid	C6H12O3	5.024		'PUGREST.BadRequest: error: '
-0310_00146	2-Hydroxyhexanoic acid	C6H12O3	5.034		'PUGREST.BadRequest: error: '
-0310_00184	Nonanoic acid	C9H18O2	3.543		'PUGREST.BadRequest: error: '
-0310_00263	ISOLEUCINE	C6H13NO2	2.314		'PUGREST.BadRequest: error: '
-0310_00586	LUMICHROME	C12H10N4O2	3.699		'PUGREST.BadRequest: error: '
-0310_00631	N-ACETYLPROLINE	C7H11NO3	2.963		'PUGREST.BadRequest: error: '
-0310_00651	LIPOAMIDE	C8H15NOS2	2.271		'PUGREST.BadRequest: error: '
-0310_00758	THYROXINE	C15H11I4NO4	3.998		'PUGREST.BadRequest: error: '
-0310_00852	3-Hydroxy-2-methylbutanoic Acid	C5H10O3	2.275		'PUGREST.BadRequest: error: '
-0310_00868	5-Aminolevulinic Acid Hydrochloride Salt	C5H9NO3	2.286		'PUGREST.BadRequest: error: '
-0310_00982	Etofenprox	C25H28O3	5.485		'PUGREST.BadRequest: error: '
-0310_01009	Pendimethalin (Penoxalin)	C13H19N3O4	5.262		'PUGREST.BadRequest: error: '
-0310_01017	Tolylfluanid	C10H13Cl2FN2O2S2	4.465		'PUGREST.BadRequest: error: '
-0310_01124	Mixture of Avermectin B1a and B1b	C48H72O14	6.597		'PUGREST.BadRequest: error: '
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0310_00108	Heptacosanoic Acid	C27H54O2	6.529		missing SMILES		
+0310_00137	2-Ethyl-2-hydroxybutyric acid	C6H12O3	5.024		missing SMILES		
+0310_00146	2-Hydroxyhexanoic acid	C6H12O3	5.034		missing SMILES		
+0310_00184	Nonanoic acid	C9H18O2	3.543		missing SMILES		
+0310_00263	ISOLEUCINE	C6H13NO2	2.314		missing SMILES		
+0310_00586	LUMICHROME	C12H10N4O2	3.699		missing SMILES		
+0310_00631	N-ACETYLPROLINE	C7H11NO3	2.963		missing SMILES		
+0310_00651	LIPOAMIDE	C8H15NOS2	2.271		missing SMILES		
+0310_00758	THYROXINE	C15H11I4NO4	3.998		missing SMILES		
+0310_00852	3-Hydroxy-2-methylbutanoic Acid	C5H10O3	2.275		missing SMILES		
+0310_00868	5-Aminolevulinic Acid Hydrochloride Salt	C5H9NO3	2.286		missing SMILES		
+0310_00982	Etofenprox	C25H28O3	5.485		missing SMILES		
+0310_01009	Pendimethalin (Penoxalin)	C13H19N3O4	5.262		missing SMILES		
+0310_01017	Tolylfluanid	C10H13Cl2FN2O2S2	4.465		missing SMILES		
+0310_01124	Mixture of Avermectin B1a and B1b	C48H72O14	6.597		missing SMILES		

@@ -1,0 +1,1787 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+0382_00001	Aceclofenac	C16H13Cl2NO4	9.2		missing SMILES		
+0382_00002	Acetylsalicylic acid_NH4 adduct	C9H8O4	4.8		missing SMILES		
+0382_00003	Atenolol-desisopropyl	C11H16N2O3	2		missing SMILES		
+0382_00006	Citalopram 3-oxo	C20H19FN2O2	6.6		missing SMILES		
+0382_00007	Citalopram desmethyl	C19H19FN2O	6.66		missing SMILES		
+0382_00011	Ofloxacin-N-desmethyl (Impurity E)	C17H20FN3O4	4.74		missing SMILES		
+0382_00015	Piperazine	C4H10N2	1.2		missing SMILES		
+0382_00016	Sulfamethoxazole hydroxylamine	C10H11N3O4S	4.54		missing SMILES		
+0382_00017	Sulfamethoxazole (Impurity F)	C10H11N3O3S	4.39		missing SMILES		
+0382_00019	Tolfenamic acid	C14H12ClNO2	11.9		missing SMILES		
+0382_00020	Trimethoprim (Impurity B)	C14H16N4O4	5.49		missing SMILES		
+0382_00021	1 2 3-triazole-5-OH (1.2.3)	C2H3N3O	5.99		missing SMILES		
+0382_00022	2 C-D	C11H17NO2	5.34		missing SMILES		
+0382_00023	2 C-P	C13H21NO2	7.46		missing SMILES		
+0382_00024	2.4.5-T-methylester	C9H7Cl3O3	10.75		missing SMILES		
+0382_00025	2.4-DB	C10H10Cl2O3	10.04		missing SMILES		
+0382_00026	2.4-DB-methylester	C11H12Cl2O3	11.34		missing SMILES		
+0382_00027	2.4-D-butylester	C12H14Cl2O3	11.86		missing SMILES		
+0382_00028	2.4-D-methylester	C9H8Cl2O3	9.61		missing SMILES		
+0382_00029	2-5-DMA	C11H17NO2	4.78		missing SMILES		
+0382_00030	25I-NBoMe	C18H22INO3	8.03		missing SMILES		
+0382_00031	2C-B	C10H14BrNO2	5.56		missing SMILES		
+0382_00032	2C-C	C10H14ClNO2	5.28		missing SMILES		
+0382_00033	2-C-C-NBoMe	C18H22ClNO3	7.34		missing SMILES		
+0382_00034	2C-E	C12H19NO2	6.48		missing SMILES		
+0382_00035	2C-H	C10H15NO2	4.43		missing SMILES		
+0382_00036	2C-I	C10H14INO2	6.06		missing SMILES		
+0382_00037	2CT-2	C12H19NO2S	5.88		missing SMILES		
+0382_00038	2C-T-4	C13H21NO2S	6.69		missing SMILES		
+0382_00039	2C-T-7	C13H21NO2S	6.98		missing SMILES		
+0382_00040	2-Methyl-4-amino-6-methoxy-s-triazine	C5H8N4O	3.71		missing SMILES		
+0382_00041	2-Naphthalin sulfonic acid	C10H8O3S	5.44		missing SMILES		
+0382_00043	3.5.6-Trichloro-2-pyridinol	C5H2Cl3NO	8.96		missing SMILES		
+0382_00044	3-4-(dichlorophenyl)-3-methyl urea	C8H8Cl2N2O	8.51		missing SMILES		
+0382_00045	3-4-(dichlorophenyl)-urea	C7H6Cl2N2O	7.99		missing SMILES		
+0382_00046	4-5-Dichloro-2-n-octyl-isothiazol-3(2H)-on (DCOIT)	C11H17Cl2NOS	12.49		missing SMILES		
+0382_00047	4-AcO-DIPT	C18H26N2O2	4.88		missing SMILES		
+0382_00048	4-Methoxy-1.3-phenylenediamine	C7H10N2O	2.37		missing SMILES		
+0382_00049	5-(2-aminopropyl)benzofuran (5-APB)	C11H13NO	4.79		missing SMILES		
+0382_00050	5-(2-Aminopropyl)indole (5-API)	C11H14N2	4.07		missing SMILES		
+0382_00051	5-fluoro MN-18	C23H22FN3O	11.84		missing SMILES		
+0382_00052	5-Iodo-2-aminoindane (5-IAI)	C9H10IN	5.87		missing SMILES		
+0382_00054	A-796.260	C22H30N2O2	10.7		missing SMILES		
+0382_00055	A-834.735	C22H29NO2	11.37		missing SMILES		
+0382_00056	AB-005	C23H32N2O	8.81		missing SMILES		
+0382_00063	Acamprosat	C5H11NO4S	1.4		missing SMILES		
+0382_00064	Acebutolol	C18H28N2O4	4.78		missing SMILES		
+0382_00065	Aceclidine	C9H15NO2	4.87		missing SMILES		
+0382_00066	Acemetacin	C21H18ClNO6	9.9		missing SMILES		
+0382_00067	Acephate	C4H10NO3PS	3.11		missing SMILES		
+0382_00068	Acepromazine	C19H22N2OS	7.47		missing SMILES		
+0382_00069	Aceprometazine	C19H22N2OS	7.26		missing SMILES		
+0382_00071	Acetamiprid	C10H11ClN4	5.17		missing SMILES		
+0382_00072	Acetazolamide	C4H6N4O3S2	3.43		missing SMILES		
+0382_00074	Acetildenafil	C25H34N6O3	7.01		missing SMILES		
+0382_00075	Acetildenafil-Dimethyl	C25H34N6O3	7.5		missing SMILES		
+0382_00076	Acetildenafil-Hydroxy	C25H34N6O4	6.94		missing SMILES		
+0382_00077	Acetildenafil-Nor	C24H32N6O3	6.99		missing SMILES		
+0382_00078	Acetochlor	C14H20ClNO2	10.23		missing SMILES		
+0382_00079	Acetohexamide	C15H20N2O4S	7.72		missing SMILES		
+0382_00080	Acibenzolar-S-Methyl	C8H6N2OS2	9.65		missing SMILES		
+0382_00081	Aciclovir	C8H11N5O3	2.34		missing SMILES		
+0382_00082	Acifluorfen	C14H7ClF3NO5	8.95		missing SMILES		
+0382_00083	Aclonifen	C12H9ClN2O3	10.86		missing SMILES		
+0382_00087	Actinoquinol	C11H11NO4S	3.56		missing SMILES		
+0382_00089	ADB-CHMICA	C22H31N3O2	11.67		missing SMILES		
+0382_00090	ADB-FUBINACA	C21H23FN4O2	10.26		missing SMILES		
+0382_00091	ADBICA	C20H29N3O2	11.1		missing SMILES		
+0382_00092	ADBICA-5F	C20H28FN3O2	9.72		missing SMILES		
+0382_00093	ADB-PINACA	C19H28N4O2	11.18		missing SMILES		
+0382_00094	ADB-PINACA-5F	C19H27FN4O2	9.86		missing SMILES		
+0382_00095	Adenine	C5H5N5	2.43		missing SMILES		
+0382_00097	Adinazolam	C19H18ClN5	8.28		missing SMILES		
+0382_00098	Agomelatine	C15H17NO2	8.68		missing SMILES		
+0382_00100	AKB48 (APINACA)	C23H31N3O	13.97		missing SMILES		
+0382_00101	AKB48-5F (5F-APINACA)	C23H30FN3O	12.86		missing SMILES		
+0382_00102	Alachlor	C14H20ClNO2	10.33		missing SMILES		
+0382_00103	Alachlor-ESA	C14H21NO5S	7.19		missing SMILES		
+0382_00105	Albendazole	C12H15N3O2S	9.19		missing SMILES		
+0382_00106	Albendazole sulfone	C12H15N3O4S	5.86		missing SMILES		
+0382_00107	Albuterol / Salbutamol	C13H21NO3	3.23		missing SMILES		
+0382_00108	Aldicarb	C7H14N2O2S	6.17		missing SMILES		
+0382_00109	Aldicarb-sulfone (Aldoxycarb)	C7H14N2O4S	3.75		missing SMILES		
+0382_00111	Alfentanyl	C21H32N6O3	7.69		missing SMILES		
+0382_00112	Alimemazine	C18H22N2S	8.1		missing SMILES		
+0382_00115	Alizapride	C16H21N5O2	3.62		missing SMILES		
+0382_00116	Allethrin I	C19H26O3	12.14		missing SMILES		
+0382_00118	Allidochlor	C8H12ClNO	6.37		missing SMILES		
+0382_00119	Allopurinol	C5H4N4O	2.19		missing SMILES		
+0382_00120	Almitrine	C26H29F2N7	13.45		missing SMILES		
+0382_00121	Alprazolam	C17H13ClN4	8.36		missing SMILES		
+0382_00122	Alprazolam- alpha-Hydroxy	C17H13ClN4O	8.11		missing SMILES		
+0382_00123	Alprazolam-Hydroxy	C17H13ClN4O	7.81		missing SMILES		
+0382_00124	Alprenolol	C15H23NO2	6.71		missing SMILES		
+0382_00125	Altretamine	C9H18N6	10.14		missing SMILES		
+0382_00126	Alypin	C16H26N2O2	6.07		missing SMILES		
+0382_00127	AM-1220	C26H26N2O	8.09		missing SMILES		
+0382_00128	AM-1220-Azepane	C26H26N2O	8.61		missing SMILES		
+0382_00129	AM-1248	C26H34N2O	9.94		missing SMILES		
+0382_00130	AM-2201	C24H22FNO	11.23		missing SMILES		
+0382_00131	AM-2232	C24H20N2O	9.69		missing SMILES		
+0382_00132	AM-2233	C22H23IN2O	7.11		missing SMILES		
+0382_00133	AM-694	C20H19FINO	10.46		missing SMILES		
+0382_00134	Amantadine	C10H17N	4.86		missing SMILES		
+0382_00137	Ambroxol	C13H18Br2N2O	6.04		missing SMILES		
+0382_00138	AMDOPH	C13H17N3O3	5.06		missing SMILES		
+0382_00139	Ametryn	C9H17N5S	9.16		missing SMILES		
+0382_00140	Amfepramone	C13H19NO	4.11		missing SMILES		
+0382_00141	Amidephrine	C10H16N2O3S	2.54		missing SMILES		
+0382_00142	Amidosulfuron	C9H15N5O7S2	6.77		missing SMILES		
+0382_00143	Amiloride	C6H8ClN7O	3.68		missing SMILES		
+0382_00144	Aminobenzimidazole (2-)	C7H7N3	3.74		missing SMILES		
+0382_00145	Aminocarb  (Metacil)	C11H16N2O2	5.15		missing SMILES		
+0382_00146	Aminoglutethimide	C13H16N2O2	4.99		missing SMILES		
+0382_00147	Aminoheptan (2-)	C7H17N	5.01		missing SMILES		
+0382_00148	Aminophenazone. Amidopyrin	C13H17N3O	5.21		missing SMILES		
+0382_00149	Aminorex Isomer 1	C9H10N2O	3.67		missing SMILES		
+0382_00150	Aminorex Isomer 2	C9H10N2O	5.57		missing SMILES		
+0382_00151	Amiodarone	C25H29I2NO3	12.1		missing SMILES		
+0382_00152	Amisulpride	C17H27N3O4S	3.88		missing SMILES		
+0382_00153	Amisulpride-N-Oxide	C17H27N3O5S	4.33		missing SMILES		
+0382_00154	Amitraz	C19H23N3	13.3		missing SMILES		
+0382_00155	Amitriptyline	C20H23N	8.23		missing SMILES		
+0382_00156	Amitrole	C2H4N4	1.44		missing SMILES		
+0382_00157	Amlodipine	C20H25ClN2O5	8.36		missing SMILES		
+0382_00159	Amoxapine	C17H16ClN3O	7.64		missing SMILES		
+0382_00161	Amphetamine (2-F-)	C9H12FN	4.24		missing SMILES		
+0382_00162	Amphetamine (3-F-)	C9H12FN	4.39		missing SMILES		
+0382_00163	Amphetamine (4-F-)	C9H12FN	4.39		missing SMILES		
+0382_00164	Amphetamine-2-F-Methyl (2-F-methamphetamine)	C10H14FN	4.33		missing SMILES		
+0382_00165	Amphetamine-2-methyl (ortetamine)	C10H15N	5.17		missing SMILES		
+0382_00166	Amphetamine-3-F-Methyl (3-F-methamphetamine)	C10H14FN	4.39		missing SMILES		
+0382_00167	Amphetamine-3-methyl	C10H15N	5.17		missing SMILES		
+0382_00168	Amphetamine-4-F-Methyl (4-F-methamphetamine)	C10H14FN	4.43		missing SMILES		
+0382_00169	Amphetamine-dehydrometh (DHMEPH)	C11H17NO	4.6		missing SMILES		
+0382_00171	Amphetamine-N-Ethyl	C11H17N	4.4		missing SMILES		
+0382_00172	Amphetamine-N-Propyl	C12H19N	4.83		missing SMILES		
+0382_00173	Amphetamine-P-hydroxy	C9H13NO	2.98		missing SMILES		
+0382_00175	Amrinone	C10H9N3O	2.88		missing SMILES		
+0382_00176	AMT (Alpha-Methyltryptamine)	C11H14N2	4.44		missing SMILES		
+0382_00177	Anabasine	C10H14N2	2.94		missing SMILES		
+0382_00179	Ancymidol	C15H16N2O2	7.15		missing SMILES		
+0382_00180	Anilazine (Dyrene)	C9H5Cl3N4	9.74		missing SMILES		
+0382_00181	Anilofos	C13H19ClNO3PS2	10.84		missing SMILES		
+0382_00182	Antazoline	C17H19N3	6.41		missing SMILES		
+0382_00183	Antipyrine- 4-Acetamido	C13H15N3O2	3.94		missing SMILES		
+0382_00184	Antipyrine- 4-Formylamino	C12H13N3O2	3.96		missing SMILES		
+0382_00185	Antipyrine-4-Amino (4-AAP)	C11H13N3O	4.69		missing SMILES		
+0382_00186	APICA	C24H32N2O	13.18		missing SMILES		
+0382_00187	Apomorphine	C17H17NO2	4.28		missing SMILES		
+0382_00188	Apophedrin  (Phenylethanolamine)	C8H11NO	2.84		missing SMILES		
+0382_00189	Apraclonidin	C9H10Cl2N4	3.09		missing SMILES		
+0382_00190	Aprindine	C22H30N2	8.85		missing SMILES		
+0382_00191	Apronalide	C9H16N2O2	6.94		missing SMILES		
+0382_00192	Aramite (total)	C15H23ClO4S	12.18		missing SMILES		
+0382_00193	Arecoline	C8H13NO2	1.74		missing SMILES		
+0382_00194	Aripiprazole	C23H27Cl2N3O2	8.63		missing SMILES		
+0382_00195	Arprinocid	C12H9ClFN5	6.7		missing SMILES		
+0382_00199	Aspon	C12H28O5P2S2	12.91		missing SMILES		
+0382_00200	Astemizole	C28H31FN4O	8.03		missing SMILES		
+0382_00201	Asulam	C8H10N2O4S	3.41		missing SMILES		
+0382_00203	Atenolol	C14H22N2O3	3.09		missing SMILES		
+0382_00204	Atenolol acid (Metoprolol acid)	C14H21NO4	3.93		missing SMILES		
+0382_00207	Atorvastatin IMP D (epoxide)	C26H22FNO4	10.28		missing SMILES		
+0382_00208	Atraton	C9H17N5O	7.81		missing SMILES		
+0382_00209	Atrazine	C8H14ClN5	8.16		missing SMILES		
+0382_00210	Atrazine-2-hydroxy	C8H15N5O	5.03		missing SMILES		
+0382_00211	Atrazine-desethyl	C6H10ClN5	5.73		missing SMILES		
+0382_00212	Atrazine-desethyl-2-hydroxy (=Prometon-Hydroxy-Desisopropyl)	C6H11N5O	3.16		missing SMILES		
+0382_00213	Atrazine-desethyl-desisopropyl	C3H4ClN5	3.03		missing SMILES		
+0382_00214	Atrazine-desisopropyl	C5H8ClN5	4.75		missing SMILES		
+0382_00219	Axeen Isomer 1 (Proxabarbal. Proxibarbital)	C10H14N2O4	4.87		missing SMILES		
+0382_00220	Axeen Isomer 2 (Proxabarbal. Proxibarbital)	C10H14N2O4	5.14		missing SMILES		
+0382_00221	Azaconazole Peak 1	C12H11Cl2N3O2	7.85		missing SMILES		
+0382_00222	Azaconazole Peak 2	C12H11Cl2N3O2	8.53		missing SMILES		
+0382_00223	Azacyclonol	C18H21NO	6.19		missing SMILES		
+0382_00225	Azapropazone	C16H20N4O2	6.54		missing SMILES		
+0382_00226	Azatadine	C20H22N2	5.99		missing SMILES		
+0382_00227	Azelastine	C22H24ClN3O	7.59		missing SMILES		
+0382_00228	Azimsulfuron	C13H16N10O5S	7.62		missing SMILES		
+0382_00229	Azinphos-ethyl	C12H16N3O3PS2	10.17		missing SMILES		
+0382_00230	Azinphos-methyl (Guthion)	C10H12N3O3PS2	8.89		missing SMILES		
+0382_00231	Aziprotryne	C7H11N7S	9.71		missing SMILES		
+0382_00236	Baclofen	C10H12ClNO2	4.27		missing SMILES		
+0382_00237	Bambuterol	C18H29N3O5	5.16		missing SMILES		
+0382_00238	Bamifylline	C20H27N5O3	5.24		missing SMILES		
+0382_00239	Bamipine	C19H24N2	7.77		missing SMILES		
+0382_00240	Barban	C11H9Cl2NO2	9.74		missing SMILES		
+0382_00241	Barverin	C29H43N5O3	7.64		missing SMILES		
+0382_00242	BB-22	C25H24N2O2	12.45		missing SMILES		
+0382_00243	BDB	C11H15NO2	4.73		missing SMILES		
+0382_00244	Beclamide	C10H12ClNO	6.27		missing SMILES		
+0382_00245	Beflubutamide	C18H17F4NO2	10.64		missing SMILES		
+0382_00246	Befunolol	C16H21NO4	4.93		missing SMILES		
+0382_00247	Benactyzine	C20H25NO3	6.08		missing SMILES		
+0382_00248	Benalaxyl	C20H23NO3	10.89		missing SMILES		
+0382_00249	Benazolin	C9H6ClNO3S	5.58		missing SMILES		
+0382_00250	Bendiocarb	C11H13NO4	7.02		missing SMILES		
+0382_00251	Bendroflumethiazide	C15H14F3N3O4S2	6.82		missing SMILES		
+0382_00252	Benfuracarb	C20H30N2O5S	11.92		missing SMILES		
+0382_00253	Benodanil	C13H10INO	8.02		missing SMILES		
+0382_00254	Benomyl (decomposed to Carbendazim)	C14H18N4O3	5.46		missing SMILES		
+0382_00255	Benorilate	C17H15NO5	7.41		missing SMILES		
+0382_00256	Benoxacor	C11H11Cl2NO2	8.87		missing SMILES		
+0382_00257	Benperidol	C22H24FN3O2	5.96		missing SMILES		
+0382_00258	Benproperine	C21H27NO	8.32		missing SMILES		
+0382_00259	Benserazide	C10H15N3O5	1.38		missing SMILES		
+0382_00260	Bensulfuron-methyl	C16H18N4O7S	8.77		missing SMILES		
+0382_00261	Bensulide	C14H24NO4PS3	10.51		missing SMILES		
+0382_00262	Bensultap	C17H21NO4S4	9.6		missing SMILES		
+0382_00263	Bentazepam	C17H16N2OS	9.49		missing SMILES		
+0382_00264	Bentazone	C10H12N2O3S	5.22		missing SMILES		
+0382_00267	Benzamidine	C7H8N2	2.63		missing SMILES		
+0382_00269	Benzethonium	C27H42NO2	11.6		missing SMILES		
+0382_00270	Benzocaine	C9H11NO2	6.27		missing SMILES		
+0382_00271	Benzoctamine	C18H19N	6.52		missing SMILES		
+0382_00272	Benzododecinium (Benzyl-dimethyl-dodecylammonium)	C21H38N	11.22		missing SMILES		
+0382_00273	Benzofuran-6-ylpropan-2-amine<U+00A0>(6-APB)	C11H13NO	4.81		missing SMILES		
+0382_00274	Benzophenon 3 (=2-Hydroxy-4-methoxybenzophenon)	C14H12O3	10.83		missing SMILES		
+0382_00275	Benzophenone- 2-Amino-5-chloro	C13H10ClNO	10.5		missing SMILES		
+0382_00276	Benzophenone -2-Amino-5-nitro	C13H10N2O3	8.99		missing SMILES		
+0382_00277	Benzophenone-d10	C13H10O	9.51		missing SMILES		
+0382_00278	Benzophenone-p.p-Dichloro	C13H8Cl2O	11.87		missing SMILES		
+0382_00279	Benzothiazole (BTH)	C7H5NS	6.88		missing SMILES		
+0382_00280	Benzothiazole- 2-Amino	C7H6N2S	5.84		missing SMILES		
+0382_00281	Benzothiazole- 2-Amino,6-chloro	C7H5ClN2S	8		missing SMILES		
+0382_00282	Benzothiazole- 2-Amino,4-chloro	C7H5ClN2S	7.2		missing SMILES		
+0382_00283	Benzothiazole- 2-Me-S	C8H7NS2	9.79		missing SMILES		
+0382_00284	Benzothiazole -2-OH	C7H5NOS	6.53		missing SMILES		
+0382_00285	Benzothiazole-Mercapto	C7H5NS2	6.89		missing SMILES		
+0382_00286	Benzotriazole (BTR)	C6H5N3	4.76		missing SMILES		
+0382_00287	Benzotriazole -1-Methyl	C7H7N3	5.11		missing SMILES		
+0382_00288	Benzotriazole -4-Me	C7H7N3	5.83		missing SMILES		
+0382_00289	Benzotriazole- 5-Me	C7H7N3	5.83		missing SMILES		
+0382_00290	Benzotriazole-1-Hydroxy	C6H5N3O	3.88		missing SMILES		
+0382_00291	Benzotriazole-4-Hydroxy	C6H5N3O	4.13		missing SMILES		
+0382_00292	Benzotriazole-5 6-di-Me	C8H9N3	6.76		missing SMILES		
+0382_00293	Benzotriazole-5-carboxylic acid	C7H5N3O2	3.81		missing SMILES		
+0382_00294	Benzotriazole-chloro	C6H4ClN3	6.53		missing SMILES		
+0382_00296	Benzoxonium	C23H42NO2	11.27		missing SMILES		
+0382_00298	Benzoylprop-ethyl	C18H17Cl2NO3	10.99		missing SMILES		
+0382_00299	Benzthiazide	C15H14ClN3O4S3	6.81		missing SMILES		
+0382_00300	Benzthiazuron	C9H9N3OS	7.13		missing SMILES		
+0382_00301	Benzylpiperazine	C11H16N2	4.23		missing SMILES		
+0382_00302	Benzyltetronic acid (2-)	C11H10O3	5.06		missing SMILES		
+0382_00304	Betaxolol	C18H29NO3	6.68		missing SMILES		
+0382_00305	Bethanidine	C10H15N3	3.97		missing SMILES		
+0382_00306	Bexarotene	C24H28O2	14.08		missing SMILES		
+0382_00307	Bezafibrate	C19H20ClNO4	8.77		missing SMILES		
+0382_00308	Bicalutamide	C18H14F4N2O4S	8.71		missing SMILES		
+0382_00309	Bifenazate	C17H20N2O3	9.87		missing SMILES		
+0382_00310	Bifenox	C14H9Cl2NO5	11.49		missing SMILES		
+0382_00311	Bifenox acid	C13H7Cl2NO5	8.71		missing SMILES		
+0382_00312	Bifenthrin	C23H22ClF3O2	14.09		missing SMILES		
+0382_00316	Biperidene	C21H29NO	7.63		missing SMILES		
+0382_00317	Bisacodyl	C22H19NO4	8.92		missing SMILES		
+0382_00318	Bisoprolol	C18H31NO4	5.91		missing SMILES		
+0382_00319	Bisphenol A diglycidyl ether	C21H24O4	10.82		missing SMILES		
+0382_00320	Bisphenol<U+00A0>A (3-chloro-2-hydroxypropyl) glycidyl ether	C21H25ClO4	11.12		missing SMILES		
+0382_00321	Bisphenol<U+00A0>A (2,3-dihydroxypropyl) glycidyl ether	C21H26O5	9.52		missing SMILES		
+0382_00322	Bisphenol<U+00A0>A bis(3-chloro-2-hydroxypropyl) ether	C21H26Cl2O4	11.37		missing SMILES		
+0382_00323	Bispyribac	C19H18N4O8	8.86		missing SMILES		
+0382_00324	Bitertanol	C20H23N3O2	11.27		missing SMILES		
+0382_00326	Bornaprine	C21H31NO2	8.54		missing SMILES		
+0382_00327	Boscalid	C18H12Cl2N2O	9.4		missing SMILES		
+0382_00328	Brefedrone	C10H12BrNO	5.05		missing SMILES		
+0382_00329	Brodifacoum	C31H23BrO3	13.02		missing SMILES		
+0382_00330	Bromacil	C9H13BrN2O2	7.07		missing SMILES		
+0382_00331	Bromadiolone	C30H23BrO4	11.52		missing SMILES		
+0382_00332	Bromazepam	C14H10BrN3O	7.28		missing SMILES		
+0382_00333	Bromazepam-3-OH (peak 1. minor)	C14H10BrN3O2	5.86		missing SMILES		
+0382_00334	Bromazepam-3-OH (peak 2. major)	C14H10BrN3O2	6.26		missing SMILES		
+0382_00335	Bromhexine	C14H20Br2N2	10.01		missing SMILES		
+0382_00337	Bromophos (Bromophos-methyl)	C8H8BrCl2O3PS	12.66		missing SMILES		
+0382_00338	Bromophos-ethyl	C10H12BrCl2O3PS	13.53		missing SMILES		
+0382_00339	Bromopropylate	C17H16Br2O3	12.52		missing SMILES		
+0382_00340	Bromperidol	C21H23BrFNO2	7.12		missing SMILES		
+0382_00341	Brompheniramine	C16H19BrN2	6.56		missing SMILES		
+0382_00342	Bromuconazole peak 1	C13H12BrCl2N3O	9.87		missing SMILES		
+0382_00343	Bromuconazole peak 2	C13H12BrCl2N3O	10.73		missing SMILES		
+0382_00344	Bromural (Bromisoval)	C6H11BrN2O2	6.17		missing SMILES		
+0382_00345	Brotizolam	C15H10BrClN4S	8.28		missing SMILES		
+0382_00347	Bucetin	C12H17NO3	6.27		missing SMILES		
+0382_00348	Budipine	C21H27N	6.72		missing SMILES		
+0382_00349	Bufexamac	C12H17NO3	7.83		missing SMILES		
+0382_00350	Bufotenin	C12H16N2O	2.82		missing SMILES		
+0382_00352	Bumetanide	C17H20N2O5S	7.83		missing SMILES		
+0382_00353	Bunitrolol	C14H20N2O2	4.66		missing SMILES		
+0382_00354	Buphedrone	C11H15NO	4.26		missing SMILES		
+0382_00355	Buphedrone-4-Methyl	C12H17NO	5.04		missing SMILES		
+0382_00356	Bupirimate	C13H24N4O3S	10.51		missing SMILES		
+0382_00357	Bupivacaine	C18H28N2O	6.18		missing SMILES		
+0382_00358	Bupranolol	C14H22ClNO2	7.07		missing SMILES		
+0382_00359	Bupranolol- 5-Carboxy	C14H20ClNO4	5.01		missing SMILES		
+0382_00362	Buprofezin  (Z-isomer. Buprofexin)	C16H23N3OS	12.25		missing SMILES		
+0382_00363	Bupropion	C13H18ClNO	5.76		missing SMILES		
+0382_00364	Buspirone	C21H31N5O2	5.78		missing SMILES		
+0382_00365	Butachlor	C17H26ClNO2	12.35		missing SMILES		
+0382_00366	Butafenacil	C20H18ClF3N2O6	9.89		missing SMILES		
+0382_00367	Butamifos	C13H21N2O4PS	11.22		missing SMILES		
+0382_00368	Butizide	C11H16ClN3O4S2	6.14		missing SMILES		
+0382_00369	Butocarboxim	C7H14N2O2S	6.07		missing SMILES		
+0382_00371	Butoxycaine	C17H27NO3	11.27		missing SMILES		
+0382_00373	Butralin	C14H21N3O4	12.99		missing SMILES		
+0382_00374	Butter yellow	C14H15N3	12.38		missing SMILES		
+0382_00375	Buturon	C12H13ClN2O	8.35		missing SMILES		
+0382_00376	Butylate	C11H23NOS	11.96		missing SMILES		
+0382_00377	Butylone	C12H15NO3	4.34		missing SMILES		
+0382_00378	Cadusafos	C10H23O2PS2	11.49		missing SMILES		
+0382_00380	Cafaminol	C11H17N5O3	4.94		missing SMILES		
+0382_00381	Caffeine	C8H10N4O2	4.23		missing SMILES		
+0382_00382	Calteridol	C17H32N4O7	1.31		missing SMILES		
+0382_00383	Camazepam	C19H18ClN3O3	10.02		missing SMILES		
+0382_00384	Cambendazol	C14H14N4O2S	7.66		missing SMILES		
+0382_00385	Candesartan	C24H20N6O3	7.93		missing SMILES		
+0382_00386	Candesartan cilexetil	C33H34N6O6	12.22		missing SMILES		
+0382_00388	Cannabinol	C21H26O2	13.65		missing SMILES		
+0382_00391	Caproylresorcinol	C12H16O3	10.38		missing SMILES		
+0382_00393	Captafol	C10H9Cl4NO2S	9.98		missing SMILES		
+0382_00394	Captan	C9H8Cl3NO2S	8.77		missing SMILES		
+0382_00396	Carazolol	C18H22N2O2	5.49		missing SMILES		
+0382_00397	Carbachol	C6H14N2O2	1.24		missing SMILES		
+0382_00398	Carbamazepine	C15H12N2O	7.36		missing SMILES		
+0382_00399	Carbamazepine -10-Hydroxy	C15H14N2O2	5.94		missing SMILES		
+0382_00400	Carbamazepine-10.11-epoxide	C15H12N2O2	6.04		missing SMILES		
+0382_00401	Carbamazine-Diethyl	C10H21N3O	3.16		missing SMILES		
+0382_00402	Carbaryl	C12H11NO2	7.46		missing SMILES		
+0382_00403	Carbendazim	C9H9N3O2	5.46		missing SMILES		
+0382_00405	Carbinoxamine	C16H19ClN2O	6.08		missing SMILES		
+0382_00406	Carbodenafil	C9H20N2O	6.78		missing SMILES		
+0382_00407	carbodenafil-Dithio-desmethyl	C23H30N6OS2	11.54		missing SMILES		
+0382_00408	Carbofuran	C12H15NO3	7.01		missing SMILES		
+0382_00409	Carbofuran-3-hydroxy	C12H15NO4	5.09		missing SMILES		
+0382_00410	Carbophenothion	C11H16ClO2PS3	12.9		missing SMILES		
+0382_00411	Carbosulfan	C20H32N2O3S	13.75		missing SMILES		
+0382_00412	Carboxin	C12H13NO2S	7.46		missing SMILES		
+0382_00413	Carboxin-Oxy	C12H13NO4S	5.59		missing SMILES		
+0382_00414	Carbutamide	C11H17N3O3S	5.36		missing SMILES		
+0382_00415	Carbuterol	C13H21N3O3	2.89		missing SMILES		
+0382_00416	Carfentrazone-ethyl	C15H14Cl2F3N3O3	10.69		missing SMILES		
+0382_00417	Carisoprodol	C12H24N2O4	7.99		missing SMILES		
+0382_00418	Carteolol	C16H24N2O3	3.91		missing SMILES		
+0382_00419	Carticaine (Articaine)	C13H20N2O3S	4.69		missing SMILES		
+0382_00420	Carvedilol	C24H26N2O4	6.91		missing SMILES		
+0382_00423	Cathinone-Dimethyl	C11H15NO	3.64		missing SMILES		
+0382_00424	Cathinone-Ethyl	C11H15NO	3.93		missing SMILES		
+0382_00425	CC-2201	C22H26FN3O	11.34		missing SMILES		
+0382_00435	Celiprolol	C20H33N3O4	5.24		missing SMILES		
+0382_00437	Cetirizine	C21H25ClN2O3	8.79		missing SMILES		
+0382_00438	Cetirizine-Methyl ester	C22H27ClN2O3	8.86		missing SMILES		
+0382_00439	Cetirizine-N-Oxide	C21H25ClN2O4	9.13		missing SMILES		
+0382_00441	Chlorantraniliprole	C18H14BrCl2N5O2	8.7		missing SMILES		
+0382_00442	Chlorazanil	C9H8ClN5	7.46		missing SMILES		
+0382_00443	Chlorbenzoxamine	C27H31ClN2O	10.83		missing SMILES		
+0382_00444	Chlorbromuron	C9H10BrClN2O2	9.55		missing SMILES		
+0382_00445	Chlorbufam	C11H10ClNO2	9.27		missing SMILES		
+0382_00446	Chlorcyclizine	C18H21ClN2	8.28		missing SMILES		
+0382_00447	Chlordiazepoxide	C16H14ClN3O	8.79		missing SMILES		
+0382_00448	Chlordiazepoxide-Desmethyl	C15H12ClN3O	8.27		missing SMILES		
+0382_00449	Chlordimeform	C10H13ClN2	4.64		missing SMILES		
+0382_00450	Chlorendate-Dibutyl	C17H20Cl6O4	14.02		missing SMILES		
+0382_00451	Chlorfenapyr	C15H11BrClF3N2O	11.82		missing SMILES		
+0382_00452	Chlorfenprop-methyl	C10H10Cl2O2	10.22		missing SMILES		
+0382_00453	Chlorfenson.Ovex.chlorofenizon.ephirsulfonate.ovatron	C12H8Cl2O3S	11.1		missing SMILES		
+0382_00455	Chlorfluazuron	C20H9Cl3F5N3O3	13.22		missing SMILES		
+0382_00456	Chloridazone	C10H8ClN3O	5.34		missing SMILES		
+0382_00457	Chloridazone-methyl-desphenyl	C5H6ClN3O	3.53		missing SMILES		
+0382_00458	Chlorimuronethyl	C15H15ClN4O6S	9.3		missing SMILES		
+0382_00459	Chlormequat	C5H13ClN	1.67		missing SMILES		
+0382_00460	Chlormezanone	C11H12ClNO3S	5.94		missing SMILES		
+0382_00461	Chlorobenzilate	C16H14Cl2O3	11.7		missing SMILES		
+0382_00462	Chlorodenafil	C19H21ClN4O3	10.15		missing SMILES		
+0382_00463	Chlorophacinone	C23H15ClO3	9.74		missing SMILES		
+0382_00464	Chlorophenylpiperazine (meta-)<U+00A0>(mCPP)	C10H13ClN2	5.42		missing SMILES		
+0382_00466	Chloropropylate	C17H16Cl2O3	12.15		missing SMILES		
+0382_00467	Chloropyramine	C16H20ClN3	7.09		missing SMILES		
+0382_00468	Chloroquine	C18H26ClN3	4.16		missing SMILES		
+0382_00469	Chloroquine-Desethylhydroxy	C16H22ClN3O	3.88		missing SMILES		
+0382_00470	Chloroquine-Hydroxy	C18H26ClN3O	3.98		missing SMILES		
+0382_00471	Chlorothiamide	C7H5Cl2NS	5.69		missing SMILES		
+0382_00472	Chlorotoluron	C10H13ClN2O	7.98		missing SMILES		
+0382_00473	Chloroxuron (Chloroxifenidim)	C15H15ClN2O2	9.99		missing SMILES		
+0382_00474	Chlorphenethazine	C16H17ClN2S	8.49		missing SMILES		
+0382_00476	Chlorpromazine	C17H19ClN2S	8.89		missing SMILES		
+0382_00477	Chlorpropamide	C10H13ClN2O3S	7.19		missing SMILES		
+0382_00478	Chlorpropham	C10H12ClNO2	9.78		missing SMILES		
+0382_00480	Chlorpyriphos	C9H11Cl3NO3PS	12.71		missing SMILES		
+0382_00481	Chlorpyriphos-methyl	C7H7Cl3NO3PS	11.7		missing SMILES		
+0382_00482	Chlorsulfuron	C12H12ClN5O4S	6.54		missing SMILES		
+0382_00483	Chlorthal-dimethyl (DCPA. Dacthal) (NH4)	C10H6Cl4O4	11.55		missing SMILES		
+0382_00484	Chlorthalidone	C14H11ClN2O4S	5.06		missing SMILES		
+0382_00485	Chlorthion	C8H9ClNO5PS	10.18		missing SMILES		
+0382_00486	Chromafenozide	C24H30N2O3	9.93		missing SMILES		
+0382_00488	Cilazapril	C22H31N3O5	7.94		missing SMILES		
+0382_00489	Cimaterol	C12H17N3O	2.99		missing SMILES		
+0382_00490	Cimetidine	C10H16N6S	3.24		missing SMILES		
+0382_00491	Cinchocaine	C20H29N3O2	8.41		missing SMILES		
+0382_00495	Cinosulfuron	C15H19N5O7S	6.36		missing SMILES		
+0382_00496	Cinoxacin	C12H10N2O5	5.32		missing SMILES		
+0382_00497	Ciprofloxacin	C17H18FN3O3	4.42		missing SMILES		
+0382_00498	Cisapride	C23H29ClFN3O4	6.73		missing SMILES		
+0382_00499	Citalopram	C20H21FN2O	6.59		missing SMILES		
+0382_00500	Citalopram amide	C20H23FN2O2	5.15		missing SMILES		
+0382_00501	Citalopram carboxylic acid	C20H22FNO3	5.83		missing SMILES		
+0382_00502	Citalopram N-oxide	C20H21FN2O2	7.1		missing SMILES		
+0382_00503	Citalopram-Nor	C19H19FN2O	6.51		missing SMILES		
+0382_00506	Clemastine	C21H26ClNO	9.31		missing SMILES		
+0382_00508	Clephedrone (4-Chloromethcathinone)	C10H12ClNO	4.91		missing SMILES		
+0382_00509	Clethodim Peak 1	C17H26ClNO3S	9.47		missing SMILES		
+0382_00510	Clethodim Peak 2	C17H26ClNO3S	11.61		missing SMILES		
+0382_00511	Clibucaine	C15H20Cl2N2O	6.27		missing SMILES		
+0382_00512	Clidinium (I+)	C22H26NO3	5.84		missing SMILES		
+0382_00513	Climbazole	C15H17ClN2O2	10.12		missing SMILES		
+0382_00515	Clobazam	C16H13ClN2O2	8.08		missing SMILES		
+0382_00516	Clobenzepam	C17H18ClN3O	6.32		missing SMILES		
+0382_00517	Clobenzorex	C16H18ClN	6.82		missing SMILES		
+0382_00519	Clobutinol	C14H22ClNO	6.31		missing SMILES		
+0382_00521	Clofentezine	C14H8Cl2N4	11.51		missing SMILES		
+0382_00522	Clomazone  (Command)	C12H14ClNO2	8.89		missing SMILES		
+0382_00523	Clomethiazole	C6H8ClNS	6.69		missing SMILES		
+0382_00524	Clomipramine	C19H23ClN2	9.21		missing SMILES		
+0382_00525	Clomipramine-Nor	C18H22N2	9.14		missing SMILES		
+0382_00526	Clonazepam	C15H10ClN3O3	7.61		missing SMILES		
+0382_00527	Clonazepam- 7-Amino	C15H12ClN3O	4.86		missing SMILES		
+0382_00528	Clonazolam	C17H12ClN5O2	7.24		missing SMILES		
+0382_00529	Clonidine	C9H9Cl2N3	3.83		missing SMILES		
+0382_00530	Clopamide	C14H20ClN3O3S	6.01		missing SMILES		
+0382_00531	Clopenthixol	C22H25ClN2OS	9.97		missing SMILES		
+0382_00532	Cloperastine	C20H24ClNO	8.46		missing SMILES		
+0382_00535	Clopidol	C7H7Cl2NO	4.2		missing SMILES		
+0382_00536	Clopyralid	C6H3Cl2NO2	3.06		missing SMILES		
+0382_00537	Clorprenaline	C11H16ClNO	4.76		missing SMILES		
+0382_00538	Clothiandin	C6H8ClN5O2S	4.9		missing SMILES		
+0382_00539	Clothiapine	C18H18ClN3S	8.96		missing SMILES		
+0382_00540	Clotiazepam	C16H15ClN2OS	10.17		missing SMILES		
+0382_00541	Clotrimazole	C22H17ClN2	11.19		missing SMILES		
+0382_00542	Clozapine	C18H19ClN4	7.19		missing SMILES		
+0382_00543	Clozapine-Nor	C17H17ClN4	7.29		missing SMILES		
+0382_00544	CMI (5-Chloro-2-methyl-4-isothiazolin-3-on)	C4H4ClNOS	4.51		missing SMILES		
+0382_00547	Cocaine-Nor	C16H19NO4	5.15		missing SMILES		
+0382_00556	Cotinine-Hydroxy	C10H12N2O2	3.13		missing SMILES		
+0382_00557	Coumachlor	C19H15ClO4	10.2		missing SMILES		
+0382_00558	Coumaphos	C14H16ClO5PS	11.19		missing SMILES		
+0382_00560	CP 47-497-C8	C22H36O2	13.51		missing SMILES		
+0382_00562	Crimidine	C7H10ClN3	6.2		missing SMILES		
+0382_00563	Croconazole	C18H15ClN2O	10.74		missing SMILES		
+0382_00566	Crotoxyphos	C14H19O6P	9.39		missing SMILES		
+0382_00567	Crufomate	C12H19ClNO3P	10.51		missing SMILES		
+0382_00568	Cumyl-PINACA	C22H27N3O	12.46		missing SMILES		
+0382_00569	Cyamemazine	C19H21N3S	7.52		missing SMILES		
+0382_00570	Cyanazine	C9H13ClN6	6.55		missing SMILES		
+0382_00571	Cyanofenphos	C15H14NO2PS	10.88		missing SMILES		
+0382_00572	Cyanophos	C9H10NO3PS	8.27		missing SMILES		
+0382_00573	Cyazofamid	C13H13ClN4O2S	10.32		missing SMILES		
+0382_00574	Cyclamic acid	C6H13NO3S	6.99		missing SMILES		
+0382_00575	Cyclizine	C18H22N2	6.94		missing SMILES		
+0382_00576	Cycloate	C11H21NOS	11.65		missing SMILES		
+0382_00577	Cyclobenzaprine	C20H21N	7.95		missing SMILES		
+0382_00579	Cyclopentolate	C17H25NO3	6.16		missing SMILES		
+0382_00580	Cyclopentynafil	C26H36N6O4S	9.01		missing SMILES		
+0382_00581	Cyclophosphamide	C7H15Cl2N2O2P	6.24		missing SMILES		
+0382_00583	Cycloxydim I	C17H27NO3S	8.67		missing SMILES		
+0382_00584	Cycloxydim II	C17H27NO3S	11.76		missing SMILES		
+0382_00585	Cycluron	C11H22N2O	8.47		missing SMILES		
+0382_00588	Cymoxanil	C7H10N4O3	5.6		missing SMILES		
+0382_00589	Cypermethrin I	C22H19Cl2NO3	13.09		missing SMILES		
+0382_00590	Cypermethrin II	C22H19Cl2NO3	13.2		missing SMILES		
+0382_00591	Cypermethrin III	C22H19Cl2NO3	13.31		missing SMILES		
+0382_00592	Cyprazin	C9H14ClN5	8.22		missing SMILES		
+0382_00593	Cyproconazole	C15H18ClN3O	9.89		missing SMILES		
+0382_00594	Cyprodinil	C14H15N3	11.04		missing SMILES		
+0382_00595	Cyproheptadine	C21H21N	7.89		missing SMILES		
+0382_00596	Cyromazine	C6H10N6	2.78		missing SMILES		
+0382_00598	Cythioate	C8H12NO5PS2	6.19		missing SMILES		
+0382_00600	Cytosine-5-Fluoro (broad peak)	C4H4FN3O	1.43		missing SMILES		
+0382_00601	D617 (met. of verapamil)	C17H26N2O2	6.14		missing SMILES		
+0382_00602	Dabigatran etexilate	C34H41N7O5	9.29		missing SMILES		
+0382_00603	Daimuron (Dymron)	C17H20N2O	9.68		missing SMILES		
+0382_00605	Dapiprazole	C19H27N5	5.66		missing SMILES		
+0382_00607	Dapsone	C12H12N2O2S	4.13		missing SMILES		
+0382_00609	Dazomet	C5H10N2S2	3.97		missing SMILES		
+0382_00610	Debrisoquine	C10H13N3	4.39		missing SMILES		
+0382_00611	Decoquinate	C24H35NO5	13.43		missing SMILES		
+0382_00612	DEET (Diethyltoluamide)	C12H17NO	8.2		missing SMILES		
+0382_00613	Deflazacort	C25H31NO6	9.35		missing SMILES		
+0382_00614	Delorazepam	C15H10Cl2N2O	8.81		missing SMILES		
+0382_00615	Demeton	2C8H19O3PS2	8.91		missing SMILES		
+0382_00616	Demeton-S-methylsulfone	C6H15O5PS2	4.15		missing SMILES		
+0382_00617	Demeton-S-methylsulfoxide (Oxydemeton-methyl)	C6H15O4PS2	3.98		missing SMILES		
+0382_00618	Demoxepam	C15H11ClN2O2	7.14		missing SMILES		
+0382_00619	Denaverine	C24H33NO3	11.64		missing SMILES		
+0382_00621	Deprenyl-Nor	C12H15N	4.66		missing SMILES		
+0382_00623	Deschloroetizolam	C17H16N4S	8.43		missing SMILES		
+0382_00624	Desipramine	C18H22N2	8.08		missing SMILES		
+0382_00625	Desloratadine	C19H19ClN2	7.48		missing SMILES		
+0382_00626	Desmetryn	C8H15N5S	8.17		missing SMILES		
+0382_00628	Desoxycortone 21-(3-phenylpropionate)	C3H6BrCl3Si	13		missing SMILES		
+0382_00630	Desoxypipradol	C18H21N	6.3		missing SMILES		
+0382_00631	DET	C14H20N2	4.34		missing SMILES		
+0382_00634	Dexfenfluramine	C12H16F3N	6.04		missing SMILES		
+0382_00638	Diafenthiuron	C23H32N2OS	12.94		missing SMILES		
+0382_00639	Dialifos	C14H17ClNO4PS2	11.53		missing SMILES		
+0382_00640	Diallate	C10H17Cl2NOS	11.81		missing SMILES		
+0382_00641	Diatrizoate (Amidotrizoate acid)	C11H9I3N2O4	2.79		missing SMILES		
+0382_00642	Diaveridine	C13H16N4O2	3.88		missing SMILES		
+0382_00643	Diazepam	C16H13ClN2O	9.53		missing SMILES		
+0382_00644	Diazepam-Nor	C15H11ClN2O	9.23		missing SMILES		
+0382_00645	Diazinon	C12H21N2O3PS	11.04		missing SMILES		
+0382_00646	Diazinon-O-analog	C12H21N2O4P	8.65		missing SMILES		
+0382_00647	Dibenzepin	C18H21N3O	5.49		missing SMILES		
+0382_00648	Dibucaine	C20H29N3O2	8.54		missing SMILES		
+0382_00649	Dibutylone	C13H17NO3	4.38		missing SMILES		
+0382_00650	Dicamba	C8H6Cl2O3	4.97		missing SMILES		
+0382_00651	Dicamba-methyl	C9H8Cl2O3	9.64		missing SMILES		
+0382_00652	Dicapthon	C8H9ClNO5PS	10.5		missing SMILES		
+0382_00653	Dichlofenthion	C10H13Cl2O3PS	12.55		missing SMILES		
+0382_00654	Dichlofluanid	C9H11Cl2FN2O2S2	10.02		missing SMILES		
+0382_00655	Dichlormid	C8H11Cl2NO	7.18		missing SMILES		
+0382_00656	Dichlorobenzamide	C7H5Cl2NO	4.48		missing SMILES		
+0382_00657	Dichlorprop-methyl	C10H10Cl2O3	10.53		missing SMILES		
+0382_00658	Dichlorvos	C4H7Cl2O4P	7		missing SMILES		
+0382_00659	Diclazepam	C16H12Cl2N2O	9.19		missing SMILES		
+0382_00660	Diclobutrazol	C15H19Cl2N3O	10.71		missing SMILES		
+0382_00661	Diclofenac	C14H11Cl2NO2	10.18		missing SMILES		
+0382_00662	Diclofop-methyl	C16H14Cl2O4	12.29		missing SMILES		
+0382_00663	Dicloran	C6H4Cl2N2O2	8.84		missing SMILES		
+0382_00664	Dicofol	C14H9Cl5O	11.85		missing SMILES		
+0382_00666	Dicycloverine	C19H35NO2	9.99		missing SMILES		
+0382_00667	Didecyldimethylammonium (DADMAC (C10:C10))	C22H48N	12.64		missing SMILES		
+0382_00669	Diethazine	C18H22N2S	7.76		missing SMILES		
+0382_00670	Diethofencarb	C14H21NO4	9.04		missing SMILES		
+0382_00671	Difenoconazole	C19H17Cl2N3O3	11.59		missing SMILES		
+0382_00672	Difenoxuron	C16H18N2O3	8.43		missing SMILES		
+0382_00673	Difenzoquat (Ion 1+)	C17H17N2	5.21		missing SMILES		
+0382_00674	Difloxacin	C21H19F2N3O3	4.96		missing SMILES		
+0382_00675	Diflubenzuron	C14H9ClF2N2O2	10.58		missing SMILES		
+0382_00676	Diflufenican	C19H11F5N2O2	11.72		missing SMILES		
+0382_00679	Diltiazem	C22H26N2O4S	7.18		missing SMILES		
+0382_00682	Dimefuron	C15H19ClN4O3	8.76		missing SMILES		
+0382_00683	Dimethachlor	C13H18ClNO2	8.58		missing SMILES		
+0382_00684	Dimethachlor-ESA	C13H19NO5S	5.54		missing SMILES		
+0382_00685	Dimethenamide	C12H18ClNO2S	9.26		missing SMILES		
+0382_00686	Dimethenamide-ESA	C12H19NO5S2	6.28		missing SMILES		
+0382_00687	Dimethenamide-OXA	C12H17NO4S	6.36		missing SMILES		
+0382_00688	Dimethipin	C6H10O4S2	3.73		missing SMILES		
+0382_00689	Dimethirimol	C11H19N3O	7.7		missing SMILES		
+0382_00690	Dimethoate	C5H12NO3PS2	5.23		missing SMILES		
+0382_00691	Dimethocain	C16H26N2O2	4.24		missing SMILES		
+0382_00693	Dimethylanilin (N.N-)	C8H11N	6.26		missing SMILES		
+0382_00694	Dimethylaniline (2.4-) (Metabolite Amitraz)	C8H11N	5.04		missing SMILES		
+0382_00695	Dimethyldioctadecylammonium	C38H80N	14.99		missing SMILES		
+0382_00697	Dimetindene	C20H24N2	6.86		missing SMILES		
+0382_00698	Dimetotiazine	C19H25N3O2S2	7.01		missing SMILES		
+0382_00699	Dimetridazole	C5H7N3O2	4.27		missing SMILES		
+0382_00702	Dinocap	C18H24N2O6	13.08		missing SMILES		
+0382_00705	Dioxacarb	C11H13NO4	5.16		missing SMILES		
+0382_00706	Dioxathion	C12H26O6P2S4	12.11		missing SMILES		
+0382_00707	Dioxethedrin	C11H17NO3	1.99		missing SMILES		
+0382_00708	Dioxohongdenafil	C25H30N6O5	8.18		missing SMILES		
+0382_00709	Diphacinone	C23H16O3	8.6		missing SMILES		
+0382_00710	Diphenamide	C16H17NO	8.57		missing SMILES		
+0382_00711	Diphenhydramine	C17H21NO	6.63		missing SMILES		
+0382_00712	Diphenoxylate	C30H32N2O2	10.43		missing SMILES		
+0382_00713	Diphenylamin-4-(dimethylbutylamino) (6PPD)	C18H24N2	9.92		missing SMILES		
+0382_00714	Diphenylamine	C12H11N	10.06		missing SMILES		
+0382_00715	Diphenylpyraline	C19H23NO	7.23		missing SMILES		
+0382_00716	Diponium	C20H38NO2	9.2		missing SMILES		
+0382_00717	Diprophylline	C10H14N4O4	3.76		missing SMILES		
+0382_00718	DiPT	C16H24N2	4.87		missing SMILES		
+0382_00719	DIPT- 4-OH	C16H24N2O	4.34		missing SMILES		
+0382_00720	Dipyridamole	C24H40N8O4	9.36		missing SMILES		
+0382_00721	Dipyron (Metamizol)	C13H17N3O4S	4.49		missing SMILES		
+0382_00722	Diquat (Ion 2+)	C12H12N2	1.23		missing SMILES		
+0382_00723	Disopyramide	C21H29N3O	4.74		missing SMILES		
+0382_00724	Disulfoton	C8H19O2PS3	11.52		missing SMILES		
+0382_00725	Disulfoton-sulfone	C8H19O4PS3	8.02		missing SMILES		
+0382_00726	Disulfoton-sulfoxide	C8H19O3PS3	7.86		missing SMILES		
+0382_00727	Ditalimfos	C12H14NO4PS	10.18		missing SMILES		
+0382_00728	Dithiopyr	C15H16F5NO2S2	11.74		missing SMILES		
+0382_00729	Diuron	C9H10Cl2N2O	8.64		missing SMILES		
+0382_00730	Dixyrazine	C24H33N3O2S	9.08		missing SMILES		
+0382_00731	DMA (3-4-)	C11H17NO2	3.94		missing SMILES		
+0382_00732	DMAA (Methylhexanamine)	C7H17N	4.68		missing SMILES		
+0382_00733	DMMC (3-4-)	C12H17NO	5.23		missing SMILES		
+0382_00734	DMPEA	C10H15NO2	3.53		missing SMILES		
+0382_00735	DMSA (N N-Dimethylaminosulfanilide)	C8H12N2O2S	6.28		missing SMILES		
+0382_00736	DMST (N.N-Dimethyl-N'-p-tolylsulphamide)	C9H14N2O2S	7.25		missing SMILES		
+0382_00737	DMT (Dimethyltryptamine)	C12H16N2	3.94		missing SMILES		
+0382_00738	DNOC (4.6-dinitro-o-cresol)	C7H6N2O5	6.98		missing SMILES		
+0382_00739	DOB	C11H16BrNO2	5.93		missing SMILES		
+0382_00740	Dobutamine	C18H23NO3	4.21		missing SMILES		
+0382_00741	DOC	C11H16ClNO2	5.67		missing SMILES		
+0382_00744	Dodine (Ion1+)	C13H29N3	11.22		missing SMILES		
+0382_00745	DOET	C13H21NO2	6.88		missing SMILES		
+0382_00746	DOM (2.5-Dimethoxy-4-methylamphetamine)	C12H19NO2	5.83		missing SMILES		
+0382_00747	Domperidone	C22H24ClN5O2	6.27		missing SMILES		
+0382_00748	Donepezil	C24H29NO3	5.81		missing SMILES		
+0382_00751	Doxapram	C24H30N2O2	6.23		missing SMILES		
+0382_00755	DPT	C16H24N2	5.26		missing SMILES		
+0382_00756	Drazoxolon	C10H8ClN3O2	10.34		missing SMILES		
+0382_00757	Drofenine	C20H31NO2	9.19		missing SMILES		
+0382_00758	Dronedarone	C31H44N2O5S	10.09		missing SMILES		
+0382_00759	Droperidol	C22H22FN3O2	6.16		missing SMILES		
+0382_00760	Dropropizine	C13H20N2O2	3.79		missing SMILES		
+0382_00764	E1-4-OH (1-3-5(10)-estratrien-3 4-diol-17-one) / 4-hydroxyestrone	C18H22O3	8.69		missing SMILES		
+0382_00767	EAM-2201	C26H26FNO	12.2		missing SMILES		
+0382_00768	Ebastine	C32H39NO2	10.88		missing SMILES		
+0382_00770	Edifenphos	C14H15O2PS2	10.8		missing SMILES		
+0382_00772	EG-018	C28H25NO	14.22		missing SMILES		
+0382_00777	Embutramide	C17H27NO3	8.98		missing SMILES		
+0382_00780	Enalapril	C20H28N2O5	6.83		missing SMILES		
+0382_00784	Enoximon	C12H12N2O2S	6.67		missing SMILES		
+0382_00785	Enrofloxacin	C19H22FN3O3	4.64		missing SMILES		
+0382_00788	Ephedrine-Pseudo	C10H15NO	3.69		missing SMILES		
+0382_00790	EPN	C14H14NO4PS	11.7		missing SMILES		
+0382_00792	Eprosartan	C23H24N2O4S	7.49		missing SMILES		
+0382_00793	EPTC	C9H19NOS	10.67		missing SMILES		
+0382_00800	Esmolol	C16H25NO4	5.18		missing SMILES		
+0382_00802	Esprocarb	C15H23NOS	12.23		missing SMILES		
+0382_00803	Estazolam	C16H11ClN4	8.14		missing SMILES		
+0382_00804	ET- alpha	C12H16N2	5.04		missing SMILES		
+0382_00805	Etaconazole	C14H15Cl2N3O2	10.17		missing SMILES		
+0382_00807	Ethambutol	C10H24N2O2	1.93		missing SMILES		
+0382_00808	Ethenzamide	C9H11NO2	5.68		missing SMILES		
+0382_00809	Ethiofencarb	C11H15NO2S	7.7		missing SMILES		
+0382_00810	Ethiofencarb-sulfone	C11H15NO4S	4.63		missing SMILES		
+0382_00811	Ethiofencarb-sulfoxide	C11H15NO3S	4.7		missing SMILES		
+0382_00812	Ethion	C9H22O4P2S4	12.45		missing SMILES		
+0382_00813	Ethiprole	C13H9Cl2F3N4OS	9.32		missing SMILES		
+0382_00814	Ethirimol	C11H19N3O	8		missing SMILES		
+0382_00815	Ethofumesate	C13H18O5S	9.14		missing SMILES		
+0382_00816	Ethopabate	C12H15NO4	6.63		missing SMILES		
+0382_00817	Ethoprophos	C8H19O2PS2	10.16		missing SMILES		
+0382_00818	Ethoxyquin	C14H19NO	10.11		missing SMILES		
+0382_00819	Ethoxysulfuron	C15H18N4O7S	9.32		missing SMILES		
+0382_00820	Ethylone	C12H15NO3	4.04		missing SMILES		
+0382_00821	Ethylphenidate	C15H21NO2	5.08		missing SMILES		
+0382_00822	Etilefrine	C10H15NO2	2.66		missing SMILES		
+0382_00823	Etizolam	C17H15ClN4S	8.31		missing SMILES		
+0382_00824	Etodolac	C17H21NO3	10.56		missing SMILES		
+0382_00825	Etodroxizine	C23H31ClN2O3	8.33		missing SMILES		
+0382_00826	Etofenprox	C25H28O3	14.08		missing SMILES		
+0382_00827	Etofylline	C9H12N4O3	4.09		missing SMILES		
+0382_00828	Etoxazole	C21H23F2NO2	12.83		missing SMILES		
+0382_00829	Etrimfos	C10H17N2O4PS	10.96		missing SMILES		
+0382_00830	Ethyl Sulphate (NH4)	C2H6O4S	1.58		missing SMILES		
+0382_00832	FAB-144	C20H27FN2O	12.66		missing SMILES		
+0382_00833	Famotidine	C8H15N7O2S3	3.24		missing SMILES		
+0382_00834	Famoxadone	C22H18N2O4	11.03		missing SMILES		
+0382_00835	Famphur	C10H16NO5PS2	7.99		missing SMILES		
+0382_00836	FDU-PB-22	C26H18FNO2	12.57		missing SMILES		
+0382_00837	Fedrilate	C20H29NO4	6.12		missing SMILES		
+0382_00838	Felodipine	C18H19Cl2NO4	11.01		missing SMILES		
+0382_00840	Fenamiphos	C13H22NO3PS	10.45		missing SMILES		
+0382_00841	Fenamiphos - sulfone	C13H22NO5PS	7.21		missing SMILES		
+0382_00842	Fenarimol	C17H12Cl2N2O	10.13		missing SMILES		
+0382_00843	Fenazaquin	C20H22N2O	13.68		missing SMILES		
+0382_00844	Fenbendazole	C15H13N3O2S	10.26		missing SMILES		
+0382_00845	Fenbuconazole	C19H17ClN4	10.38		missing SMILES		
+0382_00846	Fenbutatin Oxide Fragm 519	3C10H13.Sn	14.5		missing SMILES		
+0382_00847	Fencamfamine	C15H21N	6.08		missing SMILES		
+0382_00848	Fenclofos.Ronnel	C8H8Cl3O3PS	12.52		missing SMILES		
+0382_00849	Fendiline	C23H25N	8.54		missing SMILES		
+0382_00850	Fenefrine-Nor	C8H11NO2	1.81		missing SMILES		
+0382_00851	Fenethylline	C18H23N5O2	5.06		missing SMILES		
+0382_00853	Fenfluramine-n-Nitroso	C12H15F3N2O	9.38		missing SMILES		
+0382_00854	Fenfluramine-Nor	C10H12F3N	5.91		missing SMILES		
+0382_00855	Fenfuram	C12H11NO2	7.59		missing SMILES		
+0382_00856	Fenhexamide	C14H17Cl2NO2	10.05		missing SMILES		
+0382_00857	Fenitrothion	C9H12NO5PS	9.92		missing SMILES		
+0382_00858	Fenobucarb	C12H17NO2	9.05		missing SMILES		
+0382_00859	Fenofibrate	C20H21ClO4	12.55		missing SMILES		
+0382_00860	Fenofibric acid	C17H15ClO4	9.68		missing SMILES		
+0382_00861	Fenoprop-methylester  (Silvex-methyester)	C10H9Cl3O3	11.54		missing SMILES		
+0382_00862	Fenoterol	C17H21NO4	3.61		missing SMILES		
+0382_00863	Fenothiocarb	C13H19NO2S	10.73		missing SMILES		
+0382_00865	Fenoxycarb	C17H19NO4	10.59		missing SMILES		
+0382_00866	Fenpiclonil	C11H6Cl2N2	8.91		missing SMILES		
+0382_00867	Fenpipramide	C21H26N2O	5.19		missing SMILES		
+0382_00868	Fenpiprane	C20H25N	6.82		missing SMILES		
+0382_00869	Fenpropathrin	C22H23NO3	12.93		missing SMILES		
+0382_00870	Fenpropidin	C19H31N	8.62		missing SMILES		
+0382_00872	Fenproporex (NARL)	C12H16N2	4.14		missing SMILES		
+0382_00874	Fenson	C12H9ClO3S	10.12		missing SMILES		
+0382_00875	Fensulfothion	C11H17O4PS2	8.27		missing SMILES		
+0382_00876	Fensulfothion-sulfon	C11H17O5PS2	8.48		missing SMILES		
+0382_00877	Fentanyl	C22H28N2O	6.04		missing SMILES		
+0382_00878	Fentanyl -3-Methyl	C23H30N2O	6.49		missing SMILES		
+0382_00879	Fentanyl- 3-Methylnor	C15H22N2O	5.01		missing SMILES		
+0382_00880	Fentanyl- Alpha-methyl	C23H30N2O	6.09		missing SMILES		
+0382_00881	Fentanyl-Nor	C14H20N2O	4.68		missing SMILES		
+0382_00882	Fentanyl-Para-fluoro	C22H27FN2O	6.13		missing SMILES		
+0382_00883	Fenthion	C10H15O3PS2	11.02		missing SMILES		
+0382_00884	Fenthion-oxon	C10H15O4PS	8.82		missing SMILES		
+0382_00885	Fenthion-sulfon	C10H15O5PS2	7.57		missing SMILES		
+0382_00886	Fenthion-sulfoxide	C10H15O4PS2	7.28		missing SMILES		
+0382_00887	Fenticonazole	C24H20Cl2N2OS	13.38		missing SMILES		
+0382_00888	Fentin (triphenylstannylium) (1+)	3C6H5.Sn	10.38		missing SMILES		
+0382_00889	Fenuron	C9H12N2O	5.12		missing SMILES		
+0382_00890	Fenvalerate	C25H22ClNO3	13.34		missing SMILES		
+0382_00891	Fexofenadine	C32H39NO4	7.68		missing SMILES		
+0382_00892	Fipronil	C12H4Cl2F6N4OS	10.5		missing SMILES		
+0382_00893	Fipronil-desulfinyl	C12H4Cl2F6N4	10.39		missing SMILES		
+0382_00894	Fipronil-sulfide	C12H4Cl2F6N4S	10.75		missing SMILES		
+0382_00895	Fipronil-sulfone	C12H4Cl2F6N4O2S	11.01		missing SMILES		
+0382_00896	Flamprop	C16H13ClFNO3	8.6		missing SMILES		
+0382_00898	Flazasulfuron	C13H12F3N5O5S	8.56		missing SMILES		
+0382_00899	Flecainide	C17H20F6N2O3	6.44		missing SMILES		
+0382_00900	Flibanserin	C20H21F3N4O	9.99		missing SMILES		
+0382_00901	Flocoumafen	C33H25F3O4	12.43		missing SMILES		
+0382_00902	Floctafenine Isomer 1	C20H17F3N2O4	9.04		missing SMILES		
+0382_00903	Floctafenine Isomer 2	C20H17F3N2O4	9.5		missing SMILES		
+0382_00904	Flonicamid	C9H6F3N3O	4.22		missing SMILES		
+0382_00905	Florasulam	C12H8F3N5O3S	5.75		missing SMILES		
+0382_00908	Fluanisone	C21H25FN2O2	6.41		missing SMILES		
+0382_00910	Fluazinam	C13H4Cl2F6N4O4	12.28		missing SMILES		
+0382_00911	Fluazuron	C20H10Cl2F5N3O3	12.68		missing SMILES		
+0382_00912	Flubendazole	C16H12FN3O3	8.65		missing SMILES		
+0382_00913	Flubromazepam	C15H10BrFN2O	8.7		missing SMILES		
+0382_00914	Flubromazepam-3-OH	C16H13ClO3S	8.03		missing SMILES		
+0382_00915	Flubromazolam	C17H12BrFN4	8.04		missing SMILES		
+0382_00916	Fluconazole	C13H12F2N6O	5.06		missing SMILES		
+0382_00918	Flucythrinate	C26H23F2NO4	12.66		missing SMILES		
+0382_00919	Fludioxonil	C12H6F2N2O2	9.48		missing SMILES		
+0382_00920	Fludrocortisone	C23H31FO6	7.66		missing SMILES		
+0382_00922	Flufenacet	C14H13F4N3O2S	10.06		missing SMILES		
+0382_00923	Flufenacet-ESA	C11H14FNO4S	5.71		missing SMILES		
+0382_00924	Flufenacet-OXA	C11H12FNO3	5.49		missing SMILES		
+0382_00925	Flufenoxuron	C21H11ClF6N2O3	12.86		missing SMILES		
+0382_00926	Flufenzine (Diflovidazin)	C14H7ClF2N4	10.78		missing SMILES		
+0382_00927	Flumazenil	C15H14FN3O3	6.04		missing SMILES		
+0382_00928	Flumequine	C14H12FNO3	7.46		missing SMILES		
+0382_00929	Flumethrin	C6H7ClN4O2	13.86		missing SMILES		
+0382_00930	Flumetsulam	C12H9F2N5O2S	4.83		missing SMILES		
+0382_00931	Flumioxazin	C19H15FN2O4	8.73		missing SMILES		
+0382_00932	Flunitrazepam	C16H12FN3O3	7.83		missing SMILES		
+0382_00933	Flunitrazepam- 7-Amino	C16H14FN3O	5.41		missing SMILES		
+0382_00934	Flunitrazepam-7-Amino-desmethyl	C15H12FN3O	4.62		missing SMILES		
+0382_00935	Flunitrazepam-N-Desmethyl (Norflunitrazepam)	C15H10FN3O3	7.35		missing SMILES		
+0382_00936	Flunixin	C14H11F3N2O2	9.09		missing SMILES		
+0382_00937	Fluometuron	C10H11F3N2O	7.85		missing SMILES		
+0382_00938	Fluoroglycofen-ethyl	C18H13ClF3NO7	11.71		missing SMILES		
+0382_00940	Fluoxetine	C17H18F3NO	8.6		missing SMILES		
+0382_00941	Fluoxetine-nor	C16H16F3NO	8.58		missing SMILES		
+0382_00943	Fluphenazine	C22H26F3N3OS	9.93		missing SMILES		
+0382_00944	Flupirtine	C15H17FN4O2	7.09		missing SMILES		
+0382_00945	Fluquinconazole	C16H8Cl2FN5O	10.05		missing SMILES		
+0382_00946	Flurazepam	C21H23ClFN3O	6.61		missing SMILES		
+0382_00947	Flurazepam-2-OH-Ethyl	C17H14ClFN2O2	8.19		missing SMILES		
+0382_00948	Flurazepam-Desalkyl	C15H10ClFN2O	8.74		missing SMILES		
+0382_00949	Fluridone	C19H14F3NO	8.82		missing SMILES		
+0382_00950	Flurochloridone	C12H10Cl2F3NO	9.84		missing SMILES		
+0382_00951	Fluroxypyr	C7H5Cl2FN2O3	5.43		missing SMILES		
+0382_00952	Flurprimidol	C15H15F3N2O2	9.62		missing SMILES		
+0382_00953	Flurtamone	C18H14F3NO2	9.14		missing SMILES		
+0382_00954	Flusilazole	C16H15F2N3Si	10.48		missing SMILES		
+0382_00955	Fluspirilen	C29H31F2N3O	9.19		missing SMILES		
+0382_00956	Flutolanil	C17H16F3NO2	9.52		missing SMILES		
+0382_00957	Flutriafol	C16H13F2N3O	8.12		missing SMILES		
+0382_00961	Fomesafen	C15H10ClF3N2O6S	9.01		missing SMILES		
+0382_00962	Fonofos	C10H15OPS2	11.05		missing SMILES		
+0382_00963	Foramsulfuron	C17H20N6O7S	7.54		missing SMILES		
+0382_00964	Forchlorfenuron	C12H10ClN3O	8.53		missing SMILES		
+0382_00965	Formetanate	C11H15N3O2	3.14		missing SMILES		
+0382_00966	Formoterol	C19H24N2O4	4.79		missing SMILES		
+0382_00968	Fosthiazate	C9H18NO3PS2	7.73		missing SMILES		
+0382_00969	FUB-144	C23H24FNO	12.23		missing SMILES		
+0382_00970	FUB-AKB48	C25H26FN3O	13		missing SMILES		
+0382_00971	FUB-AMB	C21H22FN3O3	10.77		missing SMILES		
+0382_00972	Fuberidazole	C11H8N2O	6.48		missing SMILES		
+0382_00973	FUBIMINA	C23H21FN2O	11.62		missing SMILES		
+0382_00974	FUB-PB-22	C25H17FN2O2	11.07		missing SMILES		
+0382_00975	Furalaxyl	C17H19NO4	8.99		missing SMILES		
+0382_00976	Furathiocarb	C18H26N2O5S	12.09		missing SMILES		
+0382_00978	Furilazole	C11H13Cl2NO3	7.92		missing SMILES		
+0382_00979	Gabapentin	C9H17NO2	3.78		missing SMILES		
+0382_00981	Galaxolide	C18H26O	13.86		missing SMILES		
+0382_00982	Galaxolidone	C18H24O2	12.04		missing SMILES		
+0382_00983	Gallopamil	C28H40N2O5	7.19		missing SMILES		
+0382_00984	Gendenafil	C19H22N4O3	9.81		missing SMILES		
+0382_00986	GHB Fragm 87	C4H8O3	1.95		missing SMILES		
+0382_00988	Glaphenine	C19H17ClN2O4	6.63		missing SMILES		
+0382_00989	Glibenclamide	C23H28ClN3O5S	9.98		missing SMILES		
+0382_00991	Glimepiride	C24H34N4O5S	10.69		missing SMILES		
+0382_00992	Glipizide	C21H27N5O4S	8.11		missing SMILES		
+0382_00993	Glufosinate	C5H12NO4P	1.44		missing SMILES		
+0382_00994	Granisetron	C18H24N4O	4.99		missing SMILES		
+0382_00996	Guaifenesin	C10H14O4	5.11		missing SMILES		
+0382_00997	Guanabenz	C8H8Cl2N4	5.61		missing SMILES		
+0382_00998	Guanoxan	C10H13N3O2	4.57		missing SMILES		
+0382_00999	Guanylurea	C2H6N4O	1.31		missing SMILES		
+0382_01001	Halfenprox	C24H23BrF2O3	14.27		missing SMILES		
+0382_01002	Halofenozide	C18H19ClN2O2	9.25		missing SMILES		
+0382_01004	Haloperidol	C21H23ClFNO2	7.18		missing SMILES		
+0382_01005	Haloxyfop ethoxyethyl ester	C19H19ClF3NO5	12.15		missing SMILES		
+0382_01006	Harmaline	C13H14N2O	5.06		missing SMILES		
+0382_01007	Harman	C12H10N2	4.91		missing SMILES		
+0382_01008	Harmine	C13H12N2O	5.34		missing SMILES		
+0382_01009	Harpagoside	C24H30O11	8.25		missing SMILES		
+0382_01012	Heptenophos	C9H12ClO4P	8.49		missing SMILES		
+0382_01014	Hexaconazole	C14H17Cl2N3O	11.19		missing SMILES		
+0382_01015	Hexaflumuron	C16H8Cl2F6N2O3	11.76		missing SMILES		
+0382_01016	Hexazinone	C12H20N4O2	7.09		missing SMILES		
+0382_01017	Hexobendine	C30H44N2O10	7.54		missing SMILES		
+0382_01019	HHMA	C10H15NO2	2.59		missing SMILES		
+0382_01020	Histamine	C5H9N3	1.58		missing SMILES		
+0382_01021	Histapyrrodine	C19H24N2	7.19		missing SMILES		
+0382_01023	HMA	C12H18ClN7O	3.23		missing SMILES		
+0382_01024	HMMA	C11H17NO2	3.19		missing SMILES		
+0382_01025	Homatropine	C16H21NO3	3.73		missing SMILES		
+0382_01026	HomoSildenafil	C23H32N6O4S	7.84		missing SMILES		
+0382_01027	Hordenine	C10H15NO	2.28		missing SMILES		
+0382_01028	HTMPIPO-4	C21H31NO2	11.59		missing SMILES		
+0382_01029	HU-210	C25H38O3	13.53		missing SMILES		
+0382_01030	Hydrochlorothiazide (NH4)	C7H8ClN3O4S2	3.24		missing SMILES		
+0382_01035	Hydroxyzine	C21H27ClN2O2	8.28		missing SMILES		
+0382_01036	Ibuprofen	C13H18O2	10.68		missing SMILES		
+0382_01037	Ibuprofen- 2-Hydroxy	C13H18O3	7.08		missing SMILES		
+0382_01038	Ibuprofen-Carboxy	C13H16O4	6.99		missing SMILES		
+0382_01040	Ifosfamid	C7H15Cl2N2O2P	5.89		missing SMILES		
+0382_01041	Imazalil	C14H14Cl2N2O	9.09		missing SMILES		
+0382_01042	Imazamethabenz-methyl	C16H20N2O3	7.16		missing SMILES		
+0382_01043	Imazamox	C15H19N3O4	4.63		missing SMILES		
+0382_01044	Imazapyr	C13H15N3O3	4.1		missing SMILES		
+0382_01045	Imazaquin	C17H17N3O3	6.1		missing SMILES		
+0382_01046	Imazethapyr	C15H19N3O3	5.6		missing SMILES		
+0382_01047	Imazosulfuron	C14H13ClN6O5S	8.78		missing SMILES		
+0382_01048	Imibenconazole	C17H13Cl3N4S	12.36		missing SMILES		
+0382_01049	Imidacloprid	C9H10ClN5O2	4.76		missing SMILES		
+0382_01050	Imidacloprid-guanidine	C9H11ClN4	11.03		missing SMILES		
+0382_01051	Imidacloprid-urea	C9H10ClN3O	4.71		missing SMILES		
+0382_01052	Imidazolidinon- 1-3-Dimethyl-2-	C5H10N2O	3.53		missing SMILES		
+0382_01053	Imidocarb	C19H20N6O	3.78		missing SMILES		
+0382_01054	Iminostilbene	C14H11N	10.08		missing SMILES		
+0382_01055	Imipramine	C19H24N2	8.08		missing SMILES		
+0382_01056	Inabenfide	C19H15ClN2O2	9.27		missing SMILES		
+0382_01058	Indanazoline	C12H15N3	4.76		missing SMILES		
+0382_01059	Indapamide	C16H16ClN3O3S	6.61		missing SMILES		
+0382_01061	Indomethacin	C19H16ClNO4	10.29		missing SMILES		
+0382_01062	Indoramin	C22H25N3O	5.37		missing SMILES		
+0382_01064	Iobitridol	C20H28I3N3O9	2.74		missing SMILES		
+0382_01065	Iodixanol	C35H44I6N6O15	3.56		missing SMILES		
+0382_01066	Iodofenphos (Jodfenphos)	C8H8Cl2IO3PS	12.65		missing SMILES		
+0382_01067	Iohexol	C19H26I3N3O9	2.98		missing SMILES		
+0382_01068	Iomeprol	C17H22I3N3O8	2.91		missing SMILES		
+0382_01069	Iopodic acid	C12H13I3N2O2	10.2		missing SMILES		
+0382_01070	Iopromid	C18H24I3N3O8	3.38		missing SMILES		
+0382_01071	Ioxitalamin acid	C12H11I3N2O5	2.09		missing SMILES		
+0382_01073	Iprindol	C19H28N2	9.26		missing SMILES		
+0382_01074	Iprobenfos	C13H21O3PS	10.59		missing SMILES		
+0382_01075	Iprodione	C13H13Cl2N3O3	10.46		missing SMILES		
+0382_01077	Irbesartan	C25H28N6O	9.44		missing SMILES		
+0382_01078	Irgarol	C11H19N5S	10.49		missing SMILES		
+0382_01079	Irgarol-descyclopropyl	C8H15N5S	8.43		missing SMILES		
+0382_01080	Isazophos	C9H17ClN3O3PS	9.87		missing SMILES		
+0382_01081	Isoaminile	C16H24N2	5.96		missing SMILES		
+0382_01082	Isocarbamid (Azolamide)	C8H15N3O2	5.74		missing SMILES		
+0382_01083	Isocarbophos	C11H16NO4PS	8.32		missing SMILES		
+0382_01084	Isoconazole	C18H14Cl4N2O	12.28		missing SMILES		
+0382_01085	Isofenphos	C15H24NO4PS	11.23		missing SMILES		
+0382_01086	Isofenphos-methyl	C14H22NO4PS	11.65		missing SMILES		
+0382_01087	Isoniazide	C6H7N3O	2.18		missing SMILES		
+0382_01088	Isoprocarb	C11H15NO2	8.12		missing SMILES		
+0382_01089	Isopropalin	C15H23N3O4	13.25		missing SMILES		
+0382_01090	Isoproturon	C12H18N2O	8.32		missing SMILES		
+0382_01091	Isoproturon-didemethyl (1-(4-Isoprophenyl)urea)	C10H14N2O	7.76		missing SMILES		
+0382_01092	Isothipendyl	C16H19N3S	6.47		missing SMILES		
+0382_01093	Isoxaben	C18H24N2O4	9.42		missing SMILES		
+0382_01094	Isoxadifen-ethyl	C18H17NO3	10.68		missing SMILES		
+0382_01095	Isoxaflutole I	C15H12F3NO4S	6.23		missing SMILES		
+0382_01096	Isoxaflutole II	C15H12F3NO4S	8.24		missing SMILES		
+0382_01097	Isoxathion	C13H16NO4PS	11.26		missing SMILES		
+0382_01098	Isoxsuprine	C18H23NO3	5.28		missing SMILES		
+0382_01099	Isradipine	C19H21N3O5	9.61		missing SMILES		
+0382_01103	JWH-007	C25H25NO	12.64		missing SMILES		
+0382_01104	JWH-015	C23H21NO	11.51		missing SMILES		
+0382_01105	JWH-018	C24H23NO	12.41		missing SMILES		
+0382_01106	JWH-018-1-Methyl-Hexyl	C27H29NO	12.99		missing SMILES		
+0382_01107	JWH-018-6-Methoxy-Ind	C25H25NO2	12.36		missing SMILES		
+0382_01108	JWH-018-Adamantoyl. AB-001	C24H31NO	13.69		missing SMILES		
+0382_01109	JWH-018-M-2-OH-Ind	C24H23NO2	13.96		missing SMILES		
+0382_01110	JWH-018-M-4-OH-Ind	C24H23NO2	12.51		missing SMILES		
+0382_01111	JWH-018-M-5-OH-Ind	C24H23NO2	11.26		missing SMILES		
+0382_01112	JWH-018-M-6-OH-Ind	C24H23NO2	11.18		missing SMILES		
+0382_01113	JWH-018-M-7-OH-Ind	C24H23NO2	11.78		missing SMILES		
+0382_01114	JWH-018-M-N-4-OH-Pentyl	C24H23NO2	10.08		missing SMILES		
+0382_01115	JWH-018-M-N-5-OH-Pentyl	C24H23NO2	10.04		missing SMILES		
+0382_01116	JWH-018-M-N-Pentanoic acid	C24H21NO3	9.71		missing SMILES		
+0382_01117	JWH-019	C25H25NO	12.93		missing SMILES		
+0382_01118	JWH-020	C26H27NO	13.37		missing SMILES		
+0382_01119	JWH-022	C18H12	11.97		missing SMILES		
+0382_01120	JWH-073	C23H21NO	11.88		missing SMILES		
+0382_01121	JWH-073-2-Methyl	C24H23NO	12.31		missing SMILES		
+0382_01122	JWH-073-4-Methyl	C24H23NO	12.39		missing SMILES		
+0382_01123	JWH-073-M-2-OH-Ind	C23H21NO2	13.53		missing SMILES		
+0382_01124	JWH-073-M-3-OH-Butyl	C23H21NO2	9.91		missing SMILES		
+0382_01125	JWH-073-M-4-OH-Butyl	C23H21NO2	9.56		missing SMILES		
+0382_01126	JWH-073-M-4-OH-Ind	C23H21NO2	11.96		missing SMILES		
+0382_01127	JWH-073-M-5-OH-Ind	C23H21NO2	11.29		missing SMILES		
+0382_01128	JWH-073-M-6-OH-Ind	C23H21NO2	10.56		missing SMILES		
+0382_01129	JWH-073-M-7-OH-Ind	C23H21NO2	11.21		missing SMILES		
+0382_01130	JWH-073-M-N-Butanoic acid	C23H19NO3	9.33		missing SMILES		
+0382_01131	JWH-081	C25H25NO2	12.68		missing SMILES		
+0382_01132	JWH-122	C25H25NO	12.89		missing SMILES		
+0382_01133	JWH-122-F-Pentyl	C25H24FNO	11.74		missing SMILES		
+0382_01134	JWH-122-M-N-5-OH-Pentyl	C25H25NO2	10.64		missing SMILES		
+0382_01135	JWH-147	C27H27NO	13.34		missing SMILES		
+0382_01136	JWH-180	C25H25NO	12.67		missing SMILES		
+0382_01137	JWH-200	C25H24N2O2	9.88		missing SMILES		
+0382_01138	JWH-200-M-4-OH-Ind	C25H24N2O3	10.13		missing SMILES		
+0382_01139	JWH-201	C22H25NO2	11.58		missing SMILES		
+0382_01140	JWH-203	C21H22ClNO	12.18		missing SMILES		
+0382_01141	JWH-210	C26H27NO	13.24		missing SMILES		
+0382_01142	JWH-250	C22H25NO2	11.83		missing SMILES		
+0382_01143	JWH-251	C22H25NO	12.15		missing SMILES		
+0382_01144	JWH-302	C22H25NO2	11.64		missing SMILES		
+0382_01145	JWH-307	C26H24FNO	12.81		missing SMILES		
+0382_01146	JWH-368	C26H24FNO	12.99		missing SMILES		
+0382_01147	JWH-370	C27H27NO	13.43		missing SMILES		
+0382_01148	JWH-387	C24H22BrNO	13.38		missing SMILES		
+0382_01149	JWH-398	C24H22ClNO	13.28		missing SMILES		
+0382_01150	JWH-412	C24H22FNO	12.77		missing SMILES		
+0382_01151	JWH-412-5F. F2201	C24H21F2NO	11.64		missing SMILES		
+0382_01152	Kavain	C14H14O3	8.32		missing SMILES		
+0382_01153	Ketamine	C13H16ClNO	4.61		missing SMILES		
+0382_01154	Ketamine-Nor	C26H35FO6	4.69		missing SMILES		
+0382_01155	Ketazolam	C20H17ClN2O3	9.79		missing SMILES		
+0382_01156	Ketobemidone	C15H21NO2	4.26		missing SMILES		
+0382_01157	Ketoprofen	C16H14O3	8.53		missing SMILES		
+0382_01158	Ketorolac	C15H13NO3	6.94		missing SMILES		
+0382_01159	Ketotifen	C19H19NOS	5.54		missing SMILES		
+0382_01161	Labetalol	C19H24N2O3	5.74		missing SMILES		
+0382_01163	Lactofen	C19H15ClF3NO7	12.15		missing SMILES		
+0382_01164	Lamotrigine	C9H7Cl2N5	5.31		missing SMILES		
+0382_01166	Lansoprazole	C16H14F3N3O2S	8.38		missing SMILES		
+0382_01167	Laudanosine	C21H27NO4	4.71		missing SMILES		
+0382_01168	Lenacil	C13H18N2O2	8.27		missing SMILES		
+0382_01169	Leptophos	C13H10BrCl2O2PS	13.77		missing SMILES		
+0382_01170	Lercanidipine	C36H41N3O6	11.05		missing SMILES		
+0382_01171	Lethane 384	C9H17NO2S	8.12		missing SMILES		
+0382_01172	Letrozole	C17H17N3	6.33		missing SMILES		
+0382_01173	Leuco malachite green (LMG)	C23H26N2	13.69		missing SMILES		
+0382_01181	Levomepromazine-sulfoxide	C15H14N2O3	5.98		missing SMILES		
+0382_01183	Lidocaine	C14H22N2O	4.54		missing SMILES		
+0382_01184	Lidocaine-Nor	C12H18N2O	4.33		missing SMILES		
+0382_01185	Lidocaine-N-oxide	C14H22N2O2	5.34		missing SMILES		
+0382_01189	Linuron	C9H10Cl2N2O2	9.3		missing SMILES		
+0382_01192	Lonazolac	C17H13ClN2O2	10.37		missing SMILES		
+0382_01195	Loratadine	C22H23ClN2O2	11.49		missing SMILES		
+0382_01196	Lorazepam	C15H10Cl2N2O2	8.36		missing SMILES		
+0382_01197	Lormetazepam	C16H12Cl2N2O2	8.61		missing SMILES		
+0382_01198	Losartan	C22H23ClN6O	8.19		missing SMILES		
+0382_01203	Lufenuron	C17H8Cl2F8N2O3	12.48		missing SMILES		
+0382_01206	M1 (Irgarol-descyclopropyl)	C8H15N5S	8.43		missing SMILES		
+0382_01207	M-144	C9H11NO2	12.9		missing SMILES		
+0382_01208	MAB-CHMINACA	C21H30N4O2	11.82		missing SMILES		
+0382_01209	Mabuterol	C13H18ClF3N2O	5.28		missing SMILES		
+0382_01211	Malachite green (MG)	C23H25N2	8.34		missing SMILES		
+0382_01212	Malaoxon	C10H19O7PS	7.01		missing SMILES		
+0382_01213	Malathion	C10H19O6PS2	9.59		missing SMILES		
+0382_01215	MAM-2201	C25H24FNO	11.8		missing SMILES		
+0382_01216	Maprotiline	C20H23N	8.08		missing SMILES		
+0382_01217	Marbofloxacin	C17H19FN4O4	4.18		missing SMILES		
+0382_01218	Mazindol Isomer 1	C16H13ClN2O	5.77		missing SMILES		
+0382_01219	Mazindol Isomer 2	C16H13ClN2O	6.97		missing SMILES		
+0382_01220	MBDB	C12H17NO2	4.66		missing SMILES		
+0382_01221	MBZP (3-)	C12H18N2	5.13		missing SMILES		
+0382_01222	MBZP (N-)	C12H18N2	4.14		missing SMILES		
+0382_01223	MCPA-methylester	C10H11ClO3	9.85		missing SMILES		
+0382_01224	MCPB	C11H13ClO3	10.11		missing SMILES		
+0382_01225	MDA	C10H13NO2	4.19		missing SMILES		
+0382_01226	MDAI	C10H11NO2	3.81		missing SMILES		
+0382_01227	MDAT	C11H13NO2	4.32		missing SMILES		
+0382_01228	MDDMA	C12H17NO2	4.08		missing SMILES		
+0382_01229	MDDMA-bk	C12H15NO3	3.78		missing SMILES		
+0382_01230	MDEA	C12H17NO2	4.39		missing SMILES		
+0382_01231	MDMA	C11H15NO2	4.18		missing SMILES		
+0382_01234	MDPBP	C15H19NO3	4.49		missing SMILES		
+0382_01235	MDPPP (3-4-Methylenedioxy-a-pyrrolidinopropiophenone)	C14H17NO3	4.13		missing SMILES		
+0382_01236	MDPV	C16H21NO3	5.18		missing SMILES		
+0382_01237	Mebendazole	C16H13N3O3	8.25		missing SMILES		
+0382_01238	Mebeverine	C25H35NO5	6.79		missing SMILES		
+0382_01239	MEC (4-)	C12H17NO	4.74		missing SMILES		
+0382_01240	Mecarbam	C10H20NO5PS2	10.16		missing SMILES		
+0382_01241	Meclofenamic acid	C14H11Cl2NO2	11.27		missing SMILES		
+0382_01243	Meclozine	C25H27ClN2	11.31		missing SMILES		
+0382_01244	Mecoprop	C10H11ClO3	8.27		missing SMILES		
+0382_01245	Mecoprop-methylester	C11H13ClO3	10.62		missing SMILES		
+0382_01246	Medazepam	C16H15ClN2	10.22		missing SMILES		
+0382_01247	Medipham-Desmethyl (desmedipham)	C16H16N2O4	8.57		missing SMILES		
+0382_01248	Mefenacet	C16H14N2O2S	9.83		missing SMILES		
+0382_01249	Mefenamic acid	C15H15NO2	11.6		missing SMILES		
+0382_01250	Mefenorex	C12H18ClN	5.31		missing SMILES		
+0382_01251	Mefenpyr-diethyl	C16H18Cl2N2O4	11.1		missing SMILES		
+0382_01252	Mefexamide	C15H24N2O3	4.31		missing SMILES		
+0382_01254	Mefluidide	C11H13F3N2O3S	6.85		missing SMILES		
+0382_01255	Mefruside	C13H19ClN2O5S2	6.56		missing SMILES		
+0382_01256	Melamine	C3H6N6	1.45		missing SMILES		
+0382_01257	Melatonin	C13H16N2O2	5.36		missing SMILES		
+0382_01258	Melitracen	C21H25N	8.79		missing SMILES		
+0382_01259	Meloxicam	C14H13N3O4S2	7.09		missing SMILES		
+0382_01260	Melperone	C16H22FNO	5.21		missing SMILES		
+0382_01262	Memantine	C12H21N	6.91		missing SMILES		
+0382_01263	MeO-AMT (5-)	C12H16N2O	4.36		missing SMILES		
+0382_01264	MeO-DALT (5-)	C17H22N2O	4.89		missing SMILES		
+0382_01265	MeO-DIPT (5-)	C17H26N2O	4.81		missing SMILES		
+0382_01266	MeO-DMT (5-)	C13H18N2O	3.98		missing SMILES		
+0382_01267	MeOT (5-)	C11H11NO3	4.01		missing SMILES		
+0382_01268	MeO-TMT (5-)	C14H20N2O	4.19		missing SMILES		
+0382_01269	Mepanipyrim	C14H13N3	10.19		missing SMILES		
+0382_01270	Meperidine	C15H21NO2	5.28		missing SMILES		
+0382_01271	Mephedrone	C11H15NO	4.49		missing SMILES		
+0382_01272	Mepindolol	C15H22N2O2	4.44		missing SMILES		
+0382_01273	MEPIRAPIM	C19H27N3O	7.75		missing SMILES		
+0382_01274	Mepivacaine	C15H22N2O	4.66		missing SMILES		
+0382_01275	MePPP (4-4-Methyl-pyrrolidinopropiophenone)	C14H19NO	4.76		missing SMILES		
+0382_01276	Meprobamate	C9H18N2O4	5.94		missing SMILES		
+0382_01277	Mepronil	C17H19NO2	9.62		missing SMILES		
+0382_01278	Meptazinol	C15H23NO	4.74		missing SMILES		
+0382_01279	Mepyramine. Pyrilamine. Bromth	C17H23N3O	5.89		missing SMILES		
+0382_01280	Mequitazine	C20H22N2S	8.29		missing SMILES		
+0382_01281	Mercaptopurine (6-)	C5H2N4S	2.61		missing SMILES		
+0382_01283	Mescaline	C11H17NO3	3.88		missing SMILES		
+0382_01284	Mesocarb-P-Hydroxy	C18H18N4O3	7.24		missing SMILES		
+0382_01285	Mesoridazine	C21H26N2OS2	6.74		missing SMILES		
+0382_01286	Metaclazepam	C18H18BrClN2O	11.6		missing SMILES		
+0382_01287	Metalaxyl	C15H21NO4	8.22		missing SMILES		
+0382_01288	Metamitron	C10H10N4O	5.24		missing SMILES		
+0382_01289	Metamitron-desamino	C10H9N3O	5.29		missing SMILES		
+0382_01290	Metaxalone	C12H15NO3	7.86		missing SMILES		
+0382_01291	Metazachlor	C14H16ClN3O	8.11		missing SMILES		
+0382_01292	Metconazole	C17H22ClN3O	11.21		missing SMILES		
+0382_01294	Metformin	C4H11N5	1.39		missing SMILES		
+0382_01295	Methabenzthiazuron	C10H11N3OS	8.26		missing SMILES		
+0382_01298	Methadone	C21H27NO	8.04		missing SMILES		
+0382_01299	Methadone-Nor	C20H25NO	7.68		missing SMILES		
+0382_01300	Methamidophos	C2H8NO2PS	2.76		missing SMILES		
+0382_01301	Methaphenilene	C15H20N2S	6.32		missing SMILES		
+0382_01302	Methaqualone	C16H14N2O	7.83		missing SMILES		
+0382_01303	Methazolamide	C5H8N4O3S2	4.28		missing SMILES		
+0382_01304	Methcathinone	C10H13NO	3.68		missing SMILES		
+0382_01305	Methcathinone (3-F-)	C10H12FNO	3.94		missing SMILES		
+0382_01306	Methcathinone (4-F-/ 4-FMC. Flephedrone)	C10H12FNO	3.91		missing SMILES		
+0382_01307	Methedrone	C11H15NO2	4.16		missing SMILES		
+0382_01308	Methfuroxam	C14H15NO2	8.79		missing SMILES		
+0382_01309	Methidathion	C6H11N2O4PS3	8.7		missing SMILES		
+0382_01310	Methimazole	C4H6N2S	2.61		missing SMILES		
+0382_01311	Methiocarb (Mercaptodimethur)	C11H15NO2S	9.34		missing SMILES		
+0382_01312	Methiocarb-sulfone	C11H15NO4S	5.28		missing SMILES		
+0382_01313	Methiocarb-sulfoxide	C11H15NO3S	4.86		missing SMILES		
+0382_01314	Methiopropamine	C8H13NS	3.69		missing SMILES		
+0382_01315	Methocarbamol	C11H15NO5	5.21		missing SMILES		
+0382_01316	Methohexital	C14H18N2O3	9.09		missing SMILES		
+0382_01317	Methomyl	C5H10N2O2S	4.16		missing SMILES		
+0382_01319	Methoprotryne	C11H21N5OS	9.14		missing SMILES		
+0382_01321	Methoxetamine	C15H21NO2	4.93		missing SMILES		
+0382_01322	Methoxyfenozide	C22H28N2O3	9.56		missing SMILES		
+0382_01323	Methoxyphenamine	C11H17NO	4.69		missing SMILES		
+0382_01324	Methsuximide	C12H13NO2	6.71		missing SMILES		
+0382_01325	Methyl 2-dimethoxyphosphinothioylsulfanylacetate (formothion methanolyse)	C5H11O4PS2	7.16		missing SMILES		
+0382_01326	Methylaminophenazone (4-)	C12H15N3O	4.74		missing SMILES		
+0382_01328	Methylone (MDMC)	C11H13NO3	3.81		missing SMILES		
+0382_01329	Methylphenidate	C14H19NO2	4.96		missing SMILES		
+0382_01332	Metipranolol	C17H27NO4	6.28		missing SMILES		
+0382_01333	Metixene	C20H23NS	8.51		missing SMILES		
+0382_01334	Metizolam (Desmethyletizolam)	C16H13ClN4S	7.93		missing SMILES		
+0382_01335	Metobromuron	C9H11BrN2O2	8.15		missing SMILES		
+0382_01336	Metoclopramide	C14H22ClN3O2	4.36		missing SMILES		
+0382_01337	Metolachlor	C15H22ClNO2	10.29		missing SMILES		
+0382_01338	Metolachlor-ESA	C15H23NO5S	7.34		missing SMILES		
+0382_01339	Metolachlor-morpholinon	C14H19NO2	7.89		missing SMILES		
+0382_01340	Metolazone	C16H16ClN3O3S	6.08		missing SMILES		
+0382_01341	Metolcarb	C9H11NO2	6.59		missing SMILES		
+0382_01344	Metoprolol	C15H25NO3	4.93		missing SMILES		
+0382_01345	Metosulam	C14H13Cl2N5O4S	7.1		missing SMILES		
+0382_01346	Metoxuron	C10H13ClN2O2	6.17		missing SMILES		
+0382_01347	Metrafenone	C19H21BrO5	11.41		missing SMILES		
+0382_01348	Metribuzin	C8H14N4OS	7.07		missing SMILES		
+0382_01349	Metribuzin-Desamino (DA)	C8H13N3OS	7.46		missing SMILES		
+0382_01350	Metribuzin-Diketo (DK)	C7H12N4O2	5.89		missing SMILES		
+0382_01351	Metronidazole	C6H9N3O3	3.58		missing SMILES		
+0382_01352	Metronidazole-D4	C6H9N3O4	3.71		missing SMILES		
+0382_01353	Metsulfuron-methyl	C14H15N5O6S	6.31		missing SMILES		
+0382_01354	Metyrapone	C14H14N2O	6.21		missing SMILES		
+0382_01357	Mexacarbate	C12H18N2O2	9.3		missing SMILES		
+0382_01358	Mexiletine	C11H17NO	5.59		missing SMILES		
+0382_01359	MGK-264	C17H25NO2	11.59		missing SMILES		
+0382_01360	Mianserine	C18H20N2	6.94		missing SMILES		
+0382_01361	Mianserine-Nor	C17H18N2	6.86		missing SMILES		
+0382_01362	Mianserine-N-oxide	C18H20N2O	7.63		missing SMILES		
+0382_01363	Miconazole	C18H14Cl4N2O	12.97		missing SMILES		
+0382_01364	Midazolam	C18H13ClFN3	8.63		missing SMILES		
+0382_01365	Midazolam -1-Hydroxy	C18H13ClFN3O	8.44		missing SMILES		
+0382_01368	Minoxidil	C9H15N5O	4.88		missing SMILES		
+0382_01369	Mirodenafil	C26H37N5O5S	9.49		missing SMILES		
+0382_01370	Mirtazapine	C17H19N3	5.29		missing SMILES		
+0382_01371	Mirtazapine- 8-OH	C17H19N3O	4.54		missing SMILES		
+0382_01372	Mirtazapine-Desmethyl (normirtazapine)	C16H17N3	5.31		missing SMILES		
+0382_01375	Mizolastine	C24H25FN6O	9.14		missing SMILES		
+0382_01378	MN-18	C23H23N3O	13.03		missing SMILES		
+0382_01380	Moclobemide	C13H17ClN2O2	4.98		missing SMILES		
+0382_01381	Modafinil	C15H15NO2S	6.76		missing SMILES		
+0382_01382	Molinate	C9H17NOS	9.89		missing SMILES		
+0382_01383	Molindone	C16H24N2O2	4.89		missing SMILES		
+0382_01386	Monocrotaline-N-oxide	C16H23NO7	3.19		missing SMILES		
+0382_01387	Monocrotophos	C7H14NO5P	4.36		missing SMILES		
+0382_01388	Monolinuron	C9H11ClN2O2	7.76		missing SMILES		
+0382_01389	Monuron	C9H11ClN2O	6.9		missing SMILES		
+0382_01390	Moperone	C22H26FNO2	6.59		missing SMILES		
+0382_01398	Moxaverine	C20H21NO2	8.29		missing SMILES		
+0382_01401	Moxisylyte	C16H25NO3	6.21		missing SMILES		
+0382_01402	Moxonidine	C9H12ClN5O	3.26		missing SMILES		
+0382_01403	MPPH (5-(p-Methylphenyl)-5-phenylhydantoin)	C16H14N2O2	8.12		missing SMILES		
+0382_01404	MTA (4-)	C10H15NS	5.24		missing SMILES		
+0382_01405	Myclobutanil	C15H17ClN4	9.74		missing SMILES		
+0382_01406	N'-(2 4-Dimethylphenyl)-N-methylformamidine	C10H14N2	4.44		missing SMILES		
+0382_01407	N-2-4-Dimethylphenylformamide (DMF. Metabolite Amitraz)	C9H11NO	6.67		missing SMILES		
+0382_01408	Nabumetone	C15H16O2	9.82		missing SMILES		
+0382_01412	Naled	C4H7Br2Cl2O4P	8.55		missing SMILES		
+0382_01413	Nalidixic acid	C12H12N2O3	7.06		missing SMILES		
+0382_01418	Nandrolone phenylpropionate	C27H34O3	13.6		missing SMILES		
+0382_01419	Naphazoline	C14H14N2	4.84		missing SMILES		
+0382_01420	Naphthylacetic acid (1-)	C12H10O2	7.76		missing SMILES		
+0382_01421	Naphyrone	C19H23NO	7.33		missing SMILES		
+0382_01422	Napropamide	C17H21NO2	10.18		missing SMILES		
+0382_01424	Naptalam (N-1-Naphthylphthalamic acid)	C18H13NO3	6.75		missing SMILES		
+0382_01427	Nebivolol	C22H25F2NO4	8.28		missing SMILES		
+0382_01428	Neburon	C12H16Cl2N2O	10.67		missing SMILES		
+0382_01429	NE-CHMIMO	C26H25NO	12.99		missing SMILES		
+0382_01430	Nefazodone	C25H32ClN5O2	9.95		missing SMILES		
+0382_01431	Nefopam	C17H19NO	5.67		missing SMILES		
+0382_01432	Neotam	C20H30N2O5	8.83		missing SMILES		
+0382_01433	N-ethyl-4-methoxybenzamide	C10H13NO2	5.59		missing SMILES		
+0382_01434	Nicardipine	C26H29N3O6	8.39		missing SMILES		
+0382_01435	Niclosamide	C13H8Cl2N2O4	12.56		missing SMILES		
+0382_01436	Nicosulfuron	C15H18N6O6S	6.62		missing SMILES		
+0382_01437	Nicotinamide	C6H6N2O	2.73		missing SMILES		
+0382_01439	Nicotine-Nor	C9H12N2	2.44		missing SMILES		
+0382_01440	Nifedipine	C17H18N2O6	8.31		missing SMILES		
+0382_01441	Nifenazone	C17H16N4O2	4.56		missing SMILES		
+0382_01442	Niflumic acid	C13H9F3N2O2	9.86		missing SMILES		
+0382_01443	Nifoxipam	C15H10FN3O4	6.58		missing SMILES		
+0382_01445	Nikethamide	C10H14N2O	4.64		missing SMILES		
+0382_01446	Nilvadipine	C19H19N3O6	10.29		missing SMILES		
+0382_01447	Nimorazole	C9H14N4O3	4.09		missing SMILES		
+0382_01448	Nisoldipine	C20H24N2O6	10.62		missing SMILES		
+0382_01450	Nitrazepam	C15H11N3O3	7.79		missing SMILES		
+0382_01451	Nitrazepam- 7-Amino	C15H13N3O	4.78		missing SMILES		
+0382_01452	Nitrazolam	C17H13N5O2	6.91		missing SMILES		
+0382_01453	Nitrofen	C12H7Cl2NO3	12.06		missing SMILES		
+0382_01454	Nitrothal-isopropyl	C14H17NO6	12.02		missing SMILES		
+0382_01455	Nizatidine	C12H21N5O2S2	2.96		missing SMILES		
+0382_01456	NM-2201	C24H22FNO2	12.36		missing SMILES		
+0382_01457	NNEI	C24H24N2O	11.66		missing SMILES		
+0382_01458	NNEI-5Cl	C24H23FN2O	11.21		missing SMILES		
+0382_01459	NNEI-5F	C24H23FN2O	10.58		missing SMILES		
+0382_01460	Nomifensine	C16H18N2	5.42		missing SMILES		
+0382_01461	Nonylphenol di-ethoxylates (NP2EO)_NH4 adduct	C17H28O2	13.8		missing SMILES		
+0382_01462	Nonylphenol mon-ethoxylates (NP1EO)_NH4 adduct	C19H32O3	13.2		missing SMILES		
+0382_01463	Nordextropropoxyphene	C21H27NO2	7.84		missing SMILES		
+0382_01466	Norfloxacin	C16H18FN3O3	4.46		missing SMILES		
+0382_01467	Norflurazon	C12H9ClF3N3O	8.51		missing SMILES		
+0382_01469	Novaluron	C17H9ClF8N2O4	11.9		missing SMILES		
+0382_01470	Noviflumuron	C17H7Cl2F9N2O3	12.67		missing SMILES		
+0382_01472	NPB-22	C22H21N3O2	11.36		missing SMILES		
+0382_01473	NPB-22-5F	C22H20FN3O2	10.27		missing SMILES		
+0382_01474	Nuarimol	C17H12ClFN2O	9.17		missing SMILES		
+0382_01477	Octocrylene	C24H27NO2	13.36		missing SMILES		
+0382_01478	Octylphenol diethoxylates (OP2EO)_NH4 adduct	C18H30O3	14.1		missing SMILES		
+0382_01479	Octylphenol monoethoxylates (OP1EO)_NH4 adduct	C16H26O2	12.4		missing SMILES		
+0382_01480	Ofloxacin	C18H20FN3O4	4.34		missing SMILES		
+0382_01481	Ofurace	C14H16ClNO3	7		missing SMILES		
+0382_01482	Olanzapine	C17H20N4S	4.99		missing SMILES		
+0382_01484	Olsalazine	C14H10N2O6	5.66		missing SMILES		
+0382_01485	Omeprazole	C17H19N3O3S	7.49		missing SMILES		
+0382_01486	Omethoate	C5H12NO4PS	3.35		missing SMILES		
+0382_01487	Ondansetron	C18H19N3O	4.98		missing SMILES		
+0382_01488	Opipramol	C23H29N3O	7.83		missing SMILES		
+0382_01489	Orbencarb	C12H16ClNOS	11.34		missing SMILES		
+0382_01490	ORG 27569	C24H28ClN3O	12.68		missing SMILES		
+0382_01492	Ornidazole	C7H5FO2	4.84		missing SMILES		
+0382_01494	Orphenadrine-Nor (Tofenacin. Elamol)	C17H21NO	7.54		missing SMILES		
+0382_01495	Oryzalin	C12H18N4O6S	10.35		missing SMILES		
+0382_01498	Oxadiargyl	C15H14Cl2N2O3	11.15		missing SMILES		
+0382_01499	Oxadiazon	C15H18Cl2N2O3	12.35		missing SMILES		
+0382_01500	Oxadixyl	C14H18N2O4	6.29		missing SMILES		
+0382_01501	Oxamyl	C7H13N3O3S	3.77		missing SMILES		
+0382_01502	Oxasulfuron	C17H18N4O6S	6.52		missing SMILES		
+0382_01503	Oxatomide	C27H30N4O	8.42		missing SMILES		
+0382_01504	Oxazepam	C15H11ClN2O2	8.43		missing SMILES		
+0382_01505	Oxcarbazepine	C15H12N2O2	6.46		missing SMILES		
+0382_01506	Oxeladin	C20H33NO3	8.04		missing SMILES		
+0382_01507	Oxetacaine	C28H41N3O3	10.89		missing SMILES		
+0382_01508	Oxfendazole	C12H15N3O3	6.66		missing SMILES		
+0382_01510	Oxohongdenafil	C25H32N6O4	9.09		missing SMILES		
+0382_01511	Oxolinic acid	C13H11NO5	6.03		missing SMILES		
+0382_01512	Oxomemazine	C18H22N2O2S	5.34		missing SMILES		
+0382_01513	Oxprenolol	C15H23NO3	5.66		missing SMILES		
+0382_01514	Oxybuprocaine	C17H28N2O3	5.94		missing SMILES		
+0382_01515	Oxybutynin	C22H31NO3	8.92		missing SMILES		
+0382_01518	Oxydemeton-methyl	C6H15O4PS2	3.91		missing SMILES		
+0382_01519	Oxyfedrine	C19H23NO3	6.14		missing SMILES		
+0382_01520	Oxyfluorfen	C15H11ClF3NO4	12.11		missing SMILES		
+0382_01521	Oxymetazoline	C16H24N2O	6.99		missing SMILES		
+0382_01523	Oxypendyl	C20H26N4OS	7.57		missing SMILES		
+0382_01524	Oxypertine	C23H29N3O2	5.76		missing SMILES		
+0382_01525	Oxyphencyclimine	C20H28N2O3	7.98		missing SMILES		
+0382_01527	Pantoprazole	C16H15F2N3O4S	7.46		missing SMILES		
+0382_01528	Papaverine	C12H20N4OS	6.27		missing SMILES		
+0382_01529	Paracetamol	C8H9NO2	3.48		missing SMILES		
+0382_01530	Paraoxon	C10H14NO6P	8.01		missing SMILES		
+0382_01531	Paraoxon-methyl	C8H10NO6P	6.36		missing SMILES		
+0382_01532	Parathion	C10H14NO5PS	10.71		missing SMILES		
+0382_01533	Parathion-methyl	C8H10NO5PS	9.24		missing SMILES		
+0382_01536	PB-22	C23H22N2O2	11.87		missing SMILES		
+0382_01537	PB-22-5F	C23H21FN2O2	10.72		missing SMILES		
+0382_01538	PCN-5F	C23H22FN3O	11.85		missing SMILES		
+0382_01539	Pebulate	C10H21NOS	11.51		missing SMILES		
+0382_01540	Pemoline	C9H8N2O2	4.34		missing SMILES		
+0382_01541	Penbutolol	C18H29NO2	9.01		missing SMILES		
+0382_01542	Penciclovir	C10H15N5O3	2.98		missing SMILES		
+0382_01543	Penconazole	C13H15Cl2N3	10.83		missing SMILES		
+0382_01544	Pencycuron	C19H21ClN2O	11.38		missing SMILES		
+0382_01545	Pendimethalin	C13H19N3O4	12.8		missing SMILES		
+0382_01546	Penfluridol	C28H27ClF5NO	10.07		missing SMILES		
+0382_01547	Penfluron	C15H9F5N2O2	10.87		missing SMILES		
+0382_01548	Pentanochlor	C13H18ClNO	10.63		missing SMILES		
+0382_01550	Pentedrone	C12H17NO	4.89		missing SMILES		
+0382_01551	Pentifylline	C13H20N4O2	9.44		missing SMILES		
+0382_01552	Pentoxifylline	C13H18N4O3	5.23		missing SMILES		
+0382_01553	Pentoxyverine	C20H31NO3	7.87		missing SMILES		
+0382_01554	Pentylone	C13H17NO3	4.99		missing SMILES		
+0382_01555	Perazine	C20H25N3S	8.8		missing SMILES		
+0382_01557	Periciazine	C21H23N3OS	7.45		missing SMILES		
+0382_01559	Permethrin	C21H20Cl2O3	13.88		missing SMILES		
+0382_01560	Perphenazine	C21H26ClN3OS	9.55		missing SMILES		
+0382_01561	Pethidine	C15H21NO2	5.22		missing SMILES		
+0382_01562	Pethoxamide	C16H22ClNO2	10.09		missing SMILES		
+0382_01563	Phenacetin	C10H13NO2	5.93		missing SMILES		
+0382_01564	Phenazepam	C15H10BrClN2O	8.93		missing SMILES		
+0382_01565	Phenazepam- 3-Hydroxy	C15H10BrClN2O2	8.34		missing SMILES		
+0382_01567	Phenazone	C11H12N2O	4.63		missing SMILES		
+0382_01568	Phenazopyridine	C11H11N5	8.49		missing SMILES		
+0382_01569	Phencyclidine	C17H25N	5.74		missing SMILES		
+0382_01570	Phendimetrazine	C12H17NO	4.06		missing SMILES		
+0382_01571	Phenelzine	C8H12N2	3.71		missing SMILES		
+0382_01572	Phenethylamine (2-)	C8H11N	3.57		missing SMILES		
+0382_01573	Phenformin	C10H15N5	4.38		missing SMILES		
+0382_01574	Pheniramine	C16H20N2	4.98		missing SMILES		
+0382_01575	Pheniramine N-Oxide	C16H20N2O	5.39		missing SMILES		
+0382_01576	Pheniramine-Nor	C17H20N2O	5.79		missing SMILES		
+0382_01577	Phenmedipham	C16H16N2O4	8.75		missing SMILES		
+0382_01578	Phenmetrazine	C11H15NO	4.14		missing SMILES		
+0382_01579	Phenolphthalein	C20H14O4	7.06		missing SMILES		
+0382_01580	Phenothrin (tech) Peak 1	C23H26O3	13.38		missing SMILES		
+0382_01581	Phenothrin (tech) Peak 2	C23H26O3	13.97		missing SMILES		
+0382_01582	Phenoxybenzamide	C13H11NO2	7.79		missing SMILES		
+0382_01583	Phenoxybenzoic acid (3-)	C13H10O3	9.38		missing SMILES		
+0382_01584	Phenprocoumon	C18H16O3	9.05		missing SMILES		
+0382_01585	Phentermine	C10H15N	4.64		missing SMILES		
+0382_01586	Phenthoate	C12H17O4PS2	10.68		missing SMILES		
+0382_01587	Phentolamine	C17H19N3O	5.86		missing SMILES		
+0382_01588	Phenylbutazone	C19H20N2O2	8.98		missing SMILES		
+0382_01590	Phenyltoloxamine	C17H21NO	7.29		missing SMILES		
+0382_01591	Phenytoin	C15H12N2O2	7.08		missing SMILES		
+0382_01594	Pholedrine (Amphetamine-P-Hydroxy-methyl)	C10H15NO	2.91		missing SMILES		
+0382_01595	Phorate	C7H17O2PS3	11.37		missing SMILES		
+0382_01596	Phorate-oxon	C7H17O3PS2	8.6		missing SMILES		
+0382_01597	Phosalone	C12H15ClNO4PS2	11.27		missing SMILES		
+0382_01598	Phosmet	C11H12NO4PS2	8.94		missing SMILES		
+0382_01600	Phosphate-triethyl	C6H15O4P	6.16		missing SMILES		
+0382_01601	Phosphate-Triphenyl	C18H15O4P	11.01		missing SMILES		
+0382_01602	Phoxim	C12H15N2O3PS	11.21		missing SMILES		
+0382_01603	Phthalate-Benzyl butyl	C19H20O4	12.45		missing SMILES		
+0382_01604	Phthalate-bis-(2-ethylhexyl). DEHP	C24H38O4	15		missing SMILES		
+0382_01605	Phthalate-Diethyl	C12H14O4	8.5		missing SMILES		
+0382_01606	Phthalate-Dimethyl	C10H10O4	6.63		missing SMILES		
+0382_01607	Phthalate-Di-n-butyl	C16H22O4	12		missing SMILES		
+0382_01608	Phthalate-Di-n-octyl	C24H38O4	15.3		missing SMILES		
+0382_01609	Phthalate-Diphenyl	C20H14O4	11.2		missing SMILES		
+0382_01611	Picaridin (Icaridin)	C12H23NO3	8.83		missing SMILES		
+0382_01612	Picloram	C6H3Cl3N2O2	3.56		missing SMILES		
+0382_01613	Picolinafen	C19H12F4N2O2	12.31		missing SMILES		
+0382_01614	Pilocarpine	C11H16N2O2	2.74		missing SMILES		
+0382_01615	Pimozide	C28H29F2N3O	8.73		missing SMILES		
+0382_01616	Pindolol	C14H20N2O2	3.89		missing SMILES		
+0382_01617	Pioglitazone	C19H20N2O3S	9.09		missing SMILES		
+0382_01618	Pipamperone	C21H30FN3O2	6.11		missing SMILES		
+0382_01619	Piperazine - 1-3-Trifluoromethylphenyl	C11H13F3N2	5.93		missing SMILES		
+0382_01620	Piperazine -1[(4-chlorophenyl) phenyl methyl]	C17H19ClN2	8.53		missing SMILES		
+0382_01621	Piperazine -1-Piperonyl	C12H16N2O2	4.22		missing SMILES		
+0382_01622	Piperazine-o-Chlorophenyl	C10H13ClN2	5.08		missing SMILES		
+0382_01623	Piperiacetildenafil	C24H31N5O3	7.14		missing SMILES		
+0382_01624	Piperidin carboxamide (4-)	C6H12N2O	1.26		missing SMILES		
+0382_01625	Piperonyl butoxide	C19H30O5	12.37		missing SMILES		
+0382_01626	Pipotiazine	C24H33N3O3S2	7.39		missing SMILES		
+0382_01627	Pipradrol	C18H21NO	5.78		missing SMILES		
+0382_01628	Piprozolin	C14H22N2O3S	9.85		missing SMILES		
+0382_01629	Pirenzepine	C19H21N5O2	4.11		missing SMILES		
+0382_01630	Piretanide	C17H18N2O5S	7.17		missing SMILES		
+0382_01631	Pirimicarb	C11H18N4O2	7.77		missing SMILES		
+0382_01632	Pirimicarb-desmethyl	C10H16N4O2	5.89		missing SMILES		
+0382_01633	Pirimiphos-ethyl	C13H24N3O3PS	12.32		missing SMILES		
+0382_01634	Pirimiphos-methyl	C11H20N3O3PS	11.35		missing SMILES		
+0382_01635	Piritramide	C27H34N4O	8.19		missing SMILES		
+0382_01636	Pirmenol	C22H30N2O	6.01		missing SMILES		
+0382_01637	Piroxicam	C15H13N3O4S	6.84		missing SMILES		
+0382_01638	Pitofenone	C22H25NO4	5.44		missing SMILES		
+0382_01639	Pizotifen	C19H21NS	7.86		missing SMILES		
+0382_01640	PMA	C10H15NO	4.34		missing SMILES		
+0382_01641	PMMA  (para-Methoxy-N-methylamphetamine)	C11H17NO	4.3		missing SMILES		
+0382_01642	PPP- alpha	C13H17NO	4.01		missing SMILES		
+0382_01643	Practolol	C14H22N2O3	3.34		missing SMILES		
+0382_01647	Prazepam	C19H17ClN2O	10.58		missing SMILES		
+0382_01648	Praziquantel	C19H24N2O2	9.32		missing SMILES		
+0382_01649	Prazosin	C19H21N5O4	5.34		missing SMILES		
+0382_01654	Prenylamine	C24H27N	8.89		missing SMILES		
+0382_01655	Pretilachlor	C17H26ClNO2	11.78		missing SMILES		
+0382_01656	Prilocaine	C13H20N2O	4.69		missing SMILES		
+0382_01657	Primaquine	C15H21N3O	6.82		missing SMILES		
+0382_01658	Primidone	C12H14N2O2	5.29		missing SMILES		
+0382_01659	Proadifen	C23H31NO2	9.41		missing SMILES		
+0382_01660	Procainamide	C13H21N3O	2.83		missing SMILES		
+0382_01661	Procaine	C13H20N2O2	3.21		missing SMILES		
+0382_01662	Prochloraz	C15H16Cl3N3O2	11.25		missing SMILES		
+0382_01663	Prochlorperazine	C20H24ClN3S	9.89		missing SMILES		
+0382_01664	Procyclidine	C19H29NO	7.8		missing SMILES		
+0382_01665	Procymidone	C13H11Cl2NO2	10.22		missing SMILES		
+0382_01666	Profenophos	C11H15BrClO3PS	12.03		missing SMILES		
+0382_01670	Proguanil	C11H16ClN5	6.98		missing SMILES		
+0382_01671	Prohexadione	C10H12O5	5.63		missing SMILES		
+0382_01672	Prolinamide	C5H10N2O	1.31		missing SMILES		
+0382_01673	Prolintane	C15H23N	5.56		missing SMILES		
+0382_01674	Promazine	C17H20N2S	7.69		missing SMILES		
+0382_01675	Promazine-amino	C19H25N3S	8.54		missing SMILES		
+0382_01676	Promazine-Propionyl	C20H24N2OS	8.49		missing SMILES		
+0382_01677	Promecarb	C12H17NO2	9.51		missing SMILES		
+0382_01678	Promethazine	C17H20N2S	7.53		missing SMILES		
+0382_01679	Prometon	C10H19N5O	8.86		missing SMILES		
+0382_01680	Prometryn	C10H19N5S	10.06		missing SMILES		
+0382_01681	Propachlor	C11H14ClNO	8.25		missing SMILES		
+0382_01682	Propachlor-ESA	C11H15NO4S	5.46		missing SMILES		
+0382_01683	Propachlor-OXA	C11H13NO3	5.13		missing SMILES		
+0382_01684	Propafenone	C21H27NO3	7.81		missing SMILES		
+0382_01685	Propafenone-N-Desmethyl	C18H21NO3	7.09		missing SMILES		
+0382_01686	Propamocarb	C9H20N2O2	3.5		missing SMILES		
+0382_01687	Propanil	C9H9Cl2NO	9.38		missing SMILES		
+0382_01688	Propantheline (I+)	C23H30NO3	7.35		missing SMILES		
+0382_01689	Propaphos	C13H21O4PS	10.79		missing SMILES		
+0382_01691	Propargite	C19H26O4S	12.83		missing SMILES		
+0382_01692	Propazine	C9H16ClN5	9.16		missing SMILES		
+0382_01693	Propazine-2-hydroxy (Prometon-Hydroxy)	C9H17N5O	5.96		missing SMILES		
+0382_01694	Propetamphos	C10H20NO4PS	9.79		missing SMILES		
+0382_01695	Propham	C10H13NO2	8.11		missing SMILES		
+0382_01696	Propiconazole	C15H17Cl2N3O2	10.98		missing SMILES		
+0382_01697	Propipocaine	C17H25NO2	6.24		missing SMILES		
+0382_01698	Propiverine	C23H29NO3	9.36		missing SMILES		
+0382_01699	Propoxur	C11H15NO3	6.94		missing SMILES		
+0382_01700	Propoxyphenyl Thiohomosidenafil	C24H34N6O3S2	10.48		missing SMILES		
+0382_01701	Propranolol	C16H21NO2	6.59		missing SMILES		
+0382_01702	Propyphenazone	C14H18N2O	7.23		missing SMILES		
+0382_01703	Propyzamide (Pronamide)	C12H11Cl2NO	9.69		missing SMILES		
+0382_01704	Proquazone	C18H18N2O	9.61		missing SMILES		
+0382_01705	Proquinazid	C14H17IN2O2	13.35		missing SMILES		
+0382_01706	Prosulfocarb	C14H21NOS	11.92		missing SMILES		
+0382_01707	Prosulfuron	C15H16F3N5O4S	8.57		missing SMILES		
+0382_01708	Prothioconazole	C14H15Cl2N3OS	11.19		missing SMILES		
+0382_01709	Prothioconazole-desethio	C14H15Cl2N3O	10.46		missing SMILES		
+0382_01710	Prothipendyl	C16H19N3S	7.21		missing SMILES		
+0382_01711	Protionamide	C9H12N2S	6.36		missing SMILES		
+0382_01712	Protriptyline	C19H21N	7.99		missing SMILES		
+0382_01713	Proxyphylline	C10H14N4O3	4.34		missing SMILES		
+0382_01714	Psilocin	C12H16N2O	3.29		missing SMILES		
+0382_01715	PVP- Alpha	C15H21NO	5.08		missing SMILES		
+0382_01716	PX-1	C8H4O3	9.58		missing SMILES		
+0382_01719	Pyraclostrobin	C19H18ClN3O4	11.16		missing SMILES		
+0382_01720	Pyraflufen-ethyl	C13H9Cl2F3N2O4	10.9		missing SMILES		
+0382_01721	Pyranocoumarin	C20H18O4	11.07		missing SMILES		
+0382_01722	Pyrazolam	C16H12BrN5	6.27		missing SMILES		
+0382_01723	Pyrazophos	C14H20N3O5PS	11.4		missing SMILES		
+0382_01724	Pyrazoxyfen	C20H16Cl2N2O3	10.91		missing SMILES		
+0382_01727	Pyrethrins: Cinerin I	C20H28O3	12.9		missing SMILES		
+0382_01731	Pyribenzamine (Tripelenamine. Azaron)	C16H21N3	5.86		missing SMILES		
+0382_01732	Pyributicarb	C18H22N2O2S	12.52		missing SMILES		
+0382_01733	Pyridaben	C19H25ClN2OS	13.4		missing SMILES		
+0382_01734	Pyridaphenthion	C14H17N2O4PS	9.79		missing SMILES		
+0382_01735	Pyridate	C19H23ClN2O2S	13.76		missing SMILES		
+0382_01736	Pyridoxine	C8H11NO3	2.18		missing SMILES		
+0382_01738	Pyrilamine	C17H23N3O	6.04		missing SMILES		
+0382_01739	Pyrimethamine	C12H13ClN4	5.92		missing SMILES		
+0382_01740	Pyrimethanil	C12H13N3	9.44		missing SMILES		
+0382_01741	Pyrimidifen	C20H28ClN3O2	12.5		missing SMILES		
+0382_01742	Pyrimidinol	C8H12N2O	4.49		missing SMILES		
+0382_01743	Pyriproxyfen	C20H19NO3	12.61		missing SMILES		
+0382_01744	Pyritinol	C16H20N2O4S2	5.54		missing SMILES		
+0382_01745	Pyrovalerone	C16H23NO	6.03		missing SMILES		
+0382_01748	Quetiapine	C21H25N3O2S	7.26		missing SMILES		
+0382_01749	Quetiapine-Hydroxy	C21H25N3O3S	4.99		missing SMILES		
+0382_01751	Quinalphos	C12H15N2O3PS	10.8		missing SMILES		
+0382_01753	Quinclorac	C10H5Cl2NO2	4.9		missing SMILES		
+0382_01756	Quinmerac	C11H8ClNO2	4.75		missing SMILES		
+0382_01757	Quinoxyphen	C15H8Cl2FNO	12.78		missing SMILES		
+0382_01758	Quizalofop	C17H13ClN2O4	9.62		missing SMILES		
+0382_01759	Quizalofop-ethyl	C19H17ClN2O4	12.1		missing SMILES		
+0382_01760	Rabenzazole	C12H12N4	8.27		missing SMILES		
+0382_01761	Rabeprazole	C18H21N3O3S	7.52		missing SMILES		
+0382_01762	Ractopamine	C18H23NO3	4.39		missing SMILES		
+0382_01763	Ramifenazone	C14H19N3O	5.72		missing SMILES		
+0382_01765	Ranitidine	C13H22N4O3S	3.14		missing SMILES		
+0382_01769	Raubasine	C21H24N2O3	6.66		missing SMILES		
+0382_01770	RCS-4	C21H23NO2	11.8		missing SMILES		
+0382_01771	RCS-4-M-5-COOH-Pentyl	C21H21NO4	8.81		missing SMILES		
+0382_01772	RCS-4-M-5-OH-Pentyl	C21H23NO3	9.18		missing SMILES		
+0382_01773	RCS-4-ortho	C21H23NO2	11.23		missing SMILES		
+0382_01774	RCS-8	C25H29NO2	13.03		missing SMILES		
+0382_01776	Remifentanyl	C20H28N2O5	5.08		missing SMILES		
+0382_01777	Remoxipride	C16H23BrN2O3	5.06		missing SMILES		
+0382_01779	Reproterol	C18H23N5O5	3.56		missing SMILES		
+0382_01781	Resmethrin	C22H26O3	13.59		missing SMILES		
+0382_01787	Rilmenidine	C10H16N2O	4.4		missing SMILES		
+0382_01788	Riluzole	C8H5F3N2OS	9.12		missing SMILES		
+0382_01789	Rimantadin	C12H21N	6.71		missing SMILES		
+0382_01790	Rimonabant	C22H21Cl3N4O	12.82		missing SMILES		
+0382_01791	Rimsulfuron	C14H17N5O7S2	7.09		missing SMILES		
+0382_01792	Risperidone	C23H27FN4O2	5.88		missing SMILES		
+0382_01793	Risperidone-9-OH (Paliperidone)	C23H27FN4O3	5.33		missing SMILES		
+0382_01794	Ritalinic acid	C13H17NO2	4.61		missing SMILES		
+0382_01799	Rizatriptan	C15H19N5	3.49		missing SMILES		
+0382_01801	Ronidazole	C6H8N4O4	3.55		missing SMILES		
+0382_01802	Ropinirole	C16H24N2O	3.98		missing SMILES		
+0382_01803	Ropivacaine	C17H26N2O	5.39		missing SMILES		
+0382_01804	Rosiglitazone	C18H19N3O3S	6.98		missing SMILES		
+0382_01809	Salicylamide	C7H7NO2	4.76		missing SMILES		
+0382_01810	Salicylamide-N-Isopropyl	C10H13NO2	7.14		missing SMILES		
+0382_01811	Salicylic acid-4-Benzamido	C14H11NO4	5.47		missing SMILES		
+0382_01812	Salicylic acid-5-Amino	C7H7NO3	1.63		missing SMILES		
+0382_01813	Salmeterol	C25H37NO4	8.83		missing SMILES		
+0382_01814	Sarafloxacin	C20H17F2N3O3	4.83		missing SMILES		
+0382_01815	Schradan	C8H24N4O3P2	5.36		missing SMILES		
+0382_01818	SDB-005	C23H22N2O2	13.05		missing SMILES		
+0382_01819	SDB-005-5F	C23H21FN2O2	12.05		missing SMILES		
+0382_01820	SDB-006	C21H24N2O	11.23		missing SMILES		
+0382_01821	SDB-006 N-phenyl	C20H22N2O	11.27		missing SMILES		
+0382_01822	SDB-006-5F	C21H23FN2O	10.01		missing SMILES		
+0382_01823	Sebuthylazine	C9H16ClN5	9.09		missing SMILES		
+0382_01824	Secbumeton	C10H19N5O	8.79		missing SMILES		
+0382_01825	Semicarbazide (SEM)	CH5N3O	1.33		missing SMILES		
+0382_01831	Sertindole	C24H26ClFN4O	9.26		missing SMILES		
+0382_01837	Sibutramine	C17H26ClN	8.66		missing SMILES		
+0382_01838	Sibutramine-Didesmethyl	C11H12O2	8.98		missing SMILES		
+0382_01839	Sibutramine-Nor	C16H24ClN	8.68		missing SMILES		
+0382_01840	Siduron	C14H20N2O	9.37		missing SMILES		
+0382_01841	Sildenafil	C22H30N6O4S	7.88		missing SMILES		
+0382_01842	Sildenafil Norneo	C22H29N5O4S	10.86		missing SMILES		
+0382_01844	Sildenafil Thiohomo	C23H32N6O3S2	10.61		missing SMILES		
+0382_01845	Sildenafil-Benzyl	C28H34N6O4S	11.49		missing SMILES		
+0382_01847	Sildenafil-Hydroxyhomo	C23H32N6O5S	7.83		missing SMILES		
+0382_01848	Sildenafil-Hydroxythiohomo	C23H32N6O4S2	10.46		missing SMILES		
+0382_01849	Sildenafil-Nor	C21H28N6O4S	7.29		missing SMILES		
+0382_01850	Sildenafil-Thio	C22H30N6O3S2	10.6		missing SMILES		
+0382_01851	Sildenafin-Desmethyl	C21H28N6O4S	7.35		missing SMILES		
+0382_01852	Simazine	C7H12ClN5	7.07		missing SMILES		
+0382_01853	Simazine-2-hydroxy	C7H13N5O	4.21		missing SMILES		
+0382_01854	Simetryn	C8H15N5S	8.14		missing SMILES		
+0382_01858	Sotalol	C12H20N2O3S	2.96		missing SMILES		
+0382_01861	Spinosad A (Spinosyn A)	C42H71NO9	11.34		missing SMILES		
+0382_01867	Spirodiclofen	C21H24Cl2O4	13.03		missing SMILES		
+0382_01868	Spiromesifen	C23H30O4	12.8		missing SMILES		
+0382_01870	Spiroxamine	C18H35NO2	9.32		missing SMILES		
+0382_01871	Stanozolol	C21H32N2O	11.33		missing SMILES		
+0382_01874	STS-135	C24H31FN2O	12.21		missing SMILES		
+0382_01875	Sudan I	C16H12N2O	13.61		missing SMILES		
+0382_01876	Sudan II	C18H16N2O	14.94		missing SMILES		
+0382_01877	Sufentanil	C22H30N2O2S	7.31		missing SMILES		
+0382_01878	Sulcotrione	C14H13ClO5S	5		missing SMILES		
+0382_01879	Sulfabenzamide	C13H12N2O3S	4.72		missing SMILES		
+0382_01880	Sulfachloropyridazine	C10H9ClN4O2S	4.56		missing SMILES		
+0382_01881	Sulfaclomide	C12H13ClN4O2S	3.96		missing SMILES		
+0382_01882	Sulfaclozine	C10H9ClN4O2S	5.45		missing SMILES		
+0382_01883	Sulfadiazine	C10H10N4O2S	3.48		missing SMILES		
+0382_01884	Sulfadiazine-N4-Acetyl	C12H12N4O3S	4.11		missing SMILES		
+0382_01885	Sulfadimethoxine	C12H14N4O4S	5.6		missing SMILES		
+0382_01886	Sulfadimethoxine-N4-Acetyl	C14H16N4O5S	6.23		missing SMILES		
+0382_01887	Sulfadimidine (Sulfamethazine)	C12H14N4O2S	4.31		missing SMILES		
+0382_01888	Sulfadoxine	C12H14N4O4S	4.75		missing SMILES		
+0382_01889	Sulfaethidole	C6H8N2O2S	4.81		missing SMILES		
+0382_01890	Sulfaguanidine	C7H10N4O2S	1.93		missing SMILES		
+0382_01891	Sulfalene	C11H12N4O3S	4.44		missing SMILES		
+0382_01892	Sulfamerazine	C11H12N4O2S	3.95		missing SMILES		
+0382_01893	Sulfameter (sulfumetin)	C11H12N4O3S	4.18		missing SMILES		
+0382_01894	Sulfamethazine-N4-Acetyl	C14H16N4O3S	4.59		missing SMILES		
+0382_01895	Sulfamethizole	C9H10N4O2S2	4.21		missing SMILES		
+0382_01896	Sulfamethoxazole	C10H11N3O3S	4.6		missing SMILES		
+0382_01897	Sulfamethoxazole-N4-Acetyl  (Impurity A)	C12H13N3O4S	5.28		missing SMILES		
+0382_01898	Sulfamethoxypyridazine	C11H12N4O3S	4.38		missing SMILES		
+0382_01899	Sulfamonomethoxine	C11H12N4O3S	4.75		missing SMILES		
+0382_01900	Sulfamoxole	C11H13N3O3S	4.11		missing SMILES		
+0382_01901	Sulfanilamide	C6H8N2O2S	2.23		missing SMILES		
+0382_01902	Sulfapyridine	C11H11N3O2S	3.8		missing SMILES		
+0382_01903	Sulfaquinoxaline	C14H12N4O2S	5.81		missing SMILES		
+0382_01904	Sulfasalazine	C18H14N4O5S	6.61		missing SMILES		
+0382_01905	Sulfathiazole	C9H9N3O2S2	3.63		missing SMILES		
+0382_01906	Sulfathiazole-N4-Acetyl	C11H11N3O3S2	4.24		missing SMILES		
+0382_01907	Sulfathiazole-Phthalyl	C17H13N3O5S2	4.66		missing SMILES		
+0382_01908	Sulfinpyrazone	C23H20N2O3S	7.94		missing SMILES		
+0382_01909	Sulfisoxazole	C11H13N3O3S	4.71		missing SMILES		
+0382_01910	Sulfometuron-methyl	C15H16N4O5S	6.92		missing SMILES		
+0382_01911	Sulfotepp	C8H20O5P2S2	10.77		missing SMILES		
+0382_01912	Sulindac	C20H17FO3S	8.24		missing SMILES		
+0382_01913	Sulpiride	C15H23N3O4S	2.94		missing SMILES		
+0382_01914	Sulpiride-O-Desmethyl	C14H21N3O4S	3.18		missing SMILES		
+0382_01915	Sulprofos (Bolstar)	C12H19O2PS3	12.77		missing SMILES		
+0382_01916	Sulthiame	C10H14N2O4S2	4.11		missing SMILES		
+0382_01917	Sumatriptan	C14H21N3O2S	3.43		missing SMILES		
+0382_01918	Suxibuzone	C24H26N2O6	9.61		missing SMILES		
+0382_01919	SWEP.MCC	C8H7Cl2NO2	9.68		missing SMILES		
+0382_01921	Synphrine-Methyl	C10H15NO2	2.05		missing SMILES		
+0382_01922	Tacrine	C13H14N2	4.77		missing SMILES		
+0382_01927	Talinolol	C20H33N3O3	6.58		missing SMILES		
+0382_01931	TCMTB	C9H6N2S3	9.25		missing SMILES		
+0382_01932	Tebuconazole	C16H22ClN3O	10.87		missing SMILES		
+0382_01933	Tebufenozide	C22H28N2O2	10.45		missing SMILES		
+0382_01934	Tebufenpyrad	C18H24ClN3O	12.19		missing SMILES		
+0382_01935	Tebupirimphos	C13H23N2O3PS	12.32		missing SMILES		
+0382_01936	Tebutame	C15H23NO	10.25		missing SMILES		
+0382_01937	Tebuthiuron	C9H16N4OS	7.25		missing SMILES		
+0382_01938	Teflubenzuron	C14H6Cl2F4N2O2	12.51		missing SMILES		
+0382_01941	Telmisartan	C33H30N4O2	10.31		missing SMILES		
+0382_01942	Temazepam	C16H13ClN2O2	7.94		missing SMILES		
+0382_01943	Temephos	C16H20O6P2S3	12.36		missing SMILES		
+0382_01945	TEPP	C8H20O7P2	6.49		missing SMILES		
+0382_01948	Terazosin	C19H25N5O4	4.92		missing SMILES		
+0382_01949	Terbacil	C9H13ClN2O2	7.33		missing SMILES		
+0382_01951	Terbufos	C9H21O2PS3	12.25		missing SMILES		
+0382_01952	Terbufos sulfone	C9H21O4PS3	9.01		missing SMILES		
+0382_01953	Terbufos-sulfoxide	C9H21O3PS3	9		missing SMILES		
+0382_01954	Terbumeton	C10H19N5O	9.16		missing SMILES		
+0382_01955	Terbutaline	C12H19NO3	3.11		missing SMILES		
+0382_01956	Terbuthylazine	C9H16ClN5	9.36		missing SMILES		
+0382_01957	Terbuthylazine-desethyl	C7H12ClN5	7.48		missing SMILES		
+0382_01958	Terbuthylazine-desethyl-2-hydroxy	C7H13N5O	3.99		missing SMILES		
+0382_01959	Terbutryn	C10H19N5S	10.23		missing SMILES		
+0382_01962	Terfenadine	C32H41NO2	9.69		missing SMILES		
+0382_01963	Ternidazole	C7H11N3O3	4.21		missing SMILES		
+0382_01964	Terodiline	C20H27N	7.91		missing SMILES		
+0382_01965	Tertatolol	C16H25NO2S	6.76		missing SMILES		
+0382_01968	Tetracaine	C15H24N2O2	6.43		missing SMILES		
+0382_01969	Tetrachlorvinphos (Stirofos)	C10H9Cl4O4P	10.59		missing SMILES		
+0382_01970	Tetraconazole	C13H11Cl2F4N3O	10.14		missing SMILES		
+0382_01971	Tetradifon	C12H6Cl4O2S	12.2		missing SMILES		
+0382_01972	Tetraethylene glycol monododecyl ether	C20H42O5	13.52		missing SMILES		
+0382_01975	Tetrazepam	C16H17ClN2O	10.54		missing SMILES		
+0382_01976	Tetrazepam-Nor	C15H15ClN2O	10.13		missing SMILES		
+0382_01977	Tetroxoprim	C16H22N4O4	4.24		missing SMILES		
+0382_01978	Tetryzoline	C13H16N2	4.47		missing SMILES		
+0382_01979	TFMPP	C11H13F3N2	5.76		missing SMILES		
+0382_01981	THC-COOH. 11-COOH-THC. 11-nor-9-Carboxy-THC	C21H28O4	12.5		missing SMILES		
+0382_01983	THC-OH. 11-OH-THC	C21H30O3	12.47		missing SMILES		
+0382_01986	Thenylchlor	C16H18ClNO2S	10.07		missing SMILES		
+0382_01987	Theobromine	C7H8N4O2	3.28		missing SMILES		
+0382_01988	Theophylline	C7H8N4O2	3.93		missing SMILES		
+0382_01991	Thiabendazole	C10H7N3S	6.15		missing SMILES		
+0382_01992	Thiacloprid	C10H9ClN4S	5.62		missing SMILES		
+0382_01993	Thiacloprid-amide	C10H11ClN4OS	4.83		missing SMILES		
+0382_01994	Thiamethoxam	C8H10ClN5O3S	4.25		missing SMILES		
+0382_01995	Thiazopyr	C16H17F5N2O2S	10.72		missing SMILES		
+0382_01996	Thidiazuron	C9H8N4OS	7.17		missing SMILES		
+0382_01997	Thiethylperazine	C22H29N3S2	10.41		missing SMILES		
+0382_01998	Thifensulfuron-methyl	C12H13N5O6S2	6.24		missing SMILES		
+0382_01999	Thiobencarb	C12H16ClNOS	11.44		missing SMILES		
+0382_02000	Thiocyclam	C5H11NS3	3.16		missing SMILES		
+0382_02002	Thiofanox	C9H18N2O2S	7.8		missing SMILES		
+0382_02003	Thioguanine	C5H5N5S	2.53		missing SMILES		
+0382_02004	Thiometon	C6H15O2PS3	10.23		missing SMILES		
+0382_02005	Thionazin (Zinophos)	C8H13N2O3PS	8.35		missing SMILES		
+0382_02006	Thiophanate-ethyl	C14H18N4O4S2	8.61		missing SMILES		
+0382_02007	Thiophanate-methyl	C12H14N4O4S2	6.93		missing SMILES		
+0382_02008	Thiopropazate	C23H28ClN3O2S	9.61		missing SMILES		
+0382_02009	Thioproperazine	C22H30N4O2S2	8.15		missing SMILES		
+0382_02010	Thioridazine	C21H26N2S2	9.34		missing SMILES		
+0382_02011	Thioridazine-5-sulfoxide	C21H26N2OS2	6.64		missing SMILES		
+0382_02012	Thiothixene	C23H29N3O2S2	8.38		missing SMILES		
+0382_02013	Thiram (Tetramethylthiuramdisulfide.TMTD)	C6H12N2S4	6.8		missing SMILES		
+0382_02014	THJ	H2O3S2	13.65		missing SMILES		
+0382_02015	THJ-018	C23H22N2O	13.05		missing SMILES		
+0382_02016	THJ-2201	C23H21FN2O	11.89		missing SMILES		
+0382_02017	THJ-5F	C22H21FN4O	12.52		missing SMILES		
+0382_02018	Tiagabine	C20H25NO2S2	8.43		missing SMILES		
+0382_02020	Tiapride	C15H24N2O4S	3.41		missing SMILES		
+0382_02022	Ticlopidine	C14H14ClNS	9.25		missing SMILES		
+0382_02023	Tiemonium	C18H24NO2S	5.06		missing SMILES		
+0382_02027	Timolol	C13H24N4O3S	4.88		missing SMILES		
+0382_02028	Tinidazole	C8H13N3O4S	3.86		missing SMILES		
+0382_02029	Tiocarbazil	C16H25NOS	12.85		missing SMILES		
+0382_02030	Tiocarlide	C23H32N2O2S	13		missing SMILES		
+0382_02031	Tizanidine	C9H8ClN5S	3.64		missing SMILES		
+0382_02032	TMA	C12H19NO3	4.16		missing SMILES		
+0382_02033	Tokuthion (Prothiophos)	C11H15Cl2O2PS2	13.61		missing SMILES		
+0382_02034	Tolazamide	C14H21N3O3S	8.09		missing SMILES		
+0382_02035	Tolazoline	C10H12N2	3.28		missing SMILES		
+0382_02036	Tolbutamide	C12H18N2O3S	7.68		missing SMILES		
+0382_02037	Tolclofos-methyl	C9H11Cl2O3PS	11.42		missing SMILES		
+0382_02038	Tolfenpyrad	C21H22ClN3O2	12.36		missing SMILES		
+0382_02039	Toliprolol	C13H21NO2	5.29		missing SMILES		
+0382_02040	Tolmetin	C15H15NO3	7.89		missing SMILES		
+0382_02041	Tolnaftate	C19H17NOS	12.25		missing SMILES		
+0382_02042	Tolpropamine	C18H23N	7.47		missing SMILES		
+0382_02043	Tolycaine	C15H22N2O3	4.59		missing SMILES		
+0382_02044	Tolyfluanid	C10H13Cl2FN2O2S2	10.78		missing SMILES		
+0382_02046	Torasemide	C16H20N4O3S	6.67		missing SMILES		
+0382_02047	Toremifene	C26H28ClNO	10.49		missing SMILES		
+0382_02048	Tralkoxydim peak 1	C20H27NO3	9.84		missing SMILES		
+0382_02049	Tralkoxydim peak 2	C20H27NO3	12.47		missing SMILES		
+0382_02052	Tramadol-N-bisdesmethyl (dinor-tramadol)	C14H21NO2	5.19		missing SMILES		
+0382_02053	Tramadol-Nor (Tramadol-N-desmethyl)	C15H23NO2	5.3		missing SMILES		
+0382_02055	Tramadol-O-Desmethyl	C15H23NO2	4.06		missing SMILES		
+0382_02059	Tranexamic acid	C8H15NO2	1.79		missing SMILES		
+0382_02061	Trapidil	C10H15N5	6.64		missing SMILES		
+0382_02062	Trazodone	C19H22ClN5O	6.48		missing SMILES		
+0382_02064	Triadimefon	C14H16ClN3O2	9.68		missing SMILES		
+0382_02065	Triadimenol	C14H18ClN3O2	9.93		missing SMILES		
+0382_02066	Triallate	C10H16Cl3NOS	12.73		missing SMILES		
+0382_02069	Triamterene	C12H11N7	4.68		missing SMILES		
+0382_02070	Triasulfuron	C14H16ClN5O5S	6.6		missing SMILES		
+0382_02071	Triazamate	C13H22N4O3S	6.38		missing SMILES		
+0382_02072	Triazolam	C17H12Cl2N4	8.05		missing SMILES		
+0382_02073	Triazolam-1-Hydroxymethyl (alpha-Hydroxy-Triazolam)	C17H12Cl2N4O	7.65		missing SMILES		
+0382_02074	Triazophos	C12H16N3O3PS	9.9		missing SMILES		
+0382_02075	Triazoxide	C10H6ClN5O	8.37		missing SMILES		
+0382_02076	Tribenuron-methyl	C15H17N5O6S	7.94		missing SMILES		
+0382_02077	Tribufos (Merphos oxide. DEF)	C12H27OPS3	13.39		missing SMILES		
+0382_02078	Tributylamine	C12H27N	5.28		missing SMILES		
+0382_02079	Trichlorfon (Dylox)	C4H8Cl3O4P	5.23		missing SMILES		
+0382_02080	Trichloronate	C10H12Cl3O2PS	13.53		missing SMILES		
+0382_02081	Triclabendazole	C14H9Cl3N2OS	11.96		missing SMILES		
+0382_02082	Triclocarban	C13H9Cl3N2O	11.96		missing SMILES		
+0382_02083	Triclopyr	C7H4Cl3NO3	7.85		missing SMILES		
+0382_02084	Triclopyr-methylester	C8H6Cl3NO3	10.44		missing SMILES		
+0382_02085	Tricyclazole	C9H7N3S	5.93		missing SMILES		
+0382_02086	Trietazine	C9H16ClN5	10.15		missing SMILES		
+0382_02087	Triethylphosphorothioate (O.O.O-)	C6H15O3PS	9.04		missing SMILES		
+0382_02089	Trifloxysulfuron	C14H14F3N5O6S	8.11		missing SMILES		
+0382_02090	Triflumizole	C15H15ClF3N3O	11.83		missing SMILES		
+0382_02091	Triflumuron	C15H10ClF3N2O3	11.23		missing SMILES		
+0382_02092	Trifluoperazine	C21H24F3N3S	10.24		missing SMILES		
+0382_02093	Trifluperidol	C22H23F4NO2	7.42		missing SMILES		
+0382_02094	Triflupromazine	C18H19F3N2S	9.27		missing SMILES		
+0382_02095	Triflusulfuron-methyl	C17H19F3N6O6S	9.22		missing SMILES		
+0382_02096	Triforine	C10H14Cl6N4O2	8.65		missing SMILES		
+0382_02097	Trihexyphenidyl. Benzhexol	C20H31NO	7.86		missing SMILES		
+0382_02098	Trimeprazine	C18H22N2S	7.93		missing SMILES		
+0382_02099	Trimethacarb (2.3.5-)	2C11H15NO2	8.4		missing SMILES		
+0382_02100	Trimethacarb (3.4.5-)	C11H15NO2	8.1		missing SMILES		
+0382_02101	Trimethobenzamide	C21H28N2O5	4.86		missing SMILES		
+0382_02102	Trimethoprim	C14H18N4O3	4.06		missing SMILES		
+0382_02103	Trimipramine	C20H26N2	8.31		missing SMILES		
+0382_02104	Trimipramine-Nor	C19H24N2	8.49		missing SMILES		
+0382_02105	Trinexapac-ethyl	C13H16O5	8.45		missing SMILES		
+0382_02106	Triperiden Isomere 1	C21H29NO	7.21		missing SMILES		
+0382_02107	Triperiden Isomere 2	C21H29NO	8.01		missing SMILES		
+0382_02109	Triptyline-Nor	C19H21N	8.51		missing SMILES		
+0382_02111	Tritoqualine	C26H32N2O8	11.98		missing SMILES		
+0382_02112	Tromantadine	C16H28N2O2	6.64		missing SMILES		
+0382_02113	Tropicamide	C17H20N2O2	6.03		missing SMILES		
+0382_02116	Tulobuterol	C12H18ClNO	5.17		missing SMILES		
+0382_02118	Tyramine	C8H11NO	2.28		missing SMILES		
+0382_02119	Tyrosine-3.5-Diiodo	C9H9I2NO3	4.77		missing SMILES		
+0382_02120	Udenafil	C25H36N6O4S	7.83		missing SMILES		
+0382_02122	UR-144	C21H29NO	12.93		missing SMILES		
+0382_02123	UR-144 Isomer	C21H29NO	12.71		missing SMILES		
+0382_02124	Valdecoxib	C16H14N2O3S	7.37		missing SMILES		
+0382_02127	Vamidothion	C8H18NO4PS2	5.02		missing SMILES		
+0382_02129	Vardenafil	C23H32N6O4S	8.11		missing SMILES		
+0382_02130	Vardenafil-Acetyl	C25H34N6O3	7.16		missing SMILES		
+0382_02131	Vardenafil-Hydroxy	C23H32N6O5S	8.05		missing SMILES		
+0382_02132	Vardenafil-Pseudo	C22H29N5O4S	10.62		missing SMILES		
+0382_02134	Vegadex (Sulfallate)	C8H14ClNS2	11.05		missing SMILES		
+0382_02135	Venlafaxine	C17H27NO2	6.14		missing SMILES		
+0382_02136	Venlafaxine- D L-N N-Didesmethyl	C15H23NO2	6.34		missing SMILES		
+0382_02137	Venlafaxine-D L-N O-Didesmethyl	C15H23NO2	4.91		missing SMILES		
+0382_02138	Venlafaxine-N-Desmethyl (norvenlafaxine)	C16H25NO2	6.18		missing SMILES		
+0382_02139	Venlafaxine-N-oxide	C17H27NO3	6.94		missing SMILES		
+0382_02140	Venlafaxine-O-Desmethyl (Desvenlafaxine)	C16H25NO2	4.76		missing SMILES		
+0382_02141	Verapamil	C27H38N2O4	7.03		missing SMILES		
+0382_02142	Verapamil-Nor	C26H36N2O4	6.96		missing SMILES		
+0382_02143	Vernolate	C10H21NOS	11.48		missing SMILES		
+0382_02144	Vigabatrin	C6H11NO2	1.38		missing SMILES		
+0382_02147	Vinclozolin	C12H9Cl2NO3	10.64		missing SMILES		
+0382_02148	WIN-48-098	C23H26N2O3	9.55		missing SMILES		
+0382_02150	Xanthinol	C13H21N5O4	2.99		missing SMILES		
+0382_02151	Xipamide	C15H15ClN2O4S	7.36		missing SMILES		
+0382_02152	XLR-11	C21H28FNO	11.91		missing SMILES		
+0382_02153	XLR-11 Isomer	C21H28FNO	11.59		missing SMILES		
+0382_02154	XLR-12	C20H24F3NO	12.02		missing SMILES		
+0382_02155	XMC (Group of peaks!)	C10H13NO2	7.78		missing SMILES		
+0382_02156	Xylometazoline	C16H24N2	7.75		missing SMILES		
+0382_02158	Zaleplon	C17H15N5O	6.61		missing SMILES		
+0382_02161	Ziprasidone	C21H21ClN4OS	8.03		missing SMILES		
+0382_02163	Zolpidem	C19H21N3O	5.8		missing SMILES		
+0382_02164	Zonisamide	C8H8N2O3S	4.53		missing SMILES		
+0382_02165	Zopiclone	C17H17ClN6O3	4.89		missing SMILES		
+0382_02166	Zotepine	C18H18ClNOS	9.04		missing SMILES		
+0382_02167	Zoxamide	C14H16Cl3NO2	11.08		missing SMILES		
+0382_02169	2-Acrylamido-2-methylpropane sulfonic acid (AMPS)	C7H13NO4S	2.8		missing SMILES		
+0382_02170	Propylthiouracil	C7H10N2OS	4.506		missing SMILES		
+0382_02171	Methiocarb-sulfoxide phenol	C9H12O2S	4.634		missing SMILES		
+0382_02172	Metolachlor CGA 368208	C11H15NO4S	5.237		missing SMILES		
+0382_02173	2-Hydroxycarbamazepine	C15H12N2O2	6.034		missing SMILES		
+0382_02174	Flutamide	C11H11F3N2O3	11.153		missing SMILES		
+0382_02176	Ethylparaben	C9H10O3	7.153		missing SMILES		
+0382_02177	Butylparaben	C11H14O3	9.461		missing SMILES		
+0382_02178	Bisphenol S	C12H10O4S	5.346		missing SMILES		
+0382_02179	Methylparaben	C8H8O3	5.999		missing SMILES		
+0382_02180	Propylparaben	C10H12O3	8.357		missing SMILES		
+0382_02181	4-Hydroxybenzotriazole	C6H5N3O	4.028		missing SMILES		
+0382_02182	5-Aminonaphthalene-2-sulfonic acid	C10H9NO3S	3.275		missing SMILES		
+0382_02185	17alpha-Hydroxyprogesterone	C21H30O3	10.012		missing SMILES		
+0382_02188	Lauric isopropanolamide	C15H31NO2	12.054		missing SMILES		
+0382_02189	Warfarin	C19H16O4	9.351		missing SMILES		
+0382_02190	Genistein	C15H10O5	7.696		missing SMILES		
+0382_02191	Propoxycarbazone	C15H18N4O7S	5.728		missing SMILES		
+0382_02193	Dimethachlor CGA369873	C10H13NO4S	9.341		missing SMILES		
+0382_02194	Metazachlor BH479-12	C14H13N3O5	4.424		missing SMILES		
+0382_02197	Daminozide	C6H12N2O3	2.179		missing SMILES		
+0382_02199	Metazachlor OA	C14H15N3O3	5.086		missing SMILES		
+0382_02200	Prochloraz BTS44596	C13H15Cl3N2O3	11.158		missing SMILES		
+0382_02201	Metolachlor CGA 357704	C14H17NO5	6.842		missing SMILES		
+0382_02202	Prochloraz BTS40348	C11H14Cl3NO	6.993		missing SMILES		
+0382_02203	Chlorothalonil R611965	C8H4Cl3NO3	3.882		missing SMILES		
+0382_02204	Metazachlor BH 479-9	C16H19N3O4S	4.936		missing SMILES		
+0382_02205	Metazachlor BH 479-11	C15H19N3O2S	5.538		missing SMILES		
+0382_02206	4-Formyl-antipyrine	C12H12N2O2	3.977		missing SMILES		
+0382_02207	3,3-pentamethylene-4-butyrolactam	C9H15NO	6.636		missing SMILES		
+0382_02208	2-(2-(Chlorophenyl)amino)benzaldehyde	C13H10ClNO	11.404		missing SMILES		
+0382_02212	4-Hydroxytamoxifen	C26H29NO2	9.096		missing SMILES		
+0382_02213	Clofibrate	C12H15ClO3	11.002		missing SMILES		
+0382_02214	4-Fluorobenzoylpropionic acid	C10H9FO3	6.086		missing SMILES		
+0382_02215	N-Acetyl mesalazine	C9H9NO4	3.427		missing SMILES		
+0382_02217	Bosentan	C27H29N5O6S	9.959		missing SMILES		
+0382_02218	Imatinib	C29H31N7O	6.597		missing SMILES		
+0382_02220	Montelukast	C35H36ClNO3S	13.371		missing SMILES		
+0382_02221	Isophorone diamine	C10H22N2	1.67		missing SMILES		
+0382_02222	4`-Aminoacetanilide	C8H10N2O	2.272		missing SMILES		
+0382_02223	4-Aminobenzamide	C7H8N2O	2.372		missing SMILES		
+0382_02224	Diglyme	C6H14O3	3.904		missing SMILES		
+0382_02225	Triglyme	C8H18O4	4.279		missing SMILES		
+0382_02226	Creatinine	C4H7N3O	1.26		missing SMILES		
+0382_02227	Desphenyl chloridazon	C4H4ClN3O	2.322		missing SMILES		
+0382_02228	N,N-Dimethylsulfamide	C2H8N2O2S	2.021		missing SMILES		
+0382_02229	N-Methyl-2-pyrrolidone	C5H9NO	3.101		missing SMILES		
+0382_02230	1-(3-carboxypropyl)-3,7-dimethylxanthine	C11H14N4O4	4.48		missing SMILES		
+0382_02231	6-Mercaptopurine	C5H4N4S	2.623		missing SMILES		
+0382_02232	2,4-Diaminobenzenesulfonic acid	C6H8N2O3S	1.359		missing SMILES		
+0382_02233	Phthalamic acid	C8H7NO3	2.874		missing SMILES		
+0382_02234	1,2,4-Triazole	C2H3N3	1.564		missing SMILES		
+0382_02235	Methacrylamide	C4H7NO	2.806		missing SMILES		
+0382_02236	5-Hydroxyindole-3-acetic acid	C10H9NO3	3.926		missing SMILES		
+0382_02237	Indole-3-acetic acid	C10H9NO2	5.781		missing SMILES		
+0382_02259	Betamethasone dipropionate	C28H37FO7	11.294		missing SMILES		
+0382_02260	Betamethasone-17-valerate	C27H37FO6	11.043		missing SMILES		
+0382_02264	N,N-Dimethyldodecylamine N-oxide	C14H31NO	11.15		missing SMILES		
+0382_02265	Benzyldimethylhexadecylammonium	C25H46N	13.107		missing SMILES		
+0382_02266	Hexadecyltrimethylammonium	C19H42N	12.857		missing SMILES		
+0382_02267	Lauryl diethanolamide	C16H33NO3	11.702		missing SMILES		
+0382_02268	Trimethyloctylammonium	C11H26N	6.082		missing SMILES		
+0382_02269	Amidosulfobetaine-14	C22H46N2O4S	15.014		missing SMILES		
+0382_02270	Lauramidopropylbetaine	C19H38N2O3	13.057		missing SMILES		
+0382_02271	N-Methyldodecylamine	C13H29N	10.498		missing SMILES		
+0382_02272	Benzyldimethyltetradecylammonium	C23H42N	12.204		missing SMILES		
+0382_02273	N,N-Dimethyltetradecylamine-N-oxide	C16H35NO	12.556		missing SMILES		
+0382_02274	N,N-Dimethyldodecylamine	C14H31N	10.398		missing SMILES		
+0382_02275	N,N-Dimethyldecylamine	C12H27N	8.591		missing SMILES		
+0382_02276	N,N-Dimethyltetradecylamine	C16H35N	11.803		missing SMILES		
+0382_02277	Triethylcitrate	C12H20O7	6.943		missing SMILES		
+0382_02278	Phenylbenzimidazole sulfonic acid	C13H10N2O3S	4.635		missing SMILES		
+0382_02279	1,2-Benzisothiazolinone	C7H5NOS	5.137		missing SMILES		
+0382_02280	2-Octyl-4-isothiazolin-3-one	C11H19NOS	10.305		missing SMILES		
+0382_02281	Benzophenone-4	C14H12O6S	6.19		missing SMILES		
+0382_02282	3-Iodopropynyl butylcarbamate	C8H12INO2	8.047		missing SMILES		
+0382_02283	2-Benzothiazolesulfonic acid	C7H5NO3S2	4.484		missing SMILES		
+0382_02284	Daidzein	C15H10O4	6.893		missing SMILES		
+0382_02285	Denatonium	C21H28N2O	12.312		missing SMILES		
+0382_02286	2-(4-Morpholinyl)benzothiazole	C11H12N2OS	8.498		missing SMILES		
+0382_02287	2-Morpholinothiobenzothiazole	C11H12N2OS2	9.853		missing SMILES		
+0382_02288	N-Cyclohexyl-2-benzothiazol-amine	C13H16N2S	10.857		missing SMILES		
+0382_02289	5-Carboline	C11H8N2	8.699		missing SMILES		
