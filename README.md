@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # RepoRT
 
 *RepoRT* is a repository dedicated to the collection of training data
@@ -42,7 +36,7 @@ repository, please get in contact with Michael Witting
 The following people and resources contributed training data for this
 repository.
 
-## Repositories:
+## Collections:
 
 -   [PredRet](http://predret.org/)
 -   [Phenome Centre](https://github.com/phenomecentre/npc-open-lcms)
