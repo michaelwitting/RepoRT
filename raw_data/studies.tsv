@@ -220,7 +220,6 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0219	SNU_RIKEN_POS			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
 0220	cecum_JS			PredRet	RP	gradient: missing times	temperature	
 0221	SNU_RP_indole_annotation			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
-0222	METLIN RP			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
 0223	SNU_RP_indole_order			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
 0224	JKC_Probiotics			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
 0225	AjsTestF			PredRet	HILIC		temperature, flow rate	
