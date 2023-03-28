@@ -179,7 +179,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_00225	Carboxyibuprofen	C13H16O4	1.11		missing SMILES		
 0228_00226	Carnitine	C7H15NO3	7.83		missing SMILES		
 0228_00228	Carvedilol	C24H26N2O4	3.17		missing SMILES		
-0228_00228	Catechin	C15H14O6	4.11		missing SMILES		
 0228_00231	Cefatrizine	C18H18N6O5S2	7.98		missing SMILES		
 0228_00236	Cetraxate	C17H23NO4	5.29		missing SMILES		
 0228_00237	CGS 12066B	C17H17F3N4	2.21		missing SMILES		
