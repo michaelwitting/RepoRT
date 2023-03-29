@@ -177,10 +177,10 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0176	HILIC17 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0177	HILIC18 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0178	HILIC19 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
-0179	RP Geneva DB maXisQTOF pos			Dataset - Rudaz	RP			S. Rudaz
-0180	RP Geneva DB maXisQTOF neg			Dataset - Rudaz	RP			S. Rudaz
-0181	RP VION QTOF pos			Dataset - Rudaz	RP	sometimes two RTs		S. Rudaz
-0182	RP VION QTOF new			Dataset - Rudaz	RP	sometimes two RTs		S. Rudaz
+0179	RP Geneva DB maXisQTOF pos	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
+0180	RP Geneva DB maXisQTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
+0181	RP VION QTOF pos	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP	sometimes two RTs		J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
+0182	RP VION QTOF new	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP	sometimes two RTs		J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
 0183	aHILIC Geneva DB maXisQTOF pos	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication - Pezzatti	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
 0184	aHILIC Geneva DB maXisQTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication - Pezzatti	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
 0185	zHILIC Geneva DB VION QTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication - Pezzatti	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
