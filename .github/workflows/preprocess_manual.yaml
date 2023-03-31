@@ -112,6 +112,10 @@ jobs:
     - name: Verify that required files are present
       run: Rscript scripts/R_ci/files_complete.R ${{ inputs.datasets }}
 
+    - name: Update overview table of all datasets
+      run: python3 scripts/Python/datasets_overview.py
+      continue-on-error: true
+ 
     - name: Commit preprocessing
       run: |
         git config --global user.email 'actions@github.com'
