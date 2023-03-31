@@ -1,0 +1,2 @@
+id	name	method.type	source	url	pmid	authors	missing information	comment
+0020	Cao_HILIC	HILIC	PredRet	https://doi.org/10.1007/s11306-014-0727-x		M. Cao, K. Fraser, J. Huege, T. Featonby, S. Rasmussen, C. Jones	flow rate	unknown amount of solvent

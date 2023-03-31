@@ -1,0 +1,2 @@
+id	name	method.type	source	url	pmid	authors	missing information	comment
+0216	SNU_RP_30	RP	PredRet				column length, ID, particle size, gradient, temperature, flow rate	

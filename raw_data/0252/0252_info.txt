@@ -1,0 +1,2 @@
+id	name	method.type	source	url	pmid	authors	missing information	comment
+0252	MSMS_pos_30_ACN_BEH C18	RP	Dataset - BGC			E.-M. Harrieder, M. Witting		

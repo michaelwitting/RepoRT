@@ -1,0 +1,2 @@
+id	name	method.type	source	url	pmid	authors	missing information	comment
+0004	MTBLS20	RP	PredRet	https://doi.org/10.1021/ac300829f	22770225	A. Roux, Y. Xu, J.-F. Heilier, M.-F. Olivier, E. Ezan, J.-C. Tabe, C. Junot	temperature, flow rate	different chromatographic conditions of HPLC and UHPLC but only one RT

@@ -1,0 +1,2 @@
+id	name	method.type	source	url	pmid	authors	missing information	comment
+0021	MPI_Symmetry	RP	PredRet	https://doi.org/10.1021/ac101825k	21182243	F. Rasche, A. Svatoš, R. K. Maddula, C. Böttcher, S. Böcker	column length, ID and particle size; temperature, gradient and flow rate	

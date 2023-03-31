@@ -1,0 +1,2 @@
+id	name	method.type	source	url	pmid	authors	missing information	comment
+0018	UniToyama_Atlantis	RP	PredRet	https://www.massbank.eu			temperature, gradient and flow rate	

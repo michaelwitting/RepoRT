@@ -1,0 +1,2 @@
+id	name	method.type	source	url	pmid	authors	missing information	comment
+0229	Dafachronic acids	RP	BGC			E.-M. Harrieder, M. Witting		

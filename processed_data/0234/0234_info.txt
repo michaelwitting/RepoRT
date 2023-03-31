@@ -1,0 +1,2 @@
+id	name	method.type	source	url	pmid	authors	missing information	comment
+0234	RNEG_ROI_V_3_1_0	RP	The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics					

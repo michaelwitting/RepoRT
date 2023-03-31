@@ -1,0 +1,2 @@
+id	name	method.type	source	url	pmid	authors	missing information	comment
+0387	AA_LC6	RP	Publication - Aalizadeh	https://doi.org/10.1021/acs.analchem.2c02893	36347512	R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis		

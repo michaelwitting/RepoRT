@@ -1,0 +1,2 @@
+id	name	method.type	source	url	pmid	authors	missing information	comment
+0321	MSMS_neg_40_MeOH_Raptor Biphenyl	RP	Dataset - BGC			E.-M. Harrieder, M. Witting		

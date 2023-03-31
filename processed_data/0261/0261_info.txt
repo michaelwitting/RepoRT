@@ -1,0 +1,2 @@
+id	name	method.type	source	url	pmid	authors	missing information	comment
+0261	Synergi_Neg	RP	Dataset - Huber	https://doi.org/10.1021/acs.analchem.1c00972		C. Huber		
