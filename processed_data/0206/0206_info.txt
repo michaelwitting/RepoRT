@@ -1,2 +1,2 @@
 id	name	method.type	source	url	pmid	authors	missing information	comment
-0206	RP_PSB_HF	RP	PredRet					
+0206	RP_PSB_HF	RP	PredRet				gradient, temperatur, flow rate	

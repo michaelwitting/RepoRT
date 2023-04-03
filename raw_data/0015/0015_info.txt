@@ -1,2 +1,2 @@
 id	name	method.type	source	url	pmid	authors	missing information	comment
-0015	MTBLS36	RP	PredRet					different flow rates during gradient (0,25 and 0,4 ml/min)
+0015	MTBLS36	RP	PredRet	https://doi.org/10.1038/sdata.2014.29		Beisken et al.		different flow rates during gradient (0,25 and 0,4 ml/min)

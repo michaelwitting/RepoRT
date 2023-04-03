@@ -1,2 +1,2 @@
 id	name	method.type	source	url	pmid	authors	missing information	comment
-0019	Eawag_XBridgeC18	RP	PredRet	https://doi.org/10.1021/es4044374	24417318	E. L. Schymanski, H. P. Singer, P. Longrée, M. Loos, M. Ruff, M. A. Stravs, C. R. Vidal, J. Hollender		
+0019	Eawag_XBridgeC18	RP	PredRet	https://doi.org/10.1021/es4044374,  10.1002/jms.3131	24417318	E. L. Schymanski, H. P. Singer, P. Longrée, M. Loos, M. Ruff, M. A. Stravs, C. R. Vidal, J. Hollender; M. A. Stravs, E. L. Schymanski, H. P. Singer, J. Hollender		

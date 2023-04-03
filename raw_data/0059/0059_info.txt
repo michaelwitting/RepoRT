@@ -1,2 +1,2 @@
 id	name	method.type	source	url	pmid	authors	missing information	comment
-0059	CS19	RP	PredRet	https://doi.org/10.1016/j.foodchem.2021.129760		Low et al.	temperature	
+0059	CS19	RP	PredRet	https://doi.org/10.1016/j.foodchem.2021.129760		Low et al.		column name not specific

@@ -1,64 +1,63 @@
-id	name	doi	pmid	source	method.type	comment	missing information	authors
+id	name	url	pmid	source	method.type	comment	missing information	authors
 0001	FEM_short	https://doi.org/10.1007/s11306-014-0638-x		PredRet	RP	guard column		P. Arapitsas, G. Speri, A. Angeli, D. Perenzoni, Fulvio Mattivi
 0002	FEM_long	https://doi.org/10.1007/s11306-011-0298-z		PredRet	RP			G. Theodoridis, H. Gika, P. Franceschi, L. Caputi, P. Arapitsas, M. Scholz, D. Masuero, R. Wehrens, U. Vrhovsek, F. Mattivi 
-0003	IPB_Halle	https://doi.org/10.1007/s00216-013-6954-6	23615935	PredRet	RP		temperature, flow rate	J. Stanstrup, M. Gerlich, L. O. Dragsted, S. Neumann 
-0004	MTBLS20	https://doi.org/10.1021/ac300829f	22770225	PredRet	RP	different chromatographic conditions of HPLC and UHPLC but only one RT	temperature, flow rate	A. Roux, Y. Xu, J.-F. Heilier, M.-F. Olivier, E. Ezan, J.-C. Tabe, C. Junot
-0005	MTBLS38			PredRet	RP	different flow rates during gradient (0,25 and 0,4 ml/min)		
-0006	MTBLS39			PredRet	RP	guard column	temperature	
-0007	MTBLS87			PredRet	HILIC		temperature	
+0003	IPB_Halle	https://doi.org/10.1007/s00216-013-6954-6; 10.1016/j.phytochem.2014.10.003	23615935	PredRet	RP		temperature, flow rate	J. Stanstrup, M. Gerlich, L. O. Dragsted, S. Neumann; N. Strehmel, C. Böttcher, S. Schmidt, D. Scheel
+0004	MTBLS20	https://doi.org/10.1021/ac300829f	22770225	PredRet	RP	different chromatographic conditions of HPLC and UHPLC but only one RT	temperature	A. Roux, Y. Xu, J.-F. Heilier, M.-F. Olivier, E. Ezan, J.-C. Tabe, C. Junot
+0005	MTBLS38	https://doi.org/10.1002/minf.201400016		PredRet	RP	different flow rates during gradient (0,25 and 0,4 ml/min)		Beisken et al.
+0006	MTBLS39	https://doi.org/10.1186/gb-2013-14-6-r54		PredRet	RP	guard column	temperature	Dal Santo et al.
+0007	MTBLS87	https://doi.org/10.1039/C4MB00346B		PredRet	HILIC		temperature	R. Chaleckis, M. Ebe, T. Pluskal, I. Murakami, H. Kondoh, M. Yanagida
 0008	MTBLS4	https://doi.org/10.1002/rcm.4015	19347970	PredRet	RP			A. Koulman, G. Woffendin, V. K. Narayana, H. Welchman, C. Crone, D. A. Volmer
 0009	RIKEN	https://doi.org/10.1093/pcp/pcn183	19054808	PredRet	RP		column length, ID and particle size	Y. Sawada, K. Akiyama, A. Sakata, A. Kuwahara, H. Otsuki, T. Sakurai, K. Saito, M. Y. Hirai
-0010	FEM_lipids			PredRet	RP			
-0011	FEM_orbitrap_plasma			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
-0012	FEM_orbitrap_urine			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
-0013	MTBLS17			PredRet	RP	column name not specific	temperature	
-0014	MTBLS19			PredRet	RP	column name not specific	temperature	
-0015	MTBLS36			PredRet	RP	different flow rates during gradient (0,25 and 0,4 ml/min)		
-0016	MTBLS52			PredRet	RP			
+0010	FEM_lipids	https://doi.org/10.1016/j.talanta.2015.03.003		PredRet	RP			A. Della Corts, G. Chitarrini, I. Di Gangim D. Masuero, E. Soini, F. Mattivi, U. Vrhovsek
+0011	FEM_orbitrap_plasma	https://doi.org/10.1016/j.talanta.2015.03.003		PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	A. Della Corts, G. Chitarrini, I. Di Gangim D. Masuero, E. Soini, F. Mattivi, U. Vrhovsek
+0012	FEM_orbitrap_urine	https://doi.org/10.1016/j.talanta.2015.03.003		PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	A. Della Corts, G. Chitarrini, I. Di Gangim D. Masuero, E. Soini, F. Mattivi, U. Vrhovsek
+0013	MTBLS17	https://doi.org/10.1016/j.aca.2012.07.013		PredRet	RP	column name not specific	temperature	Ressom et al.
+0014	MTBLS19	https://doi.org/10.1021/pr300673x		PredRet	RP	column name not specific	temperature	Xiao et al.
+0015	MTBLS36	https://doi.org/10.1038/sdata.2014.29		PredRet	RP	different flow rates during gradient (0,25 and 0,4 ml/min)		Beisken et al.
+0016	MTBLS52	metaboloLights		PredRet	RP			
 0017	UFZ_Phenomenex	www.massbank.eu		PredRet	RP		temperature, gradient and flow rate	
 0018	UniToyama_Atlantis	www.massbank.eu		PredRet	RP		temperature, gradient and flow rate	
-0019	Eawag_XBridgeC18	https://doi.org/10.1021/es4044374	24417318	PredRet	RP			E. L. Schymanski, H. P. Singer, P. Longrée, M. Loos, M. Ruff, M. A. Stravs, C. R. Vidal, J. Hollender
+0019	Eawag_XBridgeC18	https://doi.org/10.1021/es4044374,  10.1002/jms.3131	24417318	PredRet	RP			E. L. Schymanski, H. P. Singer, P. Longrée, M. Loos, M. Ruff, M. A. Stravs, C. R. Vidal, J. Hollender; M. A. Stravs, E. L. Schymanski, H. P. Singer, J. Hollender
 0020	Cao_HILIC	https://doi.org/10.1007/s11306-014-0727-x		PredRet	HILIC	unknown amount of solvent	flow rate	M. Cao, K. Fraser, J. Huege, T. Featonby, S. Rasmussen, C. Jones
-0021	MPI_Symmetry	https://doi.org/10.1021/ac101825k	21182243	PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	F. Rasche, A. Svatoš, R. K. Maddula, C. Böttcher, S. Böcker
+0021	MPI_Symmetry	https://doi.org/10.1021/ac101825k	21182243	PredRet	RP	incorrect  particle size	temperature, flow rate	F. Rasche, A. Svatoš, R. K. Maddula, C. Böttcher, S. Böcker
 0022	1290SQ			PredRet	RP		temperature, gradient and flow rate	
 0023	PFR-TK72			PredRet	RP			
 0024	Waters ACQUITY UPLC with synapt G1			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
 0025	OBSF			PredRet	RP		temperature	
 0026	re			PredRet	Other		column length and ID; temperature, gradient and flow rate	
-0027	KI_GIAR_zic_HILIC_ph2_7	10.1021/acs.analchem.7b00925		PredRet	HILIC			S. Naz, H. Gallart-Ayala, S. N. Reinke, C. Mathon, R. Blankley, R. Chaleckis, C. E. Wheelock
-0028	CS6	10.1016/j.foodchem.2021.129757		PredRet	RP		temperature	Low et al.
-0029	CS3	10.1016/j.foodchem.2021.129757		PredRet	RP		temperature	Low et al.
-0030	CS11	10.1016/j.foodchem.2021.129757		PredRet	RP		temperature	Low et al.
-0031	CS12	10.1016/j.foodchem.2021.129757		PredRet	RP		temperature	Low et al.
-0032	CS13	10.1016/j.foodchem.2021.129757		PredRet	RP		temperature	Low et al.
-0033	CS15	10.1016/j.foodchem.2021.129757		PredRet	RP		temperature	Low et al.
-0034	CS16	10.1016/j.foodchem.2021.129757		PredRet	RP		temperature	Low et al.
-0035	METBLS20-LIUMIN	10.1021/ac300829f		PredRet	RP	different chromatographic conditions of HPLC and UHPLC but only one RT	temperature	A. Roux, Y. Xu, J.-F. Heilier, M.-F. Olivier, E. Ezan, J.-C. Tabe, C. Junot
-0036	CS8	10.1016/j.foodchem.2021.129757		PredRet	RP		temperature	Low et al.
-0037	CS9	10.1016/j.foodchem.2021.129757		PredRet	Other		temperature	Low et al.
-0038	CS10	10.1016/j.foodchem.2021.129757		PredRet	RP		temperature	Low et al.
-0039	CS21	10.1016/j.foodchem.2021.129757		PredRet	RP	column name not specific	temperature	Low et al.
-0040	CS7	10.1016/j.foodchem.2021.129757		PredRet	RP		temperature	Low et al.
-0041	CS23	10.1016/j.foodchem.2021.129757		PredRet	RP		column length, ID and particle size; temperature, flow rate	Low et al.
-0042	CS24	10.1016/j.foodchem.2021.129757		PredRet	RP			
+0027	KI_GIAR_zic_HILIC_ph2_7	https://doi.org/10.1021/acs.analchem.7b00925		PredRet	HILIC			S. Naz, H. Gallart-Ayala, S. N. Reinke, C. Mathon, R. Blankley, R. Chaleckis, C. E. Wheelock
+0028	CS6	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0029	CS3	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0030	CS11	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0031	CS12	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0032	CS13	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0033	CS15	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0034	CS16	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0036	CS8	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0037	CS9	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	Other			Low et al.
+0038	CS10	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0039	CS21	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0040	CS7	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0041	CS23	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP	incorrect  particle size	flow rate	Low et al.
+0042	CS24	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
 0043	C18_SOP3			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
 0044	HILIC_BDD_2			PredRet	HILIC		column length, ID and particle size	
-0045	Bade_Publi	https://www.sciencedirect.com/science/article/pii/S0048969715305817?via%3Dihub		PredRet	RP		temperature	R. Bade, L. Bijlsma, T. H. Miller, L. P. Barron, J. V. Sancho, F. Hernández
+0045	Bade_Publi	https://doi.org/10.1016/j.scitotenv.2015.08.078		PredRet	RP		temperature	R. Bade, L. Bijlsma, T. H. Miller, L. P. Barron, J. V. Sancho, F. Hernández
 0046	Waters_Chiu_T3_pos			PredRet	RP		column length, ID and particle size; temperature	
 0047	Acquity HSST3-RP-60mn			PredRet	RP		column length, ID and particle size; temperature	
 0048	BDD_C18			PredRet	RP		column length and ID	
-0049	CS2	10.1016/j.foodchem.2021.129757		PredRet	RP		column length and ID	Low et al.
-0050	CS1	10.1016/j.foodchem.2021.129758		PredRet	RP		temperature	Low et al.
-0051	CS17	10.1016/j.foodchem.2021.129759		PredRet	RP		temperature	Low et al.
-0052	CS14	10.1016/j.foodchem.2021.129760		PredRet	RP		temperature	Low et al.
-0053	CS20	10.1016/j.foodchem.2021.129761		PredRet	Other		temperature	Low et al.
-0054	LIFE_old	10.1016/j.aca.2011.12.065		PredRet	RP		temperature and flow rate	T. Barri, J. Holmer-Jensen, K. Hermansen, L. O. Dragsted
-0055	LIFE_new	10.1016/j.aca.2011.12.065		PredRet	RP		column length, ID and particle size; temperature and flow rate	T. Barri, J. Holmer-Jensen, K. Hermansen, L. O. Dragsted
-0056	CS4	10.1016/j.foodchem.2021.129757		PredRet	RP		temperature	Low et al.
-0057	CS5	10.1016/j.foodchem.2021.129758		PredRet	RP	column name not specific	temperature	Low et al.
-0058	CS18	10.1016/j.foodchem.2021.129759		PredRet	RP		temperature	Low et al.
-0059	CS19	10.1016/j.foodchem.2021.129760		PredRet	RP		temperature	Low et al.
-0060	CS22	10.1016/j.foodchem.2021.129761		PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	Low et al.
+0049	CS2	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0050	CS1	https://doi.org/10.1016/j.foodchem.2021.129758		PredRet	RP			Low et al.
+0051	CS17	https://doi.org/10.1016/j.foodchem.2021.129759		PredRet	RP			Low et al.
+0052	CS14	https://doi.org/10.1016/j.foodchem.2021.129760		PredRet	RP			Low et al.
+0053	CS20	https://doi.org/10.1016/j.foodchem.2021.129761		PredRet	Other			Low et al.
+0054	LIFE_old	https://doi.org/10.1016/j.aca.2011.12.065		PredRet	RP		temperature and flow rate	T. Barri, J. Holmer-Jensen, K. Hermansen, L. O. Dragsted
+0055	LIFE_new	https://doi.org/10.1016/j.aca.2011.12.065		PredRet	RP		temperature and flow rate	T. Barri, J. Holmer-Jensen, K. Hermansen, L. O. Dragsted
+0056	CS4	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0057	CS5	https://doi.org/10.1016/j.foodchem.2021.129758		PredRet	RP			Low et al.
+0058	CS18	https://doi.org/10.1016/j.foodchem.2021.129759		PredRet	RP	column name not specific		Low et al.
+0059	CS19	https://doi.org/10.1016/j.foodchem.2021.129760		PredRet	RP	column name not specific		Low et al.
+0060	CS22	https://doi.org/10.1016/j.foodchem.2021.129761		PredRet	RP			Low et al.
 0061	cuw			PredRet	RP	unknown amount of solvent	temperature, gradient and flow rate	
 0062	JP_RP			PredRet	RP		temperature, gradient and flow rate	
 0063	RPMMFDA			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
@@ -184,7 +183,7 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0183	aHILIC Geneva DB maXisQTOF pos	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication - Pezzatti	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
 0184	aHILIC Geneva DB maXisQTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication - Pezzatti	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
 0185	zHILIC Geneva DB VION QTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication - Pezzatti	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
-0186	SMRT_METLIN	https://doi.org/10.1038/s41467-019-13680-7	34907452	Publication - Domingo-Almenara	RP			Xavier Domingo-Almenara, Carlos Guijas, Elizabeth Billings, J. Rafael Montenegro-Burke, Winnie Uritboonthai, Aries E. Aisporna, Emily Chen, H. Paul Benton, Gary Siuzdak
+0186	SMRT_METLIN	https://doi.org/10.1038/s41467-019-13680-7	34907452	Publication - Domingo-Almenara	RP		temperature	Xavier Domingo-Almenara, Carlos Guijas, Elizabeth Billings, J. Rafael Montenegro-Burke, Winnie Uritboonthai, Aries E. Aisporna, Emily Chen, H. Paul Benton, Gary Siuzdak
 0187	Standard_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
 0188	Standard_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
 0189	flow0.2_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
@@ -203,24 +202,23 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0202	temp41_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
 0203	temp42.5_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
 0204	temp42.5_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
-0205	Orbitrap1			PredRet	RP			
-0206	RP_PSB_HF			PredRet	RP			
+0205	Orbitrap1			PredRet	RP		temperature and flow rate	
+0206	RP_PSB_HF			PredRet	RP		gradient, temperatur, flow rate	
 0207	hypergold_pea			PredRet	RP		gradient, temperatur, flow rate	
 0208	IJM_TEST			PredRet	HILIC		column length, ID, particle size, gradient, temperature, flow rate	
 0209	SMRT			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
-0210	ABC			PredRet	RP		column name, temperature, gradient, flow rate	
-0211	SNU-Test			PredRet	RP		temperature	
+0210	ABC			PredRet	RP	column name not specific	temperature, gradient, flow rate	
+0211	SNU-Test			PredRet	RP	gradient: missing times	temperature	
 0212	SNU_RP_70			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
 0213	SNU_RP_108			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
 0214	SNU_RP_10			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
 0215	SNU_RP_20			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
 0216	SNU_RP_30			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
 0217	SNU_RP_50			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
-0218	#HILIC_tip			PredRet	NA		all	
+0218	#HILIC_tip			PredRet			all	
 0219	SNU_RIKEN_POS			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
 0220	cecum_JS			PredRet	RP	gradient: missing times	temperature	
 0221	SNU_RP_indole_annotation			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
-0222	METLIN RP	https://www.nature.com/articles/s41467-019-13680-7		PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
 0223	SNU_RP_indole_order			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
 0224	JKD_Probiotics			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
 0225	AjsTestF			PredRet	HILIC		temperature, flow rate	
@@ -228,7 +226,7 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0227	Meister zic-pHILIC ph9.3			PredRet	HILIC	gradient: missing times	-	
 0228	AnnieTestFiehn			PredRet	HILIC		temperature, flow rate	
 0229	Dafachronic acids			BGC	RP			E.-M. Harrieder, M. Witting
-0230	AjsUoB			PredRet	NA			
+0230	AjsUoB			PredRet			column length, ID, particle size, gradient, temperature, flow rate	
 0231	HPOS_ROI_V_3_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	HILIC			
 0232	LNEG_ROI_V_5_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
 0233	LPOS_ROI_V_5_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
@@ -380,11 +378,11 @@ id	name	doi	pmid	source	method.type	comment	missing information	authors
 0379	JB_8			Dataset - Buescher	HILIC			J. Büscher
 0380	JB_9			Dataset - Buescher	HILIC			J. Büscher
 0381	JB_10			Dataset - Buescher	HILIC			J. Büscher
-0382	AA_LC1	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
-0383	AA_LC2	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
-0384	AA_LC3	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
-0385	AA_LC4	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
-0386	AA_LC5	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
-0387	AA_LC6	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
-0388	AA_LC7	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
-0389	AA_LC8	DOI: 10.1021/acs.analchem.2c02893 	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0382	AA_LC1	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0383	AA_LC2	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0384	AA_LC3	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0385	AA_LC4	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0386	AA_LC5	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0387	AA_LC6	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0388	AA_LC7	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0389	AA_LC8	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis

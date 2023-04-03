@@ -1,2 +1,2 @@
 id	name	method.type	source	url	pmid	authors	missing information	comment
-0017	UFZ_Phenomenex	RP	PredRet	https://www.massbank.eu			temperature, gradient and flow rate	
+0017	UFZ_Phenomenex	RP	PredRet	www.massbank.eu			temperature, gradient and flow rate	
