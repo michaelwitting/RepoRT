@@ -504,9 +504,9 @@ Merck Supelco apHera C18	Merck, apHera C18	L67	C18			0.83	-0.01	-1.1	0	-0.55	7.5
 Merck Supelco Ascentis ES-Cyano	Merck, Ascentis ES-Cyano	L10	CN			0.54	-0.1	-0.49	0.01	0.13	-0.44	2.9		516		
 Merck Supelco Ascentis Express Peptide ES-C18	Merck, Ascentis Express Peptide ES-C18	L1	C18			0.91	-0.04	0.26	0.01	0.19	0.81	3.6		517		
 Merck Supelco Ascentis Express Phenyl-Hexyl	Merck, Ascentis Express Phenyl-Hexyl	L11	Phenyl			0.79	-0.08	-0.26	-0.01	0.09	0.48	3.5		518		
-NA	NA	NA	C18			1.02	0.03	-0.13	-0.02	0.05	0	8.6	HSS C18	519	Waters	
-NA	NA	NA	C18			0.73	-0.12	0.4	0.02	0.4	1.41	4	HSS C18 SB	520	Waters	
-NA	NA	NA	C18			0.94	-0.02	-0.17	0	0.03	0.18	7.9	HSS T3	521	Waters	
+Waters ACQUITY UPLC HSS C18	NA	NA	C18			1.02	0.03	-0.13	-0.02	0.05	0	8.6	HSS C18	519	Waters	
+Waters ACQUITY UPLC HSS C18 SB	NA	NA	C18			0.73	-0.12	0.4	0.02	0.4	1.41	4	HSS C18 SB	520	Waters	
+Waters ACQUITY UPLC HSS T3	NA	NA	C18			0.94	-0.02	-0.17	0	0.03	0.18	7.9	HSS T3	521	Waters	
 YMC YMC-Triart C18	YMC, YMC-Triart C18	L1	C18			0.92	-0.02	-0.19	-0.03	-0.02	-0.13	9.4		522		
 Dikma Technologies Endeavorsil C18	Dikma Technologies, Endeavorsil C18	L1	C18			1.02	0.04	-0.09	-0.02	-0.07	0	4.05		523		
 Dikma Technologies Leapsil C18	Dikma Technologies, Leapsil C18	L1	C18			1.05	0.04	-0.07	-0.03	-0.02	-0.05	10.51		524		
