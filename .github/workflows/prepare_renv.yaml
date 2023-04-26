@@ -57,7 +57,7 @@ jobs:
         git config --global user.email 'actions@github.com'
         git config --global user.name 'Github Actions'
         # Use LFS storage of main repository: no push access to fork LFS storage
-        git config lfs.url 'https://github.com/michaelwitting/RtPredTrainingData.git/info/lfs'
+        git config lfs.url 'https://github.com/michaelwitting/RepoRT.git/info/lfs'
         git add renv.lock renv .Rprofile
         git commit -m "renv"
         git lfs push origin HEAD # first push LFS, otherwise failure because of lfs.url
