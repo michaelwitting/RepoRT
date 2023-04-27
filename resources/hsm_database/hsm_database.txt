@@ -3,7 +3,7 @@ Agilent ZORBAX C18	Agilent, ZORBAX C18	L1	C18			1.08	0.05	0.47	0.06	1.48	1.56	10
 Agilent ZORBAX C8	Agilent, ZORBAX C8	L7	C8			0.97	-0.04	0.21	0.17	0.97	1.05	8.3		2		
 Agilent ZORBAX Eclipse XDB-C18	Agilent, ZORBAX Eclipse XDB-C18	L1	C18			1.07	0.02	-0.06	-0.03	0.05	0.08	9.1		3		
 Agilent ZORBAX Eclipse XDB-C8	Agilent, ZORBAX Eclipse XDB-C8	L7	C8			0.91	0.02	-0.21	0	0	0.01	6.6		4		
-Agilent ZORBAX Extend C18	Agilent, ZORBAX Extend C18	L1	C18			1.09	0.05	0.01	-0.04	0.03	0.01	8.4		5		
+Agilent ZORBAX Extend-C18	Agilent, ZORBAX Extend-C18	L1	C18			1.09	0.05	0.01	-0.04	0.03	0.01	8.4		5		
 Agilent ZORBAX Rx-C18	Agilent, ZORBAX Rx-C18	L1	C18			1.07	0.03	0.3	-0.03	0.09	0.41	7.7		6		
 Agilent ZORBAX Rx-C8	Agilent, ZORBAX Rx-C8	L7	C8			0.79	-0.07	0.11	0.01	0.01	0.94	5		7		
 Agilent ZORBAX SB-C18	Agilent, ZORBAX SB-C18	L1	C18		300	0.9	-0.05	0.04	0.04	0.25	0.7	2.2		8		
@@ -29,29 +29,29 @@ Grace-Alltech AlphaBond C18	Grace-Alltech, AlphaBond C18	L1	C18			0.84	-0.09	0.0
 Grace-Alltech Econosil C18	Grace-Alltech, Econosil C18	L1	C18			0.96	-0.06	0.37	-0.03	1.02	1.33	8.2		29		
 Grace-Alltech Econosphere C18	Grace-Alltech, Econosphere C18	L1	C18			0.81	-0.12	0.03	-0.01	1.04	1.52	5.1		30		
 Grace-Alltech GraceSmart C18	Grace-Alltech, GraceSmart C18	L1	C18	5		0.83	-0.03	0.07	0	0.07	0.74	4		31		
-Grace-Alltech Alltima C18 AQ	Grace-Alltech, Alltima C18 AQ	L1	C18			0.88	-0.07	0.3	0.01	0.15	1.15	8.8		32		
-Grace-Alltech Alltima C18	Grace-Alltech, Alltima C18	L1	C18			0.99	-0.01	0.03	-0.01	0.09	0.39	11.5		33		
-Grace-Alltech Alltima C18 LL	Grace-Alltech, Alltima C18 LL	L1	C18			0.78	0.08	-0.16	0.04	-0.05	0.36	5.9		34		
-Grace-Alltech Alltima C18-WP	Grace-Alltech, Alltima C18-WP	L1	C18			0.93	-0.06	0.02	0	-0.07	-0.08	4.9		35		
-Grace-Alltech Alltima C8	Grace-Alltech, Alltima C8	L7	C8			0.75	0.01	-0.27	0	-0.06	0.28	5.5		36		
-Grace-Alltech Alltima HP C18	Grace-Alltech, Alltima HP C18	L1	C18			0.98	-0.02	-0.04	0	0.17	0.19	4.9		37		
-Grace-Alltech Alltima HP C18 HiLoad	Grace-Alltech, Alltima HP C18 HiLoad	L1	C18			1.08	-0.06	0.06	-0.04	-0.32	-0.24	11.8		38		
-Grace-Alltech Alltima HP C8	Grace-Alltech, Alltima HP C8	L7	C8			0.83	0.01	-0.11	0.03	0.12	-0.41	3.1		39		
+Hichrom Alltima C18 AQ	Grace-Alltech, Alltima C18 AQ	L1	C18			0.88	-0.07	0.3	0.01	0.15	1.15	8.8		32		
+Hichrom Alltima C18	Grace-Alltech, Alltima C18	L1	C18			0.99	-0.01	0.03	-0.01	0.09	0.39	11.5		33		
+Hichrom Alltima C18 LL	Grace-Alltech, Alltima C18 LL	L1	C18			0.78	0.08	-0.16	0.04	-0.05	0.36	5.9		34		
+Hichrom Alltima C18-WP	Grace-Alltech, Alltima C18-WP	L1	C18			0.93	-0.06	0.02	0	-0.07	-0.08	4.9		35		
+Hichrom Alltima C8	Grace-Alltech, Alltima C8	L7	C8			0.75	0.01	-0.27	0	-0.06	0.28	5.5		36		
+Hichrom Alltima HP C18	Grace-Alltech, Alltima HP C18	L1	C18			0.98	-0.02	-0.04	0	0.17	0.19	4.9		37		
+Hichrom Alltima HP C18 HiLoad	Grace-Alltech, Alltima HP C18 HiLoad	L1	C18			1.08	-0.06	0.06	-0.04	-0.32	-0.24	11.8		38		
+Hichrom Alltima HP C8	Grace-Alltech, Alltima HP C8	L7	C8			0.83	0.01	-0.11	0.03	0.12	-0.41	3.1		39		
 Grace-Alltech Brava C18 BDS	Grace-Alltech, Brava C18 BDS	L1	C18			0.93	-0.03	0.03	0.01	0.28	0.76	4.7		40		
 Grace-Alltech Platinum C18	Grace-Alltech, Platinum C18	L1	C18			0.78	-0.07	-0.09	0	0.4	0.69	4.6		41		
 Grace-Alltech Platinum C8	Grace-Alltech, Platinum C8	L7	C8			0.58	-0.05	-0.22	0	0.25	0.39	3		42		
 Grace-Alltech Platinum EPS C18	Grace-Alltech, Platinum EPS C18	L1	C18			0.61	-0.17	0.3	0.02	0.68	1.7	2.6		43		
 Grace-Alltech Platinum EPS C8	Grace-Alltech, Platinum EPS C8	L7	C8			0.42	-0.15	0.15	0.02	0.5	1.36	1.1		44		
-Grace-Alltech Prevail C18	Grace-Alltech, Prevail C18	L1	C18			0.88	-0.07	0.31	0.02	0.1	1.2	9.4		45		
-Grace-Alltech Prevail C8	Grace-Alltech, Prevail C8	L7	C8			0.61	-0.08	0.03	0.04	0.08	1.07	3.4		46		
-Grace-Alltech Prevail Select C18	Grace-Alltech, Prevail Select C18	L1	C18			0.82	0.02	-0.36	0.14	-1.05	0.45	7.5		47		
-Grace-Alltech Alltima HP C18 Amide	Grace-Alltech, Alltima HP C18 Amide	L1	EP			0.49	-0.02	0.35	0.12	-0.01	0.92	4.8		48		
-Grace-Alltech Alltima HP C18 EPS	Grace-Alltech, Alltima HP C18 EPS	L1	EP			0.65	-0.1	0.4	0.03	0.45	0.95	1.2		49		
+Hichrom Prevail C18	Grace-Alltech, Prevail C18	L1	C18			0.88	-0.07	0.31	0.02	0.1	1.2	9.4		45		
+Hichrom Prevail C8	Grace-Alltech, Prevail C8	L7	C8			0.61	-0.08	0.03	0.04	0.08	1.07	3.4		46		
+Hichrom Prevail Select C18	Grace-Alltech, Prevail Select C18	L1	C18			0.82	0.02	-0.36	0.14	-1.05	0.45	7.5		47		
+Hichrom Alltima HP C18 Amide	Grace-Alltech, Alltima HP C18 Amide	L1	EP			0.49	-0.02	0.35	0.12	-0.01	0.92	4.8		48		
+Hichrom Alltima HP C18 EPS	Grace-Alltech, Alltima HP C18 EPS	L1	EP			0.65	-0.1	0.4	0.03	0.45	0.95	1.2		49		
 Grace-Alltech Platinum EPS C18	Grace-Alltech, Platinum EPS C18	L1	EP		300	0.45	-0.05	0.37	0.01	0.24	1.29	3.6		50		
 Grace-Alltech Platinum EPS C8	Grace-Alltech, Platinum EPS C8	L7	EP		300	0.58	-0.11	-0.13	0.08	0.48	0.96	0.8		51		
-Grace-Alltech Prevail Amino (NH2)	Grace-Alltech, Prevail Amino (NH2)	L8	EP			0.86	-0.06	0.25	0.03	0.05	1.2	9.6		52		
-Grace-Alltech ProShpere C4	Grace-Alltech, ProShpere C4	L26	C4		300	0.68	-0.01	-0.05	0.02	0.31	0.68	1		53		
-Grace-Alltech ProShpere C18	Grace-Alltech, ProShpere C18	L1	C18		100	0.88	-0.07	0.3	0.01	0.18	1.51	6.4		54		
+Hichrom Prevail Amino (NH2)	Grace-Alltech, Prevail Amino (NH2)	L8	EP			0.86	-0.06	0.25	0.03	0.05	1.2	9.6		52		
+Grace-Alltech ProSphere C4	Grace-Alltech, ProSphere C4	L26	C4		300	0.68	-0.01	-0.05	0.02	0.31	0.68	1		53		
+Grace-Alltech ProSphere C18	Grace-Alltech, ProSphere C18	L1	C18		100	0.88	-0.07	0.3	0.01	0.18	1.51	6.4		54		
 NA	NA	NA	C18		300	0.86	0	0.12	0.02	0.59	1.11	1.7	Advantage 300	55	Analytical Sales & Services	
 Analytical Sales & Services Advantage Armor C18	Analytical Sales & Services, Advantage Armor C18	L1	C18		120	0.96	-0.01	-0.07	0	0.07	0.26	8.6		56		
 Analytical Sales & Services Armor C18	Analytical Sales & Services, Armor C18	L1	C18			0.96	-0.01	-0.07	0	0.12	0.29	8.5		57		
@@ -90,11 +90,11 @@ Bischoff ProntoSIL Phenyl	Bischoff, ProntoSIL Phenyl	L11	Phenyl		60	0.7	-0.19	0	
 Bischoff ProntoSIL ODS	Bischoff, ProntoSIL ODS	L1	C18		120	0.95	-0.06	0.03	-0.02	0.79	1.31	5.2		90		
 Bischoff ProntoSIL Spheribond ODS 1	Bischoff, ProntoSIL Spheribond ODS 1	L1	C18		80	0.7	-0.19	0.36	0.01	1.45	2.4	3.8		91		
 Bischoff ProntoSIL Spheribond ODS 2	Bischoff, ProntoSIL Spheribond ODS 2	L1	C18		80	1.01	-0.02	0.15	-0.03	0.73	1	7.7		92		
-Thermo Fisher Acclaim 120 C8	Thermo Fisher, Acclaim 120 C8	L7	C8		120	0.85	0	-0.27	0.01	0.08	0.01	6		94		
-Thermo Fisher Acclaim 300 C18	Thermo Fisher, Acclaim 300 C18	L1	C18		300	0.95	-0.01	-0.17	0.01	0.26	0.22	2.9		95		
-Thermo Fisher Polar Advantage	Thermo Fisher, Polar Advantage	L60	EP			0.85	-0.06	-0.11	0.02	-0.27	0.35	6.8		96		
+Thermo Scientific Acclaim 120 C8	Thermo Fisher, Acclaim 120 C8	L7	C8		120	0.85	0	-0.27	0.01	0.08	0.01	6		94		
+Thermo Scientific Acclaim 300 C18	Thermo Fisher, Acclaim 300 C18	L1	C18		300	0.95	-0.01	-0.17	0.01	0.26	0.22	2.9		95		
+Thermo Scientific Polar Advantage	Thermo Fisher, Polar Advantage	L60	EP			0.85	-0.06	-0.11	0.02	-0.27	0.35	6.8		96		
 NA	NA	NA	Other			0.83	-0.06	-0.38	0	-0.31	0.34	6.7	Acclaim Organic Acid	97	Dionex	
-Thermo Fisher PolarAdvantage II	Thermo Fisher, PolarAdvantage II	L60	EP			0.74	0.01	-0.55	0.21	-0.22	0.67	6.3		98		
+Thermo Scientific PolarAdvantage II	Thermo Fisher, PolarAdvantage II	L60	EP			0.74	0.01	-0.55	0.21	-0.22	0.67	6.3		98		
 SynChropak RP8	SynChropak RP8	L7	C8			0.63	-0.09	0.1	0.02	0.22	0.94	1.2		99		
 SynChropak RPP	SynChropak RPP	L1	C18			0.74	-0.11	0.23	0.03	0.25	1.28	1.8		100		
 SynChropak RPP	SynChropak RPP	L1	C18		100	0.91	-0.05	-0.07	0.12	0.22	0.31	5.4		101		
@@ -165,7 +165,7 @@ NA	NA	NA	EP			0.97	-0.01	-0.08	0	0	0.16	8.6	Precision C18-PE	166	Mac-Mod Analyti
 NA	NA	NA	EP			0.81	-0.02	-0.15	0.01	0.05	0.27	5	Precision C8-PE	167	Mac-Mod Analytical	
 NA	NA	NA	Phenyl			0.59	-0.13	-0.29	0.02	0.09	0.5	2.6	Precision Phenyl	168	Mac-Mod Analytical	
 Merck Supelco LiChrosorb RP-18	Merck, LiChrosorb RP-C18	L1	C18			0.9	-0.07	0.15	-0.08	0.71	0.97	7.1		169		
-Merck Supelco LiChrospher RP-18	Merck, LiChrospher RP-C18	L1	C18			1	-0.02	0.18	-0.03	0.64	0.89	9.5		170		
+Merck LiChrospher RP-18	Merck, LiChrospher RP-C18	L1	C18			1	-0.02	0.18	-0.03	0.64	0.89	9.5		170		
 Merck Chromolith Performance RP-18e	Merck, Chromolith Performance RP-18e	L1	C18			1	0.02	0	-0.01	0.1	0.18	3.1		171		
 Merck Supelco LiChrospher RP-select B	Merck, LiChrospher RP-select B	L7	C8			0.74	-0.06	-0.04	0	0.1	0.86	5.1		172		
 Merck Supelco Purospher RP-18	Merck, Purospher RP-18	L1	C18			0.84	0.23	0.15	0.3	-0.96	0.9	4.9		173		
@@ -199,7 +199,7 @@ Phenomenex AQUA C18	Phenomenex, AQUA C18	L1	C18			0.96	-0.03	0.03	0	0.06	0.27	8.
 Phenomenex Luna CN	Phenomenex, Luna CN	L10	CN			0.45	-0.11	-0.32	-0.02	0.43	1.32	1.3		201		
 Agilent Polaris C18-Ether	Agilent, Polaris C18-Ether	L1	EP			0.94	-0.01	-0.12	0.02	0.16	0.55	5.5		202		
 Agilent Polaris C8-Ether	Agilent, Polaris C8-Ether	L7	EP			0.7	-0.02	-0.31	0.04	0.09	0.26	1.8		203		
-Phenomenex Synergi Hydrp-RP	Phenomenex, Synergi Hydro-RP	L1	EP			1.02	0	0.16	-0.04	-0.07	0.26	11.3		204		
+Phenomenex Synergi Hydro-RP	Phenomenex, Synergi Hydro-RP	L1	EP			1.02	0	0.16	-0.04	-0.07	0.26	11.3		204		
 Phenomenex Synergi Polar-RP	Phenomenex, Synergi Polar-RP	L11	EP			0.65	-0.14	-0.25	0	0.05	0.77	3.9		205		
 Phenomenex Luna Phenyl-Hexyl	Phenomenex, Luna Phenyl-Hexyl	L11	Phenyl			0.78	-0.11	-0.27	0	0	0.38	5.2		206		
 Phenomenex Prodigy PH-3	Phenomenex, Prodigy PH-3	L11	Phenyl			0.52	-0.19	0.05	0.02	0.23	1.46	2.3		207		
@@ -243,32 +243,32 @@ Merck Supelco SUPELCOSIL LC-8	Merck, SUPELCOSIL LC-8	L7	C8			0.83	-0.04	-0.02	0.
 Merck Supelco SUPELCOSIL LC-C8-DB	Merck, SUPELCOSIL LC-C8-DB	L7	C8			0.81	-0.03	-0.07	0.14	0.44	0.55	3.4		249		
 Merck Supelco SUPELCOSIL LC-PAH	Merck, SUPELCOSIL LC-PAH	L1	C18			0.85	-0.02	0.1	-0.03	0.64	0.83	4.4		250		
 NA	NA	NA	CN			0.4	-0.11	-0.7	0	-0.02	0.49	0.8	Thermo CN	252	Thermo/Hypersil	
-Thermo Fisher Hypersil C18	Thermo Fisher, Hypersil C18	L1	C18			1.04	0.02	0.11	0.03	0.4	0.34	7.9		253		
-Thermo Fisher BDS C18	Thermo Fisher, BDS C18	L1	C18			0.99	0.01	-0.09	0	0.33	0.28	5.6		254		
-Thermo Fisher Hypersil Elite C18	Thermo Fisher, Hypersil Elite C18	L1	C18			0.95	0.03	0.15	-0.01	0.31	0.73	6.5		255		
-Thermo Fisher Hypersil ODS	Thermo Fisher, Hypersil ODS	L1	C18			0.97	-0.02	-0.12	0.02	0.91	0.97	5.5		256		
-Thermo Fisher Hypersil ODS-2	Thermo Fisher, Hypersil ODS-2	L1	C18			0.98	0.01	0.13	-0.01	0.25	0.37	5.6		257		
+Thermo Scientific Hypersil C18	Thermo Fisher, Hypersil C18	L1	C18			1.04	0.02	0.11	0.03	0.4	0.34	7.9		253		
+Thermo Scientific BDS C18	Thermo Fisher, BDS C18	L1	C18			0.99	0.01	-0.09	0	0.33	0.28	5.6		254		
+Thermo Scientific Hypersil Elite C18	Thermo Fisher, Hypersil Elite C18	L1	C18			0.95	0.03	0.15	-0.01	0.31	0.73	6.5		255		
+Thermo Scientific Hypersil ODS	Thermo Fisher, Hypersil ODS	L1	C18			0.97	-0.02	-0.12	0.02	0.91	0.97	5.5		256		
+Thermo Scientific Hypersil ODS-2	Thermo Fisher, Hypersil ODS-2	L1	C18			0.98	0.01	0.13	-0.01	0.25	0.37	5.6		257		
 NA	NA	NA	C18			0.94	-0.05	0.23	-0.01	1.43	1.72	5.3	Hypersil PAH	258	Thermo/Hypersil	
-Thermo Fisher 	Thermo Fisher, 	L1	C18			0.99	0.03	-0.09	0	0.16	0.12	6.4		259		
-Thermo Fisher BetaBasic C18	Thermo Fisher, BetaBasic C18	L1	C8			0.83	0.01	-0.24	0.02	0.11	0.11	4.2		260		
-Thermo Fisher BetaBasic Neutral	Thermo Fisher, BetaBasic Neutral	L1	C18			1.09	0.03	0.06	-0.03	-0.03	0.01	17		261		
-Thermo Fisher BetaBasic CN	Thermo Fisher, BetaBasic CN	L10	CN			0.42	-0.04	-0.45	0.01	0.01	0.9	0.8		262		
-Thermo Fisher BetaMax Acid	Thermo Fisher, BetaMax Acid	L26	EP			0.63	0.05	-0.59	0.37	-2.06	-0.51	5.8		263		
-Thermo Fisher BetaMax Base Cyano	Thermo Fisher, BetaMax Base Cyano	L10	EP			0.47	-0.06	-0.39	0.01	0.01	1.14	2.2		264		
-Thermo Fisher BioBasic 18	Thermo Fisher, BioBasic 18	L1	C18			0.97	0.02	-0.1	0	0.25	0.21	3.2		265		
-Thermo Fisher BioBasic 8	Thermo Fisher, BioBasic 8	L7	C8			0.82	0.01	-0.23	0.02	0.23	0.21	1.8		266		
-Thermo Fisher Hypersil GOLD	Thermo Fisher, Hypersil GOLD	L1	C18			0.88	0	-0.01	0.03	0.16	0.47	3.9		267		
-Thermo Fisher HyPURITY C18	Thermo Fisher, HyPURITY C18	L1	C18			0.98	0.02	-0.09	0	0.19	0.16	5.6		268		
-Thermo Fisher HyPURITY C4	Thermo Fisher, HyPURITY C4	L26	C4			0.71	0	-0.29	0.02	0.12	0.25	1.9		269		
-Thermo Fisher HyPURITY C8	Thermo Fisher, HyPURITY C8	L7	C8			0.83	0.01	-0.2	0.03	0.15	0.16	3.5		270		
-Thermo Fisher HyPURITY CN	Thermo Fisher, HyPURITY CN	L10	CN			0.45	-0.04	-0.49	0.02	-0.01	0.83	0.7		271		
-Thermo Fisher Hypersil Prism C18 RP	Thermo Fisher, Hypersil Prism C18 RP	L60	EP			0.64	0.08	-0.45	0.3	-2.81	-0.71	4.8		272		
-Thermo Fisher Hypersil Prism C18 RPN	Thermo Fisher, Hypersil Prism C18 RPN	L60	EP			0.67	0	-0.06	0.23	-0.54	0.62	3.4		273		
-Thermo Fisher HyPURITY ADVANCE	Thermo Fisher, HyPURITY ADVANCE	L60	EP			0.41	-0.05	-0.09	0.24	-1.33	0.78	1.6		274		
-Thermo Fisher Flouphase PFP	Thermo Fisher, Flouphase PFP	L43	F			0.67	-0.12	-0.31	0.06	0.81	1.37	4.5		275		
-Thermo Fisher Flouphase RP	Thermo Fisher, Flouphase RP	L43	F			0.69	0.02	0.1	0.03	1.03	1.41	3.4		276		
-Thermo Fisher BetaBasic Phenyl	Thermo Fisher, BetaBasic Phenyl	L11	Phenyl			0.58	-0.15	-0.41	0.04	0.1	0.75	1.7		277		
-Thermo Fisher BETASIL Phenyl-Hexyl	Thermo Fisher, BETASIL Phenyl-Hexyl	L11	Phenyl			0.7	-0.05	-0.29	0.02	0.05	0.35	4.3		278		
+Thermo Scientific 	Thermo Fisher, 	L1	C18			0.99	0.03	-0.09	0	0.16	0.12	6.4		259		
+Thermo Scientific BetaBasic C18	Thermo Fisher, BetaBasic C18	L1	C8			0.83	0.01	-0.24	0.02	0.11	0.11	4.2		260		
+Thermo Scientific BetaBasic Neutral	Thermo Fisher, BetaBasic Neutral	L1	C18			1.09	0.03	0.06	-0.03	-0.03	0.01	17		261		
+Thermo Scientific BetaBasic CN	Thermo Fisher, BetaBasic CN	L10	CN			0.42	-0.04	-0.45	0.01	0.01	0.9	0.8		262		
+Thermo Scientific BetaMax Acid	Thermo Fisher, BetaMax Acid	L26	EP			0.63	0.05	-0.59	0.37	-2.06	-0.51	5.8		263		
+Thermo Scientific BetaMax Base Cyano	Thermo Fisher, BetaMax Base Cyano	L10	EP			0.47	-0.06	-0.39	0.01	0.01	1.14	2.2		264		
+Thermo Scientific BioBasic 18	Thermo Fisher, BioBasic 18	L1	C18			0.97	0.02	-0.1	0	0.25	0.21	3.2		265		
+Thermo Scientific BioBasic 8	Thermo Fisher, BioBasic 8	L7	C8			0.82	0.01	-0.23	0.02	0.23	0.21	1.8		266		
+Thermo Scientific Hypersil GOLD	Thermo Fisher, Hypersil GOLD	L1	C18			0.88	0	-0.01	0.03	0.16	0.47	3.9		267		
+Thermo Scientific HyPURITY C18	Thermo Fisher, HyPURITY C18	L1	C18			0.98	0.02	-0.09	0	0.19	0.16	5.6		268		
+Thermo Scientific HyPURITY C4	Thermo Fisher, HyPURITY C4	L26	C4			0.71	0	-0.29	0.02	0.12	0.25	1.9		269		
+Thermo Scientific HyPURITY C8	Thermo Fisher, HyPURITY C8	L7	C8			0.83	0.01	-0.2	0.03	0.15	0.16	3.5		270		
+Thermo Scientific HyPURITY CN	Thermo Fisher, HyPURITY CN	L10	CN			0.45	-0.04	-0.49	0.02	-0.01	0.83	0.7		271		
+Thermo Scientific Hypersil Prism C18 RP	Thermo Fisher, Hypersil Prism C18 RP	L60	EP			0.64	0.08	-0.45	0.3	-2.81	-0.71	4.8		272		
+Thermo Scientific Hypersil Prism C18 RPN	Thermo Fisher, Hypersil Prism C18 RPN	L60	EP			0.67	0	-0.06	0.23	-0.54	0.62	3.4		273		
+Thermo Scientific HyPURITY ADVANCE	Thermo Fisher, HyPURITY ADVANCE	L60	EP			0.41	-0.05	-0.09	0.24	-1.33	0.78	1.6		274		
+Thermo Scientific Flouphase PFP	Thermo Fisher, Flouphase PFP	L43	F			0.67	-0.12	-0.31	0.06	0.81	1.37	4.5		275		
+Thermo Scientific Flouphase RP	Thermo Fisher, Flouphase RP	L43	F			0.69	0.02	0.1	0.03	1.03	1.41	3.4		276		
+Thermo Scientific BetaBasic Phenyl	Thermo Fisher, BetaBasic Phenyl	L11	Phenyl			0.58	-0.15	-0.41	0.04	0.1	0.75	1.7		277		
+Thermo Scientific BETASIL Phenyl-Hexyl	Thermo Fisher, BETASIL Phenyl-Hexyl	L11	Phenyl			0.7	-0.05	-0.29	0.02	0.05	0.35	4.3		278		
 Agilent OmniSpher C18	Agilent, OmniSpher C18	L1	C18			1.05	0.05	-0.03	-0.02	0.12	0.05	10.9		279		
 Agilent Polaris C18-A	Agilent, Polaris C18-A	L1	EP			0.92	0	-0.22	0.06	0.14	0.16	5.2		280		
 Agilent Polaris C8-A	Agilent, Polaris C8-A	L7	EP			0.6	0	-0.6	0.1	-0.07	0.2	2.2		281		
@@ -323,21 +323,21 @@ Advanced Materials Technology HALO C8	Advanced Materials Techn., HALO C8	L7	C8		
 Waters ACQUITY UPLC BEH C8	Waters, ACQUITY UPLC BEH C8	L7	C8			0.85	0	0.09	0.05	0.22	0.77	2.7		330		
 Waters ACQUITY UPLC BEH Phenyl	Waters, ACQUITY UPLC BEH Phenyl	L11	Phenyl			0.76	0.07	-0.05	0.06	0.29	0.58	2		331		
 Waters ACQUITY UPLC BEH Shield RP18	Waters, ACQUITY UPLC BEH Shield RP18	L1	EP			0.9	0.01	-0.03	0.13	-0.05	0.41	3.5		332		
-Thermo Fisher AQUASIL C18	Thermo Fisher, AQUASIL C18	L1	EP			0.8	0.11	0.26	0.01	0.23	1.19	7.4		333		
+Thermo Scientific AQUASIL C18	Thermo Fisher, AQUASIL C18	L1	EP			0.8	0.11	0.26	0.01	0.23	1.19	7.4		333		
 Merck Supelco Ascentis C18	Merck, Ascentis C18	L1	C18			1.07	0.05	0.03	-0.04	-0.08	-0.08	10.5		334		
 Merck Supelco Ascentis C8	Merck, Ascentis C8	L7	C8			0.89	0.02	-0.18	0	-0.12	-0.03	8.4		335		
 Merck Supelco Ascentis Express C18	Merck, Ascentis Express C18	L1	C18			1.13	0.05	0.02	-0.05	0.06	0.1	6.5		336		
 Merck Supelco Ascentis Express C8	Merck, Ascentis Express C8	L7	C8			0.91	0.01	-0.11	0	0	0.17	4.6		337		
 Merck Supelco Ascentis RP-Amide	Merck, Ascentis RP-Amide	L60	EP			0.84	0.07	-0.49	0.18	-0.78	0.08	8.8		338		
-Thermo Fisher BETASIL C18	Thermo Fisher, BETASIL C18	L1	C18			1.05	0.04	-0.1	-0.03	-0.03	-0.04	11.1		339		
+Thermo Scientific BETASIL C18	Thermo Fisher, BETASIL C18	L1	C18			1.05	0.04	-0.1	-0.03	-0.03	-0.04	11.1		339		
 MicroSolv Technology Corp. Cogent Bidentate C8	MicroSolv Technology Corp., Cogent Bidentate C8	L7	C8			0.68	-0.11	0.36	0	0.19	1.35	3.7		340		
-Thermo Fisher BioBasic CN	Thermo Fisher, BioBasic CN	L10	CN			0.39	-0.03	-0.82	0	-0.07	0.53	0.4		341		
-Thermo Fisher BioBasic Phenyl	Thermo Fisher, BioBasic Phenyl	L11	Phenyl			0.49	-0.23	-0.67	0.21	0.01	0.39	0.8		342		
-Thermo Fisher BioBasic 4	Thermo Fisher, BioBasic 4	L26	C4			0.69	0	-0.19	0.03	0.18	0.39	1.2		343		
+Thermo Scientific BioBasic CN	Thermo Fisher, BioBasic CN	L10	CN			0.39	-0.03	-0.82	0	-0.07	0.53	0.4		341		
+Thermo Scientific BioBasic Phenyl	Thermo Fisher, BioBasic Phenyl	L11	Phenyl			0.49	-0.23	-0.67	0.21	0.01	0.39	0.8		342		
+Thermo Scientific BioBasic 4	Thermo Fisher, BioBasic 4	L26	C4			0.69	0	-0.19	0.03	0.18	0.39	1.2		343		
 Grace-Alltech GraceSmart C18	Grace-Alltech, GraceSmart C18	L1	C18	3		0.83	-0.03	0.07	0	0.07	0.74	4		344		
-Thermo Fisher Hypersil GOLD aQ	Thermo Fisher, Hypersil GOLD aQ	L1	C18			0.91	-0.01	-0.06	-0.01	0.37	0.63	4.1		345		
-Thermo Fisher Hypersil GOLD C8	Thermo Fisher, Hypersil GOLD C8	L7	C8			0.82	0.01	-0.15	0.03	0.09	0.21	2.7		346		
-Thermo Fisher Hypersil GOLD PFP	Thermo Fisher, Hypersil GOLD PFP	L43	F			0.62	-0.08	-0.11	-0.02	0.37	0.99	1.9		347		
+Thermo Scientific Hypersil GOLD aQ	Thermo Fisher, Hypersil GOLD aQ	L1	C18			0.91	-0.01	-0.06	-0.01	0.37	0.63	4.1		345		
+Thermo Scientific Hypersil GOLD C8	Thermo Fisher, Hypersil GOLD C8	L7	C8			0.82	0.01	-0.15	0.03	0.09	0.21	2.7		346		
+Thermo Scientific Hypersil GOLD PFP	Thermo Fisher, Hypersil GOLD PFP	L43	F			0.62	-0.08	-0.11	-0.02	0.37	0.99	1.9		347		
 Sepax Technologies Sepax Bio-C18	Sepax Technologies, Sepax Bio-C18	L1	C18			0.91	-0.02	-0.13	0.01	0.21	0.22	2.6		348		
 Sepax Technologies Sepax Bio-C4	Sepax Technologies, Sepax Bio-C4	L26	C4			0.66	-0.01	-0.29	0.02	0.1	0.22	1.4		349		
 Sepax Technologies Sepax Bio-C8	Sepax Technologies, Sepax Bio-C8	L7	C8			0.77	-0.02	-0.27	0.02	0.16	0.21	1.6		350		
@@ -372,7 +372,7 @@ ES Industries Epic C4 SD	ES Industries, Epic C4 SD	L26	C4			0.77	0.01	-0.31	0	-0
 ES Industries Epic Phenyl Hexyl	ES Industries, Epic Phenyl Hexyl	L11	phenyl			0.67	-0.08	-0.37	0	-0.14	0.3	4.5		381		
 Phenomenex Gemini NX-C18	Phenomenex, Gemini NX-C18	L1	C18			0.96	0.01	-0.2	-0.01	-0.18	-0.13	7.1		382		
 Phenomenex Luna PFP(2)	Phenomenex, Luna PFP(2)	L43	F			0.75	-0.07	-0.38	-0.05	0.08	0.54	4.9		383		
-Grace-Alltech Alltima HP Cyano	Grace-Alltech, Alltima HP Cyano	L10	CN			0.46	-0.01	-0.55	0	-0.18	0.44	0.9		384		
+Hichrom Alltima HP Cyano	Grace-Alltech, Alltima HP Cyano	L10	CN			0.46	-0.01	-0.55	0	-0.18	0.44	0.9		384		
 Sepax Technologies Sepax BR-C18	Sepax Technologies, Sepax BR-C18	L1	C18			1.01	0.03	-0.07	-0.01	-0.01	0.06	8.2		385		
 Sepax Technologies Sepax GP-C8	Sepax Technologies, Sepax GP-C8	L7	C8			0.84	0	-0.13	0.01	-0.07	0.26	5.6		386		
 Grace-Alltech VisionHT C18-B	Grace-Alltech, VisionHT C18-B	L1	C18			0.68	-0.11	0.35	0.03	0.39	1.41	2.9		387		
@@ -420,7 +420,7 @@ Phenomenex HyperClone ODS (C18)	Phenomenex, HyperClone ODS (C18)	L1	C18			1.03	-
 NA	NA	NA	Other			0.98	0	0.18	-0.02	1.16	1.11	4.9	HyperClone PAH	430	Phenomenex	
 GL Science Inertsil ODS-4	GL Science, Inertsil ODS-4	L1	C18			0.91	-0.02	-0.22	-0.03	-0.02	-0.14	9.1		431		
 GL Science Inertsil ODS-SP	GL Science, Inertsil ODS-SP	L1	C18			0.85	-0.02	-0.22	-0.02	-0.04	-0.07	7.8		432		
-Phenomenex KinetexC18	Phenomenex, Kinetex C18	L1	C18		100	0.96	0	-0.13	-0.01	0	0.12	4.9		433		
+Phenomenex Kinetex C18	Phenomenex, Kinetex C18	L1	C18		100	0.96	0	-0.13	-0.01	0	0.12	4.9		433		
 Phenomenex Kinetex PFP	Phenomenex, Kinetex PFP	L43	F			0.68	0.08	-0.27	-0.03	0.94	1.53	2.4		434		
 Agilent Microsorb C8	Agilent, Microsorb C8	L7	C8	5	100	0.87	0.06	0.09	0.19	0.61	0.82	5.4		435		
 Agilent Microsorb Phenyl	Agilent, Microsorb Phenyl	L11	phenyl	5	100	0.71	-0.14	-0.19	0.16	0.6	0.78	3.1		436		
@@ -593,28 +593,28 @@ CWN Technologies Athena C18-WP	CWN Technologies, Athena C18-WP	L1	C18			0.953	-0
 CWN Technologies Athena Phenyl	CWN Technologies, Athena Phenyl	L11	Phenyl			0.587	-0.114	-0.396	0.033	0.067	0.345	2.52		605		
 Genius Technologies COSMICSIL Adze C18	Genius Technologies, COSMICSIL Adze C18	L1	C18			0.997	-0.019	-0.138	-0.013	-0.082	0.069	12.7		606		
 NA	NA	NA	C18			0.854	-0.035	0.195	-0.012	0.476	0.929	3.79	Cosmicsil BDS C18	607	Genius Technologies	
-Thermo Fisher Synchronis C18	Thermo Fisher, Synchronis C18	L1	C18			1.04	-0.003	-0.086	-0.019	-0.026	0.038	13		608		
-Thermo Fisher Synchronis C8	Thermo Fisher, Synchronis C8	L7	C8			0.84	-0.024	-0.227	0.01	-0.058	0.116	7.99		609		
-Thermo Fisher Synchronis aQ	Thermo Fisher, Synchronis aQ	L1	EP			0.984	-0.004	-0.1	-0.038	0.066	1.08	10.2		610		
-Thermo Fisher Syncronis Phenyl	Thermo Fisher, Syncronis Phenyl	L11	Phenyl			0.75	-0.082	-0.32	0.008	-0.031	0.176	6.36		611		
-Thermo Fisher Hypersil GOLD C4	Thermo Fisher, Hypersil GOLD C4	L26	C4			0.705	-0.003	-0.285	0.026	0.11	0.235	2.19		612		
-Thermo Fisher Hypersil GOLD Phenyl	Thermo Fisher, Hypersil GOLD Phenyl	L11	Phenyl			0.65	-0.091	-0.362	0.03	0.161	0.416	2		613		
-Thermo Fisher Hypersil GOLD L10	Thermo Fisher, Hypersil GOLD L10	L10	CN			0.397	-0.035	-0.886	-0.019	-0.069	0.66	0.75		614		
-Thermo Fisher Accucore XL C18	Thermo Fisher, Accucore XL C18	L1	C18			1.09	0.059	0.051	-0.038	0.086	0.384	5.22		615		
-Thermo Fisher Accucore XL C8	Thermo Fisher, Accucore XL C8	L7	C8			0.926	0.02	-0.161	-0.001	0.02	-0.432	4.63		616		
-Thermo Fisher Accucore C18	Thermo Fisher, Accucore C18	L1	C18			1.09	0.054	0.055	-0.04	0.072	0.095	6.5		617		
-Thermo Fisher Accucore C8	Thermo Fisher, Accucore C8	L7	C8			0.924	0.015	-0.084	-0.003	0.002	0.186	5.2		618		
-Thermo Fisher Accucore C30	Thermo Fisher, Accucore C30	L62	C30			0.978	-0.02	-0.143	-0.002	0.321	0.462	4.52		619		
-Thermo Fisher Accucore C18	Thermo Fisher, Accucore C18	L1	C18		150	1.03	0.046	-0.037	-0.009	0.2	0.171	4.45		620		
-Thermo Fisher Accucore C4	Thermo Fisher, Accucore C4	L26	C4		150	0.738	-0.008	-0.309	0.023	0.13	0.224	2.17		621		
-Thermo Fisher Accucore aQ	Thermo Fisher, Accucore aQ	L1	EP			1.07	0.05	0.002	-0.059	0.06	0.508	5.46		622		
-Thermo Fisher Accucore Phenyl-X	Thermo Fisher, Accucore Phenyl-X	L11	Phenyl			0.781	-0.103	-0.554	0.044	-0.294	-0.082	3.64		623		
-Thermo Fisher Accucore Phenyl-Hexyl	Thermo Fisher, Accucore Phenyl-Hexyl	L11	Phenyl			0.786	-0.047	-0.223	0.006	0.055	0.574	3.6		624		
-Thermo Fisher Accucore PFP	Thermo Fisher, Accucore PFP	L43	F			0.729	-0.098	-0.249	-0.036	0.873	1.66	3.22		625		
+Thermo Scientific Synchronis C18	Thermo Fisher, Synchronis C18	L1	C18			1.04	-0.003	-0.086	-0.019	-0.026	0.038	13		608		
+Thermo Scientific Synchronis C8	Thermo Fisher, Synchronis C8	L7	C8			0.84	-0.024	-0.227	0.01	-0.058	0.116	7.99		609		
+Thermo Scientific Synchronis aQ	Thermo Fisher, Synchronis aQ	L1	EP			0.984	-0.004	-0.1	-0.038	0.066	1.08	10.2		610		
+Thermo Scientific Syncronis Phenyl	Thermo Fisher, Syncronis Phenyl	L11	Phenyl			0.75	-0.082	-0.32	0.008	-0.031	0.176	6.36		611		
+Thermo Scientific Hypersil GOLD C4	Thermo Fisher, Hypersil GOLD C4	L26	C4			0.705	-0.003	-0.285	0.026	0.11	0.235	2.19		612		
+Thermo Scientific Hypersil GOLD Phenyl	Thermo Fisher, Hypersil GOLD Phenyl	L11	Phenyl			0.65	-0.091	-0.362	0.03	0.161	0.416	2		613		
+Thermo Scientific Hypersil GOLD L10	Thermo Fisher, Hypersil GOLD L10	L10	CN			0.397	-0.035	-0.886	-0.019	-0.069	0.66	0.75		614		
+Thermo Scientific Accucore XL C18	Thermo Fisher, Accucore XL C18	L1	C18			1.09	0.059	0.051	-0.038	0.086	0.384	5.22		615		
+Thermo Scientific Accucore XL C8	Thermo Fisher, Accucore XL C8	L7	C8			0.926	0.02	-0.161	-0.001	0.02	-0.432	4.63		616		
+Thermo Scientific Accucore C18	Thermo Fisher, Accucore C18	L1	C18			1.09	0.054	0.055	-0.04	0.072	0.095	6.5		617		
+Thermo Scientific Accucore C8	Thermo Fisher, Accucore C8	L7	C8			0.924	0.015	-0.084	-0.003	0.002	0.186	5.2		618		
+Thermo Scientific Accucore C30	Thermo Fisher, Accucore C30	L62	C30			0.978	-0.02	-0.143	-0.002	0.321	0.462	4.52		619		
+Thermo Scientific Accucore C18	Thermo Fisher, Accucore C18	L1	C18		150	1.03	0.046	-0.037	-0.009	0.2	0.171	4.45		620		
+Thermo Scientific Accucore C4	Thermo Fisher, Accucore C4	L26	C4		150	0.738	-0.008	-0.309	0.023	0.13	0.224	2.17		621		
+Thermo Scientific Accucore aQ	Thermo Fisher, Accucore aQ	L1	EP			1.07	0.05	0.002	-0.059	0.06	0.508	5.46		622		
+Thermo Scientific Accucore Phenyl-X	Thermo Fisher, Accucore Phenyl-X	L11	Phenyl			0.781	-0.103	-0.554	0.044	-0.294	-0.082	3.64		623		
+Thermo Scientific Accucore Phenyl-Hexyl	Thermo Fisher, Accucore Phenyl-Hexyl	L11	Phenyl			0.786	-0.047	-0.223	0.006	0.055	0.574	3.6		624		
+Thermo Scientific Accucore PFP	Thermo Fisher, Accucore PFP	L43	F			0.729	-0.098	-0.249	-0.036	0.873	1.66	3.22		625		
 Thermo Accucore RP-MS	Thermo, Accucore RP-MS	NA	NA			1	0.024	-0.015	-0.006	0.027	0.057	6.2		626		
-Thermo Fisher Accucore Polar Premium	Thermo Fisher, Accucore Polar Premium	L60	EP			0.871	0.103	-0.567	0.217	-0.207	0.787	5.6		627		
-Thermo Fisher Acclaim C30	Thermo Fisher, Acclaim C30	L62	C30			0.973	-0.022	-0.126	0.004	0.353	0.32	5.52		628		
-Thermo Fisher Acclaim Phenyl-1	Thermo Fisher, Acclaim Phenyl-1	L11	Phenyl			0.689	-0.15	-0.548	0.068	0.013	0.15	4.27		629		
+Thermo Scientific Accucore Polar Premium	Thermo Fisher, Accucore Polar Premium	L60	EP			0.871	0.103	-0.567	0.217	-0.207	0.787	5.6		627		
+Thermo Scientific Acclaim C30	Thermo Fisher, Acclaim C30	L62	C30			0.973	-0.022	-0.126	0.004	0.353	0.32	5.52		628		
+Thermo Scientific Acclaim Phenyl-1	Thermo Fisher, Acclaim Phenyl-1	L11	Phenyl			0.689	-0.15	-0.548	0.068	0.013	0.15	4.27		629		
 Merck Supelco Ascentis Express F5	Merck, Ascentis Express F5	L43	F			0.721	-0.124	0.067	-0.074	1.06	1.84	3.25		630		
 Merck Supelco Ascentis Express F5	Merck, Ascentis Express F5	L43	F	5		0.711	-0.118	-0.097	-0.067	1.06	1.71	2.85		631		
 Merck Supelco Ascentis Express C18	Merck, Ascentis Express C18	L1	C18	5		1.13	0.053	0.053	-0.05	0.084	0.197	6.56		632		
@@ -740,10 +740,10 @@ Shimadzu Shim-pack Velox SP-C18	Shimadzu, Shim-pack Velox SP-C18	L1	C18			0.983	
 Shimadzu Shim-pack Velox C18	Shimadzu, Shim-pack Velox C18	L1	C18			1.1	0.051	0.101	-0.034	0.111	0.196	6.6		752		
 Shimadzu Shim-pack Velox Biphenyl C18	Shimadzu, Shim-pack Velox Biphenyl C18	L11	phenyl			0.707	-0.19	-0.244	0.046	0.063	1.07	3.2		753		
 Shimadzu Shim-pack Velox PFPP	Shimadzu, Shim-pack Velox PFPP	L42	F			0.688	-0.13	0.116	-0.043	0.443	1.59	3		754		
-Thermo Fisher BETASIL C18	Thermo Fisher, BETASIL C18	L1	C18			1.06	0.033	0.034	-0.014	0.095	0.099	12.3		755		
-Thermo Fisher Acclaim Mixed-Mode HILIC-1	Thermo Fisher, Acclaim Mixed-Mode HILIC-1	L60	EP			0.517	-0.086	0	0.126	0.067	0.893	1.7		756		
-Thermo Fisher Acclaim Mixed-Mode WCX-1	Thermo Fisher, Acclaim Mixed-Mode WCX-1	L60	EP			0.432	-0.099	-0.606	0.168	-0.156	0.99	1.5		757		
-Thermo Fisher Hypersil ODS	Thermo Fisher, Hypersil ODS	L1	C18			0.973	-0.051	-0.094	0.019	1.1	0.895	5.7		758		
-Thermo Fisher BETASIL C8	Thermo Fisher, BETASIL C8	L7	C8			0.875	-0.0027	-0.164	0.031	0.084	0.076	8.1		759		
-Thermo Fisher Accucore Biphenyl	Thermo Fisher, Accucore Biphenyl	L11	phenyl			0.706	-0.18	-0.317	0.025	0.077	0.727	3.3		760		
+Thermo Scientific BETASIL C18	Thermo Fisher, BETASIL C18	L1	C18			1.06	0.033	0.034	-0.014	0.095	0.099	12.3		755		
+Thermo Scientific Acclaim Mixed-Mode HILIC-1	Thermo Fisher, Acclaim Mixed-Mode HILIC-1	L60	EP			0.517	-0.086	0	0.126	0.067	0.893	1.7		756		
+Thermo Scientific Acclaim Mixed-Mode WCX-1	Thermo Fisher, Acclaim Mixed-Mode WCX-1	L60	EP			0.432	-0.099	-0.606	0.168	-0.156	0.99	1.5		757		
+Thermo Scientific Hypersil ODS	Thermo Fisher, Hypersil ODS	L1	C18			0.973	-0.051	-0.094	0.019	1.1	0.895	5.7		758		
+Thermo Scientific BETASIL C8	Thermo Fisher, BETASIL C8	L7	C8			0.875	-0.0027	-0.164	0.031	0.084	0.076	8.1		759		
+Thermo Scientific Accucore Biphenyl	Thermo Fisher, Accucore Biphenyl	L11	phenyl			0.706	-0.18	-0.317	0.025	0.077	0.727	3.3		760		
 YMC YMC-Triart Bio C18	YMC, YMC-Triart Bio C18	L1	C18			0.954	-0.0081	-0.139	0.011	0.261	0.21	3		761		

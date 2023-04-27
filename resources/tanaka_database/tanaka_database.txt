@@ -1,6 +1,6 @@
 name_new	name_old	usp code	phase type	kPB	αCH2	αT/O	αC/P	αB/P	αB/P	particle size [µm]	pore size [A]	name	hplccolumns_number	Column Name
-Thermo Fisher Acclaim 120 C18	Thermo Fisher, Acclaim 120 C18		C18	7.82	1.52	1.41	0.46	0.39	0.08	3	120	Acclaim 120 C18 3.0 µm		Acclaim 120 C18 3.0 µm
-Thermo Fisher Acclaim Mixed-Mode HILIC-1	Thermo Fisher, Acclaim Mixed-Mode HILIC-1		Diol	0.55	1.25	1.9	1.19	2.18	0.06	5	120	Acclaim Mixed mode HILIC 5um		Acclaim Mixed mode HILIC 5um
+Thermo Scientific Acclaim 120 C18	Thermo Fisher, Acclaim 120 C18		C18	7.82	1.52	1.41	0.46	0.39	0.08	3	120	Acclaim 120 C18 3.0 µm		Acclaim 120 C18 3.0 µm
+Thermo Scientific Acclaim Mixed-Mode HILIC-1	Thermo Fisher, Acclaim Mixed-Mode HILIC-1		Diol	0.55	1.25	1.9	1.19	2.18	0.06	5	120	Acclaim Mixed mode HILIC 5um		Acclaim Mixed mode HILIC 5um
 Thermo Scientific Acclaim Mixed Mode WAX-1	Thermo Fisher, Acclaim Mixed-Mode WAX		Alkyl/WAX	0.77	1.29	2.45	0.06	0.09	-0.1	5	120	Acclaim Mixed mode WAX 5um		Acclaim Mixed mode WAX 5um
 Thermo Scientific Acclaim Mixed Mode WCX-1	Thermo Fisher, Acclaim Mixed-Mode WCX-1		Alkyl/WCX	0.66	1.16	3.33	0.48	1.84	0.05	5	120	Acclaim Mixed mode WCX 5um		Acclaim Mixed mode WCX 5um
 Thermo Scientific Acclaim Polar Advantage	Thermo Fisher, Acclaim PA C16		PEG	4.16	1.4	2.71	0.34	0.27	0.04	5	120	Acclaim PA C16		Acclaim PA C18
@@ -107,6 +107,7 @@ Merck Supelco BIOshell Peptide C18			C18	2.26	1.45	1.21	0.75	1	0.13	2.7	160	BIOs
 Merck Chromolith RP-18 endcapped			C18	4.22	1.24	1.31	0.48	0.63	0.12	5	130	Chromolith C18		Chromolith C18
 Waters CORTECS C18	Waters, CORTECS C18		C18	4.51	1.48	1.38	0.39	0.38	0.1	1.6spp	90	Cortecs C18		Cortecs C18
 Waters CORTECS C18+	Waters, CORTECS C18+		C18	4.12	1.51	1.49	0.55	1	0.08	1.6spp	90	Cortecs C18+		Cortecs C18+
+Waters CORTECS T3			C18	2.87	1.47	1.20	0.51	0.26	0.13	1.6	120	Cortecs UPLC T3		Cortecs UPLC T3
 Nacalai Tesque COSMOSIL C18-EB			C18	4.8	1.46	1.29	0.59	0.38	0.11	3	120	Cosmosil 3 C18-EB		Cosmosil 3 C18-EB
 Nacalai Tesque COSMOSIL PYE			Aromatic	1.95	1.37	3.02	24.1	0.58	0.2	5	120	Cosmosil 5 PYE 5um		Cosmosil 5 PYE 5um
 Nacalai Tesque COSMOSIL Cholester			C18 like	5.24	1.49	3.26	0.39	0.23	0.03	5	120	Cosmosil cholester 5um		Cosmosil cholester 5um
@@ -199,7 +200,7 @@ Nouryon-Kromasil Kromasil Eternity C18			C18	5.08	1.42	1.18	0.46	0.22	0.1	5	100	
 Nouryon-Kromasil Kromasil Eternity PhenylHexyl			Phenyl	3.44	1.35	1	0.62	0.4	0.11	2.5	100	Kromasil Eternity phenyl hexyl 2.5 µm		Kromasil Eternity phenyl hexyl 2.5 µm
 Nouryon-Kromasil Kromasil Phenyl			Phenyl	2.02	1.3	1	0.96	0.48	0.13	5	100	Kromasil phenyl		Kromasil phenyl
 Merck LiChrospher 60 RP-Select B			C8	2.76	1.32	1.21	0.66	1.4	0.14	5	60	Lichrospher RP Select B		Lichrospher RP Select B
-			C18	7.92	1.48	1.73	0.54	1.39	0.19	5	100	Lichrospher RP18		Lichrospher RP18
+Merck LiChrospher RP-18			C18	7.92	1.48	1.73	0.54	1.39	0.19	5	100	Lichrospher RP18		Lichrospher RP18
 Phenomenex Luna C18	Phenomenex, Luna C18		C18	5.97	1.47	1.17	0.4	0.24	0.08	5	100	Luna C18		Luna C18
 Phenomenex Luna C18(2)	Phenomenex, Luna C18(2)		C18	6.34	1.47	1.23	0.41	0.26	0.06	5	100	Luna C18 (2)		Luna C18 (2)
 Phenomenex Luna CN	Phenomenex, Luna CN		CN	0.17	1.14	1.47	0.75	3.51	0.24	5	100	Luna CN		Luna CN
@@ -327,7 +328,7 @@ Hichrom Ultrasphere ODS			C18	6.41	1.52	1.42	0.48	0.31	0.16	5	80	Ultrasphere ODS
 			C18	1.86	1.46	2.35	0.56	1.23	0.09	5	300	Vydac C18 multiring		Vydac C18 multiring
 Waters XBridge BEH C18	Waters, XBridge C18		C18	2.22	1.45	1.37	0.38	0.24	0.13	3.5	300	XBridge BEH C18 300 3.5 µm		XBridge BEH C18 300 3.5 µm
 Waters XBridge BEH C18	Waters, XBridge C18		C18	2.18	1.45	1.39	0.34	0.23	0.12	5	300	XBridge BEH C18 300 5 µm		XBridge BEH C18 300 5 µm
-	Waters, XBridge C18		C18	3.81	1.45	1.38	0.34	0.27	0.14	3.5	130	XBridge C18		XBridge C18
+Waters XBridge C18	Waters, XBridge C18		C18	3.81	1.45	1.38	0.34	0.27	0.14	3.5	130	XBridge C18		XBridge C18
 	Waters, XBridge Phenyl		Phenyl	1.45	1.31	1	0.86	0.41	0.19	3.5	130	XBridge Phenyl		XBridge Phenyl
 	Waters, XBridge Shield RP18		PEG	2.85	1.38	2.22	0.33	0.26	0.12	3.5	130	XBridge Shield RP18 3.5 µm		XBridge Shield RP18 3.5 µm
 Waters XSelect CSH C18			C18	4.07	1.45	1.36	0.39	0.35	0.09	2.5	135	XSelect CSH C18		XSelect CSH C18
