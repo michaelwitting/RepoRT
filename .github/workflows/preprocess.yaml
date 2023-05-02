@@ -101,7 +101,7 @@ jobs:
         git config --global user.name 'Github Actions'
         # Use LFS storage of main repository: no push access to fork LFS storage
         # TODO: change once repository is moved
-        git config lfs.url 'https://github.com/michaelwitting/RtPredTrainingData.git/info/lfs'
+        git config lfs.url 'https://github.com/michaelwitting/RepoRT.git/info/lfs'
         git add processed_data raw_data
         git commit -m "Preprocessing ${{ steps.filesfolders.outputs.files }}"
         git lfs push origin HEAD # first push LFS, otherwise failure because of lfs.url
