@@ -19,7 +19,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0261_00018	Perfluorooctanoic acid	C8HF15O2	8.97		missing SMILES		
 0261_00019	Acesulfame	C4H5NO4S	2.11		missing SMILES		
 0261_00020	Flutamide	C11H11F3N2O3	10.7		missing SMILES		
-0261_00021	Sucralose	C12H19Cl3O8	8		missing SMILES		
+0261_00021	Sucralose	C12H19Cl3O8	8.0		missing SMILES		
 0261_00022	Triclosan	C12H7Cl3O2	11.54		missing SMILES		
 0261_00023	Saccharin	C7H5NO3S	3.01		missing SMILES		
 0261_00024	Perfluorooctanesulfonic acid	C8HF17O3S	9.25		missing SMILES		
@@ -37,11 +37,10 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0261_00036	Triclocarban	C13H9Cl3N2O	11.35		missing SMILES		
 0261_00037	27-Naphthalenedisulfonic acid	C10H8O6S2	1.65		missing SMILES		
 0261_00038	2-Naphthalene sulfonic acid	C10H8O3S	7.25		missing SMILES		
-0261_00039	4-Hydroxybenzotriazole	C6H5N3O	7		missing SMILES		
+0261_00039	4-Hydroxybenzotriazole	C6H5N3O	7.0		missing SMILES		
 0261_00040	Tetrabromobisphenol A	C15H12Br4O2	11.67		missing SMILES		
 0261_00041	Butylparaben	C11H14O3	10.55		missing SMILES		
 0261_00042	Perfluorobutanoic acid	C4HF7O2	2.91		missing SMILES		
-0261_00043	Perfluorobutanoic acid	C4HF7O2	2.91		missing SMILES		
 0261_00044	Perfluorotetradecanoic acid	C14HF27O2	9.93		missing SMILES		
 0261_00045	Tetrachlorosalicylanilide	C13H7Cl4NO2	10.21		missing SMILES		
 0261_00046	5-Fluorouracil	C4H3FN2O2	2.09		missing SMILES		
@@ -105,7 +104,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0261_00104	Bisphenol F	C13H12O2	9.94		missing SMILES		
 0261_00105	Ibuprofen	C13H18O2	10.32		missing SMILES		
 0261_00106	p-Chlorocresol	C7H7ClO	8.57		missing SMILES		
-0261_00107	1-Naphthol	C10H8O	10		missing SMILES		
+0261_00107	1-Naphthol	C10H8O	10.0		missing SMILES		
 0261_00108	4-n-Nonylphenol	C15H24O	11.61		missing SMILES		
 0261_00109	Thymol	C10H14O	10.55		missing SMILES		
 0261_00110	2-Phenylphenol	C12H10O	9.93		missing SMILES		

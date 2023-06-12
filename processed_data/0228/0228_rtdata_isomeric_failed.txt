@@ -270,11 +270,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_00375	Lipoamide	C8H15NOS2	1.25		missing SMILES		
 0228_00376	Liquiritigenin	C15H12O4	1.3		missing SMILES		
 0228_00377	Lobeline A	C22H27NO2	2.02		missing SMILES		
-0228_00378	Lofepramine	C26H27ClN2O	1.91		missing SMILES		
-0228_00379	Lofexidine	C11H12Cl2N2O	2.65		missing SMILES		
-0228_00380	Lomerizine	C27H30F2N2O3	1.7		missing SMILES		
-0228_00381	Lomifylline	C13H18N4O3	1.09		missing SMILES		
-0228_00382	Loratadine	C22H23ClN2O2	1.11		missing SMILES		
 0228_00383	Lorazepam	C15H10Cl2N2O2	1.33		missing SMILES		
 0228_00384	Losartan	C22H23ClN6O	1.27		missing SMILES		
 0228_00386	Loxapine	C18H18ClN3O	2.18		missing SMILES		
@@ -293,7 +288,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_00404	Meprobamate	C9H18N2O4	1.25		missing SMILES		
 0228_00405	Mesoridazine	C21H26N2OS2	4.24		missing SMILES		
 0228_00406	Metformin	C4H11N5	5.44		missing SMILES		
-0228_00407	Methadone	C21H27NO	2		missing SMILES		
+0228_00407	Methadone	C21H27NO	2.0		missing SMILES		
 0228_00408	Methamphetamine	C10H15N	3.33		missing SMILES		
 0228_00409	Methaqualone	C16H14N2O	1.1		missing SMILES		
 0228_00410	Methionine	C5H11NO2S	7.37		missing SMILES		
@@ -356,7 +351,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_00500	Nimodipine	C21H26N2O7	0.94		missing SMILES		
 0228_00501	N-Isobutyrylglycine	C6H11NO3	3.6		missing SMILES		
 0228_00502	N-Isovalerylglycine	C7H13NO3	2.94		missing SMILES		
-0228_00503	Nitazoxanide	C12H9N3O5S	1		missing SMILES		
+0228_00503	Nitazoxanide	C12H9N3O5S	1.0		missing SMILES		
 0228_00504	Nitrazepam	C15H11N3O3	1.2		missing SMILES		
 0228_00505	Nitrendipine	C18H20N2O6	0.95		missing SMILES		
 0228_00508	N-Methylaniline	C7H9N	1.06		missing SMILES		
@@ -372,8 +367,8 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_00521	N-Methylthreonine	C5H11NO3	7.68		missing SMILES		
 0228_00522	N-Methyltyrosine	C10H13NO3	6.79		missing SMILES		
 0228_00523	N-Methylvaline	C6H13NO2	6.99		missing SMILES		
-0228_00524	Nobiletin	C21H22O8	1		missing SMILES		
-0228_00525	N-omega-Acetylhistamine	C7H11N3O	6		missing SMILES		
+0228_00524	Nobiletin	C21H22O8	1.0		missing SMILES		
+0228_00525	N-omega-Acetylhistamine	C7H11N3O	6.0		missing SMILES		
 0228_00526	Norleucine	C6H13NO2	6.99		missing SMILES		
 0228_00527	Nornicotine	C9H12N2	5.98		missing SMILES		
 0228_00528	Norvaline	C5H11NO2	4.89		missing SMILES		
@@ -477,7 +472,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_00647	Ranolazine	C24H33N3O4	2.79		missing SMILES		
 0228_00648	Remacemide	C17H20N2O	4.41		missing SMILES		
 0228_00651	Retinoic acid	C20H28O2	1.11		missing SMILES		
-0228_00652	Riboflavin	C17H20N4O6	6		missing SMILES		
+0228_00652	Riboflavin	C17H20N4O6	6.0		missing SMILES		
 0228_00655	Rifaximin	C43H51N3O11	1.18		missing SMILES		
 0228_00656	Riluzole	C8H5F3N2OS	1.03		missing SMILES		
 0228_00658	Risperidone	C23H27FN4O2	3.52		missing SMILES		
@@ -535,7 +530,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_00728	Threonine	C4H9NO3	8.21		missing SMILES		
 0228_00729	Thymidine	C10H14N2O5	2.57		missing SMILES		
 0228_00731	Thymol	C10H14O	1.53		missing SMILES		
-0228_00733	Tibolone	C21H28O2	1		missing SMILES		
+0228_00733	Tibolone	C21H28O2	1.0		missing SMILES		
 0228_00734	Ticlopidine	C14H14ClNS	1.12		missing SMILES		
 0228_00735	Tinidazole	C8H13N3O4S	1.04		missing SMILES		
 0228_00736	Tocainide	C11H16N2O	4.97		missing SMILES		
@@ -554,95 +549,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_00755	Trimipramine	C20H26N2	2.25		missing SMILES		
 0228_00756	Tripelennamine	C16H21N3	1.98		missing SMILES		
 0228_00758	Viramune	C15H14N4O	1.16		missing SMILES		
-0228_00759	2-Amino-3-methoxybenzoic acid	C8H9NO3	1.27		missing SMILES		
-0228_00760	2-Aminoacetophenone	C8H9NO	1.08		missing SMILES		
-0228_00761	2-Aminoethanethiol	C2H7NS	2.05		missing SMILES		
-0228_00762	2-Aminoethylphosphonic acid	C2H8NO3P	9.39		missing SMILES		
-0228_00763	2-Aminophenol	C6H7NO	1.22		missing SMILES		
-0228_00765	2-Chloro-N6-cyclopentyladenosine	C15H20ClN5O4	1.47		missing SMILES		
-0228_00766	2'-Deoxyadenosine	C10H13N5O3	3.92		missing SMILES		
-0228_00771	2'-Deoxyguanosine 3'-monophosphate	C10H14N5O7P	9.43		missing SMILES		
-0228_00773	2-Deoxyribose	C5H10O4	1.42		missing SMILES		
-0228_00776	2-Hydroxy-3-methylbutyric acid	C5H10O3	1.29		missing SMILES		
-0228_00777	2-Hydroxy-4-methylpentanoic acid	C6H12O3	1.57		missing SMILES		
-0228_00778	2-Hydroxyacetophenone	C8H8O2	4.36		missing SMILES		
-0228_00779	2-Hydroxychalcone	C15H12O2	1.01		missing SMILES		
-0228_00780	2-Hydroxyglutaric acid	C5H8O5	0.91		missing SMILES		
-0228_00781	2-Hydroxyquinoline	C9H7NO	1.51		missing SMILES		
-0228_00782	2-Indolinone	C8H7NO	1.36		missing SMILES		
-0228_00783	2-Methoxy-4-vinylphenol	C9H10O2	8.71		missing SMILES		
-0228_00784	2-Myristoylglycerol	C17H34O4	1.01		missing SMILES		
-0228_00785	2'-O-Methyl-5-methylcytidine	C11H17N3O5	4.93		missing SMILES		
-0228_00786	2'-O-Methyl-5-methyluridine	C11H16N2O6	1.75		missing SMILES		
-0228_00787	2'-O-Methyladenosine	C11H15N5O4	2.6		missing SMILES		
-0228_00788	2'-O-Methyladenosine	C11H15N5O4	2.64		missing SMILES		
-0228_00789	2'-O-Methylcytidine	C10H15N3O5	5.02		missing SMILES		
-0228_00790	2'-O-Methylguanosine	C11H15N5O5	5.72		missing SMILES		
-0228_00792	2'-O-Methyluridine	C10H14N2O6	2.24		missing SMILES		
-0228_00793	2-Palmitoylglycerol	C19H38O4	0.99		missing SMILES		
-0228_00794	2-Phenylacetamide	C8H9NO	1.26		missing SMILES		
-0228_00795	2-Propanamidoacetic acid	C5H9NO3	5.37		missing SMILES		
-0228_00796	2-Pyridone	C5H5NO	2.05		missing SMILES		
-0228_00797	2-Thiocytidine	C9H13N3O4S	5.33		missing SMILES		
-0228_00798	2-Thiouridine	C9H12N2O5S	2.48		missing SMILES		
-0228_00799	3-(1-Pyrazolyl)-alanine	C6H9N3O2	7.54		missing SMILES		
-0228_00800	3,4-Dihydroxymandelic acid	C8H8O5	2.3		missing SMILES		
-0228_00802	3,4-Dimethoxybenzaldehyde	C9H10O3	1.08		missing SMILES		
-0228_00803	3,4-Methylenedioxyethamphetamine	C12H17NO2	2.94		missing SMILES		
-0228_00805	3,5-Dihydroxyphenylglycine	C8H9NO4	8.18		missing SMILES		
-0228_00806	3-Amino-3-(4-hydroxyphenyl)propionic acid	C9H11NO3	7.42		missing SMILES		
-0228_00807	3-Aminoisobutyric acid	C4H9NO2	7.4		missing SMILES		
-0228_00808	3-Aminotyrosine	C9H12N2O3	8.06		missing SMILES		
-0228_00809	3-beta-Cholest-5-en-3-yl [2-(dimethylamino)ethyl]carbamate	C32H56N2O2	2.34		missing SMILES		
-0228_00810	3-Chlorotyrosine	C9H10ClNO3	7.13		missing SMILES		
-0228_00811	3-Deoxyuridine	C9H12N2O5	2.87		missing SMILES		
-0228_00812	3-Guanidinopropionic acid	C4H9N3O2	8.15		missing SMILES		
-0228_00813	3-Hydroxyanthranilic acid	C7H7NO3	1.48		missing SMILES		
-0228_00814	3-Hydroxybenzaldehyde	C7H6O2	1.18		missing SMILES		
-0228_00815	3-Hydroxybutyrylcarnitine	C11H21NO5	7.62		missing SMILES		
-0228_00816	3-Hydroxykynurenine	C10H12N2O4	7.35		missing SMILES		
-0228_00817	3-Hydroxyphenylacetic acid	C8H8O3	1.45		missing SMILES		
-0228_00818	3-Hydroxyphenylalanine	C9H11NO3	7.44		missing SMILES		
-0228_00820	3-Hydroxysebacic acid	C10H18O5	2.55		missing SMILES		
-0228_00821	3-Hydroxyvaleric acid	C5H10O3	1.29		missing SMILES		
-0228_00822	3-Indoleacetic acid	C10H9NO2	1.33		missing SMILES		
-0228_00823	3-Indoleacetonitrile	C10H8N2	8.02		missing SMILES		
-0228_00824	3-Indolepropionic acid	C11H11NO2	1.28		missing SMILES		
-0228_00825	3-Methylcrotonylglycine	C7H11NO3	2.95		missing SMILES		
-0228_00827	3-Methylhistidine	C7H11N3O2	9.41		missing SMILES		
-0228_00828	3-Methyloxyindole	C9H9NO	1.07		missing SMILES		
-0228_00829	3-Methylthiopropylamine	C4H11NS	5.16		missing SMILES		
-0228_00832	3-Octanol	C8H18O	8.47		missing SMILES		
-0228_00835	3'-O-Methyluridine	C10H14N2O6	2.42		missing SMILES		
-0228_00836	3-Phosphonopropionic acid	C3H7O5P	8.59		missing SMILES		
-0228_00837	3-Pyridinemthanol	C6H7NO	1.41		missing SMILES		
-0228_00838	3-Trimethylsilylpropionic acid	C6H14O2Si	5.64		missing SMILES		
-0228_00839	3-Ureidopropionic acid	C4H8N2O3	5.6		missing SMILES		
-0228_00840	4,5,7-Trihydroxyisoflavone	C15H10O5	1.27		missing SMILES		
-0228_00841	4-Acetamidobutyric acid	C6H11NO3	2.26		missing SMILES		
-0228_00842	4-Acetylbutyric acid	C6H10O3	1.24		missing SMILES		
-0228_00843	4-Aminobenzoic acid	C7H7NO2	7.49		missing SMILES		
-0228_00844	4-Aminomethylcyclohexanecarboxylic acid	C8H15NO2	6.6		missing SMILES		
-0228_00845	4-Aminophenol	C6H7NO	1.34		missing SMILES		
-0228_00846	4-Guanidinobutyric acid	C5H11N3O2	7.72		missing SMILES		
-0228_00847	4-Hexylresorcinol	C12H18O2	1.63		missing SMILES		
-0228_00848	4-Hydroxy-4-methyl-2-pentanone	C6H12O2	4.88		missing SMILES		
-0228_00849	4-Hydroxy-6-methyl-2-pyrone	C6H6O3	1.47		missing SMILES		
-0228_00850	4-Hydroxybenzaldehyde	C7H6O2	1.18		missing SMILES		
-0228_00851	4-Hydroxyhippuric acid	C9H9NO4	5.86		missing SMILES		
-0228_00852	4-Hydroxymandelonitrile	C8H7NO2	2.63		missing SMILES		
-0228_00854	4-Hydroxyphenylethanol	C8H10O2	8.03		missing SMILES		
-0228_00855	4-Hydroxyphenylpyruvic acid	C9H8O4	1.22		missing SMILES		
-0228_00856	4-Hydroxyquinoline	C9H7NO	1.69		missing SMILES		
-0228_00857	4-Methyl-5-thiazoleethanol	C6H9NOS	1.21		missing SMILES		
-0228_00858	4-Methylumbelliferone	C10H8O3	1.22		missing SMILES		
-0228_00859	4-Methylumbelliferyl acetate	C12H10O4	1.06		missing SMILES		
-0228_00860	4-Nitroquinoline-N-oxide	C9H6N2O3	1.14		missing SMILES		
-0228_00861	4-Pyridoxic acid	C8H9NO4	2.66		missing SMILES		
-0228_00862	4-Quinolinecarboxylic acid	C10H7NO2	4.58		missing SMILES		
-0228_00863	4-Thiouridine	C9H12N2O5S	2.27		missing SMILES		
-0228_00864	4-Trimethylammoniobutanoic acid	C7H16NO2+	7.66		missing SMILES		
-0228_00865	5,6-Dihydro-5-methyluracil	C5H8N2O2	1.57		missing SMILES		
 0228_00866	5,6-Dihydrouracil	C4H6N2O2	1.77		missing SMILES		
 0228_00867	5,6-Dimethylbenzimidazole	C9H10N2	1.82		missing SMILES		
 0228_00868	5-Aminoimidazole-4-carboxamide	C4H6N4O	4.18		missing SMILES		
@@ -672,7 +578,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_00897	6-Methyl-5-hepten-2-ol	C8H16O	7.3		missing SMILES		
 0228_00899	6-Methylmercaptopurine	C6H6N4S	1.49		missing SMILES		
 0228_00900	7,8-Dihydrobiopterin	C9H13N5O3	7.18		missing SMILES		
-0228_00902	7-Nitroindazole	C7H5N3O2	1.03		missing SMILES		
 0228_00906	Acarbose	C25H43NO18	9.88		missing SMILES		
 0228_00907	Acetaminophen	C8H9NO2	1.37		missing SMILES		
 0228_00908	Acetaminophen glucuronide	C14H17NO8	7.73		missing SMILES		
@@ -703,293 +608,11 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_00946	Icarin	C33H40O15	4.74		missing SMILES		
 0228_00947	Idarubicin	C26H27NO9	5.42		missing SMILES		
 0228_00948	Idebenone	C19H30O5	0.96		missing SMILES		
-0228_00949	Ifenprodil	C21H27NO2	3.17		missing SMILES		
-0228_00950	Imatinib	C29H31N7O	5.36		missing SMILES		
-0228_00951	Imidazole	C3H4N2	4.53		missing SMILES		
-0228_00952	Indarubicin	C16H10N2O2	1.07		missing SMILES		
-0228_00955	Indole-3-acetamide	C10H10N2O	1.36		missing SMILES		
-0228_00956	Indole-3-carbinol	C9H9NO	1.24		missing SMILES		
-0228_00957	Indole-3-carboxaldehyde	C9H7NO	1.16		missing SMILES		
-0228_00958	Indole-3-carboxylic acid	C9H7NO2	1.41		missing SMILES		
-0228_00959	Indole-3-pyruvic acid	C11H9NO3	5.11		missing SMILES		
-0228_00960	Indolelactic acid	C11H11NO3	2.25		missing SMILES		
-0228_00961	Indomethacin	C19H16ClNO4	1.08		missing SMILES		
-0228_00964	Ipidacrine	C12H16N2	3.33		missing SMILES		
-0228_00965	Ipriflavone	C18H16O3	0.94		missing SMILES		
-0228_00966	Irbesartan	C25H28N6O	1.16		missing SMILES		
-0228_00968	Irsogladine	C9H7Cl2N5	1.25		missing SMILES		
-0228_00969	Isobutylamine	C4H11N	5.04		missing SMILES		
-0228_00970	Isobutyric acid	C4H8O2	1.77		missing SMILES		
-0228_00971	Isoleucine	C6H13NO2	7.18		missing SMILES		
-0228_00973	Isopentenyladenine	C10H13N5	1.81		missing SMILES		
-0228_00978	Isoxanthopterin	C6H5N5O2	6.41		missing SMILES		
-0228_00979	Isradipine	C19H21N3O5	0.95		missing SMILES		
-0228_00980	Itopride	C20H26N2O4	3.65		missing SMILES		
-0228_00981	Itraconzaole	C35H38Cl2N8O4	0.97		missing SMILES		
-0228_00982	Kaempferol	C15H10O6	1.4		missing SMILES		
-0228_00985	Ketoisovaleric acid	C5H8O3	2.84		missing SMILES		
-0228_00986	Ketotifen	C19H19NOS	2.71		missing SMILES		
-0228_00987	Kitasamycin	C40H67NO14	2.04		missing SMILES		
-0228_00988	Kynurenic acid	C10H7NO3	6.15		missing SMILES		
-0228_00989	Kynurenine	C10H12N2O3	6.98		missing SMILES		
-0228_00990	L-694,247	C20H21N5O3S	5.25		missing SMILES		
-0228_00991	Lacidipine	C26H33NO6	0.94		missing SMILES		
-0228_00992	Lactamide	C3H7NO2	1.74		missing SMILES		
-0228_00994	Lamivudine	C8H11N3O3S	3.4		missing SMILES		
-0228_00995	Lamotrigine	C9H7Cl2N5	1.98		missing SMILES		
-0228_00998	Letrozol	C17H11N5	0.98		missing SMILES		
-0228_01001	Leucine	C6H13NO2	7.08		missing SMILES		
-0228_01007	Levosulpiride	C15H23N3O4S	4.37		missing SMILES		
-0228_01009	Lidocaine	C14H22N2O	1.97		missing SMILES		
-0228_01010	Limonene	C10H16	0.92		missing SMILES		
-0228_01011	Linalool	C10H18O	0.97		missing SMILES		
-0228_01014	Linopirdine	C26H21N3O	1.17		missing SMILES		
-0228_01015	Lipoamide	C8H15NOS2	1.25		missing SMILES		
-0228_01016	Liquiritigenin	C15H12O4	1.3		missing SMILES		
-0228_01017	Lobeline A	C22H27NO2	2.02		missing SMILES		
-0228_01018	Monoolein	C21H40O4	1.19		missing SMILES		
-0228_01019	Mosapride	C21H25ClFN3O3	1.24		missing SMILES		
-0228_01021	Moxonidine	C9H12ClN5O	3.28		missing SMILES		
-0228_01022	N-(2-Furoyl)glycine	C7H7NO4	4.01		missing SMILES		
-0228_01023	N,N-Dimethylarginine	C8H18N4O2	9.1		missing SMILES		
-0228_01024	N,N-Dimethylformamide	C3H7NO	1.29		missing SMILES		
-0228_01025	N,N-Dimethylglycine	C4H9NO2	7.4		missing SMILES		
-0228_01030	N-2-Fluorenylacetamide	C15H13NO	4.74		missing SMILES		
-0228_01031	N-2-Hydroxycyclopentyladenosine	C15H21N5O5	3.48		missing SMILES		
-0228_01032	N2-Methylguanosine	C11H15N5O5	6.4		missing SMILES		
-0228_01033	N6-Isopentenyladenosine	C15H21N5O4	1.48		missing SMILES		
-0228_01034	N8-Acetylspermidine	C9H21N3O	8.87		missing SMILES		
-0228_01035	N-Acetyl-5-hydroxytryptamine	C12H14N2O2	1.43		missing SMILES		
-0228_01037	N-Acetyl-Asp-Glu	C11H16N2O8	8.11		missing SMILES		
-0228_01038	N-Acetylcaprolactam	C8H13NO2	2.3		missing SMILES		
-0228_01041	N-Acetylglutamic acid	C7H11NO5	7.67		missing SMILES		
-0228_01049	N-Acetylphenylalanine	C11H13NO3	2.61		missing SMILES		
-0228_01051	N-Acetyltryptophan	C13H14N2O3	2.81		missing SMILES		
-0228_01052	Nafadotride	C22H27N3O2	2.05		missing SMILES		
-0228_01053	Naftopidil	C24H28N2O3	1.99		missing SMILES		
-0228_01056	N-alpha-methylhistamine	C6H11N3	7.48		missing SMILES		
-0228_01059	Naproxen	C14H17O3	1.08		missing SMILES		
-0228_01062	N-Benzyloxycarbonylglycine	C10H11NO4	7.67		missing SMILES		
-0228_01063	N-Carbobenzyloxyleucine	C14H19NO4	1.28		missing SMILES		
 0228_01065	N-cyano-N'-(1,1-dimethylpropyl)-N'-3-pyridinyl-guanidine	C12H17N5	1.16		missing SMILES		
-0228_01066	N-Cyclohexylformamide	C7H13NO	1.2		missing SMILES		
-0228_01067	Nefazodone	C25H32ClN5O2	1.88		missing SMILES		
-0228_01069	NEPSILON,NEPSILON,NEPSILON-TRIMETHYLLYSINE	C9H20N2O2	9.29		missing SMILES		
-0228_01071	Nerylacetate	C12H20O2	0.99		missing SMILES		
-0228_01072	N-Formylmethionine	C6H11NO3S	3.93		missing SMILES		
-0228_01073	N-gamma-Acetyl-N-2-formyl-5-methoxykynurenamine	C13H16N2O4	1.32		missing SMILES		
-0228_01074	Nialamide	C16H18N4O2	1.69		missing SMILES		
-0228_01075	Nicorandil	C8H9N3O4	1.11		missing SMILES		
-0228_01076	Nicotinamide	C6H6N2O	1.7		missing SMILES		
-0228_01078	Nicotine	C10H14N2	5.34		missing SMILES		
-0228_01079	Nicotinic acid	C6H5NO2	4.01		missing SMILES		
-0228_01080	Nicotinoylglycine	C8H8N2O3	7.08		missing SMILES		
-0228_01081	Nifedipine	C17H18N2O6	1.02		missing SMILES		
-0228_01082	Nifekalant	C19H27N5O5	3.21		missing SMILES		
-0228_01083	Nimetazepam	C16H13N3O3	0.98		missing SMILES		
-0228_01084	Nimodipine	C21H26N2O7	0.94		missing SMILES		
-0228_01085	N-Isobutyrylglycine	C6H11NO3	3.6		missing SMILES		
-0228_01086	N-Isovalerylglycine	C7H13NO3	2.94		missing SMILES		
-0228_01087	Nitazoxanide	C12H9N3O5S	1		missing SMILES		
-0228_01088	Nitrazepam	C15H11N3O3	1.2		missing SMILES		
-0228_01089	Nitrendipine	C18H20N2O6	0.95		missing SMILES		
-0228_01092	N-Methylaniline	C7H9N	1.06		missing SMILES		
-0228_01093	N-Methylanthranilic acid	C8H9NO2	1.22		missing SMILES		
-0228_01094	N-Methylaspartic acid	C5H9NO4	2.53		missing SMILES		
-0228_01095	N-Methylglutamic acid	C6H11NO4	8.32		missing SMILES		
-0228_01096	N-Methylglutamic acid	C6H11NO4	8.45		missing SMILES		
-0228_01099	N-Methylisoleucine	C7H15NO2	6.44		missing SMILES		
-0228_01100	N-Methylleucine	C7H15NO2	6.45		missing SMILES		
-0228_01101	N-Methyllysine	C7H16N2O2	9.36		missing SMILES		
-0228_01102	N-Methylparoxetine	C20H22FNO3	2.2		missing SMILES		
-0228_01104	N-Methylproline	C6H11NO2	7.11		missing SMILES		
-0228_01105	N-Methylthreonine	C5H11NO3	7.68		missing SMILES		
-0228_01106	N-Methyltyrosine	C10H13NO3	6.79		missing SMILES		
-0228_01107	N-Methylvaline	C6H13NO2	6.99		missing SMILES		
-0228_01108	Nobiletin	C21H22O8	1		missing SMILES		
-0228_01109	N-omega-Acetylhistamine	C7H11N3O	6		missing SMILES		
-0228_01110	Norleucine	C6H13NO2	6.99		missing SMILES		
-0228_01111	Nornicotine	C9H12N2	5.98		missing SMILES		
-0228_01112	Norvaline	C5H11NO2	4.89		missing SMILES		
-0228_01113	Noscapine	C22H23NO7	1.31		missing SMILES		
-0228_01116	Octadecanedioic acid	C18H34O4	1.24		missing SMILES		
-0228_01117	Octanal	C8H16O	6.98		missing SMILES		
-0228_01118	Octanol	C8H18O	8.47		missing SMILES		
-0228_01120	Olanzapine	C17H20N4S	4.56		missing SMILES		
-0228_01121	Olmesartan	C24H26N6O3	4.76		missing SMILES		
-0228_01122	Ondansetron	C18H19N3O	2.83		missing SMILES		
-0228_01123	O-Phosphocolamine	C2H8NO4P	9.23		missing SMILES		
-0228_01124	O-Phosphoserine	C3H8NO6P	9.85		missing SMILES		
-0228_01125	o-Phosphothreonine	C4H10NO6P	9.74		missing SMILES		
-0228_01126	Orlistat	C29H53NO5	0.89		missing SMILES		
-0228_01127	Ormetroprim	C14H18N4O2	4.19		missing SMILES		
-0228_01128	Ornidazole	C7H10ClN3O3	1.08		missing SMILES		
-0228_01129	Ornithine	C5H12N2O2	9.6		missing SMILES		
-0228_01130	Orthanilic acid	C6H7NO3S	2.52		missing SMILES		
-0228_01131	O-Succinylhomoserine	C8H13NO6	8.06		missing SMILES		
-0228_01132	Otenzepad	C24H31N5O2	2.94		missing SMILES		
-0228_01133	Oxaprozin	C18H15NO3	1.11		missing SMILES		
-0228_01134	Oxazepam	C15H11ClN2O2	1.37		missing SMILES		
-0228_01138	Oxyphenonium	C21H34NO3+	2.01		missing SMILES		
-0228_01140	p-(Dimethylamino)azobenzene [methyl yellow]	C14H15N3	0.93		missing SMILES		
-0228_01141	Palmitoylcarnitine cation	C23H45NO4	3.23		missing SMILES		
-0228_01143	P-Anisic acid	C8H8O3	1.3		missing SMILES		
-0228_01144	Panthenol	C9H19NO4	1.9		missing SMILES		
-0228_01145	Pantoprazole	C16H15F2N3O4S	1.21		missing SMILES		
-0228_01146	Pantothenic acid	C9H17NO5	3.5		missing SMILES		
-0228_01147	Papaverine	C20H21NO4	1.54		missing SMILES		
-0228_01148	Paraoxon	C10H14NO6P	1.02		missing SMILES		
-0228_01149	Parecoxib	C19H18N2O4S	0.98		missing SMILES		
-0228_01150	Paroxetine	C19H20FNO3	3.08		missing SMILES		
-0228_01152	p-Coumaric acid	C9H8H3	1.38		missing SMILES		
-0228_01153	PD 81723	C14H12F3NOS	0.94		missing SMILES		
-0228_01154	Pefloxacin	C17H20FN3O3	3.65		missing SMILES		
-0228_01155	Pemoline	C9H8N2O2	1.39		missing SMILES		
-0228_01156	Penciclovir	C10H15N5O3	6.71		missing SMILES		
-0228_01157	Pentazocine	C19H27NO	2.65		missing SMILES		
-0228_01158	Pentoxifylline	C13H18N4O3	1.09		missing SMILES		
-0228_01162	Phendimetrazine	C12H17NO	2.52		missing SMILES		
-0228_01163	Phenelzine	C8H12N2	4.45		missing SMILES		
-0228_01164	Phenethylacetate	C10H12O2	1.02		missing SMILES		
-0228_01165	Phenethylamine	C8H11N	4.87		missing SMILES		
-0228_01166	Phenmetrazine	C11H15NO	4.04		missing SMILES		
-0228_01167	Phenprobamate	C10H13NO2	1.01		missing SMILES		
-0228_01168	Phentermine	C10H15N	6.23		missing SMILES		
-0228_01169	Phenylacetaldehyde	C8H8O	5.4		missing SMILES		
-0228_01171	Phenylacetylglycine	C10H11NO3	2.88		missing SMILES		
-0228_01172	Phenylethanolamine	C8H11NO	5.51		missing SMILES		
-0228_01173	Phenylphosphoric acid	C6H7O4P	7.05		missing SMILES		
-0228_01174	Phenylpropanolamine	C9H13NO	5.29		missing SMILES		
-0228_01175	Phloretin	C15H14O5	1.5		missing SMILES		
-0228_01176	Phlorobenzophenone	C13H10O4	1.34		missing SMILES		
-0228_01177	Phloroglucinol	C6H6O3	1.15		missing SMILES		
-0228_01178	Phosphoenolpyruvic acid	C3H5O6P	9.05		missing SMILES		
-0228_01179	Phosphonoacetic acid	C2H5O5P	9.73		missing SMILES		
-0228_01180	Phosphotyrosine	C9H12NO6P	9.72		missing SMILES		
-0228_01181	Phthalic acid	C8H6O4	1.15		missing SMILES		
 0228_01182	Physostigmine	C15H21N3O2	3.17		missing SMILES		
-0228_01183	Phytosphingosine	C18H39NO3	5.18		missing SMILES		
-0228_01184	Picrotin	C15H18O7	1.21		missing SMILES		
-0228_01185	Pidotimod	C9H12N2O4S	7.3		missing SMILES		
-0228_01186	Pilocarpine	C11H16N2O2	2.23		missing SMILES		
-0228_01187	Pinacidil	C13H19N5	1.49		missing SMILES		
-0228_01188	Pioglitazone	C19H20N2O3S	1.11		missing SMILES		
-0228_01189	Pipecolic acid	C6H11NO2	7.83		missing SMILES		
-0228_01190	Piperine	C17H19NO3	1.1		missing SMILES		
-0228_01191	Pirenperone	C23H24FN3O2	3.5		missing SMILES		
-0228_01192	Piroxicam	C15H13N3O4S	1.02		missing SMILES		
-0228_01193	Pitavastatin	C25H24FNO4	1.36		missing SMILES		
-0228_01194	Pizotifen	C19H21NS	2.33		missing SMILES		
-0228_01195	Porphobilinogen	C10H14N2O4	7.4		missing SMILES		
-0228_01196	Pramipexole	C10H17N3S	5.7		missing SMILES		
-0228_01198	Prazepam	C19H17ClN2O	1.07		missing SMILES		
-0228_01199	Prazosin	C19H21N5O4	3.75		missing SMILES		
-0228_01200	Procarbazine	C12H19N3O	4.61		missing SMILES		
-0228_01201	Prochlorperazine	C20H24ClN3S	2.56		missing SMILES		
-0228_01204	Proline	C5H9NO2	7.83		missing SMILES		
-0228_01205	Proline-hydroxyproline	C10H16N2O4	8.6		missing SMILES		
-0228_01206	Propanil	C9H9Cl2NO	1.08		missing SMILES		
-0228_01207	Propionylcarnitine	C10H19NO4	6.41		missing SMILES		
-0228_01208	Propoxyphene	C22H29NO2	2.01		missing SMILES		
-0228_01209	Pterostilbene	C16H16O3	0.98		missing SMILES		
-0228_01210	Purine	C5H4N4	2.44		missing SMILES		
-0228_01211	Putrescine	C4H12N2	9.3		missing SMILES		
-0228_01212	Pyrafluefen-ethyl	C15H13Cl2F3N2O4	1.02		missing SMILES		
-0228_01213	Pyridine	C5H5N	6.63		missing SMILES		
-0228_01214	Pyridoxal	C8H9NO3	2.18		missing SMILES		
-0228_01215	Pyridoxal-5-phosphate	C8H10NO6P	7.7		missing SMILES		
-0228_01216	Pyridoxamine	C8H12N2O2	8.1		missing SMILES		
-0228_01217	Pyridoxine	C8H11NO3	3.78		missing SMILES		
-0228_01218	Pyroglutamic acid	C5H7NO3	8.71		missing SMILES		
-0228_01219	Pyrrole-2-carboxylic acid	C5H5NO2	5.66		missing SMILES		
-0228_01222	Quetiapine	C21H25N3O2S	2.54		missing SMILES		
-0228_01223	Quinolinic acid	C7H5NO4	2.16		missing SMILES		
-0228_01224	Rabeprazole	C18H21N3O3S	2.44		missing SMILES		
-0228_01225	Racecadotril	C21H23NO4S	0.95		missing SMILES		
-0228_01227	Raffinose	C18H32O16	9.17		missing SMILES		
 0228_01228	Raltitrexed	C21H22N4O6S	7.35		missing SMILES		
-0228_01230	Ranitidine	C13H22N4O3S	5.18		missing SMILES		
-0228_01231	Ranolazine	C24H33N3O4	2.79		missing SMILES		
-0228_01232	Remacemide	C17H20N2O	4.41		missing SMILES		
-0228_01235	Retinoic acid	C20H28O2	1.11		missing SMILES		
-0228_01236	Riboflavin	C17H20N4O6	6		missing SMILES		
-0228_01239	Rifaximin	C43H51N3O11	1.18		missing SMILES		
-0228_01240	Riluzole	C8H5F3N2OS	1.03		missing SMILES		
-0228_01242	Risperidone	C23H27FN4O2	3.52		missing SMILES		
-0228_01244	Rizatriptan	C15H19N5	5.11		missing SMILES		
-0228_01245	Rofecoxib	C17H14O4S	0.97		missing SMILES		
-0228_01246	Rolipram	C16H21NO3	1.12		missing SMILES		
-0228_01247	Ropivacaine	C17H26N2O	2.49		missing SMILES		
-0228_01248	Rosigltazone	C18H19N3O3S	1.24		missing SMILES		
-0228_01249	Roxane	C19H28N2O4	3.01		missing SMILES		
-0228_01250	RU 24969	C14H16N2O	4.61		missing SMILES		
-0228_01251	Rufloxacin	C17H18FN3O3S	4.65		missing SMILES		
-0228_01252	Rutin	C27H30O16	6.6		missing SMILES		
-0228_01254	S-Adenosyl-methionine	C15H23N6O5S+	9.7		missing SMILES		
-0228_01256	Salmeterol	C25H37NO4	4.75		missing SMILES		
-0228_01258	Sarcosine	C3H7NO2	7.82		missing SMILES		
-0228_01261	Scopoletin	C10H8O4	1.16		missing SMILES		
-0228_01263	Secnidazole	C7H11N3O3	1.12		missing SMILES		
-0228_01264	Selegiline	C13H17N	1.5		missing SMILES		
-0228_01265	Ser-Glu	C8H14N2O6	9.65		missing SMILES		
-0228_01266	Serine	C3H7NO3	8.73		missing SMILES		
-0228_01267	Serotonin	C10H12N2O	1.44		missing SMILES		
-0228_01270	Sibutramine	C17H26ClN	1.86		missing SMILES		
-0228_01271	Sinapic acid	C11H12O5	1.41		missing SMILES		
-0228_01272	SkF 83566	C17H18BrNO	2.91		missing SMILES		
-0228_01274	Sotalol	C12H20N2O3S	4.87		missing SMILES		
-0228_01275	Spermidine	C7H19N3	6.98		missing SMILES		
-0228_01276	Spermine	C10H26N4	7.24		missing SMILES		
-0228_01277	SR 57227A	C10H14ClN3	4.85		missing SMILES		
-0228_01278	Stachydrine	C7H14NO2+	7.1		missing SMILES		
-0228_01280	Stavudine	C10H12N2O4	1.62		missing SMILES		
-0228_01282	Styrene	C8H8	8.74		missing SMILES		
-0228_01283	Succinic acid	C4H6O4	4.46		missing SMILES		
-0228_01285	Sulfasalazine	C18H14N4O5S	2.01		missing SMILES		
-0228_01286	Sulforaphane	C6H11NOS2	1.14		missing SMILES		
-0228_01287	Sumatriptan	C14H21N3O2S	4.31		missing SMILES		
-0228_01288	Synephrine	C9H13NO2	5.67		missing SMILES		
-0228_01290	Syringic acid	C9H10O5	1.35		missing SMILES		
-0228_01291	Tacrine	C13H14N2	3.86		missing SMILES		
-0228_01292	Tacrolimus	C44H69NO12	1.07		missing SMILES		
-0228_01293	Taldalafil	C22H19N3O4	1.19		missing SMILES		
-0228_01294	Targinine	C7H16N4O2	9.22		missing SMILES		
-0228_01295	Taurine	C2H7NO3S	7.85		missing SMILES		
-0228_01297	Taxifolin	C15H12O7	1.78		missing SMILES		
-0228_01298	Tegafur	C8H9FN2O3	1.22		missing SMILES		
-0228_01300	Telmisartan	C33H30N4O2	1.25		missing SMILES		
-0228_01301	Temazepam	C16H13ClN2O2	1.15		missing SMILES		
-0228_01302	Temozolomide	C6H6N6O2	1.33		missing SMILES		
-0228_01303	Terazosin	C19H25N5O4	4.66		missing SMILES		
-0228_01305	TES	C6H15NO6S	7.7		missing SMILES		
-0228_01307	Theanine	C7H14N2O3	7.66		missing SMILES		
-0228_01308	Theophylline	C7H8N4O2	1.54		missing SMILES		
-0228_01309	Thiazolidine-4-carboxylic acid	C4H7NO2S	6.92		missing SMILES		
-0228_01310	Thionin	C12H9N3S	5.23		missing SMILES		
-0228_01312	Threitol	C4H10O4	1.56		missing SMILES		
-0228_01313	Threonine	C4H9NO3	8.21		missing SMILES		
-0228_01314	Thymidine	C10H14N2O5	2.57		missing SMILES		
-0228_01316	Thymol	C10H14O	1.53		missing SMILES		
-0228_01318	Tibolone	C21H28O2	1		missing SMILES		
-0228_01319	Ticlopidine	C14H14ClNS	1.12		missing SMILES		
-0228_01320	Tinidazole	C8H13N3O4S	1.04		missing SMILES		
-0228_01321	Tocainide	C11H16N2O	4.97		missing SMILES		
-0228_01322	Tolterodine	C22H31NO	2.13		missing SMILES		
-0228_01323	Tomelukast	C16H22N4O3	1.04		missing SMILES		
-0228_01325	Topotecan	C23H23N3O5	5.72		missing SMILES		
-0228_01326	Toradol	C15H13NO3	1.29		missing SMILES		
-0228_01327	Torasemide	C16H20N4O3S	1.45		missing SMILES		
-0228_01329	Tosufloxacin	C19H15F3N4O3	4.87		missing SMILES		
-0228_01330	Tramadol	C16H25NO2	2.52		missing SMILES		
 0228_01331	Tranilast	C18H17NO5	1.26		missing SMILES		
-0228_01334	Trazodone	C19H22ClN5O	2.38		missing SMILES		
-0228_01337	Triazolam	C17H12Cl2N4	1.3		missing SMILES		
-0228_01338	Triclabendazole	C14H9Cl3N2OS	1.01		missing SMILES		
-0228_01339	Trifluoperazine	C21H24F3N3S	2.15		missing SMILES		
-0228_01340	Trileptal	C15H12N2O2	1.13		missing SMILES		
 0228_01341	Trimebutine	C22H29NO5	1.47		missing SMILES		
-0228_01342	Trimipramine	C20H26N2	2.25		missing SMILES		
-0228_01343	Tripelennamine	C16H21N3	1.98		missing SMILES		
 0228_01346	Troxipide	C15H22N2O4	5.04		missing SMILES		
 0228_01347	Tryptamine	C10H12N2	6.92		missing SMILES		
 0228_01348	Tryptoline	C11H12N2	4.9		missing SMILES		
@@ -1015,60 +638,18 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_01373	Vesamicol	C17H25NO	2.65		missing SMILES		
 0228_01374	Vincristine	C46H56N4O10	3.7		missing SMILES		
 0228_01377	Vinyl Carbamate	C3H5NO2	1.34		missing SMILES		
-0228_01378	Viramune	C15H14N4O	1.16		missing SMILES		
 0228_01380	Voriconazole	C16H14F3N5O	1.02		missing SMILES		
 0228_01381	Warfarin	C19H16O4	0.99		missing SMILES		
 0228_01382	Willardiine	C7H9N3O4	8.72		missing SMILES		
 0228_01383	Xanthinol	C13H21N5O4	6.01		missing SMILES		
 0228_01385	Xanthotoxin	C12H8O4	1.04		missing SMILES		
 0228_01386	Zacopride	C15H20ClN3O2	4.66		missing SMILES		
-0228_01387	Zafirlukast	C31H33N3O6S	1		missing SMILES		
+0228_01387	Zafirlukast	C31H33N3O6S	1.0		missing SMILES		
 0228_01388	Zaleplon	C17H15N5O	1.02		missing SMILES		
 0228_01389	Zardaverine	C12H10F2N2O3	1.19		missing SMILES		
 0228_01390	Zeranol	C18H26O5	1.11		missing SMILES		
 0228_01391	Zileuton	C11H12N2O2S	1.23		missing SMILES		
 0228_01393	Zolpidem	C19H21N3O	1.62		missing SMILES		
-0228_01394	5,6-Dihydrouracil	C4H6N2O2	1.77		missing SMILES		
-0228_01395	5,6-Dimethylbenzimidazole	C9H10N2	1.82		missing SMILES		
-0228_01396	5-Aminoimidazole-4-carboxamide	C4H6N4O	4.18		missing SMILES		
-0228_01397	5-AminosalicylicÂ acid	C7H7NO3	3.89		missing SMILES		
-0228_01398	5-Aminovaleric acid	C5H9NO3	7.24		missing SMILES		
-0228_01400	5-Fluro-2-pyrimidone	C4H3FN2O	1.77		missing SMILES		
-0228_01401	5-Flurocytosine	C4H4FN3O	4.62		missing SMILES		
-0228_01402	5-Hydroxy-3-indoleacetic acid	C10H9NO3	1.78		missing SMILES		
-0228_01403	5-Hydroxymethylcytidine	C10H15N3O6	7.54		missing SMILES		
-0228_01404	5-Hydroxymethylcytosine	C5H7N3O2	6.9		missing SMILES		
-0228_01405	5-Hydroxytryptophan	C11H12N2O3	7.48		missing SMILES		
-0228_01406	5-Hydroxytryptophol	C10H11NO2	5.93		missing SMILES		
-0228_01407	5-Methoxy-3-indoleacetic acid	C11H11NO3	1.32		missing SMILES		
-0228_01408	5-Methoxypsoralen	C12H8O4	1.07		missing SMILES		
-0228_01409	5-Methoxytryptamine	C11H14N2O	4.99		missing SMILES		
-0228_01410	5-Methoxytryptophol	C11H13NO2	1.18		missing SMILES		
-0228_01412	5-Methyl-2-thiouridine	C10H14N2O5S	1.98		missing SMILES		
-0228_01413	5-Methyl-3-deoxyuridine	C10H14N2O5	2.6		missing SMILES		
-0228_01414	5-Methylcytidine	C10H15N3O5	6.39		missing SMILES		
-0228_01415	5-Methylcytosine	C5H7N3O	6.62		missing SMILES		
-0228_01418	5-Nonyloxytryptamine	C19H30N2O	3.4		missing SMILES		
-0228_01420	6,7-Dihydroxycoumarin	C9H6O4	1.47		missing SMILES		
-0228_01421	6-Aminoindazole	C7H7N3	1.26		missing SMILES		
-0228_01422	6-Azuridine	C8H11N3O6	4.31		missing SMILES		
-0228_01423	6-Hydroxycaproic acid	C6H12O3	1.34		missing SMILES		
-0228_01424	6-Hydroxyflavone	C15H10O3	1.26		missing SMILES		
-0228_01425	6-Methyl-5-hepten-2-ol	C8H16O	7.3		missing SMILES		
-0228_01426	6-Methylmercaptopurine	C6H6N4S	1.49		missing SMILES		
-0228_01427	7,8-Dihydrobiopterin	C9H13N5O3	7.18		missing SMILES		
-0228_01431	Acarbose	C25H43NO18	9.88		missing SMILES		
-0228_01432	Acetaminophen	C8H9NO2	1.37		missing SMILES		
-0228_01433	Acetaminophen glucuronide	C14H17NO8	7.73		missing SMILES		
-0228_01434	Acetanilide	C8H9NO	1.11		missing SMILES		
-0228_01435	Acetohydroxamic acid	C2H5NO2	2.94		missing SMILES		
-0228_01437	Acetylisatin	C10H7NO3	2.4		missing SMILES		
-0228_01438	Actinomycin D	C62H86N12O16	1.03		missing SMILES		
-0228_01439	Actrarit	C10H11NO3	1.58		missing SMILES		
-0228_01440	Adenine	C5H5N5	4.71		missing SMILES		
-0228_01441	Adenosine	C10H13N5O4	4.77		missing SMILES		
-0228_01442	Adenosine 3',5'-cyclic monophosphate	C10H12N5O6P	7.62		missing SMILES		
-0228_01445	ADMA	C8H18N4O2	8.55		missing SMILES		
 0228_01447	Agmatine	C5H14N4	8.92		missing SMILES		
 0228_01448	Ala-Ala	C6H12N2O3	8.41		missing SMILES		
 0228_01450	Ala-Ile	C9H18N2O3	7.83		missing SMILES		
@@ -1150,316 +731,4 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_01558	Granisetron	C18H24N4O	4.12		missing SMILES		
 0228_01559	Guanidinoacetic acid	C3H7N3O2	8.16		missing SMILES		
 0228_01560	Guanine	C5H5N5O	6.4		missing SMILES		
-0228_01564	Haloperidol	C21H23ClFNO2	2.31		missing SMILES		
-0228_01565	Heptadecanoic acid	C17H34O2	3.01		missing SMILES		
-0228_01566	HexamethyleneÂ bisacetamide	C10H20N2O2	1.5		missing SMILES		
-0228_01567	Hexanoic acid	C6H12O2	4.89		missing SMILES		
-0228_01569	Histamine	CH5H9N3	8.29		missing SMILES		
-0228_01570	Histamine-trifluoromethyltoluide	C19H25F3N4O	5.3		missing SMILES		
-0228_01571	Histidine	C6H9N3O2	9.48		missing SMILES		
-0228_01573	Homocysteine	C4H9NO2S	9.58		missing SMILES		
-0228_01575	Homoharringtonine	C29H39NO9	3.24		missing SMILES		
-0228_01576	Homoserine	C4H9NO3	8.29		missing SMILES		
-0228_01577	Homoveratrylamine	C10H15NO2	4.78		missing SMILES		
-0228_01578	Huperzine	C15H18N2O	5.74		missing SMILES		
-0228_01579	Hydrocinnamic acid	C9H10O2	8.71		missing SMILES		
-0228_01582	Hydromorphone	C17H19NO3	5.22		missing SMILES		
-0228_01585	Hypoxanthine	C5H4N4O	4.99		missing SMILES		
-0228_01586	Icarin	C33H40O15	4.74		missing SMILES		
-0228_01587	Idarubicin	C26H27NO9	5.42		missing SMILES		
-0228_01588	Idebenone	C19H30O5	0.96		missing SMILES		
-0228_01589	N-cyano-N'-(1,1-dimethylpropyl)-N'-3-pyridinyl-guanidine	C12H17N5	1.16		missing SMILES		
-0228_01590	Physostigmine	C15H21N3O2	3.17		missing SMILES		
-0228_01591	Raltitrexed	C21H22N4O6S	7.35		missing SMILES		
-0228_01593	Tranilast	C18H17NO5	1.26		missing SMILES		
-0228_01594	Trimebutine	C22H29NO5	1.47		missing SMILES		
-0228_01596	Troxipide	C15H22N2O4	5.04		missing SMILES		
-0228_01597	Tryptamine	C10H12N2	6.92		missing SMILES		
-0228_01598	Tryptoline	C11H12N2	4.9		missing SMILES		
-0228_01599	Tryptophan	C11H12N2O2	6.92		missing SMILES		
-0228_01600	Tryptophanamide	C11H13N3O	5.91		missing SMILES		
-0228_01601	Tyramine	C8H11NO	5.58		missing SMILES		
-0228_01602	Tyrosine	C9H11NO3	7.61		missing SMILES		
-0228_01603	Tyr-Tyr	C18H20N2O5	7.38		missing SMILES		
-0228_01604	Tyr-Tyr-Tyr	C27H29N3O7	7.09		missing SMILES		
-0228_01606	Uracil	C4H4N2O2	2.4		missing SMILES		
-0228_01607	Urapidil	C20H29N5O3	4.58		missing SMILES		
-0228_01610	Uridine 5'-monophosphate	C9H13N2O9P	8.97		missing SMILES		
-0228_01611	Uridine-5-diphosphoacetylgalactosamine	C17H27N3O17P2	9.83		missing SMILES		
-0228_01613	Urocanic acid	C6H6N2O2	3.69		missing SMILES		
-0228_01615	Valdecoxib	C16H14N2O3S	1.01		missing SMILES		
-0228_01616	Valine	C5H11NO2	7.24		missing SMILES		
-0228_01617	Valsartan	C24H29N5O3	1.69		missing SMILES		
-0228_01618	Vanillin	C8H8O3	1.15		missing SMILES		
-0228_01619	Vardenafil	C23H32N6O4S	1.7		missing SMILES		
-0228_01620	Venlafaxine	C17H27NO2	2.44		missing SMILES		
-0228_01621	Verapamil	C27H38N2O4	1.88		missing SMILES		
-0228_01622	Vercuronium	C34H57N2O4	5.53		missing SMILES		
-0228_01623	Vesamicol	C17H25NO	2.65		missing SMILES		
-0228_01624	Vincristine	C46H56N4O10	3.7		missing SMILES		
-0228_01627	Vinyl Carbamate	C3H5NO2	1.34		missing SMILES		
-0228_01629	Voriconazole	C16H14F3N5O	1.02		missing SMILES		
-0228_01630	Warfarin	C19H16O4	0.99		missing SMILES		
-0228_01631	Willardiine	C7H9N3O4	8.72		missing SMILES		
-0228_01632	Xanthinol	C13H21N5O4	6.01		missing SMILES		
-0228_01634	Xanthotoxin	C12H8O4	1.04		missing SMILES		
-0228_01635	Zacopride	C15H20ClN3O2	4.66		missing SMILES		
-0228_01636	Zafirlukast	C31H33N3O6S	1		missing SMILES		
-0228_01637	Zaleplon	C17H15N5O	1.02		missing SMILES		
-0228_01638	Zardaverine	C12H10F2N2O3	1.19		missing SMILES		
-0228_01639	Zeranol	C18H26O5	1.11		missing SMILES		
-0228_01640	Zileuton	C11H12N2O2S	1.23		missing SMILES		
-0228_01642	Zolpidem	C19H21N3O	1.62		missing SMILES		
-0228_01643	(2-oxo-2,3-dihydro-1H-indol-3-yl)acetic acid	C10H9NO3	2.02		missing SMILES		
 0228_01644	(2R)-3-Hydroxyisovaleroylcarnitine		7.23		missing SMILES		
-0228_01647	1,1-Dimethyl-4-phenylpiperazinium	C12H18N2	2.61		missing SMILES		
-0228_01648	1,2-Cyclohexanediol	C6H12O2	4.88		missing SMILES		
-0228_01649	1,2-Cyclohexanedione	C6H8O2	5.77		missing SMILES		
-0228_01650	1,3 Cyclohexanedione	C6H8O2	1.47		missing SMILES		
-0228_01652	1,3,7-Trimethyluric acid	C8H10N4O3	1.83		missing SMILES		
-0228_01653	1,4-Cyclohexanedicarboxylic acid	C8H12O4	1.56		missing SMILES		
-0228_01654	1,4-Cyclohexanedione	C6H8O2	1.15		missing SMILES		
-0228_01655	1,5-Anhydrosorbitol	C6H12O5	0.92		missing SMILES		
-0228_01656	1,7-Dimethyluric acid	C7H8N4O3	4.09		missing SMILES		
-0228_01657	1,7-Dimethylxanthine	C7H8N4O2	1.69		missing SMILES		
-0228_01658	16-Glucuronide-estriol	C24H32O9	6.49		missing SMILES		
-0228_01659	1-Acetylimidazole	C5H6N2O	1.37		missing SMILES		
-0228_01660	1-Benzylimidazole	C10H10N2	1.63		missing SMILES		
-0228_01663	1-Methyl-L-histidine	C7H11N3O2	9.1		missing SMILES		
-0228_01664	1-Methylnicotinamide	C7H9N2O+	6.26		missing SMILES		
-0228_01665	1-Methylpseudouridine	C10H14N2O	4.99		missing SMILES		
-0228_01666	1-Methyltryptophan	C12H14N2O2	6.38		missing SMILES		
-0228_01667	1-Methyluric acid	C6H6N4O3	2.18		missing SMILES		
-0228_01668	1-Monostearin	C21H42O4	0.99		missing SMILES		
-0228_01669	2-(2-Aminoethyl)pyridine	C7H10N2	5.52		missing SMILES		
-0228_01670	2,3-Butanediol	C4H10O2	3.34		missing SMILES		
-0228_01671	2,3-Dideoxycytidine	C9H13N3O3	4.54		missing SMILES		
-0228_01672	2',3'-Dideoxyinosine	C10H12N4O3	3.44		missing SMILES		
-0228_01673	2,3-Dideoxyuridine	C9H12N2O4	1.73		missing SMILES		
-0228_01674	2,6-Diaminopimelic acid	C7H14N2O4	9.88		missing SMILES		
-0228_01675	2,8-Quinolinediol	C9H7NO2	1.53		missing SMILES		
-0228_01676	2-alpha-Mannobiose	C12H22O11	9.47		missing SMILES		
-0228_01677	Agmatine	C5H14N4	8.92		missing SMILES		
-0228_01678	Ala-Ala	C6H12N2O3	8.41		missing SMILES		
-0228_01680	Ala-Ile	C9H18N2O3	7.83		missing SMILES		
-0228_01681	Ala-Leu	C9H18N2O3	7.6		missing SMILES		
-0228_01682	Alanine	C3H7NO2	8.05		missing SMILES		
-0228_01683	Ala-Val	C8H16N2O3	7.66		missing SMILES		
-0228_01684	Albendazole	C12H15N3O2S	1.22		missing SMILES		
-0228_01685	Albuterol	C13H21NO3	5.55		missing SMILES		
-0228_01686	Alfuzosin	C19H27N5O4	4.29		missing SMILES		
-0228_01687	Allantoic acid	C4H8N4O4	8.56		missing SMILES		
-0228_01688	Allothreonine	C4H9NO3	7.95		missing SMILES		
-0228_01689	Alosetron	C17H18N4O	4.19		missing SMILES		
-0228_01690	alpha-Galactosamine-1-phosphate	C6H14NO8P	7.06		missing SMILES		
-0228_01691	alpha-Keto-gamma-(methylthio)butyric acid	C5H8O3S	0.92		missing SMILES		
-0228_01692	alpha-Methylene-gamma-butyrolactone	C5H6O2	1.05		missing SMILES		
-0228_01693	alpha-Methylhistidine	C7H11N3O2	8.68		missing SMILES		
-0228_01694	alpha-Santonin	C15H18O3	1.07		missing SMILES		
-0228_01695	Alprazolam	C17H13ClN4	1.34		missing SMILES		
-0228_01696	Altanserin	C22H22FN3O2S	2.64		missing SMILES		
-0228_01697	AM 404	C26H37NO2	0.97		missing SMILES		
-0228_01698	AM-251	C22H21Cl2IN4O	0.97		missing SMILES		
-0228_01699	Amantadine	C10H17N	4.88		missing SMILES		
-0228_01700	Amiloride	C6H8ClN7O	5.52		missing SMILES		
-0228_01701	Amiodarone	C25H29I2NO3	1.87		missing SMILES		
-0228_01702	Amisulpride	C17H27N3O4S	2.76		missing SMILES		
-0228_01703	Amlexanox	C16H14N2O4	1.81		missing SMILES		
-0228_01704	Amlodipine	C20H25ClN2O5	4.24		missing SMILES		
-0228_01705	Amphetamine	C9H13N	4.6		missing SMILES		
-0228_01706	Ampiroxicam	C20H21N3O7S	0.95		missing SMILES		
-0228_01707	Anagrelide	C10H7Cl2N3O	1.82		missing SMILES		
-0228_01708	Anastrozole	C17H19N5	0.98		missing SMILES		
-0228_01709	Androstane-3,17-diol	C19H32O2	0.96		missing SMILES		
-0228_01717	Arginine	C6H14N4O2	9.53		missing SMILES		
-0228_01721	Aripiprazole	C23H27Cl2N3O2	3.14		missing SMILES		
-0228_01722	Ascorbic acid	C6H8O6	1.44		missing SMILES		
-0228_01723	Asparagine	C4H8N2O3	8.81		missing SMILES		
-0228_01724	Aspartic acid	C4H7NO4	9.33		missing SMILES		
-0228_01729	Azasetron	C17H20ClN3O3	4.66		missing SMILES		
-0228_01730	Azelastine	C22H24ClN3O	2.95		missing SMILES		
-0228_01731	Balsalazide	C17H15N3O6	4.85		missing SMILES		
-0228_01733	Benactyzine	C20H25NO3	2.16		missing SMILES		
-0228_01736	Benproperine	C21H27NO	1.99		missing SMILES		
-0228_01737	Benzamide	C7H7NO	1.27		missing SMILES		
-0228_01738	Benzothiazole	C7H5NS	1.11		missing SMILES		
-0228_01739	Benzoylecgonine	C16H19NO4	3.63		missing SMILES		
-0228_01741	Benzylacetate	C9H10O2	8.71		missing SMILES		
-0228_01742	Bestatin	C16H24N2O4	5.98		missing SMILES		
-0228_01743	beta-Alanine	C3H7NO2	8.02		missing SMILES		
-0228_01744	beta-Hydroxyisovaleric acid	C5H10O3	4.55		missing SMILES		
-0228_01745	Betaine	C5H11NO2	7.24		missing SMILES		
-0228_01746	beta-N-Methylaminoalanine	C4H10N2O2	9.32		missing SMILES		
-0228_01747	Betaxolol	C18H29NO3	3.05		missing SMILES		
-0228_01749	Bifemelane	C18H23NO	2.46		missing SMILES		
-0228_01750	Bifonazole	C22H18N2	1.19		missing SMILES		
-0228_01751	Binospirone	C20H26N2O4	1.8		missing SMILES		
-0228_01753	Bisoprolol	C18H31NO4	3.47		missing SMILES		
-0228_01754	Biuret	C2H5N3O2	2.73		missing SMILES		
-0228_01755	Bromazepam	C14H10BrN3O	1.3		missing SMILES		
-0228_01756	Brucine	C23H26N2O4	4.57		missing SMILES		
-0228_01757	Buflomedil	C17H25NO4	2.34		missing SMILES		
-0228_01758	Bupropion	C13H18ClNO	2.22		missing SMILES		
-0228_01759	Butanoic acid	C4H8O2	10.19		missing SMILES		
-0228_01760	Butyrylglycine	C6H11NO3	3.73		missing SMILES		
-0228_01761	Cadaverine	C5H14N2	8.99		missing SMILES		
-0228_01763	Caffeine	C8H10N4O2	1.21		missing SMILES		
-0228_01764	Camalexin	C11H8N2S	1.05		missing SMILES		
-0228_01767	Carbamazepine	C15H12N2O	1.21		missing SMILES		
-0228_01768	Carbocysteine	C5H9NO4S	9.04		missing SMILES		
-0228_01769	Carboxyibuprofen	C13H16O4	1.11		missing SMILES		
-0228_01770	Carnitine	C7H15NO3	7.83		missing SMILES		
-0228_01772	Carvedilol	C24H26N2O4	3.17		missing SMILES		
-0228_01775	Cefatrizine	C18H18N6O5S2	7.98		missing SMILES		
-0228_01780	Cetraxate	C17H23NO4	5.29		missing SMILES		
-0228_01781	CGS 12066B	C17H17F3N4	2.21		missing SMILES		
-0228_01782	CGS 15943	C13H8ClN5O	1.07		missing SMILES		
-0228_01783	CHEMBL1616521	C26H26N2O3	2.93		missing SMILES		
-0228_01784	Chlordiazepoxide	C16H14ClN3O	1.35		missing SMILES		
-0228_01786	Chlorpheniramine	C16H19ClN2	2.54		missing SMILES		
-0228_01787	Choline [M]+	C5H14NO+	5.18		missing SMILES		
-0228_01791	Cisapride	C23H29ClFN3O4	2.28		missing SMILES		
-0228_01792	Citalopram	C20H21FN2O	2.21		missing SMILES		
-0228_01793	Citrulline	C6H13N3O3	8.74		missing SMILES		
-0228_01796	Clobazam	C16H13ClN2O2	1.1		missing SMILES		
-0228_01797	Clobenpropit	C14H17ClN4S	6.13		missing SMILES		
-0228_01798	Clofazimine	C27H22Cl2N4	1.78		missing SMILES		
-0228_01799	Clomipramine	C19H23ClN2	2.31		missing SMILES		
-0228_01800	Clonidine	C9H9Cl2N3	2.85		missing SMILES		
-0228_01804	Cordycepin	C10H13N5O3	3.54		missing SMILES		
-0228_01808	Corydaline	C22H27NO4	1.52		missing SMILES		
-0228_01809	Cotinine	C10H12H2O	1.49		missing SMILES		
-0228_01810	Coumarin	C9H6O2	1.08		missing SMILES		
-0228_01811	Creatine	C4H9N3O2	8.15		missing SMILES		
-0228_01812	Creatinine	C4H7N3O	4.93		missing SMILES		
-0228_01813	Crotamiton	C13H17NO	0.97		missing SMILES		
-0228_01814	Cyclo(Leu-Pro)	C11H18N2O2	1.29		missing SMILES		
-0228_01815	Cyclohexanamine	C6H13N	5.1		missing SMILES		
-0228_01816	Cyproheptadine	C21H21N	2.31		missing SMILES		
-0228_01818	Cysteic acid	C3H7NO5S	8.92		missing SMILES		
-0228_01820	Cystine	C6H12N2O4S2	9.97		missing SMILES		
-0228_01824	Cytosine	C4H5N3O	5.9		missing SMILES		
-0228_01825	Daidzein	C15H10O4	1.39		missing SMILES		
-0228_01826	Decanal	C10H20O	2.17		missing SMILES		
-0228_01830	Deoxyuridine monophosphate	C9H13N2O8P	8.25		missing SMILES		
-0228_01831	Desloratadine	C19H19ClN2	4.9		missing SMILES		
-0228_01832	Desoximetasone	C22H29FO4	1.13		missing SMILES		
-0228_01836	Dextromethorphan	C18H25NO	2.64		missing SMILES		
-0228_01838	Diazepam	C16H13ClN2O	1.1		missing SMILES		
-0228_01839	Diazoxide	C8H7ClN2O2S	1.09		missing SMILES		
-0228_01840	Diclofenac	C15H11Cl2NO2	1.08		missing SMILES		
-0228_01841	Dihydrocapsaicin	C18H29NO3	1.07		missing SMILES		
-0228_01843	Dihydrozeatin	C10H15N5O	2.99		missing SMILES		
-0228_01844	Dimethyl phthalate	C10H10O4	1.04		missing SMILES		
-0228_01845	Dioctyl Phthalate	C24H38O4	0.96		missing SMILES		
-0228_01846	Diphenhydramine	C17H21NO	2.15		missing SMILES		
-0228_01847	Diphenoxylate	C30H32N2O2	1.41		missing SMILES		
-0228_01848	Diphenylcyclopropenone	C15H10O	1.01		missing SMILES		
-0228_01849	Disulfiram	C10H20N2S4	0.93		missing SMILES		
-0228_01851	Dofetilide	C19H27N3O5S2	3.38		missing SMILES		
-0228_01852	Dolasetron	C19H20N2O3	1.9		missing SMILES		
-0228_01853	Donepezil	C24H29NO3	2.44		missing SMILES		
-0228_01854	Dopamine	C8H11NO2	6.4		missing SMILES		
-0228_01855	Doxapram	C24H30N2O2	1.64		missing SMILES		
-0228_01856	Doxepin	C19H21NO	2.26		missing SMILES		
-0228_01858	Doxylamine	C17H22N2O	2.45		missing SMILES		
-0228_01859	Droperidol	C22H22FN3O2	3.48		missing SMILES		
-0228_01860	Duloxetine	C18H19NOS	2.6		missing SMILES		
-0228_01861	E-4031	C21H27N3O3S	2.92		missing SMILES		
-0228_01862	Ecgonine	C9H15NO3	7.61		missing SMILES		
-0228_01863	Ecgonine methylester	C10H17NO3	4.18		missing SMILES		
-0228_01864	EDDP	C20H23N	1.9		missing SMILES		
-0228_01865	Efavirenz	C14H9ClF3NO2	0.98		missing SMILES		
-0228_01866	Enalaprilat	C18H24N2O5	7.07		missing SMILES		
-0228_01867	Enrofloxacin	C19H22FN3O3	3.31		missing SMILES		
-0228_01868	Epicatechin	C15H14O6	3.01		missing SMILES		
-0228_01871	Equol	C15H14O3	1.19		missing SMILES		
-0228_01872	Ergosterol	C28H44O	1.43		missing SMILES		
-0228_01873	Ergothioneine	C9H15N3O2S	7.74		missing SMILES		
-0228_01876	Esmolol	C16H25NO4	3.13		missing SMILES		
-0228_01878	Ethanolamine	C2H7NO	7.15		missing SMILES		
-0228_01879	Ethylbutanoate	C6H12O2	4.88		missing SMILES		
-0228_01882	Etoposide	C29H32O13	1.3		missing SMILES		
-0228_01884	Ezetimibe	C24H21F2NO3	1.03		missing SMILES		
-0228_01885	Famciclovir	C14H19N5O4	1.38		missing SMILES		
-0228_01887	Felbamate	C11H14N2O4	1.2		missing SMILES		
-0228_01888	Fenfluramine	C12H16F3N	2.33		missing SMILES		
-0228_01889	Fenoldopam	C16H16ClNO3	5.68		missing SMILES		
-0228_01891	Ferulic acid	C10H10O4	1.36		missing SMILES		
-0228_01894	Flubendazole	C16H12FN3O3	1.16		missing SMILES		
-0228_01895	Flumazenil	C15H14FN3O3	1.08		missing SMILES		
-0228_01896	Flunitrazepam	C16H12FN3O3	1.05		missing SMILES		
-0228_01897	Fluorene	C13H10	6.66		missing SMILES		
-0228_01898	Fluperlapine	C19H20FN3	2.3		missing SMILES		
-0228_01899	Fluphenazine	C22H26F3N3OS	2.74		missing SMILES		
-0228_01900	Flurazepam	C21H23ClFN3O	2.41		missing SMILES		
-0228_01902	Folinic acid	C20H23N7O7	7.92		missing SMILES		
-0228_01903	Formononetine	C16H12O4	1.18		missing SMILES		
-0228_01904	Formoterol	C19H24N2O4	5.18		missing SMILES		
-0228_01905	Fucoxanthin	C42H58O6	1.07		missing SMILES		
-0228_01906	Gabexate	C16H23N3O4	3.45		missing SMILES		
-0228_01909	gamma-Aminobutyric Acid	C4H9NO2	7.86		missing SMILES		
-0228_01911	gamma-Glutamylglutamine	C10H17N3O6	9.55		missing SMILES		
-0228_01913	gamma-Glutamylmethionine	C10H18N2O5S	8.55		missing SMILES		
-0228_01914	gamma-Glutamyltyrosine	C14H18N2O6	8.52		missing SMILES		
-0228_01915	Geniposide	C17H24O10	4.53		missing SMILES		
-0228_01916	Gentisinic acid	C7H6O4	3.18		missing SMILES		
-0228_01917	Geranic acid	C10H16O2	1.3		missing SMILES		
-0228_01918	Glimepiride	C24H34N4O5S	1.05		missing SMILES		
-0228_01920	Gluconolactone	C6H10O6	8.15		missing SMILES		
-0228_01921	Glucoraphanin	C12H23NO10S3	7.37		missing SMILES		
-0228_01922	Glucosamine-6-phosphate	C6H14NO8P	10.06		missing SMILES		
-0228_01925	Glucose-6-phosphate	C6H13O9P	9.86		missing SMILES		
-0228_01926	Glu-Gln	C10H17N3O6	9.6		missing SMILES		
-0228_01929	Glutamic acid	C5H9NO4	8.85		missing SMILES		
-0228_01930	Glutathione (oxidized)	C20H32N6O12S2	10.17		missing SMILES		
-0228_01932	Glu-Thr	C9H16N2O6	9.44		missing SMILES		
-0228_01933	Glu-Val-Phe	C19H27N3O6	7.66		missing SMILES		
-0228_01935	Glycine	C2H5NO2	8.33		missing SMILES		
-0228_01936	Glycitein	C16H12O5	1.32		missing SMILES		
-0228_01938	Gly-Gly-Gly	C6H11N3O4	9.18		missing SMILES		
-0228_01939	Gly-Ile	C8H16N2O3	7.67		missing SMILES		
-0228_01945	GR 89696	C19H25Cl2N3O3	2.56		missing SMILES		
-0228_01946	Granisetron	C18H24N4O	4.12		missing SMILES		
-0228_01947	Guanidinoacetic acid	C3H7N3O2	8.16		missing SMILES		
-0228_01948	Guanine	C5H5N5O	6.4		missing SMILES		
-0228_01951	Lorazepam	C15H10Cl2N2O2	1.33		missing SMILES		
-0228_01952	Losartan	C22H23ClN6O	1.27		missing SMILES		
-0228_01954	Loxapine	C18H18ClN3O	2.18		missing SMILES		
-0228_01955	Loxoprofen	C15H18O3	1.09		missing SMILES		
-0228_01956	Lumazine	C6H4N4O2	2.49		missing SMILES		
-0228_01958	Lysine	C6H14N2O2	9.54		missing SMILES		
-0228_01960	Maleamic acid	C4H5NO3	1.12		missing SMILES		
-0228_01961	Maltol	C6H6O3	1.32		missing SMILES		
-0228_01963	Maprotiline	C20H23N	2.66		missing SMILES		
-0228_01965	Medroxyprogesterone	C22H32O3	1.01		missing SMILES		
-0228_01967	Melatonin	C13H16N2O2	1.24		missing SMILES		
-0228_01968	Melperone	C16H22FNO	2.12		missing SMILES		
-0228_01969	Memantine	C12H21N	4.24		missing SMILES		
-0228_01970	Mepirizole	C11H14N4O2	1.03		missing SMILES		
-0228_01971	Mepivacaine	C15H22N2O	2.96		missing SMILES		
-0228_01972	Meprobamate	C9H18N2O4	1.25		missing SMILES		
-0228_01973	Mesoridazine	C21H26N2OS2	4.24		missing SMILES		
-0228_01974	Metformin	C4H11N5	5.44		missing SMILES		
-0228_01975	Methadone	C21H27NO	2		missing SMILES		
-0228_01976	Methamphetamine	C10H15N	3.33		missing SMILES		
-0228_01977	Methaqualone	C16H14N2O	1.1		missing SMILES		
-0228_01978	Methionine	C5H11NO2S	7.37		missing SMILES		
-0228_01979	Methioninesulfoxide	C5H11NO3S	8.62		missing SMILES		
-0228_01980	Methohexital	C14H18N2O3	6.9		missing SMILES		
-0228_01982	Methoxamine	C11H17NO3	4.75		missing SMILES		
-0228_01984	Methyl-3-hydroxybutyric acid	C5H10O3	6.22		missing SMILES		
-0228_01985	Methylgallate	C8H8O5	1.43		missing SMILES		
-0228_01986	Methylglycinate	C3H7NO2	5.29		missing SMILES		
-0228_01989	Methyprylon	C10H17NO2	1.18		missing SMILES		
-0228_01990	Metronidazole	C6H9N3O3	1.17		missing SMILES		
-0228_01992	Midazolam	C18H13ClFN3	1.29		missing SMILES		
-0228_01994	Miglitol	C8H17NO5	8.12		missing SMILES		
-0228_01996	Milrinone	C12H9N3O	1.6		missing SMILES		
-0228_01997	Mirtazapine	C17H19N3	3.08		missing SMILES		
-0228_01998	MK-886	C27H34ClNO2S	0.96		missing SMILES		
-0228_01999	Moclobemide	C13H17ClN2O2	2.03		missing SMILES		
-0228_02000	Modafinil	C15H15NO2S	1.27		missing SMILES		
-0228_02001	Muramic acid	C9H17NO7	8.28		missing SMILES		
-0228_02002	Myricetin	C15H10O8	2.69		missing SMILES		
-0228_02004	Omeprazole	C17H19N3O3S	1.35		missing SMILES		

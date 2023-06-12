@@ -160,14 +160,14 @@ id	name	url	pmid	source	method.type	comment	missing information	authors
 0160	HILIC1 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0161	HILIC2 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0162	HILIC3 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
-0163	HILIC4 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0163	HILIC4 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC	removed 236 entries with no retention times	temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0164	HILIC5 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0165	HILIC6 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0166	HILIC7 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0167	HILIC8 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
-0168	HILIC9 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0168	HILIC9 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC	removed 253 entries with no retention times	temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0169	HILIC10 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
-0170	HILIC11 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0170	HILIC11 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC	removed 238 entries with no retention times	temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0171	HILIC12 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0172	HILIC13 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0173	HILIC14 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
@@ -178,8 +178,8 @@ id	name	url	pmid	source	method.type	comment	missing information	authors
 0178	HILIC19 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
 0179	RP Geneva DB maXisQTOF pos	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
 0180	RP Geneva DB maXisQTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
-0181	RP VION QTOF pos	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP	sometimes two RTs		J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
-0182	RP VION QTOF new	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP	sometimes two RTs		J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
+0181	RP VION QTOF pos	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP	sometimes two RTs; removed 12 entries with no retention times		J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
+0182	RP VION QTOF new	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP	sometimes two RTs; removed 3 entries with no retention times		J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
 0183	aHILIC Geneva DB maXisQTOF pos	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication - Pezzatti	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
 0184	aHILIC Geneva DB maXisQTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication - Pezzatti	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
 0185	zHILIC Geneva DB VION QTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication - Pezzatti	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
@@ -312,7 +312,7 @@ id	name	url	pmid	source	method.type	comment	missing information	authors
 0313	MSMS_neg_40_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
 0314	MSMS_pos_50_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
 0315	MSMS_neg_50_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
-0316	CCS_pos_40_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0316	CCS_pos_40_ACN_Raptor Biphenyl			Dataset - BGC	RP	removed 1 entries with no retention times		E.-M. Harrieder, M. Witting
 0317	CCS_neg_40_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
 0318	MSMS_pos_30_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
 0319	MSMS_neg_30_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
@@ -348,8 +348,8 @@ id	name	url	pmid	source	method.type	comment	missing information	authors
 0349	CCS_neg_40_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
 0350	MSMS_pos_30_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
 0351	MSMS_neg_30_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
-0352	MSMS_pos_40_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
-0353	MSMS_neg_40_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0352	MSMS_pos_40_MeOH_HSS C18			Dataset - BGC	RP	removed 44 entries with no retention times		E.-M. Harrieder, M. Witting
+0353	MSMS_neg_40_MeOH_HSS C18			Dataset - BGC	RP	removed 15 entries with no retention times		E.-M. Harrieder, M. Witting
 0354	MSMS_pos_50_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
 0355	MSMS_neg_50_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
 0356	CCS_pos_40_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting

@@ -36,33 +36,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0028_00040	Kaempferol	C15H10O6	26.73		missing SMILES		
 0028_00041	Isorhamnetin	C16H12O7	27.35		missing SMILES		
 0028_00042	Tangeretin	C20H20O7	36.5		missing SMILES		
-0028_00045	Catechol O-sulfate	C6H6O5S	4.29		missing SMILES		
-0028_00046	Protocatechuic acid	C7H6O4	5.02		missing SMILES		
-0028_00047	Hippuric acid	C9H9NO3	8.54		missing SMILES		
-0028_00048	Neochlorogenic acid	C16H18O9	9.08		missing SMILES		
-0028_00051	Homovanillic acid	C9H10O4	10.23		missing SMILES		
-0028_00052	(-)-Epicatechin	C15H14O6	11.31		missing SMILES		
-0028_00053	Phloretic acid	C9H10O3	11.68		missing SMILES		
-0028_00054	4-Hydroxyphenylacetic acid	C8H8O3	11.87		missing SMILES		
-0028_00056	Dihydrocaffeic acid	C9H10O4	14.63		missing SMILES		
-0028_00057	Sinapic acid	C11H12O5	15.24		missing SMILES		
-0028_00059	Procyanidin A2	C30H24O12	15.97		missing SMILES		
-0028_00060	Naringin	C27H32O14	17.26		missing SMILES		
-0028_00061	Kaempferol-3-O-glucuronide	C21H18O12	17.45		missing SMILES		
-0028_00062	Apigenin 7-O-glucoside	C21H20O10	17.92		missing SMILES		
-0028_00063	Rosmarinic acid	C18H16O8	18.42		missing SMILES		
-0028_00064	(+)-Lariciresinol	C20H24O6	19.44		missing SMILES		
-0028_00065	Resveratrol	C14H12O3	20.02		missing SMILES		
-0028_00066	Quercetin 3-O-sulfate	C15H10O10S	20.16		missing SMILES		
-0028_00067	Quercetin 4-O-sulfate	C15H10O10S	20.73		missing SMILES		
-0028_00068	Bergaptol	C11H6O4	21.57		missing SMILES		
-0028_00069	Luteolin	C15H10O6	22.58		missing SMILES		
-0028_00070	Genistein	C15H10O5	25.74		missing SMILES		
-0028_00071	Phloretin	C15H14O5	25.76		missing SMILES		
-0028_00072	Hesperetin	C16H14O6	26.56		missing SMILES		
-0028_00073	Kaempferol	C13H10O6	26.73		missing SMILES		
-0028_00074	Isorhamnetin	C16H12O7	27.35		missing SMILES		
-0028_00075	Tangeretin	C20H20O7	36.5		missing SMILES		
 0028_00078	chlorogenic acid (5-CQA)	C16H18O9	10.777		missing SMILES		
 0028_00079	Pyrogallol-2-O-sulfate	C6H6O6S	3.775		missing SMILES		
 0028_00080	4-O-methylgallic acid 3-O-sulfate	C8H8O8S	5.321		missing SMILES		
