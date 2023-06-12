@@ -19,7 +19,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0261_00018	Perfluorooctanoic acid	C8HF15O2	8.97		missing SMILES		
 0261_00019	Acesulfame	C4H5NO4S	2.11		missing SMILES		
 0261_00020	Flutamide	C11H11F3N2O3	10.7		missing SMILES		
-0261_00021	Sucralose	C12H19Cl3O8	8.0		missing SMILES		
+0261_00021	Sucralose	C12H19Cl3O8	8		missing SMILES		
 0261_00022	Triclosan	C12H7Cl3O2	11.54		missing SMILES		
 0261_00023	Saccharin	C7H5NO3S	3.01		missing SMILES		
 0261_00024	Perfluorooctanesulfonic acid	C8HF17O3S	9.25		missing SMILES		
@@ -37,7 +37,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0261_00036	Triclocarban	C13H9Cl3N2O	11.35		missing SMILES		
 0261_00037	27-Naphthalenedisulfonic acid	C10H8O6S2	1.65		missing SMILES		
 0261_00038	2-Naphthalene sulfonic acid	C10H8O3S	7.25		missing SMILES		
-0261_00039	4-Hydroxybenzotriazole	C6H5N3O	7.0		missing SMILES		
+0261_00039	4-Hydroxybenzotriazole	C6H5N3O	7		missing SMILES		
 0261_00040	Tetrabromobisphenol A	C15H12Br4O2	11.67		missing SMILES		
 0261_00041	Butylparaben	C11H14O3	10.55		missing SMILES		
 0261_00042	Perfluorobutanoic acid	C4HF7O2	2.91		missing SMILES		
@@ -48,9 +48,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0261_00048	Metolachlor ESA	C15H23NO5S	8.57		missing SMILES		
 0261_00049	(4-Sulfophenyl)acetic acid	C8H8O5S	1.82		missing SMILES		
 0261_00050	24-Dinitrophenol	C6H4N2O5	7.62		missing SMILES		
-0261_00051	Mycophenolic acid	C17H20O6	10.34		missing SMILES		
 0261_00052	2-Benzothiazolesulfonic acid	C7H5NO3S2	6.31		missing SMILES		
-0261_00053	Lincomycin	C18H34N2O6S	9.98		missing SMILES		
 0261_00054	Benzenesulfonic acid	C6H6O3S	2.01		missing SMILES		
 0261_00055	356-Trichloro-2-pyridinol	C5H2Cl3NO	9.23		missing SMILES		
 0261_00056	24-Dichlorophenol	C6H4Cl2O	8.49		missing SMILES		
@@ -82,7 +80,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0261_00082	Bifenox free acid	C13H7Cl2NO5	9.15		missing SMILES		
 0261_00083	Oryzalin	C12H18N4O6S	11.25		missing SMILES		
 0261_00084	Flufenoxuron	C21H11ClF6N2O3	11.89		missing SMILES		
-0261_00085	Nitrofurantoin	C8H6N4O5	8.69		missing SMILES		
 0261_00086	4-Fluorobenzoylpropionic acid	C10H9FO3	8.54		missing SMILES		
 0261_00087	N-Acetyl mesalazine	C9H9NO4	2.92		missing SMILES		
 0261_00088	Nitrendipin	C18H20N2O6	11.23		missing SMILES		
@@ -104,7 +101,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0261_00104	Bisphenol F	C13H12O2	9.94		missing SMILES		
 0261_00105	Ibuprofen	C13H18O2	10.32		missing SMILES		
 0261_00106	p-Chlorocresol	C7H7ClO	8.57		missing SMILES		
-0261_00107	1-Naphthol	C10H8O	10.0		missing SMILES		
+0261_00107	1-Naphthol	C10H8O	10		missing SMILES		
 0261_00108	4-n-Nonylphenol	C15H24O	11.61		missing SMILES		
 0261_00109	Thymol	C10H14O	10.55		missing SMILES		
 0261_00110	2-Phenylphenol	C12H10O	9.93		missing SMILES		
