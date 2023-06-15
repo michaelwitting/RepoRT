@@ -230,8 +230,7 @@ id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	
 0382_00229	Azinphos-ethyl	C12H16N3O3PS2	10.17	17531		CCOP(=S)(OCC)SCN1C(=O)C2=CC=CC=C2N=N1							
 0382_00230	Azinphos-methyl (Guthion)	C10H12N3O3PS2	8.89	2268		COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2N=N1							
 0382_00231	Aziprotryne	C7H11N7S	9.71	3032472		CC(C)NC1=NC(=NC(=N1)SC)N=[N+]=[N-]							
-0382_00232	Azithromycin	C38H72N2O12	5.98	447043	CC[C@@H]1[C@@]([C@@H]([C@H](N(C[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O	CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O							
-0382_00233	Azithromycin (ion 2+)	C38H72N2O12	5.98	447043	CC[C@@H]1[C@@]([C@@H]([C@H](N(C[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O	CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O							
+0382_00232	Azithromycin	C38H72N2O12	5.98	447043	CC[C@@H]1[C@@]([C@@H]([C@H](N(C[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O	CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O							removed other adduct/ion
 0382_00234	Azoxystrobin	C22H17N3O5	9.02	3034285	CO/C=C(\C1=CC=CC=C1OC2=NC=NC(=C2)OC3=CC=CC=C3C#N)/C(=O)OC	COC=C(C1=CC=CC=C1OC2=NC=NC(=C2)OC3=CC=CC=C3C#N)C(=O)OC							
 0382_00235	Azoxystrobin acid	C21H15N3O5	8.18	66685656	CO/C=C(\C1=CC=CC=C1OC2=NC=NC(=C2)OC3=CC=CC=C3C#N)/C(=O)O	COC=C(C1=CC=CC=C1OC2=NC=NC(=C2)OC3=CC=CC=C3C#N)C(=O)O							
 0382_00236	Baclofen	C10H12ClNO2	4.27	2284		C1=CC(=CC=C1C(CC(=O)O)CN)Cl							
@@ -772,8 +771,7 @@ id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	
 0382_00771	Efavirenz	C14H9ClF3NO2	10.69	64139	C1CC1C#C[C@]2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F	C1CC1C#CC2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F							
 0382_00772	EG-018	C28H25NO	14.22	118796466		CCCCCN1C2=C(C=C(C=C2)C(=O)C3=CC=CC4=CC=CC=C43)C5=CC=CC=C51							
 0382_00773	Eletriptan	C22H26N2O2S	5.51	77993	CN1CCC[C@@H]1CC2=CNC3=C2C=C(C=C3)CCS(=O)(=O)C4=CC=CC=C4	CN1CCCC1CC2=CNC3=C2C=C(C=C3)CCS(=O)(=O)C4=CC=CC=C4							
-0382_00774	Emamectin B1a	C49H75NO13	12.4	11136686	CC[C@H](C)[C@@H]1[C@H](C=C[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@@H]([C@@H](O7)C)NC)OC)OC)\C)C	CCC(C)C1C(C=CC2(O1)CC3CC(O2)CC=C(C(C(C=CC=C4COC5C4(C(C=C(C5O)C)C(=O)O3)O)C)OC6CC(C(C(O6)C)OC7CC(C(C(O7)C)NC)OC)OC)C)C							
-0382_00775	Emamectin B1a  (2+)	C49H75NO13	12.4	11136686	CC[C@H](C)[C@@H]1[C@H](C=C[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@@H]([C@@H](O7)C)NC)OC)OC)\C)C	CCC(C)C1C(C=CC2(O1)CC3CC(O2)CC=C(C(C(C=CC=C4COC5C4(C(C=C(C5O)C)C(=O)O3)O)C)OC6CC(C(C(O6)C)OC7CC(C(C(O7)C)NC)OC)OC)C)C							
+0382_00774	Emamectin B1a	C49H75NO13	12.4	11136686	CC[C@H](C)[C@@H]1[C@H](C=C[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@@H]([C@@H](O7)C)NC)OC)OC)\C)C	CCC(C)C1C(C=CC2(O1)CC3CC(O2)CC=C(C(C(C=CC=C4COC5C4(C(C=C(C5O)C)C(=O)O3)O)C)OC6CC(C(C(O6)C)OC7CC(C(C(O7)C)NC)OC)OC)C)C							removed other adduct/ion
 0382_00776	Emamectin B1b	C48H73NO13	12.01	0	C[C@H]1/C=C/C=C/2\CO[C@H]3[C@@]2([C@@H](C=C([C@H]3O)C)C(=O)O[C@H]4C[C@@H](C/C=C(\[C@H]1O[C@H]5C[C@@H]([C@H]([C@@H](O5)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)NC)OC)OC)/C)O[C@]7(C4)C=C[C@@H]([C@H](O7)C(C)C)C)O								
 0382_00777	Embutramide	C17H27NO3	8.98	27453		CCC(CC)(CNC(=O)CCCO)C1=CC(=CC=C1)OC							
 0382_00778	EME (Ecgonine methyl ester)	C10H17NO3	1.38	104904	CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)O)C(=O)OC	CN1C2CCC1C(C(C2)O)C(=O)OC							
@@ -1590,8 +1588,7 @@ id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	
 0382_01589	Phenylephrine (broad peak)	C9H13NO2	1.93	6041	CNC[C@@H](C1=CC(=CC=C1)O)O	CNCC(C1=CC(=CC=C1)O)O							
 0382_01590	Phenyltoloxamine	C17H21NO	7.29	7077		CN(C)CCOC1=CC=CC=C1CC2=CC=CC=C2							
 0382_01591	Phenytoin	C15H12N2O2	7.08	1775		C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3							
-0382_01592	Pholcodine	C23H30N2O4	2.73	5311356	CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OCCN6CCOCC6)O[C@H]3[C@H](C=C4)O	CN1CCC23C4C1CC5=C2C(=C(C=C5)OCCN6CCOCC6)OC3C(C=C4)O							
-0382_01593	Pholcodine (Ion2+)	C23H30N2O4	2.73	5311356	CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OCCN6CCOCC6)O[C@H]3[C@H](C=C4)O	CN1CCC23C4C1CC5=C2C(=C(C=C5)OCCN6CCOCC6)OC3C(C=C4)O							
+0382_01592	Pholcodine	C23H30N2O4	2.73	5311356	CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OCCN6CCOCC6)O[C@H]3[C@H](C=C4)O	CN1CCC23C4C1CC5=C2C(=C(C=C5)OCCN6CCOCC6)OC3C(C=C4)O							removed other adduct/ion
 0382_01594	Pholedrine (Amphetamine-P-Hydroxy-methyl)	C10H15NO	2.91	4655		CC(CC1=CC=C(C=C1)O)NC							
 0382_01595	Phorate	C7H17O2PS3	11.37	4790		CCOP(=S)(OCC)SCSCC							
 0382_01596	Phorate-oxon	C7H17O3PS2	8.6	75780		CCOP(=O)(OCC)SCSCC							
@@ -1805,8 +1802,7 @@ id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	
 0382_01804	Rosiglitazone	C18H19N3O3S	6.98	77999		CN(CCOC1=CC=C(C=C1)CC2C(=O)NC(=O)S2)C3=CC=CC=N3							
 0382_01805	Rosuvastatin	C22H28FN3O6S	8.2	446157	CC(C)C1=NC(=NC(=C1/C=C/[C@H](C[C@H](CC(=O)O)O)O)C2=CC=C(C=C2)F)N(C)S(=O)(=O)C	CC(C)C1=NC(=NC(=C1C=CC(CC(CC(=O)O)O)O)C2=CC=C(C=C2)F)N(C)S(=O)(=O)C							
 0382_01806	Rotenone	C23H22O6	10.47	6758	CC(=C)[C@H]1CC2=C(O1)C=CC3=C2O[C@@H]4COC5=CC(=C(C=C5[C@@H]4C3=O)OC)OC	CC(=C)C1CC2=C(O1)C=CC3=C2OC4COC5=CC(=C(C=C5C4C3=O)OC)OC							
-0382_01807	Roxithromycin	C41H76N2O15	9.23	5480431	CC[C@@H]1[C@@]([C@@H]([C@H](/C(=N\OCOCCOC)/[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O	CCC1C(C(C(C(=NOCOCCOC)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O							
-0382_01808	Roxithromycin (ion 2+)	C41H76N2O15	9.23	5480431	CC[C@@H]1[C@@]([C@@H]([C@H](/C(=N\OCOCCOC)/[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O	CCC1C(C(C(C(=NOCOCCOC)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O							
+0382_01807	Roxithromycin	C41H76N2O15	9.23	5480431	CC[C@@H]1[C@@]([C@@H]([C@H](/C(=N\OCOCCOC)/[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O	CCC1C(C(C(C(=NOCOCCOC)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O							removed other adduct/ion
 0382_01809	Salicylamide	C7H7NO2	4.76	5147		C1=CC=C(C(=C1)C(=O)N)O							
 0382_01810	Salicylamide-N-Isopropyl	C10H13NO2	7.14	68371		CC(C)NC(=O)C1=CC=CC=C1O							
 0382_01811	Salicylic acid-4-Benzamido	C14H11NO4	5.47	10718		C1=CC=C(C=C1)C(=O)NC2=CC(=C(C=C2)C(=O)O)O							
@@ -1958,8 +1954,7 @@ id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	
 0382_01957	Terbuthylazine-desethyl	C7H12ClN5	7.48	108201		CC(C)(C)NC1=NC(=NC(=N1)N)Cl							
 0382_01958	Terbuthylazine-desethyl-2-hydroxy	C7H13N5O	3.99	135612794		CC(C)(C)NC1=NC(=O)NC(=N1)N							
 0382_01959	Terbutryn	C10H19N5S	10.23	13450		CCNC1=NC(=NC(=N1)SC)NC(C)(C)C							
-0382_01960	Terconazole	C26H31Cl2N5O3	8.2	441383	CC(C)N1CCN(CC1)C2=CC=C(C=C2)OC[C@H]3CO[C@](O3)(CN4C=NC=N4)C5=C(C=C(C=C5)Cl)Cl	CC(C)N1CCN(CC1)C2=CC=C(C=C2)OCC3COC(O3)(CN4C=NC=N4)C5=C(C=C(C=C5)Cl)Cl							
-0382_01961	Terconazole (Ion 2)	C26H31Cl2N5O3	8.2	441383	CC(C)N1CCN(CC1)C2=CC=C(C=C2)OC[C@H]3CO[C@](O3)(CN4C=NC=N4)C5=C(C=C(C=C5)Cl)Cl	CC(C)N1CCN(CC1)C2=CC=C(C=C2)OCC3COC(O3)(CN4C=NC=N4)C5=C(C=C(C=C5)Cl)Cl							
+0382_01960	Terconazole	C26H31Cl2N5O3	8.2	441383	CC(C)N1CCN(CC1)C2=CC=C(C=C2)OC[C@H]3CO[C@](O3)(CN4C=NC=N4)C5=C(C=C(C=C5)Cl)Cl	CC(C)N1CCN(CC1)C2=CC=C(C=C2)OCC3COC(O3)(CN4C=NC=N4)C5=C(C=C(C=C5)Cl)Cl							removed other adduct/ion
 0382_01962	Terfenadine	C32H41NO2	9.69	5405		CC(C)(C)C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O							
 0382_01963	Ternidazole	C7H11N3O3	4.21	68944		CC1=NC=C(N1CCCO)[N+](=O)[O-]							
 0382_01964	Terodiline	C20H27N	7.91	23480		CC(CC(C1=CC=CC=C1)C2=CC=CC=C2)NC(C)(C)C							

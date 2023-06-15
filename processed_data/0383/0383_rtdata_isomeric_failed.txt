@@ -32,7 +32,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_00051	Asulam	C8H10N2O4S	1.46		missing SMILES		
 0383_00053	Atenolol acid (Metoprolol acid)	C14H21NO4	3.58		missing SMILES		
 0383_00056	Atrazine	C8H14ClN5	8.13		missing SMILES		
-0383_00057	Atrazine 2-Hydroxy	C8H15N5O	6		missing SMILES		
+0383_00057	Atrazine 2-Hydroxy	C8H15N5O	6.0		missing SMILES		
 0383_00058	Atrazine-desethyl	C6H10ClN5	5.71		missing SMILES		
 0383_00059	Atrazine-desethyl-2-hydroxy (=Prometon-Hydroxy-Desisopropyl)	C6H11N5O	4.18		missing SMILES		
 0383_00060	Atrazine-desisopropyl	C5H8ClN5	4.74		missing SMILES		
@@ -182,11 +182,9 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_00237	Dronedaron	C31H44N2O5S	13.34		missing SMILES		
 0383_00239	Dyrene (Anilazine)	C9H5Cl3N4	9.72		missing SMILES		
 0383_00241	E122	C20H14N2O7S2	5.94		missing SMILES		
-0383_00242	E122 (Ion 2-)	C20H14N2O7S2	5.94		missing SMILES		
 0383_00243	E123 (Ion 2-)	C20H14N2O10S3	3.29		missing SMILES		
 0383_00244	E124 (Ion 2-)	C20H14N2O10S3	2.88		missing SMILES		
 0383_00245	E128	C18H15N3O8S2	4.56		missing SMILES		
-0383_00246	E128 (Ion 2-)	C18H15N3O8S2	4.56		missing SMILES		
 0383_00247	E129 (Ion 2-)	C18H16N2O8S2	2.88		missing SMILES		
 0383_00256	Eprosartan	C23H24N2O4S	6.51		missing SMILES		
 0383_00257	Ethacrynic acid	C13H12Cl2O4	7.84		missing SMILES		
@@ -627,7 +625,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_00811	Ethiofencarb-sulfoxide	C11H15NO3S	4.7		missing SMILES		
 0383_00812	Ethion	C9H22O4P2S4	12.45		missing SMILES		
 0383_00813	Ethiprole	C13H9Cl2F3N4OS	9.32		missing SMILES		
-0383_00814	Ethirimol	C11H19N3O	8		missing SMILES		
+0383_00814	Ethirimol	C11H19N3O	8.0		missing SMILES		
 0383_00815	Ethofumesate	C13H18O5S	9.14		missing SMILES		
 0383_00816	Ethopabate	C12H15NO4	6.63		missing SMILES		
 0383_00817	Ethoprophos	C8H19O2PS2	10.16		missing SMILES		
@@ -765,7 +763,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_00966	Formoterol	C19H24N2O4	4.79		missing SMILES		
 0383_00968	Fosthiazate	C9H18NO3PS2	7.73		missing SMILES		
 0383_00969	FUB-144	C23H24FNO	12.23		missing SMILES		
-0383_00970	FUB-AKB48	C25H26FN3O	13		missing SMILES		
+0383_00970	FUB-AKB48	C25H26FN3O	13.0		missing SMILES		
 0383_00971	FUB-AMB	C21H22FN3O3	10.77		missing SMILES		
 0383_00972	Fuberidazole	C11H8N2O	6.48		missing SMILES		
 0383_00973	FUBIMINA	C23H21FN2O	11.62		missing SMILES		
@@ -951,7 +949,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_01197	Lormetazepam	C16H12Cl2N2O2	8.61		missing SMILES		
 0383_01198	Losartan	C22H23ClN6O	8.19		missing SMILES		
 0383_01203	Lufenuron	C17H8Cl2F8N2O3	12.48		missing SMILES		
-0383_01206	M1 (Irgarol-descyclopropyl)	C8H15N5S	8.43		missing SMILES		
 0383_01207	M-144	C9H11NO2	12.9		missing SMILES		
 0383_01208	MAB-CHMINACA	C21H30N4O2	11.82		missing SMILES		
 0383_01209	Mabuterol	C13H18ClF3N2O	5.28		missing SMILES		
@@ -1169,7 +1166,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_01478	Octylphenol diethoxylates (OP2EO)_NH4 adduct	C18H30O3	14.1		missing SMILES		
 0383_01479	Octylphenol monoethoxylates (OP1EO)_NH4 adduct	C16H26O2	12.4		missing SMILES		
 0383_01480	Ofloxacin	C18H20FN3O4	4.34		missing SMILES		
-0383_01481	Ofurace	C14H16ClNO3	7		missing SMILES		
+0383_01481	Ofurace	C14H16ClNO3	7.0		missing SMILES		
 0383_01482	Olanzapine	C17H20N4S	4.99		missing SMILES		
 0383_01484	Olsalazine	C14H10N2O6	5.66		missing SMILES		
 0383_01485	Omeprazole	C17H19N3O3S	7.49		missing SMILES		
@@ -1272,10 +1269,10 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_01601	Phosphate-Triphenyl	C18H15O4P	11.01		missing SMILES		
 0383_01602	Phoxim	C12H15N2O3PS	11.21		missing SMILES		
 0383_01603	Phthalate-Benzyl butyl	C19H20O4	12.45		missing SMILES		
-0383_01604	Phthalate-bis-(2-ethylhexyl). DEHP	C24H38O4	15		missing SMILES		
+0383_01604	Phthalate-bis-(2-ethylhexyl). DEHP	C24H38O4	15.0		missing SMILES		
 0383_01605	Phthalate-Diethyl	C12H14O4	8.5		missing SMILES		
 0383_01606	Phthalate-Dimethyl	C10H10O4	6.63		missing SMILES		
-0383_01607	Phthalate-Di-n-butyl	C16H22O4	12		missing SMILES		
+0383_01607	Phthalate-Di-n-butyl	C16H22O4	12.0		missing SMILES		
 0383_01608	Phthalate-Di-n-octyl	C24H38O4	15.3		missing SMILES		
 0383_01609	Phthalate-Diphenyl	C20H14O4	11.2		missing SMILES		
 0383_01611	Picaridin (Icaridin)	C12H23NO3	8.83		missing SMILES		
@@ -1472,7 +1469,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_01875	Sudan I	C16H12N2O	13.61		missing SMILES		
 0383_01876	Sudan II	C18H16N2O	14.94		missing SMILES		
 0383_01877	Sufentanil	C22H30N2O2S	7.31		missing SMILES		
-0383_01878	Sulcotrione	C14H13ClO5S	5		missing SMILES		
+0383_01878	Sulcotrione	C14H13ClO5S	5.0		missing SMILES		
 0383_01879	Sulfabenzamide	C13H12N2O3S	4.72		missing SMILES		
 0383_01880	Sulfachloropyridazine	C10H9ClN4O2S	4.56		missing SMILES		
 0383_01881	Sulfaclomide	C12H13ClN4O2S	3.96		missing SMILES		
@@ -1533,7 +1530,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_01949	Terbacil	C9H13ClN2O2	7.33		missing SMILES		
 0383_01951	Terbufos	C9H21O2PS3	12.25		missing SMILES		
 0383_01952	Terbufos sulfone	C9H21O4PS3	9.01		missing SMILES		
-0383_01953	Terbufos-sulfoxide	C9H21O3PS3	9		missing SMILES		
+0383_01953	Terbufos-sulfoxide	C9H21O3PS3	9.0		missing SMILES		
 0383_01954	Terbumeton	C10H19N5O	9.16		missing SMILES		
 0383_01955	Terbutaline	C12H19NO3	3.11		missing SMILES		
 0383_01956	Terbuthylazine	C9H16ClN5	9.36		missing SMILES		
@@ -1592,7 +1589,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_02027	Timolol	C13H24N4O3S	4.88		missing SMILES		
 0383_02028	Tinidazole	C8H13N3O4S	3.86		missing SMILES		
 0383_02029	Tiocarbazil	C16H25NOS	12.85		missing SMILES		
-0383_02030	Tiocarlide	C23H32N2O2S	13		missing SMILES		
+0383_02030	Tiocarlide	C23H32N2O2S	13.0		missing SMILES		
 0383_02031	Tizanidine	C9H8ClN5S	3.64		missing SMILES		
 0383_02032	TMA	C12H19NO3	4.16		missing SMILES		
 0383_02033	Tokuthion (Prothiophos)	C11H15Cl2O2PS2	13.61		missing SMILES		
