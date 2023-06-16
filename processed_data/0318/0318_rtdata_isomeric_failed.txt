@@ -192,7 +192,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0318_00856	3-Methylcrotonyl Glycine	C7H11NO3	2.918		missing SMILES		
 0318_00859	3-Hydroxysuberic Acid	C8H14O5	3.033		missing SMILES		
 0318_00861	3-Hydroxy Sebacic Acid	C10H18O5	4.118		missing SMILES		
-0318_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.577		missing SMILES		
 0318_00872	4-Pyridoxolactone	C8H7NO3	1.179		missing SMILES		
 0318_00874	Xanthurenic acid	C10H7NO4	3.203		missing SMILES		
 0318_00880	2,5-Furandicarboxylic acid	C6H4O5	2.001		missing SMILES		

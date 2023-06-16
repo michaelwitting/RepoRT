@@ -162,7 +162,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0338_00851	γ-Aminobutyric acid	C4H9NO2	0.574		missing SMILES		
 0338_00854	3-Hydroxyglutaric acid	C5H8O5	0.752		missing SMILES		
 0338_00856	3-Methylcrotonyl Glycine	C7H11NO3	2.973		missing SMILES		
-0338_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.591		missing SMILES		
 0338_00871	Allantoin	C4H6N4O3	0.626		missing SMILES		
 0338_00872	4-Pyridoxolactone	C8H7NO3	2.262		missing SMILES		
 0338_00874	Xanthurenic acid	C10H7NO4	3.169		missing SMILES		

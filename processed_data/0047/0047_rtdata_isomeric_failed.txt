@@ -12,7 +12,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0047_00017	Carbamazepine	C15H12N2O	18.01		missing SMILES		
 0047_00018	Carbendazim	C9H9N3O2	5.69		missing SMILES		
 0047_00019	Chlorpyrifos	C9H11Cl3NO3PS	45.53		missing SMILES		
-0047_00020	Clothianidin	C6H8ClN5O2S	7.99		missing SMILES		
 0047_00024	Cotinine glucuronide	C16H20N2O7	1.4		missing SMILES		
 0047_00025	Cyprodinil	C14H15N3	33.22		missing SMILES		
 0047_00027	Diazinon	C12H21N2O3PS	43.38		missing SMILES		
@@ -21,7 +20,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0047_00030	Dopamine	C8H11NO2	3.88		missing SMILES		
 0047_00035	Fluoxetine	C17H18F3NO	23.71		missing SMILES		
 0047_00037	Hydroxyindoleacetic acid	C10H9NO3	5.71		missing SMILES		
-0047_00039	Imidacloprid	C9H10ClN5O2	8.57		missing SMILES		
 0047_00040	Ketoprofen	C16H14O3	28.33		missing SMILES		
 0047_00044	Malathion	C10H19O6PS2	40.81		missing SMILES		
 0047_00045	Methylparaben	C8H8O3	10.0		missing SMILES		

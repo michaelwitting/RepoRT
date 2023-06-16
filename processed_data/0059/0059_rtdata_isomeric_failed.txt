@@ -15,7 +15,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0059_00021	Cryptochlorogenic acid	C16H18O9	4.45		missing SMILES		
 0059_00022	N-acetylserotonin	C12H14N2O2	4.5		missing SMILES		
 0059_00023	3-Methoxycatechol	C7H8O3	4.56		missing SMILES		
-0059_00024	Tryptophol-2-sulfonate		4.57		missing SMILES		
 0059_00025	7,8-Dihydroxycoumarin	C9H6O4	4.64		missing SMILES		
 0059_00026	Syringic acid	C9H10O5	4.88		missing SMILES		
 0059_00027	Esculetin	C9H6O4	4.93		missing SMILES		

@@ -14,4 +14,3 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0159_00033	PURINE	C5H4N4	35.29		missing SMILES		
 0159_00035	SHIKIMATE	C7H10O5	20.97		missing SMILES		
 0159_00036	STACHYOSE	C24H42O21	24.77		missing SMILES		
-0159_00037	SUBERIC ACID	C8H14O4	30.42		missing SMILES		

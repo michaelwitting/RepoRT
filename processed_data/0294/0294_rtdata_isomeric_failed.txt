@@ -16,7 +16,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0294_00021	Iminostilbene	C14H11N	13.58333333		missing SMILES		
 0294_00023	Metolachlor	C15H22ClNO2	13.57		missing SMILES		
 0294_00024	Metsulfuron-methyl	C14H25N5O6S	4.33		missing SMILES		
-0294_00025	Monocrotophos		4.7425		missing SMILES		
 0294_00026	Monuron	C9H11ClN2O	8.69		missing SMILES		
 0294_00027	N-Methyl-N-nitrosotoluene-4-sulphonamide	C8H10N2O3S	10.06		missing SMILES		
 0294_00028	Parathion	C10H14NO5PS	14.73571429		missing SMILES		
@@ -24,7 +23,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0294_00030	Propanil	C9H9Cl2NO	11.65		missing SMILES		
 0294_00031	Propylthiouracil	C7H10N2OS	4.612		missing SMILES		
 0294_00032	Quinoxaline	C8H6N2	6.14		missing SMILES		
-0294_00033	Sudan I		16.57		missing SMILES		
 0294_00034	Theophylline	C7H8N4O2	3.203333333		missing SMILES		
 0294_00035	Triethyl phosphate	C6H15O4P	7.291666667		missing SMILES		
 0294_00036	Triphenylphosphate	C18H15O4P	14.84		missing SMILES		

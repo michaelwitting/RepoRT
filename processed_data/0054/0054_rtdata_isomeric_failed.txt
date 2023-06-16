@@ -34,8 +34,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0054_00044	asp-ile	C10H18N2O5	0.599966667		missing SMILES		
 0054_00045	asp-leu	C10H18N2O5	0.600266667		missing SMILES		
 0054_00048	Cyclic(asp-glu)	C9H12N2O6	0.88355		missing SMILES		
-0054_00049	Cyclic(asp-ile)		1.650683333		missing SMILES		
-0054_00050	Cyclic(asp-leu)		1.675366667		missing SMILES		
 0054_00051	Cyclic(glu-ile)	C11H18N2O4	1.713083333		missing SMILES		
 0054_00052	Cyclic(glu-val)	C10H16N2O4	1.498383333		missing SMILES		
 0054_00053	Cyclic(phe-val)	C14H18N2O2	2.387666667		missing SMILES		
@@ -64,10 +62,8 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0054_00097	cml	C8H16N2O4	0.67575		missing SMILES		
 0054_00098	coenzyme q1	C14H18O4	3.9242		missing SMILES		
 0054_00102	delta-valerolactam	C5H9NO	1.386733333		missing SMILES		
-0054_00103	dl-2-aminoadipic acid	C6H11NO4	0.65715		missing SMILES		
 0054_00104	dl-3-indolelactic acid	C11H11NO3	2.134483333		missing SMILES		
 0054_00105	g-h1((2s)-2-amino-5-(4-oxo-4,5-dihydro-1h-imidazol-2-ylamino)-pentanoic acid)	C8H14N4O3	0.5609		missing SMILES		
-0054_00106	GALA ((2s)-2-amino-6-(2-hydroxy-acetylamino)-hexanoic acid)		0.67575		missing SMILES		
 0054_00111	guanosine	C10H13N5O5	1.263916667		missing SMILES		
 0054_00112	hypotaurine	C2H7NO2S	0.576041667		missing SMILES		
 0054_00113	hypoxanthine	C5H4N4O	0.882016667		missing SMILES		
@@ -95,7 +91,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0054_00145	tryptamine hydrochloride	C10H12N2	1.527833333		missing SMILES		
 0054_00149	Vanillic acid	C8H8O4	1.77605		missing SMILES		
 0054_00150	vanillin	C8H8O3	2.03495		missing SMILES		
-0054_00153	Taurine	C2H7NO3S	0.556466667		missing SMILES		
 0054_00155	Adenine	C5H5N5	0.684983333		missing SMILES		
 0054_00156	Uric acid	C5H4N4O3	0.75225		missing SMILES		
 0054_00157	Uracil	C4H4N2O2	0.75225		missing SMILES		

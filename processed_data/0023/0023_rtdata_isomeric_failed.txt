@@ -2,7 +2,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0023_00001	gallic acid	C7H6O5	1.6		missing SMILES		
 0023_00002	protocatechuic acid	C7H6O4	2.41		missing SMILES		
 0023_00003	hydroxytyrosol	C8H10O3	2.46		missing SMILES		
-0023_00010	malvidin 3-glucoside		3.86		missing SMILES		
 0023_00018	7-hydroxycoumarin	C9H6O3	5.43		missing SMILES		
 0023_00021	naringenin 7-O-neohesperidoside	C27H32O14	6.18		missing SMILES		
 0023_00030	luteolin	C15H10O6	7.75		missing SMILES		

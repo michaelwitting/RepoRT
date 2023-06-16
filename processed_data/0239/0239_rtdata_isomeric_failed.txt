@@ -211,7 +211,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0239_00860	DL-4-Hydroxy-3-methoxymandelic acid	C9H10O5	1.783		missing SMILES		
 0239_00861	3-Hydroxy Sebacic Acid	C10H18O5	3.261		missing SMILES		
 0239_00865	α-Keto Isovaleric Acid Sodium Salt	C5H8O3	1.848		missing SMILES		
-0239_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.628		missing SMILES		
 0239_00870	4-Hydroxyphenylacetic acid	C8H8O3	3.019		missing SMILES		
 0239_00871	Allantoin	C4H6N4O3	0.677		missing SMILES		
 0239_00872	4-Pyridoxolactone	C8H7NO3	1.005		missing SMILES		

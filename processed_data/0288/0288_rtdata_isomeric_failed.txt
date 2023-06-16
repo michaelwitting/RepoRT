@@ -34,7 +34,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0288_00038	Quinoxaline	C8H6N2	5.73		missing SMILES		
 0288_00039	Sebuthylazine	C9H18ClN5	11.5025		missing SMILES		
 0288_00040	Simazine	C7H14ClN5	8.625		missing SMILES		
-0288_00042	Sudan I		15.33333333		missing SMILES		
 0288_00043	Theophylline	C7H8N4O2	3.302857143		missing SMILES		
 0288_00044	Tri-isobutyl phosphate	C12H27O4P	13.97125		missing SMILES		
 0288_00045	Trimethoprim	C14H26N4O3	5.365		missing SMILES		

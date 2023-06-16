@@ -16,7 +16,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0212_00027	Cytosine	C4H5N3O	1.372		missing SMILES		
 0212_00029	N8-Acetylspermidine	C9H21N3O	1.231		missing SMILES		
 0212_00030	5-Methylcytosine	C5H7N3O	1.65		missing SMILES		
-0212_00032	Leucylproline	C11H20N2O3	4.635		missing SMILES		
 0212_00033	7-Methyladenine	C6H7N5	1.336		missing SMILES		
 0212_00037	Betaine	C5H11NO2	1.279		missing SMILES		
 0212_00039	Indole	C88H7N	4.604		missing SMILES		

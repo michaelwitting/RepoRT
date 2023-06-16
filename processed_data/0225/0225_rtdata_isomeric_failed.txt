@@ -369,7 +369,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0225_00445	Glucose-6-phosphate	C6H13O9P	9.86		missing SMILES		
 0225_00446	Glu-Gln	C10H17N3O6	9.6		missing SMILES		
 0225_00449	Glutamic acid	C5H9NO4	8.85		missing SMILES		
-0225_00450	Glutathione (oxidized)	C20H32N6O12S2	10.17		missing SMILES		
 0225_00452	Glu-Thr	C9H16N2O6	9.44		missing SMILES		
 0225_00453	Glu-Val-Phe	C19H27N3O6	7.66		missing SMILES		
 0225_00455	Glycine	C2H5NO2	8.33		missing SMILES		

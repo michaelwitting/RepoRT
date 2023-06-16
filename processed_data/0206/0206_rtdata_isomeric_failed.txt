@@ -26,4 +26,3 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0206_00025	25,""w/o MS2:Isatin	C8H5NO2	0.543		missing SMILES		
 0206_00026	26,""w/o MS2:Fenuron	C9H12N2O	0.776		missing SMILES		
 0206_00027	27,""w/o MS2:4-Isopropylaniline	C9H13N	12.956		missing SMILES		
-0206_00028	28,""w/o MS2:Gabapentin	C9H17NO2	7.66		missing SMILES		

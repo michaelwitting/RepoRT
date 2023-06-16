@@ -3,7 +3,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0042_00002	Hydroxybenzoic acid-4-glucuronide	C13C14O9	1.06		missing SMILES		
 0042_00003	protocatechuic acid-3-O-sulfate	C7H6O7S	2.38		missing SMILES		
 0042_00004	Protocatechuic acid-3-O-glucuronide	C13H14O10	1.44		missing SMILES		
-0042_00005	Vanillic acid-4-glucuronide		1.45		missing SMILES		
 0042_00006	Vanillic acid-4-O-sulfate	C8H8O7S	3.13		missing SMILES		
 0042_00011	Caffeic acid-4-glucuronide	C15H16O10	2.45		missing SMILES		
 0042_00012	Hippuric acid	C9H9NO3	3.8		missing SMILES		
@@ -29,7 +28,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0042_00042	5-(3',4'-Dihydroxyphenyl)-gamma-valerolactone	C11H12O4	4.13		missing SMILES		
 0042_00043	5-(3',5'-Dihydroxyphenyl)-gamma-valerolactone	C11H12O4	3.72		missing SMILES		
 0042_00044	5-(4'-Hydroxyphenyl)-gamma-valerolactone-3'-sulfate	C11H12O7S	4.64		missing SMILES		
-0042_00045	5-(5'-Hydroxyphenyl)-gamma-valerolactone-3'-glucuronide		2.34		missing SMILES		
 0042_00050	Urolithin A	C13H8O4	5.59		missing SMILES		
 0042_00051	Urolithin C	C13H8O5	5.11		missing SMILES		
 0042_00052	Urolithin  D	C13H8O6	4.68		missing SMILES		

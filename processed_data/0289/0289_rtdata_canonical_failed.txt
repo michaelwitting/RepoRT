@@ -1,2 +1,1 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0289_00052	Sudan I		18.88		missing SMILES		

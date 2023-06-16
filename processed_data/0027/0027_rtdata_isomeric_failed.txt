@@ -74,7 +74,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0027_00116	Phe-Ala-Leu	C18H27N3O4	5.796		missing SMILES		
 0027_00117	Phe-Ala-Ser	C15H21N3O5	7.487		missing SMILES		
 0027_00122	Phosphoenol pyruvate	C3H5O6P	6.224		missing SMILES		
-0027_00123	Pipecolic acid	C6H11NO2	7.141		missing SMILES		
 0027_00126	Proline-glycine-proline	C12H19N3O4	7.659		missing SMILES		
 0027_00128	Propionylcarnitine	C10H19NO4	4.503		missing SMILES		
 0027_00129	Pyridoxal	C8H9NO3	4.936		missing SMILES		
@@ -85,7 +84,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0027_00137	Salbutamol	C13H21NO3	6.573		missing SMILES		
 0027_00138	Sarcosine	C3H7NO2	7.674		missing SMILES		
 0027_00141	Sucrose	C12H22O11	7.318		missing SMILES		
-0027_00142	Taurine	C2H7NO3S	7.436		missing SMILES		
 0027_00143	Theobromine	C7H8N4O2	1.758		missing SMILES		
 0027_00144	Theophylline	C7H8N4O2	1.8		missing SMILES		
 0027_00145	Thiouracil	C4H4N2OS	1.925		missing SMILES		
@@ -144,7 +142,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0027_00219	N-Acetyl-D-glucosamine	C8H15NO6	6.24		missing SMILES		
 0027_00220	Uric acid	C5H4N4O3	6.35		missing SMILES		
 0027_00221	3-Hydroxypyridine	C5H5NO	6.36		missing SMILES		
-0027_00223	DL-Norleucine	C6H13NO2	6.41		missing SMILES		
 0027_00224	MES	C6H13NO4S	6.42		missing SMILES		
 0027_00225	Allantoin	C4H6N4O3	6.47		missing SMILES		
 0027_00226	4-aminobutyric acid betaine	C7H16NO2+	6.51		missing SMILES		
@@ -159,8 +156,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0027_00245	Guanine	C5H5N5O	7.29		missing SMILES		
 0027_00246	Alanine betaine	C6H13NO2	7.32		missing SMILES		
 0027_00247	Betaine	C5H11NO2	7.41		missing SMILES		
-0027_00249	4-Guanidinobutanoic acid	C5H11N3O2	7.51		missing SMILES		
-0027_00251	L-Pipecolic acid	C6H11NO2	7.55		missing SMILES		
 0027_00254	Choline	C5H14NO	7.64		missing SMILES		
 0027_00256	Dimethylglycine	C4H9NO2	7.71		missing SMILES		
 0027_00257	Pyrrolidine	C4H9N	7.71		missing SMILES		

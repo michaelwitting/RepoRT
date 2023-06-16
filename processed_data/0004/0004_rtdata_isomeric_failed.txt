@@ -4,7 +4,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0004_00003	carnitine	C7H15NO3	1		missing SMILES		
 0004_00004	tetrahydrohippuric acid	C9H13NO3	6.3		missing SMILES		
 0004_00005	urea	CH4N2O	0.9		missing SMILES		
-0004_00007	pipecolic acid	C6H11NO2	1.1		missing SMILES		
 0004_00009	N-acetylputrescine	C6H14N2O	1.1		missing SMILES		
 0004_00010	4-acetamidobutanoic acid	C6H11NO3	3		missing SMILES		
 0004_00012	2-hydroxy-2-methylbutyric acid (2-hydroxyisovaleric acid)	C5H10O3	4.6		missing SMILES		
@@ -30,7 +29,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0004_00038	alpha-hydroxyhippuric acid	C9H9NO4	5.1		missing SMILES		
 0004_00039	guanine	C5H5N5O	1.1		missing SMILES		
 0004_00042	serotonin	C10H12N2O	4.2		missing SMILES		
-0004_00044	2-aminoadipic acid	C6H11NO4	1.1		missing SMILES		
 0004_00046	1-methylxanthine	C6H6N4O2	4.2		missing SMILES		
 0004_00047	1-methylxanthine	C6H6N4O2	4.3		missing SMILES		
 0004_00048	pyridoxal  isomer	C8H9NO3	1.1		missing SMILES		
@@ -80,7 +78,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0004_00110	creatine	C4H9N3O2	1		missing SMILES		
 0004_00113	4-acetamidobutanoic acid	C6H11NO3	1.9		missing SMILES		
 0004_00114	4-pyridoxic acid	C8H9NO4	5.6		missing SMILES		
-0004_00115	norleucine	C6H13NO2	2.4		missing SMILES		
 0004_00116	4-acetamidobutanoic acid	C6H11NO3	1.1		missing SMILES		
 0004_00117	o-hydroxyhippuric acid	C9H9NO4	6.5		missing SMILES		
 0004_00118	carnitine	C7H15NO3	0.9		missing SMILES		
@@ -88,13 +85,11 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0004_00121	nicotine	C10H14N2	1.1		missing SMILES		
 0004_00127	hexanoylglycine	C8H15NO3	6.6		missing SMILES		
 0004_00128	adipoylcarnitine	C13H23NO6	5.3		missing SMILES		
-0004_00129	norleucine	C6H13NO2	2.5		missing SMILES		
 0004_00130	monoethyl phthalate	C10H10O4	7.6		missing SMILES		
 0004_00132	lysine	C6H15N2O2	0.8		missing SMILES		
 0004_00133	uric acid	CH4N2O	1.1		missing SMILES		
 0004_00134	uracil	C4H4N2O2	1.2		missing SMILES		
 0004_00135	spermine	C10H26N4	0.8		missing SMILES		
-0004_00137	suberic acid	C8H14O4	6.4		missing SMILES		
 0004_00138	5-methylcytosine	C5H7N3O	1		missing SMILES		
 0004_00139	hexose	C6H12O6	0.9		missing SMILES		
 0004_00140	histamine	CH5H9N3	0.8		missing SMILES		
@@ -108,7 +103,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0004_00154	chlorogenic acid	C16H18O9	5.5		missing SMILES		
 0004_00155	N1-acetylspermidine	C9H21N3O	0.9		missing SMILES		
 0004_00156	choline	C5H14NO	0.8		missing SMILES		
-0004_00157	pipecolic acid	C6H11NO2	0.9		missing SMILES		
 0004_00158	mono-methyl-adipate	C7H12O4	6.3		missing SMILES		
 0004_00159	N,N-dimethylguanosine	C12H17N5O5	4.8		missing SMILES		
 0004_00161	urea	CH4N2O	1		missing SMILES		
@@ -116,7 +110,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0004_00163	2,2-dimethylglutaricacid	C7H12O4	6		missing SMILES		
 0004_00164	serine	C3H7NO3	0.9		missing SMILES		
 0004_00167	xanthine	C5H4N4O2	1.1		missing SMILES		
-0004_00169	suberic acid	C8H14O7	6.5		missing SMILES		
 0004_00170	guanidoacetic acid	C3H7N3O2	0.9		missing SMILES		
 0004_00171	xanthine	C5H4N4O2	1.7		missing SMILES		
 0004_00173	pantothenic acid	C9H17NO5	4.6		missing SMILES		

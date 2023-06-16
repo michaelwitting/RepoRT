@@ -26,7 +26,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0270_00033	Metazachlor	C14H16ClN3O	11.18		missing SMILES		
 0270_00034	Metolachlor	C15H22ClNO2	13.56		missing SMILES		
 0270_00035	Metsulfuron-methyl	C14H25N5O6S	9.62		missing SMILES		
-0270_00036	Monocrotophos		4.735		missing SMILES		
 0270_00037	Monuron	C9H11ClN2O	8.69		missing SMILES		
 0270_00038	Nicotinamide	C6H6N2O	1.94		missing SMILES		
 0270_00039	Norethindrone	C20H26O2	11.21		missing SMILES		
@@ -38,7 +37,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0270_00045	Reserpine	C33H40N2O9	7.2		missing SMILES		
 0270_00046	Sebuthylazine	C9H18ClN5	11.53		missing SMILES		
 0270_00047	Simazine	C7H14ClN5	8.7		missing SMILES		
-0270_00048	Sudan I		16.57		missing SMILES		
 0270_00049	Sulfamethazine	C12H14N4O2S	5.71		missing SMILES		
 0270_00050	Sulfapyridine	C11H11N3O2S	4.82		missing SMILES		
 0270_00051	Theophylline	C7H8N4O2	3.32		missing SMILES		

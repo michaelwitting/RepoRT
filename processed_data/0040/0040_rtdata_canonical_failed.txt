@@ -2,5 +2,4 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0040_00027	Dihydrolactucin-5-glycoside		9.8		missing SMILES		
 0040_00029	lactucIn-15-glycoside		10.4		missing SMILES		
 0040_00036	8-deoxylactucin-15-glycoside		11.8		missing SMILES		
-0040_00052	Dihydro-8-deoxylactucin		14.52		missing SMILES		
 0040_00053	Dihydro-8-deoxylactucin-15-glycoside		14.52		missing SMILES		

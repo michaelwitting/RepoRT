@@ -16,7 +16,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0056_00015	3-Hydroxyhippuric acid	C9H9NO4	3.585		missing SMILES		
 0056_00016	4-O-methylgallic acid 3-O-sulfate	C8H8O8S	3.602		missing SMILES		
 0056_00017	3,4-Dihydroxyphenylacetic acid	C8H8O4	3.602		missing SMILES		
-0056_00018	p-Coumaric acid-4-O-glucuronide		3.804		missing SMILES		
 0056_00019	Vanillic acid-4-O-sulfate	C8H8O7S	3.817		missing SMILES		
 0056_00020	4-Hydroxybenzoic acid	C7H6O3	3.9		missing SMILES		
 0056_00021	Isovanillic acid-3-O-sulfate	C8H8O7S	3.98		missing SMILES		
@@ -35,7 +34,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0056_00037	2,4-Dihydroxybenzoic acid	C7H6O4	5.179		missing SMILES		
 0056_00038	Isovanillic acid	C8H8O4	5.196		missing SMILES		
 0056_00039	4-Hydroxybenzaldehyde	C7H6O2	5.229		missing SMILES		
-0056_00040	Caffeic acid-3-glucuronide		5.229		missing SMILES		
 0056_00041	p-Coumaric acid 4-O-sulfate	C9H8O6S	5.248		missing SMILES		
 0056_00042	caffeic acid-4-O-sulfate	C9H8O7S	5.275		missing SMILES		
 0056_00043	Chlorogenic acid	C16H18O9	5.312		missing SMILES		

@@ -1,4 +1,2 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0009_00258	malvidin-3-galactoside chloride	C23H25O12+	1.28		missing SMILES		
-0009_00259	Malvin chloride	C29H35O17+	1.15		missing SMILES		
-0009_00260	Oenin	C23h25o12+	1.29		missing SMILES		

@@ -1,8 +1,4 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0016_00006	isovitexin 7-O-[sinapoyl]-glucoside		8.5016665		missing SMILES		
 0016_00008	sinapoyl-isovitexin 2''-O-glucoside 2		10.51708		missing SMILES		
-0016_00009	chrysoeriol 7-O-[6''-coumaroyl]-glucoside		10.64375		missing SMILES		
-0016_00010	sinapoyl - hexose 1		3.680417		missing SMILES		
 0016_00018	sinapoyl-isovitexin 2''-O-glucoside 1		7.8108335		missing SMILES		
-0016_00028	sinapoyl - hexose 2		4.7258335		missing SMILES		
 0016_00029	tricin 7-O-[sinapoyl]-glucoside 4'-O-glucoside		9.08375		missing SMILES		

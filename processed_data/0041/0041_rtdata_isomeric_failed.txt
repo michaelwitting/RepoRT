@@ -4,7 +4,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0041_00006	Quinic acid	C7H12O6	0.58		missing SMILES		
 0041_00007	Ascorbic acid	C6H8O6	0.601483333		missing SMILES		
 0041_00008	Dopamine 4-O-sulfate	C8H11NO5S	0.606083333		missing SMILES		
-0041_00009	(+)-Pipecolinic acid	C6H11NO2	0.616783333		missing SMILES		
 0041_00011	Citric acid	C6H8O7	0.67		missing SMILES		
 0041_00012	AAMU	C7H10N4O3	0.6814		missing SMILES		
 0041_00013	Dopamine	C8H11NO2	0.706466667		missing SMILES		

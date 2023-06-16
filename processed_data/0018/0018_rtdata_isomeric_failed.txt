@@ -11,7 +11,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0018_00041	Coptisine	C19H14NO4+	15.301667		missing SMILES		
 0018_00042	Dehydrocorydaline	C22H24NO4+	17.776667		missing SMILES		
 0018_00046	Ginsenoside Rc	C53H90O22	16.6221		missing SMILES		
-0018_00048	Saikosaponin C	C42H68O13	17.205367		missing SMILES		
 0018_00053	Wogonin	C16H12O5	19.688717		missing SMILES		
 0018_00054	Apigenin	C15H10O5	16.401667		missing SMILES		
 0018_00056	Amentoflavone	C30H18O10	16.118333		missing SMILES		
@@ -37,7 +36,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0018_00090	Acacetin diacetate	C20H16O7	22.06		missing SMILES		
 0018_00093	Baicalein dimethyl ether	C17H14O5	23.843333		missing SMILES		
 0018_00096	Cosmosiin	C21H20O10	11.966667		missing SMILES		
-0018_00103	Saikosaponin C	C42H68O13	17.380783		missing SMILES		
 0018_00115	Cirsiliol	C17H17O7	18.464117		missing SMILES		
 0018_00116	Cosmosiin	C21H20O10	11.84745		missing SMILES		
 0018_00117	Hydrangenol	C15H12O4	19.32245		missing SMILES		

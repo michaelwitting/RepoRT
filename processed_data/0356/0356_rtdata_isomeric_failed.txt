@@ -162,7 +162,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0356_00849	Indole-3-propionic acid	C11H11NO2	4.811		missing SMILES		
 0356_00851	γ-Aminobutyric acid	C4H9NO2	1.0		missing SMILES		
 0356_00856	3-Methylcrotonyl Glycine	C7H11NO3	3.183		missing SMILES		
-0356_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.601		missing SMILES		
 0356_00880	2,5-Furandicarboxylic acid	C6H4O5	2.258		missing SMILES		
 0356_00883	Hippuric acid	C9H9NO3	3.439		missing SMILES		
 0356_00888	Indole-3-carboxaldehyde	C9H7NO	4.264		missing SMILES		

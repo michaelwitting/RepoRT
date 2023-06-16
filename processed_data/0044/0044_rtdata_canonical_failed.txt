@@ -1,6 +1,2 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0044_00301	iso-Methylpyridine (4-Picoline)		3.66		missing SMILES		
 0044_00361	Tigloyl-Lcarnitine		10.76		missing SMILES		
-0044_00395	C16_PlasmLPC		11.08		missing SMILES		
-0044_00521	D-Mannose(iso)		12.41		missing SMILES		
-0044_00534	(iso)-Methylnicotinamide		3.23		missing SMILES		

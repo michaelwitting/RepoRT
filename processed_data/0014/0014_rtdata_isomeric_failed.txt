@@ -1,6 +1,5 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0014_00001	phenylmethyl methyl ketone	C9H10O	3.313333333		missing SMILES		
 0014_00011	3-hydroxyeicosanoic acid	C20H40O3	7.39		missing SMILES		
-0014_00023	3-guanidinopropionic acid	C4H9N3O2	0.883333333		missing SMILES		
 0014_00025	PE(20:4/18:1)		6.591666667		missing SMILES		
 0014_00027	tetracosahexaenoic acid	C7H14NO8P	4.946666667		missing SMILES		

@@ -164,7 +164,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0340_00851	γ-Aminobutyric acid	C4H9NO2	0.596		missing SMILES		
 0340_00854	3-Hydroxyglutaric acid	C5H8O5	0.809		missing SMILES		
 0340_00856	3-Methylcrotonyl Glycine	C7H11NO3	3.105		missing SMILES		
-0340_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.599		missing SMILES		
 0340_00872	4-Pyridoxolactone	C8H7NO3	2.485		missing SMILES		
 0340_00880	2,5-Furandicarboxylic acid	C6H4O5	1.764		missing SMILES		
 0340_00883	Hippuric acid	C9H9NO3	3.65		missing SMILES		
