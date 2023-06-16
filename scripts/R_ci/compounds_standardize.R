@@ -68,6 +68,8 @@ for(data_folder in data_folders) {
                                        id.hmdb = col_character(),
                                        id.lipidmaps = col_character(),
                                        id.kegg = col_character()))
+  if (!("comment" %in% names(rt_data)))
+    rt_data <- rt_data %>% add_column(comment=NA)
 
   # get canonical SMILES for entries with only isomeric ones
   sp <- get.smiles.parser()
