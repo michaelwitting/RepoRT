@@ -127,7 +127,7 @@ for(data_folder in data_folders) {
   if(nrow(smiles_canonical_std) > 0) {
 
     ## cached standardized SMILES plus newly computed ones
-    smiles_canonical_std <- rt_data %>% select(id, pubchem.smiles.canonical.std) %>%
+    smiles_canonical_std <- rt_data %>% select(id, pubchem.smiles.canonical.std, comment) %>%
       rows_update(smiles_canonical_std %>% rename(id = X1, pubchem.smiles.canonical.std = X2),
                   by = "id") %>%
       filter(!is.na(pubchem.smiles.canonical.std)) %>%
@@ -136,7 +136,7 @@ for(data_folder in data_folders) {
 
   } else {
 
-    smiles_canonical_std <- rt_data %>% select(id, pubchem.smiles.canonical.std) %>%
+    smiles_canonical_std <- rt_data %>% select(id, pubchem.smiles.canonical.std, comment) %>%
       filter(!is.na(pubchem.smiles.canonical.std)) %>%
       rename(smiles.std = pubchem.smiles.canonical.std)
 
@@ -172,7 +172,7 @@ for(data_folder in data_folders) {
                                               name,
                                               formula,
                                               rt),
-                                          smiles_canonical_std)
+                                          smiles_canonical_std) %>% relocate(comment, .after = last_col())
 
   rt_data_canonical_failed <- right_join(rt_data %>% select(id,
                                                  name,
@@ -209,7 +209,7 @@ for(data_folder in data_folders) {
   if(nrow(smiles_isomeric_std) > 0) {
 
     ## cached standardized SMILES plus newly computed ones
-    smiles_isomeric_std <- rt_data %>% select(id, pubchem.smiles.isomeric.std) %>%
+    smiles_isomeric_std <- rt_data %>% select(id, pubchem.smiles.isomeric.std, comment) %>%
       rows_update(smiles_isomeric_std %>% rename(id = X1, pubchem.smiles.isomeric.std = X2),
                   by = "id") %>%
       filter(!is.na(pubchem.smiles.isomeric.std)) %>%
@@ -217,7 +217,7 @@ for(data_folder in data_folders) {
 
   } else {
 
-    smiles_isomeric_std <- rt_data %>% select(id, pubchem.smiles.isomeric.std) %>%
+    smiles_isomeric_std <- rt_data %>% select(id, pubchem.smiles.isomeric.std, comment) %>%
       filter(!is.na(pubchem.smiles.isomeric.std)) %>%
       rename(smiles.std = pubchem.smiles.isomeric.std)
 
@@ -253,7 +253,7 @@ for(data_folder in data_folders) {
                                                              name,
                                                              formula,
                                                              rt),
-                                          smiles_isomeric_std)
+                                          smiles_isomeric_std) %>% relocate(comment, .after = last_col())
 
   rt_data_isomeric_failed <- right_join(rt_data %>% select(id,
                                                             name,
