@@ -18,7 +18,9 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0053_00026	Silybin A 7-O-glucuronide		7.185		missing SMILES		
 0053_00027	Silybin B 7-O-glucuronide		7.309		missing SMILES		
 0053_00028	Ampelopsin-4-O-sulfate	C15H12O11S	7.544		missing SMILES		
+0053_00031	Isoquercitrin 4-O-sulfate	C21H20O15S	7.77		missing SMILES		
 0053_00032	Benzoic acid	C7H6O2	7.843		missing SMILES		
+0053_00033	Delphinidin	C15H10O7	8.441		missing SMILES		
 0053_00034	Rutin	C27H30O16	8.628		missing SMILES		
 0053_00035	Naringin	C27H32O14	9.021		missing SMILES		
 0053_00037	Rosmarinic acid	C18H16O8	9.567		missing SMILES		
@@ -43,3 +45,5 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0053_00060	Luteolin 4-sulfate	C15H10O9S	17.071		missing SMILES		
 0053_00063	Genistein	C15H10O5	18.039		missing SMILES		
 0053_00065	Luteolin	C15H10O6	18.65		missing SMILES		
+0053_00067	2,3-Dehydrosilybin A	C25H20O10	23.407		missing SMILES		
+0053_00068	2,3-Dehydrosilybin B	C25H20O10	23.788		missing SMILES		

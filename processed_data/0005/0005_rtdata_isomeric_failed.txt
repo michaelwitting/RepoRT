@@ -5,7 +5,9 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0005_00004	1H-indole-1-acetic acid	C10H9NO2	9.71275895		missing SMILES		
 0005_00005	1-methyl-2-hydroadenosine	C11H17N5O4	5.503119585		missing SMILES		
 0005_00006	1-methyltryptophan	C12H14N2O2	9.173093753		missing SMILES		
+0005_00007	2-aminoadipic acid	C6H11NO4	1.726704248		missing SMILES		
 0005_00008	3-aminobenzoic acid	C7H7NO2	5.542750173		missing SMILES		
+0005_00010	4-guanidinobutanoic acid	C5H11N3O2	3.024047085		missing SMILES		
 0005_00011	4-hydroxybenzoic acid	C7H6O3	9.103957598		missing SMILES		
 0005_00013	6-methoxyquinoline	C10H9NO	8.568337267		missing SMILES		
 0005_00016	allantoin	C4H6N4O3	1.627090811		missing SMILES		
@@ -30,6 +32,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0005_00046	3-coumaric acid	C9H8O3	9.540890975		missing SMILES		
 0005_00047	3-hydroxybenzoic acid	C7H6O3	9.312714043		missing SMILES		
 0005_00048	3-methyl-2-oxovaleric acid	C6H10O3	9.234793548		missing SMILES		
+0005_00049	4-guanidinobutanoic acid	C5H11N3O2	3.117193933		missing SMILES		
 0005_00050	4-hydroxybenzaldehyde	C7H6O2	9.401414733		missing SMILES		
 0005_00051	4-hydroxybenzoic acid	C7H6O3	9.122068967		missing SMILES		
 0005_00052	4-methyl-2-oxopentanoic acid	C6H10O3	9.391020212		missing SMILES		

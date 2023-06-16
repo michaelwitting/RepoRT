@@ -99,7 +99,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0063_00161	Bosentan	C27H29N5O6S	7.37		missing SMILES		
 0063_00162	Bosutinib (SKI-606)	C26H29Cl2N5O3	5.01		missing SMILES		
 0063_00163	Brexpiprazole	C25H27N3O2S	5.6		missing SMILES		
-0063_00164	Brimonidine	C11H10BrN5	3.0		missing SMILES		
+0063_00164	Brimonidine	C11H10BrN5	3		missing SMILES		
 0063_00166	Bromfenac	C15H12BrNO3	7.17		missing SMILES		
 0063_00167	Bromhexine	C14H20Br2N2	5.77		missing SMILES		
 0063_00168	Brompheniramine	C16H19BrN2	4.94		missing SMILES		
@@ -162,7 +162,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0063_00273	Clorsulon	C8H8Cl3N3O4S2	5.31		missing SMILES		
 0063_00274	Closantel	C22H14Cl2I2N2O2	9.49		missing SMILES		
 0063_00276	Cloxiquine	C9H6ClNO	5.79		missing SMILES		
-0063_00277	Clozapine	C18H19ClN4	5.0		missing SMILES		
+0063_00277	Clozapine	C18H19ClN4	5		missing SMILES		
 0063_00279	Conivaptan	C32H26N4O2	5.89		missing SMILES		
 0063_00281	Coumarin	C9H6O2	5.33		missing SMILES		
 0063_00282	Crenolanib (CP-868596)	C26H29N5O2	5.25		missing SMILES		
@@ -207,7 +207,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0063_00362	Domperidone	C22H24ClN5O2	5.03		missing SMILES		
 0063_00363	Donepezil	C24H29NO3	5.28		missing SMILES		
 0063_00364	Doramapimod (BIRB 796)	C31H37N5O3	6.27		missing SMILES		
-0063_00366	Dovitinib	C21H21FN6O	5.0		missing SMILES		
+0063_00366	Dovitinib	C21H21FN6O	5		missing SMILES		
 0063_00367	Doxapram	C24H30N2O2	4.95		missing SMILES		
 0063_00368	Doxazosin	C23H25N5O5	5.44		missing SMILES		
 0063_00370	Doxofylline	C11H14N4O4	4.18		missing SMILES		
@@ -258,7 +258,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0063_00454	Fenspiride	C15H20N2O2	3.67		missing SMILES		
 0063_00455	Fenticonazole	C24H20Cl2N2OS	7.42		missing SMILES		
 0063_00457	Fexofenadine	C32H39NO4	5.95		missing SMILES		
-0063_00459	Filgotinib (GLPG0634)	C21H23N5O3S	5.0		missing SMILES		
+0063_00459	Filgotinib (GLPG0634)	C21H23N5O3S	5		missing SMILES		
 0063_00461	Fingolimod	C19H33NO2	6.92		missing SMILES		
 0063_00463	Flibanserin	C20H21F3N4O	5.59		missing SMILES		
 0063_00464	Flopropione	C9H10O4	5.47		missing SMILES		
@@ -272,7 +272,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0063_00479	Fluorouracil (5-Fluoracil_ 5-FU)	C4H3FN2O2	1.01		missing SMILES		
 0063_00480	Fluoxetine	C17H18F3NO	6.08		missing SMILES		
 0063_00482	Fluphenazine	C22H26F3N3OS	6.22		missing SMILES		
-0063_00483	Flupirtine	C15H17FN4O2	5.0		missing SMILES		
+0063_00483	Flupirtine	C15H17FN4O2	5		missing SMILES		
 0063_00484	Flutamide	C11H11F3N2O3	7.37		missing SMILES		
 0063_00489	Fomepizole	C4H6N2	2.43		missing SMILES		
 0063_00490	Foretinib (GSK1363089)	C34H34F2N4O6	5.32		missing SMILES		
@@ -287,7 +287,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0063_00510	Ganetespib (STA-9090)	C20H20N4O3	6.19		missing SMILES		
 0063_00511	Gatifloxacin	C19H22FN3O4	4.44		missing SMILES		
 0063_00512	Gefitinib (ZD1839)	C22H24ClFN4O3	4.46		missing SMILES		
-0063_00514	Gemfibrozil	C15H22O3	8.0		missing SMILES		
+0063_00514	Gemfibrozil	C15H22O3	8		missing SMILES		
 0063_00515	Genistein	C15H10O5	5.87		missing SMILES		
 0063_00517	Gimeracil	C5H4ClNO2	2.86		missing SMILES		
 0063_00518	Glafenine	C19H17ClN2O4	4.49		missing SMILES		
@@ -373,7 +373,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0063_01245	Mefenamic Acid	C15H15NO2	7.89		missing SMILES		
 0063_01248	Melatonin	C13H16N2O2	4.97		missing SMILES		
 0063_01249	Meloxicam	C14H13N3O4S2	6.87		missing SMILES		
-0063_01251	Memantine	C12H21N	5.0		missing SMILES		
+0063_01251	Memantine	C12H21N	5		missing SMILES		
 0063_01252	Menadione	C11H8O2	6.59		missing SMILES		
 0063_01253	Mepiroxol	C6H7NO2	1.03		missing SMILES		
 0063_01254	Mepivacaine	C15H22N2O	4.18		missing SMILES		
@@ -453,7 +453,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0063_01373	Ondansetron	C18H19N3O	4.76		missing SMILES		
 0063_01376	Ornidazole	C7H10ClN3O3	4.41		missing SMILES		
 0063_01377	Orphenadrine	C18H23NO	5.75		missing SMILES		
-0063_01379	Osimertinib (AZD9291)	C28H33N7O2	5.0		missing SMILES		
+0063_01379	Osimertinib (AZD9291)	C28H33N7O2	5		missing SMILES		
 0063_01381	Otenabant	C25H25Cl2N7O	5.89		missing SMILES		
 0063_01384	Oxaliplatin	C6H12N2	2.14		missing SMILES		
 0063_01385	Oxaprozin	C18H15NO3	7.18		missing SMILES		

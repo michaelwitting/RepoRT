@@ -63,6 +63,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0009_00126	Spermidine	C7H19N3	0.14		missing SMILES		
 0009_00127	Spermine	C10H26N4	0.14		missing SMILES		
 0009_00128	Succinic acid	C4H6O4	0.49		missing SMILES		
+0009_00129	Taurine	C2H7NO3S	0.16		missing SMILES		
 0009_00130	Thiamine hydrochloride	C12H17N4OS+	0.19		missing SMILES		
 0009_00131	Thiamine monophosphate chloride dihydrate	C12H18N4O4PS+	0.19		missing SMILES		
 0009_00135	Tyramine	C8H11NO	0.67		missing SMILES		
@@ -101,9 +102,11 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0009_00237	3-Hydroxypyridine	C5H5NO	0.24		missing SMILES		
 0009_00240	Aminooxyacetic acid Hemihydrochloride	C2H5NO3	0.17		missing SMILES		
 0009_00243	Itaconic acid	C5H6O4	1.09		missing SMILES		
+0009_00245	Suberic acid	C8H14O4	1.4		missing SMILES		
 0009_00246	DL-Threitol	C4H10O4	0.17		missing SMILES		
 0009_00247	2,2',2''-Nitrilotriethanol	C6H15NO3	0.17		missing SMILES		
 0009_00258	malvidin-3-galactoside chloride	C23H25O12+	1.28		missing SMILES		
+0009_00259	Malvin chloride	C29H35O17+	1.15		missing SMILES		
 0009_00262	Datiscin	C27H30O15	1.4		missing SMILES		
 0009_00263	4-deoxyphloridzin	C21H24O9	1.5		missing SMILES		
 0009_00279	Hinokitiol	C10H12O2	1.49		missing SMILES		

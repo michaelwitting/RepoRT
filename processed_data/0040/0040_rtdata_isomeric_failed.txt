@@ -34,6 +34,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0040_00048	Quercetin-3-O-glucuronide	C21H18O13	13.67		missing SMILES		
 0040_00049	Phloridzin	C21H24O10	14.17		missing SMILES		
 0040_00050	Apigenin 7-O-glucoside	C21H20O10	14.32		missing SMILES		
+0040_00052	Dihydro-8-deoxylactucin	C15H18O4	14.52		missing SMILES		
 0040_00053	Dihydro-8-deoxylactucin-15-glycoside		14.52		missing SMILES		
 0040_00054	Rosmarinic acid	C18H16O8	14.638		missing SMILES		
 0040_00055	Kaempferol-3-O-glucoside	C21H20O11	14.66		missing SMILES		

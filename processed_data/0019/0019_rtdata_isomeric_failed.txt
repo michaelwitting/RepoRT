@@ -197,6 +197,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0019_00210	Dimethachlor ESA	C16H19NO5S	5.9		missing SMILES		
 0019_00211	Dimethachlor OXA	C13H17NO4	6.6		missing SMILES		
 0019_00212	Metformin	C4H11N5	0.8		missing SMILES		
+0019_00214	Gabapentin	C9H17NO2	3.6		missing SMILES		
 0019_00216	5-Fluorouracil	C4H3FN2O2	1		missing SMILES		
 0019_00218	Lidocaine	C14H22N2O	4.2		missing SMILES		
 0019_00219	Cyclophosphamide	C7H15Cl2N2O2P	6.3		missing SMILES		
@@ -218,6 +219,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0019_00243	Diazoxon	C12H21N2O4P	9.5		missing SMILES		
 0019_00244	Pyrimidinol	C8H12N2O	3.4		missing SMILES		
 0019_00245	Dioxoaminopyrine	C13H17N3O3	5.2		missing SMILES		
+0019_00246	Imidacloprid	C9H10ClN5O2	4.8		missing SMILES		
 0019_00247	MCPB	C11H13ClO3	11.9		missing SMILES		
 0019_00248	Pirimicarb	C11H18N4O2	5		missing SMILES		
 0019_00249	Pyrimethanil	C12H13N3	7.6		missing SMILES		
@@ -278,6 +280,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0019_00331	Perfluorooctyl phosphate	C8H6F13O4P	12.1		missing SMILES		
 0019_00332	Perfluorodecyl phosphate	C10H6F17O4P	14.7		missing SMILES		
 0019_00333	Teflubenzuron	C14H6Cl2F4N2O2	16.1		missing SMILES		
+0019_00334	Clothianidin	C6H8ClN5O2S	4.9		missing SMILES		
 0019_00335	Difenoconazole	C19H17Cl2N3O3	14.1		missing SMILES		
 0019_00336	Methoxyfenozide	C22H28N2O3	10.9		missing SMILES		
 0019_00338	Methiocarb	C11H15NO2S	10.4		missing SMILES		

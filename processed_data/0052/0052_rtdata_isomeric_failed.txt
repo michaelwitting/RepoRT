@@ -45,6 +45,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0052_00069	Rosmarinic acid	C18H16O8	11.46		missing SMILES		
 0052_00073	Hesperetin-7-O-glucuronide	C21H22O12	11.85		missing SMILES		
 0052_00074	(+)-Lariciresinol	C20H24O6	12.05		missing SMILES		
+0052_00076	Hesperetin 7-sulfate	C16H14O9S	12.55		missing SMILES		
 0052_00077	Quercetin 3-O-sulfate	C15H10O10S	12.57		missing SMILES		
 0052_00078	Urolithin B-3-sulfate	C13H8O6S	12.67		missing SMILES		
 0052_00079	Isourolithin  A	C13H8O4	12.73		missing SMILES		
@@ -95,3 +96,4 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0052_00134	Homovanillic acid	C11H12O7S	6.83		missing SMILES		
 0052_00135	(-)-Epicatechin	C9H10O4	6.84		missing SMILES		
 0052_00160	Dihydroresveratrol 3-O-glucuronide		9.84		missing SMILES		
+0052_00180	Hesperetin 7-sulfate	C16H14O9S	12.55		missing SMILES		

@@ -20,6 +20,15 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0015_00021	glycerol 2-phosphate	C3H9O6P	1.531232221		missing SMILES		
 0015_00033	2-furoic acid	C5H4O3	4.457901238		missing SMILES		
 0015_00036	suberic acid	C8H14O4	9.427090399		missing SMILES		
+0015_00048	4-hydroxybenzoic acid	C7H6O3	9.876777655		missing SMILES		
+0015_00051	citric acid	C6H8O7	4.471843848		missing SMILES		
+0015_00052	citric acid	C6H8O7	4.399448944		missing SMILES		
+0015_00053	malic acid	C4H6O5	2.440801484		missing SMILES		
+0015_00054	malonic acid	C3H4O4	2.640487964		missing SMILES		
+0015_00055	glutamine	C5H10N2O3	1.541746895		missing SMILES		
+0015_00056	glutamine	C5H10N2O3	1.441398479		missing SMILES		
+0015_00058	arginine	C6H14N4O2	1.444172858		missing SMILES		
+0015_00059	arginine	C6H14N4O2	1.348293394		missing SMILES		
 0015_00060	(+)-quinic acid	C7H12O6	1.924083548		missing SMILES		
 0015_00061	D-mannose 6-phosphate	C6H13O9P	1.549421908		missing SMILES		
 0015_00062	(-)-quinic acid	C7H12O6	9.11255196		missing SMILES		
