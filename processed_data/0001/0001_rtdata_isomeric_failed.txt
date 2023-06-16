@@ -47,6 +47,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0001_00047	naringin	C7H12O7	19.86		missing SMILES		
 0001_00048	methyl-glucuronide	C11H14O5	2.43		missing SMILES		
 0001_00049	genipin	C11H14O5	16.06		missing SMILES		
+0001_00052	methylpyrano malvidin 3-glucoside	C26H26O12	19.74327586		missing SMILES		
 0001_00053	epigallo-catechin gallate	C22H18O11	12.73		missing SMILES		
 0001_00054	3,4-dihydroxybenzoic acid	C7H6O4	7.77		missing SMILES		
 0001_00055	caffeic acid+catechin condensation product	C24H20O9	17.82		missing SMILES		

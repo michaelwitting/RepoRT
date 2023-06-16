@@ -29,6 +29,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0002_00028	naringenin	C15H12O5	33.75		missing SMILES		
 0002_00029	naringenin 7-glucoside	C21H22O10	27.94		missing SMILES		
 0002_00030	o-coumaric acid	C9H8O3	28.05		missing SMILES		
+0002_00031	oxovitisin A	C25H24O13	33.21		missing SMILES		
 0002_00032	pallidol	C28H22O6	25.92		missing SMILES		
 0002_00033	phloridzin	C21H24O10	29.6		missing SMILES		
 0002_00034	piceatanol	C14H12O4	26.54		missing SMILES		
@@ -48,6 +49,9 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0002_00048	naringin	C7H12O7	28.6		missing SMILES		
 0002_00049	methyl-glucuronide	C11H14O5	2.4		missing SMILES		
 0002_00050	genipin	C11H14O5	24.2		missing SMILES		
+0002_00051	vitisin A	C26H25O14	28.3		missing SMILES		
+0002_00052	vitisin B	C56H42O12	26.994		missing SMILES		
+0002_00053	methylpyrano malvidin 3-glucoside	C26H26O12	28.63		missing SMILES		
 0002_00054	ethyl gallate	C9H10O5	23.02		missing SMILES		
 0002_00055	(+)-catechin gallate	C22H18O10	25.915		missing SMILES		
 0002_00056	(Â±)-theaspirane	C13H22O	48.08		missing SMILES		
@@ -94,6 +98,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0002_00097	Alpha lipoamide	C8H15NOS2	29		missing SMILES		
 0002_00098	alpha-tocopherol	C29H50O2	59.2		missing SMILES		
 0002_00099	altrose	C6H12O6	1.4275		missing SMILES		
+0002_00100	ampelopsin D + quadrangularin A	C28H22O6	26.215		missing SMILES		
 0002_00101	ampelopsin H	C56H42O12	29.775		missing SMILES		
 0002_00102	amygdalin	C20H27NO11	19.3		missing SMILES		
 0002_00103	anisaldehyde	C8H8O2	27.1		missing SMILES		
@@ -149,6 +154,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0002_00160	daphnetin	C13H16O9	21.595		missing SMILES		
 0002_00161	decanoic acid	C10H20O2	45.615		missing SMILES		
 0002_00162	dehydroascorbic acid	C6H6O6	1.72		missing SMILES		
+0002_00163	delphinidin	C15H10O7	27.1		missing SMILES		
 0002_00167	diethylamine	C4H11N	1.68		missing SMILES		
 0002_00168	dihidro alpha ionone	C13H22O	46.1		missing SMILES		
 0002_00169	dihydrokaempferol	C15H12O6	27.82		missing SMILES		
@@ -246,6 +252,8 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0002_00270	L-valine	C4H6O4	2.185		missing SMILES		
 0002_00271	malonic acid	C3H4O4	2.11		missing SMILES		
 0002_00272	malvidin 3-p-coumarylglucoside		32.5		missing SMILES		
+0002_00273	malvidin-3,5-diglucoside	C29H34O17	20.68		missing SMILES		
+0002_00274	malvidin-3-galactoside	C23H24O12	24.2		missing SMILES		
 0002_00275	malvidin-3-glucoside methyl acetate		28.9		missing SMILES		
 0002_00276	mannitol	C6H11O6	1.375		missing SMILES		
 0002_00277	m-coumaric acid	C9H8O3	26.175		missing SMILES		
@@ -294,6 +302,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0002_00321	pelargonidin-3,5-diglucoside	C27H31O15+	19.6		missing SMILES		
 0002_00323	peltatoside	C26H28O16	28.295		missing SMILES		
 0002_00327	peonidin-3-O-(6-acetyl)-glucoside		29.2		missing SMILES		
+0002_00328	peonidin-3-O-(6-p-coumaroyl)-glucoside	C31H28O13	32.985		missing SMILES		
 0002_00329	petunidin	C16H13O7+	29.7		missing SMILES		
 0002_00331	phenethylamine	C8H11N	12.1		missing SMILES		
 0002_00332	pinitol	C7H14O6	1.405		missing SMILES		
@@ -361,6 +370,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0002_00396	ursolic acid	C30H48O3	53.6		missing SMILES		
 0002_00397	vanillic acid	C8H8O4	20.3		missing SMILES		
 0002_00398	vanillin	C8H8O3	21.505		missing SMILES		
+0002_00399	vaticanol C like isomer	C56H42O12	28.99		missing SMILES		
 0002_00400	vitamin B12		21.7		missing SMILES		
 0002_00401	vitamin K1	C31H46O2	57.7		missing SMILES		
 0002_00402	xanthine	C5H4N4O2	6.015		missing SMILES		
