@@ -32,6 +32,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0269_00038	Propanil	C9H9Cl2NO	14.68571429		missing SMILES		
 0269_00039	Quinoxaline	C8H6N2	8.647142857		missing SMILES		
 0269_00040	Simazine	C7H14ClN5	11.45		missing SMILES		
+0269_00041	Sudan I	C16H12N2O	19.135		missing SMILES		
 0269_00042	Theophylline	C7H8N4O2	5.61		missing SMILES		
 0269_00043	Tri-isobutyl phosphate	C12H27O4P	17.41625		missing SMILES		
 0269_00044	Triethyl phosphate	C6H15O4P	10.08		missing SMILES		

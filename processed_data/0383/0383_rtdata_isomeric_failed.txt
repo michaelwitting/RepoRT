@@ -32,7 +32,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_00051	Asulam	C8H10N2O4S	1.46		missing SMILES		
 0383_00053	Atenolol acid (Metoprolol acid)	C14H21NO4	3.58		missing SMILES		
 0383_00056	Atrazine	C8H14ClN5	8.13		missing SMILES		
-0383_00057	Atrazine 2-Hydroxy	C8H15N5O	6.0		missing SMILES		
+0383_00057	Atrazine 2-Hydroxy	C8H15N5O	6		missing SMILES		
 0383_00058	Atrazine-desethyl	C6H10ClN5	5.71		missing SMILES		
 0383_00059	Atrazine-desethyl-2-hydroxy (=Prometon-Hydroxy-Desisopropyl)	C6H11N5O	4.18		missing SMILES		
 0383_00060	Atrazine-desisopropyl	C5H8ClN5	4.74		missing SMILES		
@@ -127,6 +127,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_00169	Clopamide	C14H20ClN3O3S	6.18		missing SMILES		
 0383_00171	Clopyralid	C6H3Cl2NO2	2.84		missing SMILES		
 0383_00172	Closantel	C22H14Cl2I2N2O2	12.16		missing SMILES		
+0383_00173	Clothiandin	C6H8ClN5O2S	4.88		missing SMILES		
 0383_00175	Coumachlor	C19H15ClO4	7.7		missing SMILES		
 0383_00176	Coumaphos	C14H16ClO5PS	10.98		missing SMILES		
 0383_00178	Crufomate	C12H19ClNO3P	10.48		missing SMILES		
@@ -253,6 +254,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_00336	Imazapyr	C13H15N3O3	3.1		missing SMILES		
 0383_00337	Imazaquin	C17H17N3O3	4.85		missing SMILES		
 0383_00338	Imazethapyr	C15H19N3O3	4.32		missing SMILES		
+0383_00339	Imidacloprid	C9H10ClN5O2	4.75		missing SMILES		
 0383_00340	Inabenfide	C19H15ClN2O2	9.23		missing SMILES		
 0383_00341	Indapamide	C16H16ClN3O3S	6.78		missing SMILES		
 0383_00342	Indomethacin	C19H16ClNO4	9.18		missing SMILES		
@@ -623,7 +625,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_00811	Ethiofencarb-sulfoxide	C11H15NO3S	4.7		missing SMILES		
 0383_00812	Ethion	C9H22O4P2S4	12.45		missing SMILES		
 0383_00813	Ethiprole	C13H9Cl2F3N4OS	9.32		missing SMILES		
-0383_00814	Ethirimol	C11H19N3O	8.0		missing SMILES		
+0383_00814	Ethirimol	C11H19N3O	8		missing SMILES		
 0383_00815	Ethofumesate	C13H18O5S	9.14		missing SMILES		
 0383_00816	Ethopabate	C12H15NO4	6.63		missing SMILES		
 0383_00817	Ethoprophos	C8H19O2PS2	10.16		missing SMILES		
@@ -761,7 +763,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_00966	Formoterol	C19H24N2O4	4.79		missing SMILES		
 0383_00968	Fosthiazate	C9H18NO3PS2	7.73		missing SMILES		
 0383_00969	FUB-144	C23H24FNO	12.23		missing SMILES		
-0383_00970	FUB-AKB48	C25H26FN3O	13.0		missing SMILES		
+0383_00970	FUB-AKB48	C25H26FN3O	13		missing SMILES		
 0383_00971	FUB-AMB	C21H22FN3O3	10.77		missing SMILES		
 0383_00972	Fuberidazole	C11H8N2O	6.48		missing SMILES		
 0383_00973	FUBIMINA	C23H21FN2O	11.62		missing SMILES		
@@ -822,6 +824,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_01046	Imazethapyr	C15H19N3O3	5.6		missing SMILES		
 0383_01047	Imazosulfuron	C14H13ClN6O5S	8.78		missing SMILES		
 0383_01048	Imibenconazole	C17H13Cl3N4S	12.36		missing SMILES		
+0383_01049	Imidacloprid	C9H10ClN5O2	4.76		missing SMILES		
 0383_01050	Imidacloprid-guanidine	C9H11ClN4	11.03		missing SMILES		
 0383_01051	Imidacloprid-urea	C9H10ClN3O	4.71		missing SMILES		
 0383_01052	Imidazolidinon- 1-3-Dimethyl-2-	C5H10N2O	3.53		missing SMILES		
@@ -1163,7 +1166,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_01478	Octylphenol diethoxylates (OP2EO)_NH4 adduct	C18H30O3	14.1		missing SMILES		
 0383_01479	Octylphenol monoethoxylates (OP1EO)_NH4 adduct	C16H26O2	12.4		missing SMILES		
 0383_01480	Ofloxacin	C18H20FN3O4	4.34		missing SMILES		
-0383_01481	Ofurace	C14H16ClNO3	7.0		missing SMILES		
+0383_01481	Ofurace	C14H16ClNO3	7		missing SMILES		
 0383_01482	Olanzapine	C17H20N4S	4.99		missing SMILES		
 0383_01484	Olsalazine	C14H10N2O6	5.66		missing SMILES		
 0383_01485	Omeprazole	C17H19N3O3S	7.49		missing SMILES		
@@ -1266,10 +1269,10 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_01601	Phosphate-Triphenyl	C18H15O4P	11.01		missing SMILES		
 0383_01602	Phoxim	C12H15N2O3PS	11.21		missing SMILES		
 0383_01603	Phthalate-Benzyl butyl	C19H20O4	12.45		missing SMILES		
-0383_01604	Phthalate-bis-(2-ethylhexyl). DEHP	C24H38O4	15.0		missing SMILES		
+0383_01604	Phthalate-bis-(2-ethylhexyl). DEHP	C24H38O4	15		missing SMILES		
 0383_01605	Phthalate-Diethyl	C12H14O4	8.5		missing SMILES		
 0383_01606	Phthalate-Dimethyl	C10H10O4	6.63		missing SMILES		
-0383_01607	Phthalate-Di-n-butyl	C16H22O4	12.0		missing SMILES		
+0383_01607	Phthalate-Di-n-butyl	C16H22O4	12		missing SMILES		
 0383_01608	Phthalate-Di-n-octyl	C24H38O4	15.3		missing SMILES		
 0383_01609	Phthalate-Diphenyl	C20H14O4	11.2		missing SMILES		
 0383_01611	Picaridin (Icaridin)	C12H23NO3	8.83		missing SMILES		
@@ -1466,7 +1469,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_01875	Sudan I	C16H12N2O	13.61		missing SMILES		
 0383_01876	Sudan II	C18H16N2O	14.94		missing SMILES		
 0383_01877	Sufentanil	C22H30N2O2S	7.31		missing SMILES		
-0383_01878	Sulcotrione	C14H13ClO5S	5.0		missing SMILES		
+0383_01878	Sulcotrione	C14H13ClO5S	5		missing SMILES		
 0383_01879	Sulfabenzamide	C13H12N2O3S	4.72		missing SMILES		
 0383_01880	Sulfachloropyridazine	C10H9ClN4O2S	4.56		missing SMILES		
 0383_01881	Sulfaclomide	C12H13ClN4O2S	3.96		missing SMILES		
@@ -1527,7 +1530,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_01949	Terbacil	C9H13ClN2O2	7.33		missing SMILES		
 0383_01951	Terbufos	C9H21O2PS3	12.25		missing SMILES		
 0383_01952	Terbufos sulfone	C9H21O4PS3	9.01		missing SMILES		
-0383_01953	Terbufos-sulfoxide	C9H21O3PS3	9.0		missing SMILES		
+0383_01953	Terbufos-sulfoxide	C9H21O3PS3	9		missing SMILES		
 0383_01954	Terbumeton	C10H19N5O	9.16		missing SMILES		
 0383_01955	Terbutaline	C12H19NO3	3.11		missing SMILES		
 0383_01956	Terbuthylazine	C9H16ClN5	9.36		missing SMILES		
@@ -1586,7 +1589,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0383_02027	Timolol	C13H24N4O3S	4.88		missing SMILES		
 0383_02028	Tinidazole	C8H13N3O4S	3.86		missing SMILES		
 0383_02029	Tiocarbazil	C16H25NOS	12.85		missing SMILES		
-0383_02030	Tiocarlide	C23H32N2O2S	13.0		missing SMILES		
+0383_02030	Tiocarlide	C23H32N2O2S	13		missing SMILES		
 0383_02031	Tizanidine	C9H8ClN5S	3.64		missing SMILES		
 0383_02032	TMA	C12H19NO3	4.16		missing SMILES		
 0383_02033	Tokuthion (Prothiophos)	C11H15Cl2O2PS2	13.61		missing SMILES		

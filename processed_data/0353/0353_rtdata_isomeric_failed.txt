@@ -3,7 +3,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0353_00101	Isopalmitic acid	C16H32O2	6.611		missing SMILES		
 0353_00102	14-Methylhexadecanoic acid	C17H34O2	6.661		missing SMILES		
 0353_00103	2-Hydroxyhexadecanoic acid	C16H32O3	7.086		missing SMILES		
-0353_00104	Isostearic acid	C18H36O2	7.0		missing SMILES		
+0353_00104	Isostearic acid	C18H36O2	7		missing SMILES		
 0353_00105	17-Methylstearic acid	C19H38O2	6.78		missing SMILES		
 0353_00108	Heptacosanoic Acid	C27H54O2	7.105		missing SMILES		
 0353_00113	Phytanic acid	C20H40O2	6.737		missing SMILES		
@@ -105,7 +105,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0353_00664	SALSOLINOL	C10H13NO2	0.838		missing SMILES		
 0353_00665	BIOTIN	C10H16N2O3S	3.691		missing SMILES		
 0353_00666	DETHIOBIOTIN	C10H18N2O3	4.112		missing SMILES		
-0353_00667	SEBACATE	C10H18O4	5.0		missing SMILES		
+0353_00667	SEBACATE	C10H18O4	5		missing SMILES		
 0353_00674	N-ACETYLSEROTONIN	C12H14N2O2	3.291		missing SMILES		
 0353_00675	SUCROSE	C12H22O11	0.625		missing SMILES		
 0353_00676	MELIBIOSE	C12H22O11	0.625		missing SMILES		
@@ -159,7 +159,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0353_00884	Citric acid	C6H8O7	0.006		missing SMILES		
 0353_00888	Indole-3-carboxaldehyde	C9H7NO	4.329		missing SMILES		
 0353_00889	Indole-3-carboxylic acid	C9H7NO2	4.351		missing SMILES		
-0353_00894	Kynurenic acid	C10H7NO3	3.0		missing SMILES		
+0353_00894	Kynurenic acid	C10H7NO3	3		missing SMILES		
 0353_00895	DL-Isocitric acid trisodium salt hydrate	C6H8O7	0.77		missing SMILES		
 0353_00897	DL-Indole-3-lactic acid	C11H11NO3	4.21		missing SMILES		
 0353_00899	Methylmalonic acid	C4H6O4	1.609		missing SMILES		

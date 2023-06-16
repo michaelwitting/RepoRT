@@ -43,6 +43,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0290_00051	Reserpine	C33H40N2O9	13.32		missing SMILES		
 0290_00052	Sebuthylazine	C9H18ClN5	11.48		missing SMILES		
 0290_00053	Simazine	C7H14ClN5	8.595		missing SMILES		
+0290_00055	Sudan I	C16H12N2O	15.248		missing SMILES		
 0290_00056	Sulfamethazine	C12H14N4O2S	5.185		missing SMILES		
 0290_00057	Sulfapyridine	C11H11N3O2S	4.4		missing SMILES		
 0290_00058	Theophylline	C7H8N4O2	3.268571429		missing SMILES		

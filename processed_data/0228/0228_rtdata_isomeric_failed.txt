@@ -288,7 +288,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_00404	Meprobamate	C9H18N2O4	1.25		missing SMILES		
 0228_00405	Mesoridazine	C21H26N2OS2	4.24		missing SMILES		
 0228_00406	Metformin	C4H11N5	5.44		missing SMILES		
-0228_00407	Methadone	C21H27NO	2.0		missing SMILES		
+0228_00407	Methadone	C21H27NO	2		missing SMILES		
 0228_00408	Methamphetamine	C10H15N	3.33		missing SMILES		
 0228_00409	Methaqualone	C16H14N2O	1.1		missing SMILES		
 0228_00410	Methionine	C5H11NO2S	7.37		missing SMILES		
@@ -351,7 +351,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_00500	Nimodipine	C21H26N2O7	0.94		missing SMILES		
 0228_00501	N-Isobutyrylglycine	C6H11NO3	3.6		missing SMILES		
 0228_00502	N-Isovalerylglycine	C7H13NO3	2.94		missing SMILES		
-0228_00503	Nitazoxanide	C12H9N3O5S	1.0		missing SMILES		
+0228_00503	Nitazoxanide	C12H9N3O5S	1		missing SMILES		
 0228_00504	Nitrazepam	C15H11N3O3	1.2		missing SMILES		
 0228_00505	Nitrendipine	C18H20N2O6	0.95		missing SMILES		
 0228_00508	N-Methylaniline	C7H9N	1.06		missing SMILES		
@@ -367,8 +367,8 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_00521	N-Methylthreonine	C5H11NO3	7.68		missing SMILES		
 0228_00522	N-Methyltyrosine	C10H13NO3	6.79		missing SMILES		
 0228_00523	N-Methylvaline	C6H13NO2	6.99		missing SMILES		
-0228_00524	Nobiletin	C21H22O8	1.0		missing SMILES		
-0228_00525	N-omega-Acetylhistamine	C7H11N3O	6.0		missing SMILES		
+0228_00524	Nobiletin	C21H22O8	1		missing SMILES		
+0228_00525	N-omega-Acetylhistamine	C7H11N3O	6		missing SMILES		
 0228_00526	Norleucine	C6H13NO2	6.99		missing SMILES		
 0228_00527	Nornicotine	C9H12N2	5.98		missing SMILES		
 0228_00528	Norvaline	C5H11NO2	4.89		missing SMILES		
@@ -472,7 +472,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_00647	Ranolazine	C24H33N3O4	2.79		missing SMILES		
 0228_00648	Remacemide	C17H20N2O	4.41		missing SMILES		
 0228_00651	Retinoic acid	C20H28O2	1.11		missing SMILES		
-0228_00652	Riboflavin	C17H20N4O6	6.0		missing SMILES		
+0228_00652	Riboflavin	C17H20N4O6	6		missing SMILES		
 0228_00655	Rifaximin	C43H51N3O11	1.18		missing SMILES		
 0228_00656	Riluzole	C8H5F3N2OS	1.03		missing SMILES		
 0228_00658	Risperidone	C23H27FN4O2	3.52		missing SMILES		
@@ -530,7 +530,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_00728	Threonine	C4H9NO3	8.21		missing SMILES		
 0228_00729	Thymidine	C10H14N2O5	2.57		missing SMILES		
 0228_00731	Thymol	C10H14O	1.53		missing SMILES		
-0228_00733	Tibolone	C21H28O2	1.0		missing SMILES		
+0228_00733	Tibolone	C21H28O2	1		missing SMILES		
 0228_00734	Ticlopidine	C14H14ClNS	1.12		missing SMILES		
 0228_00735	Tinidazole	C8H13N3O4S	1.04		missing SMILES		
 0228_00736	Tocainide	C11H16N2O	4.97		missing SMILES		
@@ -644,7 +644,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_01383	Xanthinol	C13H21N5O4	6.01		missing SMILES		
 0228_01385	Xanthotoxin	C12H8O4	1.04		missing SMILES		
 0228_01386	Zacopride	C15H20ClN3O2	4.66		missing SMILES		
-0228_01387	Zafirlukast	C31H33N3O6S	1.0		missing SMILES		
+0228_01387	Zafirlukast	C31H33N3O6S	1		missing SMILES		
 0228_01388	Zaleplon	C17H15N5O	1.02		missing SMILES		
 0228_01389	Zardaverine	C12H10F2N2O3	1.19		missing SMILES		
 0228_01390	Zeranol	C18H26O5	1.11		missing SMILES		
@@ -720,6 +720,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0228_01537	Glucose-6-phosphate	C6H13O9P	9.86		missing SMILES		
 0228_01538	Glu-Gln	C10H17N3O6	9.6		missing SMILES		
 0228_01541	Glutamic acid	C5H9NO4	8.85		missing SMILES		
+0228_01542	Glutathione (oxidized)	C20H32N6O12S2	10.17		missing SMILES		
 0228_01544	Glu-Thr	C9H16N2O6	9.44		missing SMILES		
 0228_01545	Glu-Val-Phe	C19H27N3O6	7.66		missing SMILES		
 0228_01547	Glycine	C2H5NO2	8.33		missing SMILES		

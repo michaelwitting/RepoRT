@@ -32,6 +32,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0221_00057	Isoquinoline	C9H7N	4.621		missing SMILES		
 0221_00059	Kaempferol	C15H10O6	7.533		missing SMILES		
 0221_00060	Kynurenic acid	C10H7NO3	6.619		missing SMILES		
+0221_00061	Leucylproline	C11H20N2O3	4.635		missing SMILES		
 0221_00064	Methionine sulfoxide	C5H11NO3S	1.273		missing SMILES		
 0221_00065	Methyl indole-3-acetate	C11H11NO2	7.272		missing SMILES		
 0221_00066	Mono(2-ethylhexyl) phthalate (MEHP)	C16H22O4	11.302		missing SMILES		

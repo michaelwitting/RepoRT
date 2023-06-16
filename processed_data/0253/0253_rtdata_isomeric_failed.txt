@@ -200,7 +200,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0253_00906	Phenylpyruvic acid	C9H8O3	2.525		missing SMILES		
 0253_00918	4,6-Dioxoheptanoic acid	C7H10O4	2.46		missing SMILES		
 0253_00923	Acephate	C4H10NO3PS	1.616		missing SMILES		
-0253_00929	Diflufenican	C19H11F5N2O2	6.0		missing SMILES		
+0253_00929	Diflufenican	C19H11F5N2O2	6		missing SMILES		
 0253_00940	Lenacil	C13H18N2O2	4.193		missing SMILES		
 0253_00959	Diniconazole	C15H17Cl2N3O	5.553		missing SMILES		
 0253_00961	Epoxiconazol	C17H13ClFN3O	5.553		missing SMILES		

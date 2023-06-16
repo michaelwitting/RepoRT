@@ -264,7 +264,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0241_01088	Methoxyfenozide	C22H28N2O3	5.549		missing SMILES		
 0241_01096	Tebufenozide	C22H28N2O2	5.78		missing SMILES		
 0241_01097	Thiabendazole	C10H7N3S	2.828		missing SMILES		
-0241_01098	Thiacloprid	C10H9ClN4S	4.0		missing SMILES		
+0241_01098	Thiacloprid	C10H9ClN4S	4		missing SMILES		
 0241_01106	Flonicamid	C9H6F3N3O	3.271		missing SMILES		
 0241_01109	Mesosulfuron-methyl	C17H21N5O9S2	4.608		missing SMILES		
 0241_01111	Pencycuron	C19H21ClN2O	6.108		missing SMILES		

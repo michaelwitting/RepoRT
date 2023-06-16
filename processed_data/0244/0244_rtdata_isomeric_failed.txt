@@ -357,7 +357,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0244_01062	Tribenuron methyl	C15H17N5O6S	4.665		missing SMILES		
 0244_01063	Oxasulfuron	C17H18N4O6S	3.974		missing SMILES		
 0244_01064	Propaquizafop	C22H22ClN3O5	6.014		missing SMILES		
-0244_01065	Prosulfocarb	C14H21NOS	6.0		missing SMILES		
+0244_01065	Prosulfocarb	C14H21NOS	6		missing SMILES		
 0244_01066	Rimsulfuron	C14H17N5O7S2	4.255		missing SMILES		
 0244_01067	Triasulfuron	C14H16ClN5O5S	4.213		missing SMILES		
 0244_01068	Silthiofam	C13H21NOSSi	5.42		missing SMILES		

@@ -245,7 +245,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0335_00920	2,3-Pyridinedicarboxylic acid	C7H5NO4	1.124		missing SMILES		
 0335_00922	DL-p-Hydroxyphenyllactic Acid	C9H10O4	2.857		missing SMILES		
 0335_00923	Acephate	C4H10NO3PS	2.599		missing SMILES		
-0335_00928	Cyproconazole	C15H18ClN3O	6.0		missing SMILES		
+0335_00928	Cyproconazole	C15H18ClN3O	6		missing SMILES		
 0335_00929	Diflufenican	C19H11F5N2O2	6.492		missing SMILES		
 0335_00937	Guthion	C10H12N3O3PS2	5.085		missing SMILES		
 0335_00940	Lenacil	C13H18N2O2	5.786		missing SMILES		

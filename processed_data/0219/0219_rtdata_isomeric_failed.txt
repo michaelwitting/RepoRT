@@ -300,6 +300,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0219_00330	Cyanidin-3,5-di-O-glucoside	C27H31O16+	2.5		missing SMILES		
 0219_00331	Indole-3-acetyl-L-valine	C15H18N2O3	5.61		missing SMILES		
 0219_00332	Malonyltryptophan	C14H14N2O5	4.35		missing SMILES		
+0219_00333	Prolylphenylalanine	C14H18N2O3	2.99		missing SMILES		
 0219_00334	ValylIsoleucine	C11H22N2O3	2.88		missing SMILES		
 0219_00335	Quercetin	C15H10O7	5.37		missing SMILES		
 0219_00336	Biochanin A	C16H12O5	7.63		missing SMILES		

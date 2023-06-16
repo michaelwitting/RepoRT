@@ -91,7 +91,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0354_00472	CYTIDINE MONOPHOSPHATE	C9H14N3O8P	0.594		missing SMILES		
 0354_00477	AICAR	C9H15N4O8P	0.628		missing SMILES		
 0354_00478	O-ACETYLCARNITINE	C9H17NO4	0.619		missing SMILES		
-0354_00479	N,N,N-TRIMETHYLLYSINE	C9H20N2O2	1.0		missing SMILES		
+0354_00479	N,N,N-TRIMETHYLLYSINE	C9H20N2O2	1		missing SMILES		
 0354_00568	INDOLE-3-ACETAMIDE	C10H10N2O	3.577		missing SMILES		
 0354_00569	FERULATE	C10H10O4	3.956		missing SMILES		
 0354_00570	INDOLE-3-ETHANOL	C10H11NO	4.075		missing SMILES		
@@ -154,7 +154,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0354_00823	QUINOLINE	C9H7N	5.311		missing SMILES		
 0354_00824	TRANS-CINNAMATE	C9H8O2	5.989		missing SMILES		
 0354_00831	N-(2-Methylbutyryl)glycine	C7H13NO3	3.098		missing SMILES		
-0354_00836	Indole-3-butyric acid	C12H13NO2	5.0		missing SMILES		
+0354_00836	Indole-3-butyric acid	C12H13NO2	5		missing SMILES		
 0354_00847	Tricarballylic acid	C6H8O6	1.079		missing SMILES		
 0354_00849	Indole-3-propionic acid	C11H11NO2	4.658		missing SMILES		
 0354_00850	DL-Vanillactic acid lithium salt hydrate	C10H12O5	3.208		missing SMILES		
@@ -225,7 +225,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0354_00981	Difenoconazole	C19H17Cl2N3O3	6.365		missing SMILES		
 0354_00983	Fenhexamid	C14H17Cl2NO2	5.932		missing SMILES		
 0354_00984	Foramsulfron	C17H20N6O7S	4.97		missing SMILES		
-0354_00985	Indoxacarb	C22H17ClF3N3O7	6.0		missing SMILES		
+0354_00985	Indoxacarb	C22H17ClF3N3O7	6		missing SMILES		
 0354_00987	Malaoxon	C10H19O7PS	4.924		missing SMILES		
 0354_00988	Malathion	C10H19O6PS2	5.781		missing SMILES		
 0354_00990	Mepanipyrim	C14H13N3	5.91		missing SMILES		

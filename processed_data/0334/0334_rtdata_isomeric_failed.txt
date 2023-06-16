@@ -252,7 +252,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0334_00989	Mecarbam	C10H20NO5PS2	6.521		missing SMILES		
 0334_00990	Mepanipyrim	C14H13N3	6.332		missing SMILES		
 0334_00991	Metalaxyl	C15H21NO4	6.056		missing SMILES		
-0334_00992	Metazachlor	C14H16ClN3O	6.0		missing SMILES		
+0334_00992	Metazachlor	C14H16ClN3O	6		missing SMILES		
 0334_00994	Molinate	C9H17NOS	6.235		missing SMILES		
 0334_00995	Oxadiazon	C15H18Cl2N2O3	6.632		missing SMILES		
 0334_00996	Oxadixyl	C14H18N2O4	5.879		missing SMILES		

@@ -36,6 +36,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0268_00042	Quinoxaline	C8H6N2	6.09		missing SMILES		
 0268_00043	Sebuthylazine	C9H18ClN5	11.25		missing SMILES		
 0268_00044	Simazine	C7H14ClN5	8.42		missing SMILES		
+0268_00045	Sudan I	C16H12N2O	16.454		missing SMILES		
 0268_00046	Sulfamethazine	C12H14N4O2S	4.74		missing SMILES		
 0268_00047	Theophylline	C7H8N4O2	3.343333333		missing SMILES		
 0268_00048	Trifluralin	C13H16F3N3O4	17.094		missing SMILES		

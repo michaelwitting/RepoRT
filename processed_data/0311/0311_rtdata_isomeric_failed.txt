@@ -225,7 +225,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0311_00984	Foramsulfron	C17H20N6O7S	3.81		missing SMILES		
 0311_01002	Picolinafen	C19H12F4N2O2	5.985		missing SMILES		
 0311_01007	Propyzamide	C12H11Cl2NO	5.072		missing SMILES		
-0311_01018	Triadimefon	C14H16ClN3O2	5.0		missing SMILES		
+0311_01018	Triadimefon	C14H16ClN3O2	5		missing SMILES		
 0311_01022	Amidosulfuron	C9H15N5O7S2	4.23		missing SMILES		
 0311_01025	Boscalid	C18H12Cl2N2O	5.047		missing SMILES		
 0311_01028	Chloridazon	C10H8ClN3O	3.226		missing SMILES		

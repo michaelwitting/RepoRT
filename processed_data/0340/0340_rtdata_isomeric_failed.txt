@@ -292,7 +292,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0340_01065	Prosulfocarb	C14H21NOS	6.541		missing SMILES		
 0340_01066	Rimsulfuron	C14H17N5O7S2	6.18		missing SMILES		
 0340_01067	Triasulfuron	C14H16ClN5O5S	5.934		missing SMILES		
-0340_01068	Silthiofam	C13H21NOSSi	6.0		missing SMILES		
+0340_01068	Silthiofam	C13H21NOSSi	6		missing SMILES		
 0340_01069	Thifensulfurson methyl	C12H13N5O6S2	5.934		missing SMILES		
 0340_01072	Alanycarb	C17H25N3O4S2	6.717		missing SMILES		
 0340_01074	Azoxystrobin	C22H17N3O5	6.537		missing SMILES		

@@ -271,7 +271,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0336_01025	Boscalid	C18H12Cl2N2O	6.064		missing SMILES		
 0336_01027	Carfentrazone-ethyl	C15H14Cl2F3N3O3	6.361		missing SMILES		
 0336_01028	Chloridazon	C10H8ClN3O	4.602		missing SMILES		
-0336_01029	Chlorsulfurson	C12H12ClN5O4S	6.0		missing SMILES		
+0336_01029	Chlorsulfurson	C12H12ClN5O4S	6		missing SMILES		
 0336_01030	Clofentezine	C14H8Cl2N4	6.644		missing SMILES		
 0336_01031	Cyazofamid	C13H13ClN4O2S	6.374		missing SMILES		
 0336_01033	Deet	C12H17NO	5.747		missing SMILES		
@@ -306,7 +306,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0336_01065	Prosulfocarb	C14H21NOS	6.537		missing SMILES		
 0336_01066	Rimsulfuron	C14H17N5O7S2	6.174		missing SMILES		
 0336_01067	Triasulfuron	C14H16ClN5O5S	5.933		missing SMILES		
-0336_01068	Silthiofam	C13H21NOSSi	6.0		missing SMILES		
+0336_01068	Silthiofam	C13H21NOSSi	6		missing SMILES		
 0336_01069	Thifensulfurson methyl	C12H13N5O6S2	5.933		missing SMILES		
 0336_01070	Teflubenzuron	C14H6Cl2F4N2O2	6.497		missing SMILES		
 0336_01071	Acetamiprid	C10H11ClN4	5.139		missing SMILES		

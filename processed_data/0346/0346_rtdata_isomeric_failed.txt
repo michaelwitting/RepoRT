@@ -338,7 +338,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0346_01133	Fenuron	C9H12N2O	3.355		missing SMILES		
 0346_01134	Flubendiamide	C23H22F7IN2O4S	5.51		missing SMILES		
 0346_01135	Forchlorfenuron	C12H10ClN3O	4.35		missing SMILES		
-0346_01136	Furalaxyl	C17H19NO4	5.0		missing SMILES		
+0346_01136	Furalaxyl	C17H19NO4	5		missing SMILES		
 0346_01137	Hexaflumuron	C16H8Cl2F6N2O3	5.747		missing SMILES		
 0346_01138	Hydramethylnon (Amdro)	C25H24F6N4	5.301		missing SMILES		
 0346_01141	Methoprotryne	C11H21N5OS	4.093		missing SMILES		

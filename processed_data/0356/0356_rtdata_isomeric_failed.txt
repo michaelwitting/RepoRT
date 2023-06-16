@@ -97,7 +97,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0356_00570	INDOLE-3-ETHANOL	C10H11NO	4.284		missing SMILES		
 0356_00571	TRYPTAMINE	C10H12N2	3.087		missing SMILES		
 0356_00573	SEROTONIN	C10H12N2O	2.267		missing SMILES		
-0356_00577	2-QUINOLINECARBOXYLATE	C10H7NO2	3.0		missing SMILES		
+0356_00577	2-QUINOLINECARBOXYLATE	C10H7NO2	3		missing SMILES		
 0356_00578	KYNURENATE	C10H7NO3	3.382		missing SMILES		
 0356_00579	XANTHURENATE	C10H7NO4	3.234		missing SMILES		
 0356_00582	L-TRYPTOPHANAMIDE	C11H13N3O	2.628		missing SMILES		
@@ -160,7 +160,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0356_00832	Disodium (2RS)-2-hydroxyadipate	C6H10O5	1.55		missing SMILES		
 0356_00836	Indole-3-butyric acid	C12H13NO2	5.108		missing SMILES		
 0356_00849	Indole-3-propionic acid	C11H11NO2	4.811		missing SMILES		
-0356_00851	γ-Aminobutyric acid	C4H9NO2	1.0		missing SMILES		
+0356_00851	γ-Aminobutyric acid	C4H9NO2	1		missing SMILES		
 0356_00856	3-Methylcrotonyl Glycine	C7H11NO3	3.183		missing SMILES		
 0356_00880	2,5-Furandicarboxylic acid	C6H4O5	2.258		missing SMILES		
 0356_00883	Hippuric acid	C9H9NO3	3.439		missing SMILES		
@@ -232,7 +232,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0356_01000	Mevinphos	C7H13O6P	4.428		missing SMILES		
 0356_01001	Phospamidon (Mix of isomers)	C10H19ClNO5P	4.706		missing SMILES		
 0356_01002	Picolinafen	C19H12F4N2O2	6.609		missing SMILES		
-0356_01003	Pirimicarb	C11H18N4O2	4.0		missing SMILES		
+0356_01003	Pirimicarb	C11H18N4O2	4		missing SMILES		
 0356_01004	Pirimiphos-methyl	C11H20N3O3PS	6.346		missing SMILES		
 0356_01005	Procymidone	C13H11Cl2NO2	6.265		missing SMILES		
 0356_01006	Profenofos	C11H15BrClO3PS	6.592		missing SMILES		

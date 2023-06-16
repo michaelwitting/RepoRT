@@ -1,5 +1,6 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0207_00001	Gallic acid	C7H6O5	3.05		missing SMILES		
+0207_00002	p-hydroxybenzoic acid	C7H6O3	11.7		missing SMILES		
 0207_00003	Catechin	C15H14O6	15.02		missing SMILES		
 0207_00004	Caffeic acid	C9H8O4	15.61		missing SMILES		
 0207_00005	Coumaric acid	C9H8O3	19.34		missing SMILES		
