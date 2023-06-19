@@ -96,4 +96,3 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0052_00134	Homovanillic acid	C11H12O7S	6.83		missing SMILES		
 0052_00135	(-)-Epicatechin	C9H10O4	6.84		missing SMILES		
 0052_00160	Dihydroresveratrol 3-O-glucuronide		9.84		missing SMILES		
-0052_00180	Hesperetin 7-sulfate	C16H14O9S	12.55		missing SMILES		

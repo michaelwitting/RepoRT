@@ -60,7 +60,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0045_00087	Brombuterol	C12H18Br2N2O	5.9		missing SMILES		
 0045_00088	Bromhexine	C14H20Br2N2	14.1		missing SMILES		
 0045_00089	Bromuconazole I	C13H12BrCl2N3O	10.63		missing SMILES		
-0045_00091	Buflomedil HCl	C17H25NO4	5		missing SMILES		
+0045_00091	Buflomedil HCl	C17H25NO4	5.0		missing SMILES		
 0045_00092	Bupirimate	C13H24N4O3S	11.25		missing SMILES		
 0045_00093	Buprofezin	C16H23N3OS	13.08		missing SMILES		
 0045_00094	Butralin	C14H21N3O4	13.53		missing SMILES		
@@ -207,7 +207,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0045_00278	Imazalil	C14H14Cl2N2O	9.14		missing SMILES		
 0045_00279	Imazamox	C15H19N3O4	3.21		missing SMILES		
 0045_00280	Imazaquin	C17H17N3O3	5.22		missing SMILES		
-0045_00281	Imibenconazole	C17H13Cl3N4S	13		missing SMILES		
+0045_00281	Imibenconazole	C17H13Cl3N4S	13.0		missing SMILES		
 0045_00282	Imidacloprid	C9H10ClN5O2	4.63		missing SMILES		
 0045_00283	Iprobenfos	C13H21O3PS	11.53		missing SMILES		
 0045_00284	Iprodione	C13H13Cl2N3O3	11.9		missing SMILES		
@@ -260,7 +260,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0045_00337	Metoxuron	C10H13ClN2O2	6.3		missing SMILES		
 0045_00338	Metribuzin	C8H14N4OS	7.06		missing SMILES		
 0045_00339	Metronidazole (MNZ)	C6H9N3O3	5.38		missing SMILES		
-0045_00340	Metsulfuron methyl	C14H15N5O6S	5		missing SMILES		
+0045_00340	Metsulfuron methyl	C14H15N5O6S	5.0		missing SMILES		
 0045_00342	Molinate	C8H15NOS	10.47		missing SMILES		
 0045_00345	Monolinuron	C9H11ClN2O2	8.07		missing SMILES		
 0045_00349	Myclobutanil	C15H17ClN4	10.64		missing SMILES		
@@ -321,7 +321,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0045_00417	Pretilachlor	C17H26ClNO2	12.53		missing SMILES		
 0045_00418	Primisulfuron-methyl	C15H12F4N4O7S	8.86		missing SMILES		
 0045_00419	Procaine	C13H20N2O2	2.19		missing SMILES		
-0045_00420	Prochloraz	C15H16Cl3N3O2	12		missing SMILES		
+0045_00420	Prochloraz	C15H16Cl3N3O2	12.0		missing SMILES		
 0045_00421	Profenofos	C11H15BrClO3PS	12.71		missing SMILES		
 0045_00422	Promecarb	C12H17NO2	10.3		missing SMILES		
 0045_00423	Promethazine	C17H20N2S	9.06		missing SMILES		
@@ -361,10 +361,10 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0045_00464	Simazine	C7H12ClN5	7.91		missing SMILES		
 0045_00465	Simetryn	C8H15N5S	8.78		missing SMILES		
 0045_00469	Spiroxamine	C18H35NO2	10.03		missing SMILES		
-0045_00471	Sulfabenzamide	C13H12N2O3S	3		missing SMILES		
+0045_00471	Sulfabenzamide	C13H12N2O3S	3.0		missing SMILES		
 0045_00472	Sulfacetamide	C8H10N2O3S	0.87		missing SMILES		
 0045_00473	Sulfadiazine	C10H10N4O2S	2.09		missing SMILES		
-0045_00474	Sulfadoxine	C12H14N4O4S	5		missing SMILES		
+0045_00474	Sulfadoxine	C12H14N4O4S	5.0		missing SMILES		
 0045_00475	Sulfamerazine	C11H12N4O2S	2.75		missing SMILES		
 0045_00476	Sulfameter	C11H12N4O3S	3.2		missing SMILES		
 0045_00477	Sulfamethazine	C12H14N4O2S	3.59		missing SMILES		
@@ -407,7 +407,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0045_00518	Ticlopidine	C14H14ClNS	12.11		missing SMILES		
 0045_00520	Tolbutamide	C12H18N2O3S	8.33		missing SMILES		
 0045_00521	Tolclofos-methyl	C9H11Cl2O3PS	12.14		missing SMILES		
-0045_00522	Tolfenamic acid	C14H12ClNO2	11		missing SMILES		
+0045_00522	Tolfenamic acid	C14H12ClNO2	11.0		missing SMILES		
 0045_00523	Tolyfluanid	C10H13Cl2FN2O2S2	12.37		missing SMILES		
 0045_00524	Triadimefon	C14H16ClN3O2	10.56		missing SMILES		
 0045_00525	Triadimenol	C14H18ClN3O2	11.35		missing SMILES		
@@ -428,14 +428,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0045_00546	Vernolat	C10H21NOS	12.15		missing SMILES		
 0045_00548	Xylazine	C12H16N2S	4.92		missing SMILES		
 0045_00551	1.4-Androstadiene-3.17-dione (Boldione)	C19H24O2	9.82		missing SMILES		
-0045_00562	Acetaminophen	C10H9NO3	2.4		missing SMILES		
 0045_00666	Benzoximate	C18H18ClNO5	12.06		missing SMILES		
 0045_00781	Chlortetracyclin		6.11		missing SMILES		
-0045_00845	Doxycycline	C22H24N2O8	7.42		missing SMILES		
 0045_00872	Chlortetracyclin		6.11		missing SMILES		
-0045_00944	Doxycycline	C22H24N2O8	7.42		missing SMILES		
-0045_01050	Oxytetracycline	C22H24N2O9	3.94		missing SMILES		
-0045_01165	Tetracycline	C22H24N2O8	4.37		missing SMILES		
-0045_01273	Oxytetracycline	C22H24N2O9	3.94		missing SMILES		
-0045_01388	Tetracycline	C22H24N2O8	4.37		missing SMILES		
-0045_01619	Hexazinone	C12H20N4O2	7.56		missing SMILES		
