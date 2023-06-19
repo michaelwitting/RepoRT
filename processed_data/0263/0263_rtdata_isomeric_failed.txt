@@ -176,7 +176,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0263_00243	Fuberidazole	C11H8N2O	11.085548		missing SMILES		
 0263_00244	Hexaconazole	C14H17Cl2N3O	16.247395		missing SMILES		
 0263_00245	Ipconazole (Isomer 1)	C18H24ClN3O	16.780998		missing SMILES		
-0263_00246	Ipconazole (Isomer 2)	C18H24ClN3O	16.780998		missing SMILES		
 0263_00247	Metconazole	C17H22ClN3O	16.236281		missing SMILES		
 0263_00248	Nuarimol	C17H12ClFN2O	14.279711		missing SMILES		
 0263_00249	Tebuconazole	C16H22ClN3O	15.913764		missing SMILES		
@@ -207,7 +206,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0263_00285	Sulfentrazone	C11H10Cl2F2N4O3S	11.35328		missing SMILES		
 0263_00286	Metribuzin-diketo	C7H12N4O2	9.8142586		missing SMILES		
 0263_00287	Methyl 2-(aminosulfonyl)benzoate	C8H9NO4S	8.0998795		missing SMILES		
-0263_00288	N-(2,4-Dimethylphenyl)-N-methyl-formamidine	C10H14N2	12.053674000000001		missing SMILES		
+0263_00288	N-(2,4-Dimethylphenyl)-N-methyl-formamidine	C10H14N2	12.053674		missing SMILES		
 0263_00289	Isoxadifen-ethyl	C18H17NO3	15.735752		missing SMILES		
 0263_00290	Tribenuron-methyl	C15H17N5O6S	9.4005986		missing SMILES		
 0263_00293	Methsuximide	C12H13NO2	11.364397		missing SMILES		
@@ -249,7 +248,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0263_00344	N-(4-Aminophenyl)-N-methyl-acetamid	C9H12N2O	7.2439641		missing SMILES		
 0263_00345	Doxazosin	C23H25N5O5	13.977129		missing SMILES		
 0263_00350	Rimantadin	C12H21N	13.943769		missing SMILES		
-0263_00351	Zonisamide	C8H8N2O3S	8.0109552999999991		missing SMILES		
+0263_00351	Zonisamide	C8H8N2O3S	8.0109553		missing SMILES		
 0263_00353	Atenolol-desisopropyl	C11H16N2O3	5.6070968		missing SMILES		
 0263_00357	Dopamine	C8H11NO2	6.9188325		missing SMILES		
 0263_00359	D617	C17H26N2O2	12.442886		missing SMILES		
@@ -534,16 +533,13 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0263_00784	Fuberidazole	C11H8N2O	11.081747		missing SMILES		
 0263_00785	Hexaconazole	C14H17Cl2N3O	16.230978		missing SMILES		
 0263_00786	Ipconazole (Isomer 1)	C18H24ClN3O	16.764826		missing SMILES		
-0263_00787	Ipconazole (Isomer 2)	C18H24ClN3O	16.764826		missing SMILES		
 0263_00788	Metconazole	C17H22ClN3O	16.242092		missing SMILES		
 0263_00789	Nuarimol	C17H12ClFN2O	14.272662		missing SMILES		
 0263_00790	Penconazole	C13H15Cl2N3	15.886269		missing SMILES		
 0263_00791	Propiconazole (Isomer 1)	C15H17Cl2N3O2	16.142012		missing SMILES		
-0263_00792	Propiconazole (Isomer 2)	C15H17Cl2N3O2	16.142012		missing SMILES		
 0263_00793	Tebuconazole	C16H22ClN3O	15.9085		missing SMILES		
 0263_00794	Tetraconazole	C13H11Cl2F4N3O	15.295533		missing SMILES		
 0263_00795	Triadimenol (Diastereoisomer A)	C14H18ClN3O2	15.03976		missing SMILES		
-0263_00796	Triadimenol (Diastereoisomer B)	C14H18ClN3O2	15.03976		missing SMILES		
 0263_00799	Ethirimol	C11H19N3O	13.466069		missing SMILES		
 0263_00800	Flutriafol	C16H13F2N3O	13.209767		missing SMILES		
 0263_00801	Paclubutrazole	C15H20ClN3O	14.639519		missing SMILES		
@@ -894,7 +890,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0263_01193	Isoproturon	C12H18N2O	13.278128		missing SMILES		
 0263_01195	Ofloxacin	C18H20FN3O4	9.6034489		missing SMILES		
 0263_01196	Atenolol	C14H22N2O3	8.557245		missing SMILES		
-0263_01197	Gemfibrozil	C15H22O3	14.540489000000001		missing SMILES		
+0263_01197	Gemfibrozil	C15H22O3	14.540489		missing SMILES		
 0263_01198	Diazinon	C12H21N2O3PS	16.044946		missing SMILES		
 0263_01199	Furosemide	C12H11ClN2O5S	9.4823996		missing SMILES		
 0263_01200	Chlorotoluron	C10H13ClN2O	12.750704		missing SMILES		
