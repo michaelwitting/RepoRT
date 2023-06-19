@@ -1075,7 +1075,7 @@ id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	
 0382_01076	Iprovalicarb	C18H28N2O3	9.82	178565	CC1=CC=C(C=C1)[C@H](C)NC(=O)C(C(C)C)NC(=O)OC(C)C	CC1=CC=C(C=C1)C(C)NC(=O)C(C(C)C)NC(=O)OC(C)C							
 0382_01077	Irbesartan	C25H28N6O	9.44	3749		CCCCC1=NC2(CCCC2)C(=O)N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5							
 0382_01078	Irgarol	C11H19N5S	10.49	91590		CC(C)(C)NC1=NC(=NC(=N1)NC2CC2)SC							
-0382_01079	Irgarol-descyclopropyl	C8H15N5S	8.43	13019211		CC(C)(C)NC1=NC(=NC(=N1)N)SC							
+0382_01079	Irgarol-descyclopropyl	C8H15N5S	8.43	13019211		CC(C)(C)NC1=NC(=NC(=N1)N)SC							potential duplicate
 0382_01080	Isazophos	C9H17ClN3O3PS	9.87	39223		CCOP(=S)(OCC)OC1=NN(C(=N1)Cl)C(C)C							
 0382_01081	Isoaminile	C16H24N2	5.96	6481		CC(C)C(CC(C)N(C)C)(C#N)C1=CC=CC=C1							
 0382_01082	Isocarbamid (Azolamide)	C8H15N3O2	5.74	35699		CC(C)CNC(=O)N1CCNC1=O							
@@ -1202,7 +1202,7 @@ id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	
 0382_01203	Lufenuron	C17H8Cl2F8N2O3	12.48	71777		C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C=C2Cl)OC(C(C(F)(F)F)F)(F)F)Cl)F							
 0382_01204	Lycopsamine	C15H25NO5	3.65	107938	C[C@@H]([C@@](C(C)C)(C(=O)OCC1=CCN2[C@H]1[C@@H](CC2)O)O)O	CC(C)C(C(C)O)(C(=O)OCC1=CCN2C1C(CC2)O)O							
 0382_01205	Lycopsamine-N-oxide	C15H25NO6	3.94	340067	C[C@@H]([C@@](C(C)C)(C(=O)OCC1=CC[N+]2([C@H]1[C@@H](CC2)O)[O-])O)O	CC(C)C(C(C)O)(C(=O)OCC1=CC[N+]2(C1C(CC2)O)[O-])O							
-0382_01206	M1 (Irgarol-descyclopropyl)	C8H15N5S	8.43	13019211		CC(C)(C)NC1=NC(=NC(=N1)N)SC							
+0382_01206	M1 (Irgarol-descyclopropyl)	C8H15N5S	8.43	13019211		CC(C)(C)NC1=NC(=NC(=N1)N)SC							potential duplicate
 0382_01207	M-144	C9H11NO2	12.9	16235		CC(C1=CC=CC=C1)(C(=O)N)O							
 0382_01208	MAB-CHMINACA	C21H30N4O2	11.82	77565944		CC(C)(C)C(C(=O)N)NC(=O)C1=NN(C2=CC=CC=C21)CC3CCCCC3							
 0382_01209	Mabuterol	C13H18ClF3N2O	5.28	3995		CC(C)(C)NCC(C1=CC(=C(C(=C1)Cl)N)C(F)(F)F)O							
