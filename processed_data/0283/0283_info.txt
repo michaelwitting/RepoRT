@@ -1,2 +1,2 @@
 id	name	method.type	source	url	pmid	authors	missing information	comment
-0283	Kruve Lab_18	HILIC	Publication - Souihi	https://doi.org/10.1016/j.chroma.2022.462884		A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve		
+0283	Kruve Lab_18	HILIC	Publication - Souihi	https://doi.org/10.1016/j.chroma.2022.462867		A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve		
