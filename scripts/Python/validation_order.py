@@ -164,7 +164,7 @@ class Detector():
 
     def get_all_series_unreasonable_flips(self, criterion, dataset_query):
         # get corresponding cluster
-        print('INFO: looking for dataset clusters of systematic measurements with query', dataset_query)
+        print(f'INFO: looking for dataset clusters of systematic measurements ({criterion}) with query', dataset_query)
         clusters = self.get_series_clusters(criterion, dataset_query)
         if len(clusters) == 0:
             print('INFO: no clusters found')
