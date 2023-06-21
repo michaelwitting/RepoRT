@@ -38,7 +38,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0253_00304	DTDP-D-GLUCOSE	C16H26N2O16P2	0.819		missing SMILES		
 0253_00320	CYSTEATE	C3H7NO5S	0.628		missing SMILES		
 0253_00336	OXOPROLINE	C5H7NO3	0.819		missing SMILES		
-0253_00337	PYROGLUTAMATE	C5H7NO3	0.819		missing SMILES		
 0253_00341	N-ACETYLASPARAGINE	C6H10N2O4	0.677		missing SMILES		
 0253_00342	3-HYDROXYMETHYLGLUTARATE	C6H10O5	0.863		missing SMILES		
 0253_00343	GLUCURONATE	C6H10O7	0.628		missing SMILES		
@@ -59,7 +58,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0253_00392	THYMIDINE-MONOPHOSPHATE	C10H15N2O8P	0.842		missing SMILES		
 0253_00401	S-ADENOSYLHOMOCYSTEINE	C14H20N6O5S	0.678		missing SMILES		
 0253_00403	URIDINE DIPHOSPHATE GLUCOSE	C15H24N2O17P2	0.816		missing SMILES		
-0253_00404	URIDINE DIPHOSPHATE GLUCOSE	C15H24N2O17P2	0.816		missing SMILES		
 0253_00405	URIDINE DIPHOSPHATEGALACTOSE	C15H24N2O17P2	0.816		missing SMILES		
 0253_00406	ADP-GLUCOSE	C16H25N5O15P2	0.678		missing SMILES		
 0253_00408	S-HEXYL-GLUTATHIONE	C16H29N3O6S	3.559		missing SMILES		
@@ -183,7 +181,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0253_00860	DL-4-Hydroxy-3-methoxymandelic acid	C9H10O5	1.383		missing SMILES		
 0253_00861	3-Hydroxy Sebacic Acid	C10H18O5	3.119		missing SMILES		
 0253_00865	α-Keto Isovaleric Acid Sodium Salt	C5H8O3	1.545		missing SMILES		
-0253_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.608		missing SMILES		
 0253_00870	4-Hydroxyphenylacetic acid	C8H8O3	2.832		missing SMILES		
 0253_00872	4-Pyridoxolactone	C8H7NO3	0.843		missing SMILES		
 0253_00874	Xanthurenic acid	C10H7NO4	2.416		missing SMILES		
@@ -202,7 +199,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0253_00906	Phenylpyruvic acid	C9H8O3	2.525		missing SMILES		
 0253_00918	4,6-Dioxoheptanoic acid	C7H10O4	2.46		missing SMILES		
 0253_00923	Acephate	C4H10NO3PS	1.616		missing SMILES		
-0253_00929	Diflufenican	C19H11F5N2O2	6		missing SMILES		
+0253_00929	Diflufenican	C19H11F5N2O2	6.0		missing SMILES		
 0253_00940	Lenacil	C13H18N2O2	4.193		missing SMILES		
 0253_00959	Diniconazole	C15H17Cl2N3O	5.553		missing SMILES		
 0253_00961	Epoxiconazol	C17H13ClFN3O	5.553		missing SMILES		

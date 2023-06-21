@@ -1,3 +1,0 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0190_0535	SORBOSE	C6H12O6	1.083333333		missing SMILES		
-0190_0578	ROSMARINATE	C18H16O8	6.896666667		missing SMILES		

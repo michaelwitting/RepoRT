@@ -107,7 +107,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0009_00247	2,2',2''-Nitrilotriethanol	C6H15NO3	0.17		missing SMILES		
 0009_00258	malvidin-3-galactoside chloride	C23H25O12+	1.28		missing SMILES		
 0009_00259	Malvin chloride	C29H35O17+	1.15		missing SMILES		
-0009_00260	Oenin	C23h25o12+	1.29		missing SMILES		
 0009_00262	Datiscin	C27H30O15	1.4		missing SMILES		
 0009_00263	4-deoxyphloridzin	C21H24O9	1.5		missing SMILES		
 0009_00279	Hinokitiol	C10H12O2	1.49		missing SMILES		

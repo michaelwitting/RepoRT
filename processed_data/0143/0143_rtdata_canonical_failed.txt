@@ -1,2 +1,0 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0143_00031	GLYCERALDEHYDE 3-PHOSPHATE DIETHYL ACETAL		7.38		missing SMILES		

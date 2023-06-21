@@ -95,7 +95,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0316_00578	KYNURENATE	C10H7NO3	2.346		missing SMILES		
 0316_00579	XANTHURENATE	C10H7NO4	2.149		missing SMILES		
 0316_00582	L-TRYPTOPHANAMIDE	C11H13N3O	1.788		missing SMILES		
-0316_00583	N-ACETYLPHENYLALANINE	C11H13NO3			missing SMILES		
 0316_00584	N-METHYLTRYPTAMINE	C11H14N2	2.542		missing SMILES		
 0316_00586	LUMICHROME	C12H10N4O2	3.264		missing SMILES		
 0316_00587	MELATONIN	C13H16N2O2	3.313		missing SMILES		
@@ -154,7 +153,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0316_00849	Indole-3-propionic acid	C11H11NO2	3.702		missing SMILES		
 0316_00851	γ-Aminobutyric acid	C4H9NO2	0.566		missing SMILES		
 0316_00856	3-Methylcrotonyl Glycine	C7H11NO3	2.288		missing SMILES		
-0316_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.563		missing SMILES		
 0316_00872	4-Pyridoxolactone	C8H7NO3	0.792		missing SMILES		
 0316_00880	2,5-Furandicarboxylic acid	C6H4O5	1.077		missing SMILES		
 0316_00883	Hippuric acid	C9H9NO3	2.602		missing SMILES		

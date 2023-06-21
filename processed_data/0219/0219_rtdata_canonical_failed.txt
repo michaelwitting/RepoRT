@@ -1,2 +1,0 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0219_00333	Prolylphenylalanine	C14H18N2O3	2.99	1CC(NC1)C(=O)NC(CC2=CC=CC=C2)C(=O)O	The standardization request failed. The response contains the following ""PCT-Status"" tag: <PCT-Status value=""data-error""/>		

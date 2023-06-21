@@ -1,5 +1,3 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0052_00056	Dihydroresveratrol 3-O-glucuronide		9.84		missing SMILES		
-0052_00076	Hesperetin 7-sulfate		12.55		missing SMILES		
 0052_00160	Dihydroresveratrol 3-O-glucuronide		9.84		missing SMILES		
-0052_00180	Hesperetin 7-sulfate		12.55		missing SMILES		

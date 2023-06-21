@@ -1,3 +1,0 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0274_00049	Monocrotophos		5.39		missing SMILES		
-0274_00066	Sudan I		17.2		missing SMILES		

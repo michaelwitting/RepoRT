@@ -1,3 +1,0 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0007_00121	S-Methyl-ergothioneine		7.9		missing SMILES		
-0007_00134	Trimethyl-phenylalanine		5.4		missing SMILES		

@@ -1,2 +1,0 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0001_00052	methylpyrano malvidin 3-glucoside		19.74327586		missing SMILES		

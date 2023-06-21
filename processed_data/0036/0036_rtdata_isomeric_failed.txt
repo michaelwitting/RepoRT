@@ -16,11 +16,11 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0036_00018	(-)-Epicatechin	C15H14O6	16.8		missing SMILES		
 0036_00029	Sinapic acid	C11H12O5	23.3		missing SMILES		
 0036_00032	Ellagic acid	C14H6O8	24.8		missing SMILES		
-0036_00034	Malvidin-3-O-galactoside		25		missing SMILES		
-0036_00035	Delphinidin		25.1		missing SMILES		
+0036_00034	Malvidin-3-O-galactoside	C23H24O12	25		missing SMILES		
+0036_00035	Delphinidin	C15H10O7	25.1		missing SMILES		
 0036_00036	Rutin	C27H30O16	25.2		missing SMILES		
 0036_00038	o-Coumaric acid	C9H8O3	25.9		missing SMILES		
-0036_00039	Malvidin-3-O-glucoside		26		missing SMILES		
+0036_00039	Malvidin-3-O-glucoside	C23H24O12	26		missing SMILES		
 0036_00041	Quercetin-3-O-glucuronide	C21H18O13	26.2		missing SMILES		
 0036_00042	Cyanidin	C15H11O6+	29.1		missing SMILES		
 0036_00044	Myricetin	C15H10O8	30.2		missing SMILES		

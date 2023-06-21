@@ -22,7 +22,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0291_00028	Metazachlor	C14H16ClN3O	13.10375		missing SMILES		
 0291_00029	Metolachlor	C15H22ClNO2	15.725		missing SMILES		
 0291_00030	Metsulfuron-methyl	C14H25N5O6S	8.368571429		missing SMILES		
-0291_00031	Monocrotophos		6.69		missing SMILES		
 0291_00032	Nicotinamide	C6H6N2O	2.86		missing SMILES		
 0291_00033	Norethindrone	C20H26O2	14.515		missing SMILES		
 0291_00034	O-Desmethylvenlafaxine	C16H25NO2	8.5025		missing SMILES		

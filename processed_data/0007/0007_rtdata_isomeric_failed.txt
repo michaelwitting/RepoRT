@@ -62,7 +62,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0007_00117	Quinolinic acid	C7H5NO4	12.7		missing SMILES		
 0007_00118	S-adenosyl-cysteine	C13H18N6O5S	10.6		missing SMILES		
 0007_00120	S-Adenosyl-methionine	C15H23N6O5S+	14.2		missing SMILES		
-0007_00121	S-Methyl-ergothioneine		7.9		missing SMILES		
+0007_00121	S-Methyl-ergothioneine	C10H17N3O2S	7.9		missing SMILES		
 0007_00122	Saccharopine	C11H20N2O6	13.3		missing SMILES		
 0007_00125	Serine	C3H7NO3	13.1		missing SMILES		
 0007_00126	Succinate	C4H6O4	12.6		missing SMILES		
@@ -71,7 +71,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0007_00129	Threonine	C4H9NO3	11.7		missing SMILES		
 0007_00130	Trehalose	C12H22O11	13.6		missing SMILES		
 0007_00133	Trimethyl-lysine	C9H20N2O2	20.7		missing SMILES		
-0007_00134	Trimethyl-phenylalanine		5.4		missing SMILES		
+0007_00134	Trimethyl-phenylalanine	C11H15NO2	5.4		missing SMILES		
 0007_00135	Trimethyl-tryptophan (hypaphorine)	C15H18N2O2	6		missing SMILES		
 0007_00143	Uracil	C4H4N2O2	7.2		missing SMILES		
 0007_00144	Urate	C5H4N4O3	10.7		missing SMILES		

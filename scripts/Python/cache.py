@@ -87,6 +87,9 @@ def cache_data(files):
                             cache['classyfire'].setdefault(inchikey, {})[c] = value
                     except Exception as e:
                         print(f'WARNING: classyfire data from {f} will not be cached', e)
+            elif ('_fingerprints_' in f):
+                # not worth caching
+                continue
             else:
                  print(f'WARNING: data from {f} will not be cached')
                  continue

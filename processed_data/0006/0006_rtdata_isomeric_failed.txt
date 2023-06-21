@@ -1,5 +1,5 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0006_00001	cyanidin-(coumaroyl)-3-O glucoside, trans isomer		27.58450808		missing SMILES		
+0006_00001	cyanidin-(coumaroyl)-3-O glucoside, trans isomer	C30H26O13	27.58450808		missing SMILES		
 0006_00002	delfinidin-(coumaroyl)-3-O glucoside, cis isomer		22.9960399		missing SMILES		
 0006_00003	delphinidin-(acetyl)-3-O-glucoside		19.38963261		missing SMILES		
 0006_00004	delphinidin-(coumaroyl)-3-O glucoside, trans isomer		25.2991509		missing SMILES		
@@ -7,11 +7,11 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0006_00006	malvidin-(coumaroyl)-3-O-glucoside, cis isomer		29.06512376		missing SMILES		
 0006_00007	malvidin-(coumaroyl)-3-O-glucoside, trans isomer		31.95577771		missing SMILES		
 0006_00008	peonidin-(acetyl)-3-O-glucoside		24.81813922		missing SMILES		
-0006_00009	peonidin-(coumaroyl)-3-O-glucoside, cis isomer		28.62227494		missing SMILES		
-0006_00010	peonidin-(coumaroyl)-3-O-glucoside, trans isomer		31.27734035		missing SMILES		
+0006_00009	peonidin-(coumaroyl)-3-O-glucoside, cis isomer	C31H28O13	28.62227494		missing SMILES		
+0006_00010	peonidin-(coumaroyl)-3-O-glucoside, trans isomer	C31H28O13	31.27734035		missing SMILES		
 0006_00011	petunidin-(coumaroyl)-3-O-glucoside, cis isomer		26.93317316		missing SMILES		
 0006_00012	petunidin-(coumaroyl)-3-O-glucoside, trans isomer		28.54420887		missing SMILES		
-0006_00015	malvidin-3-O-glucoside		18.02641852		missing SMILES		
+0006_00015	malvidin-3-O-glucoside	C23H24O12	18.02641852		missing SMILES		
 0006_00019	quercetin glucuronide	C21H18O13	19.97202434		missing SMILES		
 0006_00020	gluconic acid	C6H12O7	2.373776772		missing SMILES		
 0006_00021	citric acid	C6H8O7	3.039115341		missing SMILES		

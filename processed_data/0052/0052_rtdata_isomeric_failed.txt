@@ -45,7 +45,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0052_00069	Rosmarinic acid	C18H16O8	11.46		missing SMILES		
 0052_00073	Hesperetin-7-O-glucuronide	C21H22O12	11.85		missing SMILES		
 0052_00074	(+)-Lariciresinol	C20H24O6	12.05		missing SMILES		
-0052_00076	Hesperetin 7-sulfate		12.55		missing SMILES		
+0052_00076	Hesperetin 7-sulfate	C16H14O9S	12.55		missing SMILES		
 0052_00077	Quercetin 3-O-sulfate	C15H10O10S	12.57		missing SMILES		
 0052_00078	Urolithin B-3-sulfate	C13H8O6S	12.67		missing SMILES		
 0052_00079	Isourolithin  A	C13H8O4	12.73		missing SMILES		
@@ -95,51 +95,4 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0052_00133	5-(3?,4?-dihydroxyphenyl)-gamma-valerolactone-3?-O-sulfate	C7H6O4	6.5		missing SMILES		
 0052_00134	Homovanillic acid	C11H12O7S	6.83		missing SMILES		
 0052_00135	(-)-Epicatechin	C9H10O4	6.84		missing SMILES		
-0052_00139	Phloretic acid	C9H10O3	7.93		missing SMILES		
-0052_00141	Vanillin	C8H8O3	8.04		missing SMILES		
-0052_00143	Urolithin  D	C13H8O6	8.24		missing SMILES		
-0052_00146	Rutin	C27H30O16	8.79		missing SMILES		
-0052_00149	Ellagic acid	C14H6O8	8.97		missing SMILES		
-0052_00153	Epicatechin gallate	C22H18O10	9.33		missing SMILES		
-0052_00154	Veratric acid	C9H10O4	9.51		missing SMILES		
-0052_00156	Urolithin M6	C13H8O6	9.62		missing SMILES		
-0052_00157	Urolithin A-3-sulfate	C13H8O7S	9.67		missing SMILES		
-0052_00158	Procyanidin A2	C30H24O12	9.7		missing SMILES		
-0052_00159	Sinapic acid	C11H12O5	9.78		missing SMILES		
 0052_00160	Dihydroresveratrol 3-O-glucuronide		9.84		missing SMILES		
-0052_00161	Daidzein sulfate	C15H10O7S	9.85		missing SMILES		
-0052_00164	Urolithin C	C13H8O5	10.31		missing SMILES		
-0052_00165	Kaempferol-3-O-glucuronide	C21H18O12	10.48		missing SMILES		
-0052_00166	Naringin	C27H32O14	10.57		missing SMILES		
-0052_00167	5-(3?-hydroxyphenyl)-gamma-valerolactone	C11H12O3	10.57		missing SMILES		
-0052_00169	Apigenin 7-O-glucoside	C21H20O10	10.73		missing SMILES		
-0052_00172	Urolithin M7	C13H8O5	11.18		missing SMILES		
-0052_00173	Rosmarinic acid	C18H16O8	11.46		missing SMILES		
-0052_00177	Hesperetin-7-O-glucuronide	C21H22O12	11.85		missing SMILES		
-0052_00178	(+)-Lariciresinol	C20H24O6	12.05		missing SMILES		
-0052_00180	Hesperetin 7-sulfate		12.55		missing SMILES		
-0052_00181	Quercetin 3-O-sulfate	C15H10O10S	12.57		missing SMILES		
-0052_00182	Urolithin B-3-sulfate	C13H8O6S	12.67		missing SMILES		
-0052_00183	Isourolithin  A	C13H8O4	12.73		missing SMILES		
-0052_00184	Dihydroresveratrol	C14H14O3	12.78		missing SMILES		
-0052_00185	Quercetin 4-O-sulfate	C15H10O10S	12.94		missing SMILES		
-0052_00186	Daidzein	C15H10O4	12.95		missing SMILES		
-0052_00187	Urolithin A	C13H8O4	13.11		missing SMILES		
-0052_00188	Hesperetin 3'-O-sulfate	C16H14O9S	13.35		missing SMILES		
-0052_00190	Eriodictyol	C15H12O6	13.7		missing SMILES		
-0052_00191	Bergaptol	C11H6O4	13.87		missing SMILES		
-0052_00192	Quercetin	C15H10O7	14.1		missing SMILES		
-0052_00193	Kaempferol	C15H10O6	14.11		missing SMILES		
-0052_00194	Resveratrol	C14H12O3	14.74		missing SMILES		
-0052_00195	Apigenin	C15H10O5	16.32		missing SMILES		
-0052_00196	Naringenin	C15H12O5	16.34		missing SMILES		
-0052_00197	Genistein	C15H10O5	16.53		missing SMILES		
-0052_00198	Phloretin	C15H14O5	16.68		missing SMILES		
-0052_00199	Luteolin	C15H10O6	17.11		missing SMILES		
-0052_00200	Hesperetin	C16H14O6	17.38		missing SMILES		
-0052_00202	Isorhamnetin	C16H12O7	17.56		missing SMILES		
-0052_00203	lucidin	C15H10O5	18.58		missing SMILES		
-0052_00204	Urolithin B	C13H8O3	18.81		missing SMILES		
-0052_00205	Chrysin	C15H10O4	22.19		missing SMILES		
-0052_00206	Tangeretin	C20H20O7	22.77		missing SMILES		
-0052_00208	Rubiadin	C15H10O4	23.75		missing SMILES		

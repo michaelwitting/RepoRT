@@ -1,2 +1,0 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0058_00023	Tryptophol-2-sulfonate		4.73		missing SMILES		

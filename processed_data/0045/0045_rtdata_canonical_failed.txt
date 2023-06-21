@@ -1,14 +1,4 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0045_00121	Chlortetracyclin		6.11		missing SMILES		
-0045_00193	Doxycycline		7.42		missing SMILES		
-0045_00389	Oxytetracycline		3.94		missing SMILES		
-0045_00504	Tetracycline		4.37		missing SMILES		
 0045_00781	Chlortetracyclin		6.11		missing SMILES		
-0045_00845	Doxycycline		7.42		missing SMILES		
 0045_00872	Chlortetracyclin		6.11		missing SMILES		
-0045_00944	Doxycycline		7.42		missing SMILES		
-0045_01050	Oxytetracycline		3.94		missing SMILES		
-0045_01165	Tetracycline		4.37		missing SMILES		
-0045_01273	Oxytetracycline		3.94		missing SMILES		
-0045_01388	Tetracycline		4.37		missing SMILES		
-0045_01619	Hexazinone		7.56		missing SMILES		

@@ -1,4 +1,0 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0185_00072	ANILINE-2-SULFONATE	C6H7NO3S	5.89		missing SMILES		
-0185_00107	CYCLIC AMP	C10H12N5O6P	7.27		missing SMILES		
-0185_00108	CYCLIC AMP	C10H12N5O6P	7.29		missing SMILES		

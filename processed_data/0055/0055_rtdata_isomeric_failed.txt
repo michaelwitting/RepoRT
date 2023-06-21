@@ -12,10 +12,10 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0055_00013	dihydroxymandelic acid	C8H8O5	0.828833333		missing SMILES		
 0055_00015	iberin	C5H9NOS2	3.241816667		missing SMILES		
 0055_00018	levulinic acid	C5H8O3	1.46105		missing SMILES		
-0055_00019	pc(18:0/22:6)		5.5145		missing SMILES		
+0055_00019	pc(18:0/22:6)	C48H84NO8P	5.5145		missing SMILES		
 0055_00022	theobromine	C7H8N4O2	2.1422		missing SMILES		
 0055_00023	TMAO	C3H9NO	0.467933333		missing SMILES		
-0055_00024	octanoic acid glucuronide		3.920966667		missing SMILES		
+0055_00024	octanoic acid glucuronide	C14H24O8	3.920966667		missing SMILES		
 0055_00025	1-methyluric acid	C6H6N4O3	1.270566667		missing SMILES		
 0055_00026	7-methyluric acid	C6H6N4O3	1.07905		missing SMILES		
 0055_00028	7-methylxanthine	C6H6N4O2	1.254383333		missing SMILES		
@@ -47,7 +47,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0055_00073	dl-3-indolelactic acid	C11H11NO3	3.521083333		missing SMILES		
 0055_00074	dopamine	C8H11NO2	0.711891667		missing SMILES		
 0055_00076	g-h1 ((2s)-2-amino-5-(4-oxo-4,5-dihydro-1h-imidazol-2-ylamino)-pentanoic acid)	C8H14N4O3	0.458516667		missing SMILES		
-0055_00077	GALA ((2s)-2-amino-6-(2-hydroxy-acetylamino)-hexanoic acid)		0.5271		missing SMILES		
+0055_00077	GALA ((2s)-2-amino-6-(2-hydroxy-acetylamino)-hexanoic acid)	C8H16N2O4	0.5271		missing SMILES		
 0055_00078	gamma-aminobutyric acid	C4H9NO2	0.491183333		missing SMILES		
 0055_00079	glutamic acid	C5H9NO4	0.475266667		missing SMILES		
 0055_00084	guanosine	C10H13N5O5	1.182033333		missing SMILES		

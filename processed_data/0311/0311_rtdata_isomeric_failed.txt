@@ -71,7 +71,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0311_00390	DEOXYGUANOSINE	C10H13N5O4	0.746		missing SMILES		
 0311_00391	GUANOSINE MONOPHOSPHATE	C10H14N5O8P	0.582		missing SMILES		
 0311_00403	URIDINE DIPHOSPHATE GLUCOSE	C15H24N2O17P2	0.56		missing SMILES		
-0311_00404	URIDINE DIPHOSPHATE GLUCOSE	C15H24N2O17P2	0.56		missing SMILES		
 0311_00405	URIDINE DIPHOSPHATEGALACTOSE	C15H24N2O17P2	0.56		missing SMILES		
 0311_00406	ADP-GLUCOSE	C16H25N5O15P2	0.56		missing SMILES		
 0311_00408	S-HEXYL-GLUTATHIONE	C16H29N3O6S	3.344		missing SMILES		
@@ -184,7 +183,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0311_00859	3-Hydroxysuberic Acid	C8H14O5	2.276		missing SMILES		
 0311_00860	DL-4-Hydroxy-3-methoxymandelic acid	C9H10O5	1.219		missing SMILES		
 0311_00861	3-Hydroxy Sebacic Acid	C10H18O5	2.954		missing SMILES		
-0311_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.556		missing SMILES		
 0311_00870	4-Hydroxyphenylacetic acid	C8H8O3	2.665		missing SMILES		
 0311_00871	Allantoin	C4H6N4O3	0.582		missing SMILES		
 0311_00874	Xanthurenic acid	C10H7NO4	2.289		missing SMILES		

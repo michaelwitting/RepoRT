@@ -41,7 +41,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0261_00040	Tetrabromobisphenol A	C15H12Br4O2	11.67		missing SMILES		
 0261_00041	Butylparaben	C11H14O3	10.55		missing SMILES		
 0261_00042	Perfluorobutanoic acid	C4HF7O2	2.91		missing SMILES		
-0261_00043	Perfluorobutanoic acid	C4HF7O2	2.91		missing SMILES		
 0261_00044	Perfluorotetradecanoic acid	C14HF27O2	9.93		missing SMILES		
 0261_00045	Tetrachlorosalicylanilide	C13H7Cl4NO2	10.21		missing SMILES		
 0261_00046	5-Fluorouracil	C4H3FN2O2	2.09		missing SMILES		
@@ -49,9 +48,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0261_00048	Metolachlor ESA	C15H23NO5S	8.57		missing SMILES		
 0261_00049	(4-Sulfophenyl)acetic acid	C8H8O5S	1.82		missing SMILES		
 0261_00050	24-Dinitrophenol	C6H4N2O5	7.62		missing SMILES		
-0261_00051	Mycophenolic acid	C17H20O6	10.34		missing SMILES		
 0261_00052	2-Benzothiazolesulfonic acid	C7H5NO3S2	6.31		missing SMILES		
-0261_00053	Lincomycin	C18H34N2O6S	9.98		missing SMILES		
 0261_00054	Benzenesulfonic acid	C6H6O3S	2.01		missing SMILES		
 0261_00055	356-Trichloro-2-pyridinol	C5H2Cl3NO	9.23		missing SMILES		
 0261_00056	24-Dichlorophenol	C6H4Cl2O	8.49		missing SMILES		
@@ -83,7 +80,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0261_00082	Bifenox free acid	C13H7Cl2NO5	9.15		missing SMILES		
 0261_00083	Oryzalin	C12H18N4O6S	11.25		missing SMILES		
 0261_00084	Flufenoxuron	C21H11ClF6N2O3	11.89		missing SMILES		
-0261_00085	Nitrofurantoin	C8H6N4O5	8.69		missing SMILES		
 0261_00086	4-Fluorobenzoylpropionic acid	C10H9FO3	8.54		missing SMILES		
 0261_00087	N-Acetyl mesalazine	C9H9NO4	2.92		missing SMILES		
 0261_00088	Nitrendipin	C18H20N2O6	11.23		missing SMILES		

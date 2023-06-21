@@ -59,7 +59,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0330_00331	NORVALINE	C5H11NO2	0.59		missing SMILES		
 0330_00335	AGMATINE SULFATE	C5H14N4	0.517		missing SMILES		
 0330_00338	TRANS-4-HYDROXY-L-PROLINE	C5H9NO3	0.566		missing SMILES		
-0330_00339	TRANS-4-HYDROXY-L-PROLINE	C5H9NO3	0.566		missing SMILES		
 0330_00345	PIPECOLATE	C6H11NO2	0.678		missing SMILES		
 0330_00347	AMINOADIPATE	C6H11NO4	0.572		missing SMILES		
 0330_00348	N-METHYLGLUTAMATE	C6H11NO4	0.572		missing SMILES		
@@ -163,7 +162,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0330_00849	Indole-3-propionic acid	C11H11NO2	3.68		missing SMILES		
 0330_00851	γ-Aminobutyric acid	C4H9NO2	0.564		missing SMILES		
 0330_00856	3-Methylcrotonyl Glycine	C7H11NO3	2.163		missing SMILES		
-0330_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.576		missing SMILES		
 0330_00872	4-Pyridoxolactone	C8H7NO3	1.222		missing SMILES		
 0330_00874	Xanthurenic acid	C10H7NO4	2.226		missing SMILES		
 0330_00880	2,5-Furandicarboxylic acid	C6H4O5	1.011		missing SMILES		

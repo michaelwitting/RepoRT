@@ -1,3 +1,0 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0168_00142	GLYCERALDEHYDE 3-PHOSPHATE DIETHYL ACETAL				missing SMILES		
-0168_00194	MENAQUINONE				missing SMILES		

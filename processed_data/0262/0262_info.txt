@@ -1,2 +1,0 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0262	SPECIMEN_Pos	RP	Dataset - Huber	https://doi.org/10.1021/acs.analchem.2c00061		C. Huber		

@@ -19,7 +19,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0348_00227	CYTOSINE	C4H5N3O	0.588		missing SMILES		
 0348_00230	SUCCINATE	C4H6O4	0.604		missing SMILES		
 0348_00231	MALATE	C4H6O5	0.834		missing SMILES		
-0348_00232	MALATE	C4H6O5	0.834		missing SMILES		
 0348_00234	CREATININE	C4H7N3O	0.571		missing SMILES		
 0348_00238	CREATINE	C4H9N3O2	0.571		missing SMILES		
 0348_00246	METHIONINE	C5H11NO2S	0.686		missing SMILES		
@@ -50,7 +49,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0348_00331	NORVALINE	C5H11NO2	0.574		missing SMILES		
 0348_00336	OXOPROLINE	C5H7NO3	0.738		missing SMILES		
 0348_00338	TRANS-4-HYDROXY-L-PROLINE	C5H9NO3	0.557		missing SMILES		
-0348_00339	TRANS-4-HYDROXY-L-PROLINE	C5H9NO3	0.557		missing SMILES		
 0348_00345	PIPECOLATE	C6H11NO2	0.639		missing SMILES		
 0348_00346	4-ACETAMIDOBUTANOATE	C6H11NO3	0.951		missing SMILES		
 0348_00347	AMINOADIPATE	C6H11NO4	0.59		missing SMILES		
@@ -156,7 +154,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0348_00851	γ-Aminobutyric acid	C4H9NO2	0.553		missing SMILES		
 0348_00856	3-Methylcrotonyl Glycine	C7H11NO3	2.603		missing SMILES		
 0348_00859	3-Hydroxysuberic Acid	C8H14O5	2.423		missing SMILES		
-0348_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.565		missing SMILES		
 0348_00872	4-Pyridoxolactone	C8H7NO3	0.877		missing SMILES		
 0348_00880	2,5-Furandicarboxylic acid	C6H4O5	1.378		missing SMILES		
 0348_00883	Hippuric acid	C9H9NO3	2.87		missing SMILES		

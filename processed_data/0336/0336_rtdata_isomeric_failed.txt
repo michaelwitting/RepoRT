@@ -19,7 +19,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0336_00227	CYTOSINE	C4H5N3O	0.593		missing SMILES		
 0336_00228	DIHYDROURACIL	C4H6N2O2	0.949		missing SMILES		
 0336_00231	MALATE	C4H6O5	0.776		missing SMILES		
-0336_00232	MALATE	C4H6O5	0.776		missing SMILES		
 0336_00234	CREATININE	C4H7N3O	0.628		missing SMILES		
 0336_00238	CREATINE	C4H9N3O2	0.619		missing SMILES		
 0336_00243	GLUTAMINE	C5H10N2O3	0.57		missing SMILES		
@@ -58,7 +57,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0336_00331	NORVALINE	C5H11NO2	0.647		missing SMILES		
 0336_00335	AGMATINE SULFATE	C5H14N4	0.51		missing SMILES		
 0336_00338	TRANS-4-HYDROXY-L-PROLINE	C5H9NO3	0.576		missing SMILES		
-0336_00339	TRANS-4-HYDROXY-L-PROLINE	C5H9NO3	0.576		missing SMILES		
 0336_00340	N-METHYLASPARTATE	C5H9NO4	0.581		missing SMILES		
 0336_00341	N-ACETYLASPARAGINE	C6H10N2O4	0.682		missing SMILES		
 0336_00343	GLUCURONATE	C6H10O7	0.516		missing SMILES		
@@ -168,7 +166,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0336_00854	3-Hydroxyglutaric acid	C5H8O5	0.801		missing SMILES		
 0336_00856	3-Methylcrotonyl Glycine	C7H11NO3	3.128		missing SMILES		
 0336_00859	3-Hydroxysuberic Acid	C8H14O5	2.928		missing SMILES		
-0336_00869	(2S,5R)-trans-5-Hydroxypiperidine-2-carboxylicacid	C6H11NO3	0.6		missing SMILES		
 0336_00871	Allantoin	C4H6N4O3	0.632		missing SMILES		
 0336_00872	4-Pyridoxolactone	C8H7NO3	2.478		missing SMILES		
 0336_00874	Xanthurenic acid	C10H7NO4	3.406		missing SMILES		

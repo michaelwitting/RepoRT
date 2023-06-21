@@ -1,3 +1,0 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0018_00048	Saikosaponin C	C42H68O13	17.205367		missing SMILES		
-0018_00103	Saikosaponin C	C42H68O13	17.380783		missing SMILES		

@@ -31,7 +31,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0295_00037	Reserpine	C33H40N2O9	17.29		missing SMILES		
 0295_00038	Sebuthylazine	C9H18ClN5	14.68		missing SMILES		
 0295_00039	Simazine	C7H14ClN5	11.85		missing SMILES		
-0295_00040	Sudan I		19.26		missing SMILES		
+0295_00040	Sudan I	C16H12N2O	19.26		missing SMILES		
 0295_00041	Tri-isobutyl phosphate	C12H27O4P	17.71		missing SMILES		
 0295_00042	Triethyl phosphate	C6H15O4P	10.44		missing SMILES		
 0295_00043	Trifluralin	C13H16F3N3O4	19.18		missing SMILES		

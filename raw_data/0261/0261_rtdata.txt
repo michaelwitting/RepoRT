@@ -1,112 +1,111 @@
-id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	pubchem.inchi	pubchem.inchikey	id.chebi	id.hmdb	id.lipidmaps	id.kegg
-0261_00001	24-Dichlorophenoxyacetic acid	C8H6Cl2O3	8.06			OC(=O)COc1ccc(Cl)cc1Cl						
-0261_00002	Clofibric acid	C10H11ClO3	8.57			CC(C)(Oc1ccc(Cl)cc1)C(O)=O						
-0261_00003	Bezafibrate	C19H20ClNO4	9.33			CC(C)(Oc1ccc(CCNC(=O)c2ccc(Cl)cc2)cc1)C(O)=O						
-0261_00004	Bentazone	C10H12N2O3S	7.2			CC(C)N1C(=O)c2ccccc2NS1(=O)=O						
-0261_00005	4-Nitrophenol	C6H5NO3	9.25			OC1=CC=C(C=C1)[N+]([O-])=O						
-0261_00006	Furosemide	C12H11ClN2O5S	8.45			NS(=O)(=O)c1cc(C(O)=O)c(NCc2ccco2)cc1Cl						
-0261_00007	Perfluorodecanoic acid	C10HF19O2	9.39			OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F						
-0261_00008	Pravastatin	C23H36O7	9.42			CCC(C)C(=O)OC1CC(O)C=C2C=CC(C)C(CCC(O)CC(O)CC(O)=O)C12						
-0261_00009	24-diaminobenzenesulfonic acid	C6H8N2O3S	1.48			Nc1ccc(c(N)c1)S(O)(=O)=O						
-0261_00010	Fipronil	C12H4Cl2F6N4OS	10.91			Nc1c(c(nn1-c1c(Cl)cc(cc1Cl)C(F)(F)F)C#N)S(=O)C(F)(F)F						
-0261_00011	Sulcotrione	C14H13ClO5S	7.69			CS(=O)(=O)c1ccc(C(=O)C2C(=O)CCCC2=O)c(Cl)c1						
-0261_00012	Phenylbenzimidazole sulfonic acid	C13H10N2O3S	7.44			OS(=O)(=O)c1ccc2[nH]c(nc2c1)-c1ccccc1						
-0261_00013	Hydrochlorothiazide	C7H8ClN3O4S2	7.62			NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl						
-0261_00014	Dodecylbenzenesulfonic acid	C18H30O3S	10.08			CCCCCCCCCCCCc1ccccc1S(O)(=O)=O						
-0261_00015	Dichlorprop	C9H8Cl2O3	8.48			CC(Oc1ccc(Cl)cc1Cl)C(O)=O						
-0261_00016	Dinoseb	C10H12N2O5	10.02			CCC(C)c1cc(cc(c1O)[N+]([O-])=O)[N+]([O-])=O						
-0261_00017	Ketoprofen	C16H14O3	9.75			CC(C(O)=O)c1cccc(c1)C(=O)c1ccccc1						
-0261_00018	Perfluorooctanoic acid	C8HF15O2	8.97			OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F						
-0261_00019	Acesulfame	C4H5NO4S	2.11			CC1=CC(=O)NS(=O)(=O)O1						
-0261_00020	Flutamide	C11H11F3N2O3	10.7			CC(C)C(=O)Nc1ccc(c(c1)C(F)(F)F)N(=O)=O						
-0261_00021	Sucralose	C12H19Cl3O8	8			OCC1OC(OC2(CCl)OC(CCl)C(O)C2O)C(O)C(O)C1Cl						
-0261_00022	Triclosan	C12H7Cl3O2	11.54			Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl						
-0261_00023	Saccharin	C7H5NO3S	3.01			O=C1NS(=O)(=O)c2ccccc12						
-0261_00024	Perfluorooctanesulfonic acid	C8HF17O3S	9.25			OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F						
-0261_00025	Cyclamate	C6H13NO3S	2.74			OS(=O)(=O)NC1CCCCC1						
-0261_00026	Diclofenac	C14H11Cl2NO2	10.11			OC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl						
-0261_00027	Mefenamic acid	C15H15NO2	10.59			Cc1cccc(Nc2ccccc2C(O)=O)c1C						
-0261_00028	Perfluorohexanoic acid	C6HF11O2	8.19			OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F						
-0261_00029	Mecoprop	C10H11ClO3	8.57			CC(Oc1ccc(Cl)cc1C)C(O)=O						
-0261_00030	MCPA	C9H9ClO3	8.16			Cc1cc(Cl)ccc1OCC(O)=O						
-0261_00031	Benzophenone-4	C14H12O6S	8.32			COc1cc(O)c(cc1S(O)(=O)=O)C(=O)c1ccccc1						
-0261_00032	Chlorophene	C13H11ClO	11.16			Oc1ccc(Cl)cc1Cc1ccccc1						
-0261_00033	Chlorothalonil-4-hydroxy	C8HCl3N2O	9.06			Oc1c(Cl)c(Cl)c(C#N)c(Cl)c1C#N						
-0261_00034	Ethylparaben	C9H10O3	9.81			CCOC(=O)c1ccc(O)cc1						
-0261_00035	Dodecyl sulfate	C12H26O4S	9.67			CCCCCCCCCCCCOS(O)(=O)=O						
-0261_00036	Triclocarban	C13H9Cl3N2O	11.35			Clc1ccc(NC(=O)Nc2ccc(Cl)c(Cl)c2)cc1						
-0261_00037	27-Naphthalenedisulfonic acid	C10H8O6S2	1.65			OS(=O)(=O)c1ccc2ccc(cc2c1)S(O)(=O)=O						
-0261_00038	2-Naphthalene sulfonic acid	C10H8O3S	7.25			OS(=O)(=O)c1ccc2ccccc2c1						
-0261_00039	4-Hydroxybenzotriazole	C6H5N3O	7			Oc1cccc2[nH]nnc12						
-0261_00040	Tetrabromobisphenol A	C15H12Br4O2	11.67			CC(C)(c1cc(Br)c(O)c(Br)c1)c1cc(Br)c(O)c(Br)c1						
-0261_00041	Butylparaben	C11H14O3	10.55			CCCCOC(=O)c1ccc(O)cc1						
-0261_00042	Perfluorobutanoic acid	C4HF7O2	2.91			OC(=O)C(F)(F)C(F)(F)C(F)(F)F						
-0261_00043	Perfluorobutanoic acid	C4HF7O2	2.91			OC(=O)C(F)(F)C(F)(F)C(F)(F)F						
-0261_00044	Perfluorotetradecanoic acid	C14HF27O2	9.93			OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F						
-0261_00045	Tetrachlorosalicylanilide	C13H7Cl4NO2	10.21			Oc1c(Cl)cc(Cl)cc1C(=O)Nc1ccc(Cl)c(Cl)c1						
-0261_00046	5-Fluorouracil	C4H3FN2O2	2.09			Fc1c[nH]c(=O)[nH]c1=O						
-0261_00047	Metolachlor OA	C15H21NO4	8.42			CCc1cccc(C)c1N(C(C)COC)C(=O)C(O)=O						
-0261_00048	Metolachlor ESA	C15H23NO5S	8.57			CCc1cccc(C)c1N(C(C)COC)C(=O)CS(O)(=O)=O						
-0261_00049	(4-Sulfophenyl)acetic acid	C8H8O5S	1.82			OC(=O)Cc1ccc(cc1)S(O)(=O)=O						
-0261_00050	24-Dinitrophenol	C6H4N2O5	7.62			Oc1ccc(cc1N(=O)=O)N(=O)=O						
-0261_00051	Mycophenolic acid	C17H20O6	10.34			COc1c(C)c2COC(=O)c2c(O)c1C\C=C(/C)CCC(O)=O						
-0261_00052	2-Benzothiazolesulfonic acid	C7H5NO3S2	6.31			OS(=O)(=O)c1nc2ccccc2s1						
-0261_00053	Lincomycin	C18H34N2O6S	9.98			CCC[C@@H]1C[C@H](N(C)C1)C(=O)N[C@H]([C@@H](C)O)[C@H]1O[C@H](SC)[C@H](O)[C@@H](O)[C@H]1O						
-0261_00054	Benzenesulfonic acid	C6H6O3S	2.01			OS(=O)(=O)c1ccccc1						
-0261_00055	356-Trichloro-2-pyridinol	C5H2Cl3NO	9.23			Oc1nc(Cl)c(Cl)cc1Cl						
-0261_00056	24-Dichlorophenol	C6H4Cl2O	8.49			Oc1ccc(Cl)cc1Cl						
-0261_00057	Genistein	C15H10O5	10.3			Oc1ccc(cc1)-c1coc2cc(O)cc(O)c2c1=O						
-0261_00058	Daidzein	C15H10O4	9.89			Oc1ccc(cc1)-c1coc2cc(O)ccc2c1=O						
-0261_00059	Bisphenol S	C12H10O4S	9.36			Oc1ccc(cc1)S(=O)(=O)c1ccc(O)cc1						
-0261_00060	Bromoxynil	C7H3Br2NO	8.68			Oc1c(Br)cc(cc1Br)C#N						
-0261_00061	Atorvastatin	C33H35FN2O5	10.43			CC(C)c1c(C(=O)Nc2ccccc2)c(c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(O)=O)-c1ccccc1						
-0261_00062	Glimepiride	C24H34N4O5S	11.35			CCC1=C(C)CN(C(=O)NCCc2ccc(cc2)S(=O)(=O)NC(=O)NC2CCC(C)CC2)C1=O						
-0261_00063	Methylparaben	C8H8O3	9.32			COC(=O)c1ccc(O)cc1						
-0261_00064	Propylparaben	C10H12O3	10.22			CCCOC(=O)c1ccc(O)cc1						
-0261_00065	Phthalamic acid	C8H7NO3	2.24			NC(=O)C1=CC=CC=C1C(O)=O						
-0261_00066	Acyclovir	C8H11N5O3	3.17			NC1=NC2=C(N=CN2COCCO)C(=O)N1						
-0261_00067	345-trichlorophenol	C6H3Cl3O	10.77			OC1=CC(Cl)=C(Cl)C(Cl)=C1						
-0261_00068	4-Chlorophenol	C6H5ClO	8.39			OC1=CC=C(Cl)C=C1						
-0261_00069	Perfluorooctanesulfonamide	C8H2F17NO2S	10.57			NS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F						
-0261_00070	Perfluoroheptanoic acid	C7HF13O2	11.35			OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F						
-0261_00071	6-2fluorotelomer sulfonic acid	C8H5F13O3S	8.97			OS(=O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F						
-0261_00072	Bromochlorophen	C13H8Br2Cl2O2	11.17			OC1=C(Br)C=C(Cl)C=C1CC1=CC(Cl)=CC(Br)=C1O						
-0261_00073	Celecoxib	C17H14F3N3O2S	11.1			CC1=CC=C(C=C1)C1=CC(=NN1C1=CC=C(C=C1)S(N)(=O)=O)C(F)(F)F						
-0261_00074	Losartan	C22H23ClN6O	9.49			CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=CC=CC=C1C1=NNN=N1						
-0261_00075	Montelukast	C35H36ClNO3S	11.92			CC(C)(O)C1=CC=CC=C1CCC(SCC1(CC(O)=O)CC1)C1=CC=CC(C=CC2=NC3=C(C=CC(Cl)=C3)C=C2)=C1						
-0261_00076	Valsartan	C24H29N5O3	9.29			CCCCC(=O)N(CC1=CC=C(C=C1)C1=CC=CC=C1C1=NNN=N1)C(C(C)C)C(O)=O						
-0261_00077	Indometacin	C19H16ClNO4	10.48			COC1=CC2=C(C=C1)N(C(=O)C1=CC=C(Cl)C=C1)C(C)=C2CC(O)=O						
-0261_00078	Bicalutamide	C18H14F4N2O4S	10.73			CC(O)(CS(=O)(=O)C1=CC=C(F)C=C1)C(=O)NC1=CC(=C(C=C1)C#N)C(F)(F)F						
-0261_00079	4-Bromophenol	C6H5BrO	9.85			OC1=CC=C(Br)C=C1						
-0261_00080	Propanil	C9H9Cl2NO	10.57			CCC(=O)NC1=CC(Cl)=C(Cl)C=C1						
-0261_00081	Raloxifene	C28H27NO4S	16.21			OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2						
-0261_00082	Bifenox free acid	C13H7Cl2NO5	9.15			OC(=O)C1=C(C=CC(OC2=C(Cl)C=C(Cl)C=C2)=C1)[N+]([O-])=O						
-0261_00083	Oryzalin	C12H18N4O6S	11.25			CCCN(CCC)C1=C(C=C(C=C1[N+]([O-])=O)S(N)(=O)=O)[N+]([O-])=O						
-0261_00084	Flufenoxuron	C21H11ClF6N2O3	11.89			FC1=CC(OC2=CC=C(C=C2Cl)C(F)(F)F)=CC=C1NC(=O)NC(=O)C1=C(F)C=CC=C1F						
-0261_00085	Nitrofurantoin	C8H6N4O5	8.69			[O-][N+](=O)C1=CC=C(O1)\C=N\N1CC(=O)NC1=O						
-0261_00086	4-Fluorobenzoylpropionic acid	C10H9FO3	8.54			OC(=O)CCC(=O)C1=CC=C(F)C=C1						
-0261_00087	N-Acetyl mesalazine	C9H9NO4	2.92			CC(=O)NC1=CC=C(O)C(=C1)C(O)=O						
-0261_00088	Nitrendipin	C18H20N2O6	11.23			CCOC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC(=C1)[N+]([O-])=O)C(=O)OC						
-0261_00089	Dichlorophen	C13H10Cl2O2	10.95			OC1=CC=C(Cl)C=C1CC1=C(O)C=CC(Cl)=C1						
-0261_00090	2-hydroxybenzothiazole	C7H5NOS	9.61			O=C1NC2=CC=CC=C2S1						
-0261_00091	2-thiouracil	C4H4N2OS	2.53			O=C1NC(=S)NC=C1						
-0261_00092	6-Mercaptopurine	C5H4N4S	3.32			S=C1N=CNC2=C1NC=N2						
-0261_00093	6-Propyl-2-thiouracil	C7H10N2OS	8.14			CCCC1=CC(=O)NC(=S)N1						
-0261_00094	Dimethachlor OA	C13H17NO4	7.5			COCCN(C(=O)C(O)=O)C1=C(C)C=CC=C1C						
-0261_00095	Metazachlor ESA	C14H17N3O4S	7.83			CC1=CC=CC(C)=C1N(CN1C=CC=N1)C(=O)CS(O)(=O)=O						
-0261_00096	Oxypurinol	C5H4N4O2	2.44			O=C1NC(=O)C2=CNNC2=N1						
-0261_00097	Fipronil sulfide	C12H4Cl2F6N4S	11.03			NC1=C(SC(F)(F)F)C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N						
-0261_00098	Fipronil sulfone	C12H4Cl2F6N4O2S	11.08			NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)S(=O)(=O)C(F)(F)F						
-0261_00099	Fipronil desulfinyl	C12H4Cl2F6N4	10.86			NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)C(F)(F)F						
-0261_00100	Dimethachlor ESA	C13H19NO5S	7.88			COCCN(C(=O)CS(O)(=O)=O)C1=C(C)C=CC=C1C						
-0261_00101	Decyl sulfate	C10H22O4S	9.26			CCCCCCCCCCOS(O)(=O)=O						
-0261_00102	Tetradecylsulfate	C14H30O4S	9.97			CCCCCCCCCCCCCCOS(O)(=O)=O						
-0261_00103	Bisphenol A	C15H16O2	10.35			CC(C)(c1ccc(O)cc1)c1ccc(O)cc1						
-0261_00104	Bisphenol F	C13H12O2	9.94			Oc1ccc(Cc2ccc(O)cc2)cc1						
-0261_00105	Ibuprofen	C13H18O2	10.32			CC(C)Cc1ccc(cc1)C(C)C(O)=O						
-0261_00106	p-Chlorocresol	C7H7ClO	8.57			Cc1cc(O)ccc1Cl						
-0261_00107	1-Naphthol	C10H8O	10			Oc1cccc2ccccc12						
-0261_00108	4-n-Nonylphenol	C15H24O	11.61			CCCCCCCCCc1ccc(O)cc1						
-0261_00109	Thymol	C10H14O	10.55			CC(C)c1ccc(C)cc1O						
-0261_00110	2-Phenylphenol	C12H10O	9.93			Oc1ccccc1-c1ccccc1						
-0261_00111	4-Cumylphenol	C15H16O	11.08			CC(C)(C1=CC=CC=C1)C1=CC=C(O)C=C1						
+id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	pubchem.inchi	pubchem.inchikey	id.chebi	id.hmdb	id.lipidmaps	id.kegg	comment
+0261_00001	24-Dichlorophenoxyacetic acid	C8H6Cl2O3	8.06			OC(=O)COc1ccc(Cl)cc1Cl							
+0261_00002	Clofibric acid	C10H11ClO3	8.57			CC(C)(Oc1ccc(Cl)cc1)C(O)=O							
+0261_00003	Bezafibrate	C19H20ClNO4	9.33			CC(C)(Oc1ccc(CCNC(=O)c2ccc(Cl)cc2)cc1)C(O)=O							
+0261_00004	Bentazone	C10H12N2O3S	7.2			CC(C)N1C(=O)c2ccccc2NS1(=O)=O							
+0261_00005	4-Nitrophenol	C6H5NO3	9.25			OC1=CC=C(C=C1)[N+]([O-])=O							
+0261_00006	Furosemide	C12H11ClN2O5S	8.45			NS(=O)(=O)c1cc(C(O)=O)c(NCc2ccco2)cc1Cl							
+0261_00007	Perfluorodecanoic acid	C10HF19O2	9.39			OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F							
+0261_00008	Pravastatin	C23H36O7	9.42			CCC(C)C(=O)OC1CC(O)C=C2C=CC(C)C(CCC(O)CC(O)CC(O)=O)C12							
+0261_00009	24-diaminobenzenesulfonic acid	C6H8N2O3S	1.48			Nc1ccc(c(N)c1)S(O)(=O)=O							
+0261_00010	Fipronil	C12H4Cl2F6N4OS	10.91			Nc1c(c(nn1-c1c(Cl)cc(cc1Cl)C(F)(F)F)C#N)S(=O)C(F)(F)F							
+0261_00011	Sulcotrione	C14H13ClO5S	7.69			CS(=O)(=O)c1ccc(C(=O)C2C(=O)CCCC2=O)c(Cl)c1							
+0261_00012	Phenylbenzimidazole sulfonic acid	C13H10N2O3S	7.44			OS(=O)(=O)c1ccc2[nH]c(nc2c1)-c1ccccc1							
+0261_00013	Hydrochlorothiazide	C7H8ClN3O4S2	7.62			NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl							
+0261_00014	Dodecylbenzenesulfonic acid	C18H30O3S	10.08			CCCCCCCCCCCCc1ccccc1S(O)(=O)=O							
+0261_00015	Dichlorprop	C9H8Cl2O3	8.48			CC(Oc1ccc(Cl)cc1Cl)C(O)=O							
+0261_00016	Dinoseb	C10H12N2O5	10.02			CCC(C)c1cc(cc(c1O)[N+]([O-])=O)[N+]([O-])=O							
+0261_00017	Ketoprofen	C16H14O3	9.75			CC(C(O)=O)c1cccc(c1)C(=O)c1ccccc1							
+0261_00018	Perfluorooctanoic acid	C8HF15O2	8.97			OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F							
+0261_00019	Acesulfame	C4H5NO4S	2.11			CC1=CC(=O)NS(=O)(=O)O1							
+0261_00020	Flutamide	C11H11F3N2O3	10.7			CC(C)C(=O)Nc1ccc(c(c1)C(F)(F)F)N(=O)=O							
+0261_00021	Sucralose	C12H19Cl3O8	8.0			OCC1OC(OC2(CCl)OC(CCl)C(O)C2O)C(O)C(O)C1Cl							
+0261_00022	Triclosan	C12H7Cl3O2	11.54			Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl							
+0261_00023	Saccharin	C7H5NO3S	3.01			O=C1NS(=O)(=O)c2ccccc12							
+0261_00024	Perfluorooctanesulfonic acid	C8HF17O3S	9.25			OS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F							
+0261_00025	Cyclamate	C6H13NO3S	2.74			OS(=O)(=O)NC1CCCCC1							
+0261_00026	Diclofenac	C14H11Cl2NO2	10.11			OC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl							
+0261_00027	Mefenamic acid	C15H15NO2	10.59			Cc1cccc(Nc2ccccc2C(O)=O)c1C							
+0261_00028	Perfluorohexanoic acid	C6HF11O2	8.19			OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F							
+0261_00029	Mecoprop	C10H11ClO3	8.57			CC(Oc1ccc(Cl)cc1C)C(O)=O							
+0261_00030	MCPA	C9H9ClO3	8.16			Cc1cc(Cl)ccc1OCC(O)=O							
+0261_00031	Benzophenone-4	C14H12O6S	8.32			COc1cc(O)c(cc1S(O)(=O)=O)C(=O)c1ccccc1							
+0261_00032	Chlorophene	C13H11ClO	11.16			Oc1ccc(Cl)cc1Cc1ccccc1							
+0261_00033	Chlorothalonil-4-hydroxy	C8HCl3N2O	9.06			Oc1c(Cl)c(Cl)c(C#N)c(Cl)c1C#N							
+0261_00034	Ethylparaben	C9H10O3	9.81			CCOC(=O)c1ccc(O)cc1							
+0261_00035	Dodecyl sulfate	C12H26O4S	9.67			CCCCCCCCCCCCOS(O)(=O)=O							
+0261_00036	Triclocarban	C13H9Cl3N2O	11.35			Clc1ccc(NC(=O)Nc2ccc(Cl)c(Cl)c2)cc1							
+0261_00037	27-Naphthalenedisulfonic acid	C10H8O6S2	1.65			OS(=O)(=O)c1ccc2ccc(cc2c1)S(O)(=O)=O							
+0261_00038	2-Naphthalene sulfonic acid	C10H8O3S	7.25			OS(=O)(=O)c1ccc2ccccc2c1							
+0261_00039	4-Hydroxybenzotriazole	C6H5N3O	7.0			Oc1cccc2[nH]nnc12							
+0261_00040	Tetrabromobisphenol A	C15H12Br4O2	11.67			CC(C)(c1cc(Br)c(O)c(Br)c1)c1cc(Br)c(O)c(Br)c1							
+0261_00041	Butylparaben	C11H14O3	10.55			CCCCOC(=O)c1ccc(O)cc1							
+0261_00042	Perfluorobutanoic acid	C4HF7O2	2.91			OC(=O)C(F)(F)C(F)(F)C(F)(F)F							removed another duplicate entry
+0261_00044	Perfluorotetradecanoic acid	C14HF27O2	9.93			OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F							
+0261_00045	Tetrachlorosalicylanilide	C13H7Cl4NO2	10.21			Oc1c(Cl)cc(Cl)cc1C(=O)Nc1ccc(Cl)c(Cl)c1							
+0261_00046	5-Fluorouracil	C4H3FN2O2	2.09			Fc1c[nH]c(=O)[nH]c1=O							
+0261_00047	Metolachlor OA	C15H21NO4	8.42			CCc1cccc(C)c1N(C(C)COC)C(=O)C(O)=O							
+0261_00048	Metolachlor ESA	C15H23NO5S	8.57			CCc1cccc(C)c1N(C(C)COC)C(=O)CS(O)(=O)=O							
+0261_00049	(4-Sulfophenyl)acetic acid	C8H8O5S	1.82			OC(=O)Cc1ccc(cc1)S(O)(=O)=O							
+0261_00050	24-Dinitrophenol	C6H4N2O5	7.62			Oc1ccc(cc1N(=O)=O)N(=O)=O							
+0261_00051	Mycophenolic acid	C17H20O6	10.34		COc1c(C)c2COC(=O)c2c(O)c1C\C=C(/C)CCC(O)=O								
+0261_00052	2-Benzothiazolesulfonic acid	C7H5NO3S2	6.31			OS(=O)(=O)c1nc2ccccc2s1							
+0261_00053	Lincomycin	C18H34N2O6S	9.98		CCC[C@@H]1C[C@H](N(C)C1)C(=O)N[C@H]([C@@H](C)O)[C@H]1O[C@H](SC)[C@H](O)[C@@H](O)[C@H]1O								
+0261_00054	Benzenesulfonic acid	C6H6O3S	2.01			OS(=O)(=O)c1ccccc1							
+0261_00055	356-Trichloro-2-pyridinol	C5H2Cl3NO	9.23			Oc1nc(Cl)c(Cl)cc1Cl							
+0261_00056	24-Dichlorophenol	C6H4Cl2O	8.49			Oc1ccc(Cl)cc1Cl							
+0261_00057	Genistein	C15H10O5	10.3			Oc1ccc(cc1)-c1coc2cc(O)cc(O)c2c1=O							
+0261_00058	Daidzein	C15H10O4	9.89			Oc1ccc(cc1)-c1coc2cc(O)ccc2c1=O							
+0261_00059	Bisphenol S	C12H10O4S	9.36			Oc1ccc(cc1)S(=O)(=O)c1ccc(O)cc1							
+0261_00060	Bromoxynil	C7H3Br2NO	8.68			Oc1c(Br)cc(cc1Br)C#N							
+0261_00061	Atorvastatin	C33H35FN2O5	10.43			CC(C)c1c(C(=O)Nc2ccccc2)c(c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(O)=O)-c1ccccc1							
+0261_00062	Glimepiride	C24H34N4O5S	11.35			CCC1=C(C)CN(C(=O)NCCc2ccc(cc2)S(=O)(=O)NC(=O)NC2CCC(C)CC2)C1=O							
+0261_00063	Methylparaben	C8H8O3	9.32			COC(=O)c1ccc(O)cc1							
+0261_00064	Propylparaben	C10H12O3	10.22			CCCOC(=O)c1ccc(O)cc1							
+0261_00065	Phthalamic acid	C8H7NO3	2.24			NC(=O)C1=CC=CC=C1C(O)=O							
+0261_00066	Acyclovir	C8H11N5O3	3.17			NC1=NC2=C(N=CN2COCCO)C(=O)N1							
+0261_00067	345-trichlorophenol	C6H3Cl3O	10.77			OC1=CC(Cl)=C(Cl)C(Cl)=C1							
+0261_00068	4-Chlorophenol	C6H5ClO	8.39			OC1=CC=C(Cl)C=C1							
+0261_00069	Perfluorooctanesulfonamide	C8H2F17NO2S	10.57			NS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F							
+0261_00070	Perfluoroheptanoic acid	C7HF13O2	11.35			OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F							
+0261_00071	6-2fluorotelomer sulfonic acid	C8H5F13O3S	8.97			OS(=O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F							
+0261_00072	Bromochlorophen	C13H8Br2Cl2O2	11.17			OC1=C(Br)C=C(Cl)C=C1CC1=CC(Cl)=CC(Br)=C1O							
+0261_00073	Celecoxib	C17H14F3N3O2S	11.1			CC1=CC=C(C=C1)C1=CC(=NN1C1=CC=C(C=C1)S(N)(=O)=O)C(F)(F)F							
+0261_00074	Losartan	C22H23ClN6O	9.49			CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=CC=CC=C1C1=NNN=N1							
+0261_00075	Montelukast	C35H36ClNO3S	11.92			CC(C)(O)C1=CC=CC=C1CCC(SCC1(CC(O)=O)CC1)C1=CC=CC(C=CC2=NC3=C(C=CC(Cl)=C3)C=C2)=C1							
+0261_00076	Valsartan	C24H29N5O3	9.29			CCCCC(=O)N(CC1=CC=C(C=C1)C1=CC=CC=C1C1=NNN=N1)C(C(C)C)C(O)=O							
+0261_00077	Indometacin	C19H16ClNO4	10.48			COC1=CC2=C(C=C1)N(C(=O)C1=CC=C(Cl)C=C1)C(C)=C2CC(O)=O							
+0261_00078	Bicalutamide	C18H14F4N2O4S	10.73			CC(O)(CS(=O)(=O)C1=CC=C(F)C=C1)C(=O)NC1=CC(=C(C=C1)C#N)C(F)(F)F							
+0261_00079	4-Bromophenol	C6H5BrO	9.85			OC1=CC=C(Br)C=C1							
+0261_00080	Propanil	C9H9Cl2NO	10.57			CCC(=O)NC1=CC(Cl)=C(Cl)C=C1							
+0261_00081	Raloxifene	C28H27NO4S	16.21			OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2							
+0261_00082	Bifenox free acid	C13H7Cl2NO5	9.15			OC(=O)C1=C(C=CC(OC2=C(Cl)C=C(Cl)C=C2)=C1)[N+]([O-])=O							
+0261_00083	Oryzalin	C12H18N4O6S	11.25			CCCN(CCC)C1=C(C=C(C=C1[N+]([O-])=O)S(N)(=O)=O)[N+]([O-])=O							
+0261_00084	Flufenoxuron	C21H11ClF6N2O3	11.89			FC1=CC(OC2=CC=C(C=C2Cl)C(F)(F)F)=CC=C1NC(=O)NC(=O)C1=C(F)C=CC=C1F							
+0261_00085	Nitrofurantoin	C8H6N4O5	8.69		[O-][N+](=O)C1=CC=C(O1)\C=N\N1CC(=O)NC1=O								
+0261_00086	4-Fluorobenzoylpropionic acid	C10H9FO3	8.54			OC(=O)CCC(=O)C1=CC=C(F)C=C1							
+0261_00087	N-Acetyl mesalazine	C9H9NO4	2.92			CC(=O)NC1=CC=C(O)C(=C1)C(O)=O							
+0261_00088	Nitrendipin	C18H20N2O6	11.23			CCOC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC(=C1)[N+]([O-])=O)C(=O)OC							
+0261_00089	Dichlorophen	C13H10Cl2O2	10.95			OC1=CC=C(Cl)C=C1CC1=C(O)C=CC(Cl)=C1							
+0261_00090	2-hydroxybenzothiazole	C7H5NOS	9.61			O=C1NC2=CC=CC=C2S1							
+0261_00091	2-thiouracil	C4H4N2OS	2.53			O=C1NC(=S)NC=C1							
+0261_00092	6-Mercaptopurine	C5H4N4S	3.32			S=C1N=CNC2=C1NC=N2							
+0261_00093	6-Propyl-2-thiouracil	C7H10N2OS	8.14			CCCC1=CC(=O)NC(=S)N1							
+0261_00094	Dimethachlor OA	C13H17NO4	7.5			COCCN(C(=O)C(O)=O)C1=C(C)C=CC=C1C							
+0261_00095	Metazachlor ESA	C14H17N3O4S	7.83			CC1=CC=CC(C)=C1N(CN1C=CC=N1)C(=O)CS(O)(=O)=O							
+0261_00096	Oxypurinol	C5H4N4O2	2.44			O=C1NC(=O)C2=CNNC2=N1							
+0261_00097	Fipronil sulfide	C12H4Cl2F6N4S	11.03			NC1=C(SC(F)(F)F)C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N							
+0261_00098	Fipronil sulfone	C12H4Cl2F6N4O2S	11.08			NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)S(=O)(=O)C(F)(F)F							
+0261_00099	Fipronil desulfinyl	C12H4Cl2F6N4	10.86			NC1=C(C(=NN1C1=C(Cl)C=C(C=C1Cl)C(F)(F)F)C#N)C(F)(F)F							
+0261_00100	Dimethachlor ESA	C13H19NO5S	7.88			COCCN(C(=O)CS(O)(=O)=O)C1=C(C)C=CC=C1C							
+0261_00101	Decyl sulfate	C10H22O4S	9.26			CCCCCCCCCCOS(O)(=O)=O							
+0261_00102	Tetradecylsulfate	C14H30O4S	9.97			CCCCCCCCCCCCCCOS(O)(=O)=O							
+0261_00103	Bisphenol A	C15H16O2	10.35			CC(C)(c1ccc(O)cc1)c1ccc(O)cc1							
+0261_00104	Bisphenol F	C13H12O2	9.94			Oc1ccc(Cc2ccc(O)cc2)cc1							
+0261_00105	Ibuprofen	C13H18O2	10.32			CC(C)Cc1ccc(cc1)C(C)C(O)=O							
+0261_00106	p-Chlorocresol	C7H7ClO	8.57			Cc1cc(O)ccc1Cl							
+0261_00107	1-Naphthol	C10H8O	10.0			Oc1cccc2ccccc12							
+0261_00108	4-n-Nonylphenol	C15H24O	11.61			CCCCCCCCCc1ccc(O)cc1							
+0261_00109	Thymol	C10H14O	10.55			CC(C)c1ccc(C)cc1O							
+0261_00110	2-Phenylphenol	C12H10O	9.93			Oc1ccccc1-c1ccccc1							
+0261_00111	4-Cumylphenol	C15H16O	11.08			CC(C)(C1=CC=CC=C1)C1=CC=C(O)C=C1							

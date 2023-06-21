@@ -1,2 +1,0 @@
-id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-0080_00053	MENAQUINONE		34.61		missing SMILES		

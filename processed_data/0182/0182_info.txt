@@ -1,2 +1,2 @@
 id	name	method.type	source	url	pmid	authors	missing information	comment
-0182	RP VION QTOF new	RP	Publication - Pezzatti	https://doi.org/10.1016/j.chroma.2019.01.023		J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz		sometimes two RTs
+0182	RP VION QTOF new	RP	Publication - Pezzatti	https://doi.org/10.1016/j.chroma.2019.01.023		J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz		sometimes two RTs; removed 3 entries with no retention times

@@ -9,7 +9,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00008	Desethylatrazin	C6H10ClN5	8.848		missing SMILES		
 0260_00009	Desethylterbutylazin	C7H12ClN5	9.699		missing SMILES		
 0260_00010	Desisopropylatrazin	C5H8ClN5	7.979		missing SMILES		
-0260_00011	Dicrotophos	C8H16NO5P	8.577		missing SMILES		
 0260_00012	Difenoconazole	C19H17Cl2N3O3	11.757		missing SMILES		
 0260_00013	Dimethoat	C5H12NO3PS2	8.99		missing SMILES		
 0260_00014	Diuron	C9H10Cl2N2O	10.222		missing SMILES		
@@ -24,7 +23,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00023	Metobromuron	C9H11BrN2O2	10.197		missing SMILES		
 0260_00024	Metolachlor	C15H22ClNO2	11.113		missing SMILES		
 0260_00025	Metoxuron	C10H13ClN2O2	9.621		missing SMILES		
-0260_00026	Monocrotophos	C7H14NO5P	7.979		missing SMILES		
 0260_00027	Quinmerac	C11H8ClNO2	9.338		missing SMILES		
 0260_00028	Pirimicarb	C11H18N4O2	9.403		missing SMILES		
 0260_00029	Phenmedipham	C16H16N2O4	10.448		missing SMILES		
@@ -50,7 +48,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00049	Biteranol	C20H23N3O2	11.176		missing SMILES		
 0260_00050	Chlorpyriphos-ethyl	C9H11Cl3NO3PS	11.885		missing SMILES		
 0260_00051	Dimefuron	C15H19ClN4O3	10.51		missing SMILES		
-0260_00052	Chlordimeform	C10H13ClN2	8.421		missing SMILES		
 0260_00053	Imidacloprid	C9H10ClN5O2	9.312		missing SMILES		
 0260_00054	Methidation	C6H11N2O4PS3	10.937		missing SMILES		
 0260_00055	Malathion	C10H19O6PS2	11.025		missing SMILES		
@@ -58,35 +55,27 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00057	Flufenacet	C14H13F4N3O2S	11.025		missing SMILES		
 0260_00058	Metoprolol	C15H25NO3	8.925		missing SMILES		
 0260_00059	Sotalol	C12H20N2O3S	5.507		missing SMILES		
-0260_00060	Naproxen	C14H14O3	10.585		missing SMILES		
 0260_00061	Sulfamethoxazol	C10H11N3O3S	8.913		missing SMILES		
-0260_00062	Pyrifenox	C14H12Cl2N2O	10.987		missing SMILES		
-0260_00063	Chlorfenvinphos	C12H14Cl3O4P	11.289		missing SMILES		
 0260_00064	Methabenzthiazuron	C10H11N3OS	10.482		missing SMILES		
 0260_00065	Monolinuron	C9H11ClN2O2	10.039		missing SMILES		
 0260_00066	Sebutylazin	C9H16ClN5	10.419		missing SMILES		
 0260_00067	Simazin	C7H12ClN5	9.771		missing SMILES		
-0260_00068	Carbetamid	C12H16N2O3	9.503		missing SMILES		
 0260_00069	Chloridazon	C10H8ClN3O	9.103		missing SMILES		
 0260_00070	Fenpropimorph	C20H33NO	10.911		missing SMILES		
 0260_00071	Diflufenican	C19H11F5N2O2	11.439		missing SMILES		
 0260_00072	Mefenpyr-diethyl	C16H18Cl2N2O4	11.451		missing SMILES		
 0260_00073	Metamitron-desamino	C10H9N3O	8.857		missing SMILES		
 0260_00074	Profenofos	C11H15BrClO3PS	11.527		missing SMILES		
-0260_00075	Phosphamidon	C10H19ClNO5P	9.771		missing SMILES		
 0260_00076	Pyroquilon	C11H11NO	10.381		missing SMILES		
-0260_00077	Clodinafop-propargyl-ester	C17H13ClFNO4	11.376		missing SMILES		
 0260_00078	Fluazinam	C13H4Cl2F6N4O4	8.323		missing SMILES		
 0260_00079	Epoxiconazol	C17H13ClFN3O	11.188		missing SMILES		
 0260_00080	Fenthion	C10H15O3PS2	11.388		missing SMILES		
 0260_00081	Iodosulfuron-methyl	C14H14IN5O6S	11.226		missing SMILES		
 0260_00082	Fenpropidin	C19H31N	10.911		missing SMILES		
-0260_00083	Kresoxim-methyl	C18H19NO4	11.351		missing SMILES		
 0260_00084	Atraton	C9H17N5O	9.426		missing SMILES		
 0260_00085	Asulam	C8H10N2O4S	7.605		missing SMILES		
 0260_00086	Fenofibrat	C20H21ClO4	11.805		missing SMILES		
 0260_00087	Atenolol	C14H22N2O3	6.243		missing SMILES		
-0260_00088	Aldicarb	C7H14N2O2S	9.4		missing SMILES		
 0260_00089	Gemfibrozil	C15H22O3	11.137		missing SMILES		
 0260_00090	Indometacin	C19H16ClNO4	11.376		missing SMILES		
 0260_00091	Ketoprofen	C16H14O3	10.608		missing SMILES		
@@ -98,7 +87,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00097	Prometryn	C10H19N5S	10.495		missing SMILES		
 0260_00098	Prochloraz	C15H16Cl3N3O2	11.527		missing SMILES		
 0260_00099	Simeton	C8H15N5O	8.895		missing SMILES		
-0260_00100	Azoxystrobin	C22H17N3O5	11.226		missing SMILES		
 0260_00101	4,4-Pentamethylene-2-pyrrolidone (Gabapentin-Lactam)	C9H15NO	9.566		missing SMILES		
 0260_00102	Flumioxazin	C19H15FN2O4	11.527		missing SMILES		
 0260_00103	Amidosulfuron	C9H15N5O7S2	10.671		missing SMILES		
@@ -113,7 +101,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00112	Dichlorvos	C4H7Cl2O4P	9.668		missing SMILES		
 0260_00113	Paraoxon-ethyl	C10H14NO6P	10.533		missing SMILES		
 0260_00114	Bisoprolol	C18H31NO4	9.541		missing SMILES		
-0260_00115	Ifosfamid	C7H15Cl2N2O2P	9.464		missing SMILES		
 0260_00116	Propranolol	C16H21NO2	9.835		missing SMILES		
 0260_00117	MetoprololsÃ¤ure	C14H21NO4	7.657		missing SMILES		
 0260_00118	Acebutolol	C18H28N2O4	8.766		missing SMILES		
@@ -126,16 +113,13 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00125	Nicosulfuron	C15H18N6O6S	10.422		missing SMILES		
 0260_00126	Triazophos	C12H16N3O3PS	11.125		missing SMILES		
 0260_00127	Rimsulfuron	C14H17N5O7S2	10.849		missing SMILES		
-0260_00128	Phoxim	C12H15N2O3PS	11.463		missing SMILES		
 0260_00129	Metosulam	C14H13Cl2N5O4S	10.749		missing SMILES		
 0260_00130	Methamidophos	C2H8NO2PS	2.667		missing SMILES		
 0260_00131	Flurtamone	C18H14F3NO2	10.711		missing SMILES		
-0260_00132	Dimethomorph	C21H22ClNO4	11.301		missing SMILES		
 0260_00133	Dimethachlor	C13H18ClNO2	10.648		missing SMILES		
 0260_00134	Desmedipham	C16H16N2O4	10.447		missing SMILES		
 0260_00135	Clomazone	C12H14ClNO2	10.66		missing SMILES		
 0260_00136	Clofibrate (Clofibric acid ethyl ester)	C12H15ClO3	10.648		missing SMILES		
-0260_00137	Cinidon-ethyl	C19H17Cl2NO4	12.55		missing SMILES		
 0260_00138	Chlorthiamid	C7H5Cl2NS	9.281		missing SMILES		
 0260_00139	Piperophos	C14H28NO3PS2	11.639		missing SMILES		
 0260_00140	Propiconazol	C15H17Cl2N3O2	11.363		missing SMILES		
@@ -145,7 +129,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00144	Fluometuron	C10H11F3N2O	9.861		missing SMILES		
 0260_00145	Oxasulfuron	C17H18N4O6S	10.585		missing SMILES		
 0260_00146	Triasulfuron	C14H16ClN5O5S	10.56		missing SMILES		
-0260_00147	Kresoxim-methyl	C18H19NO4	11.388		missing SMILES		
 0260_00148	Pendimethalin	C13H19N3O4	11.999		missing SMILES		
 0260_00149	Tyrosin	C9H11NO3	10.447		missing SMILES		
 0260_00150	Paracetamol	C8H9NO2	4.85		missing SMILES		
@@ -162,7 +145,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00161	Propaquizafop	C22H22ClN3O5	12.051		missing SMILES		
 0260_00162	Prosulfocarb	C14H21NOS	11.463		missing SMILES		
 0260_00163	Diclofenac	C14H11Cl2NO2	11.062		missing SMILES		
-0260_00164	Norethisterone acetate	C22H28O3	11.857		missing SMILES		
 0260_00165	TolfenamicsÃ¤ure	C14H12ClNO2	11.388		missing SMILES		
 0260_00166	Penconazol	C13H15Cl2N3	11.125		missing SMILES		
 0260_00167	Alachlor	C14H20ClNO2	11.125		missing SMILES		
@@ -172,20 +154,15 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00171	Desethylsebutylazin	C7H12ClN5	9.435		missing SMILES		
 0260_00172	Fenuron	C9H12N2O	8.606		missing SMILES		
 0260_00173	Mevinphos	C7H13O6P	8.88		missing SMILES		
-0260_00174	Dimethenamid-P	C12H18ClNO2S	10.849		missing SMILES		
 0260_00175	Monuron	C9H11ClN2O	9.629		missing SMILES		
 0260_00176	Boscalid	C18H12Cl2N2O	10.861		missing SMILES		
 0260_00177	Bupirimate	C13H24N4O3S	11.025		missing SMILES		
 0260_00178	Carbaryl	C12H11NO2	10.092		missing SMILES		
 0260_00179	Diazinon	C12H21N2O3PS	11.225		missing SMILES		
-0260_00180	Methacrifos	C7H13O5PS	10.62		missing SMILES		
 0260_00181	Terbutylazine-2-hydroxy	C9H17N5O	8.779		missing SMILES		
 0260_00182	Cyprodinil	C14H15N3	10.933		missing SMILES		
 0260_00183	Fenbuconazole	C19H17ClN4	11.246		missing SMILES		
 0260_00184	Fenhexamid	C14H17Cl2NO2	10.67		missing SMILES		
-0260_00185	Fenpyroximate	C24H27N3O4	12.173		missing SMILES		
-0260_00186	Indoxacarb	C22H17ClF3N3O7	11.698		missing SMILES		
-0260_00187	Iprovalicarb	C18H28N2O3	10.695		missing SMILES		
 0260_00188	Methoxyfenozide	C22H28N2O3	10.845		missing SMILES		
 0260_00189	Myclobutanil	C15H17ClN4	10.87		missing SMILES		
 0260_00190	Omethoate	C5H12NO4PS	5.2		missing SMILES		
@@ -197,17 +174,14 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00196	Tetraconazole	C13H11Cl2F4N3O	10.908		missing SMILES		
 0260_00197	Thiacloprid	C10H9ClN4S	10.041		missing SMILES		
 0260_00198	Tolyfluanid	C10H13Cl2FN2O2S2	11.258		missing SMILES		
-0260_00199	Trifloxystrobin	C20H19F3N2O4	11.547		missing SMILES		
 0260_00200	Propyphenazon	C14H18N2O	10.381		missing SMILES		
 0260_00201	Metaldehyd	C8H16O4	8.583		missing SMILES		
 0260_00202	DMAP (Dimethylaminophenazon)	C13H17N3O	7.317		missing SMILES		
 0260_00203	Cyclophosphamide	C7H15Cl2N2O2P	9.591		missing SMILES		
-0260_00204	L-Phenylalanine	C9H11NO2	2.96		missing SMILES		
 0260_00205	Alprenolol	C15H23NO2	9.759		missing SMILES		
 0260_00206	Phenazon	C11H12N2O	9.101		missing SMILES		
 0260_00207	Acephate	C4H10NO3PS	3.384		missing SMILES		
 0260_00208	Acetamiprid	C10H11ClN4	9.591		missing SMILES		
-0260_00209	Aldicarb-sulfoxide	C7H14N2O3S	6.565		missing SMILES		
 0260_00210	Benalaxyl	C20H23NO3	11.358		missing SMILES		
 0260_00211	Bromuconazole	C13H12BrCl2N3O	11.384		missing SMILES		
 0260_00212	Carbofuran-3-hydroxy	C12H15NO4	8.83		missing SMILES		
@@ -216,7 +190,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00215	Cyromazine	C6H10N6	2.762		missing SMILES		
 0260_00216	Demeton-S-methyl-sulfone	C6H15O5PS2	8.362		missing SMILES		
 0260_00217	Diethofencarb	C14H21NO4	10.556		missing SMILES		
-0260_00218	Diniconazole	C15H17Cl2N3O	11.083		missing SMILES		
 0260_00219	Diphenylamine	C12H11N	10.845		missing SMILES		
 0260_00220	Disulfoton	C8H19O2PS3	11.484		missing SMILES		
 0260_00221	Disulfoton-sulfone	C8H19O4PS3	10.607		missing SMILES		
@@ -230,7 +203,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00229	Flusilazole	C16H15F2N3Si	11.158		missing SMILES		
 0260_00230	Heptenophos	C9H12ClO4P	10.444		missing SMILES		
 0260_00231	Hexaconazole	C14H17Cl2N3O	11.008		missing SMILES		
-0260_00232	Hexythiazox	C17H21ClN2O2S	12.017		missing SMILES		
 0260_00233	Imazalil	C14H14Cl2N2O	10.394		missing SMILES		
 0260_00234	Malaoxon	C10H19O7PS	10.142		missing SMILES		
 0260_00235	Mecarbam	C10H20NO5PS2	11.283		missing SMILES		
@@ -242,7 +214,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00241	Methiocarb	C11H15NO2S	10.63		missing SMILES		
 0260_00242	Methiocarb-sulfone	C11H15NO4S	9.509		missing SMILES		
 0260_00243	Nuarimol	C17H12ClFN2O	10.768		missing SMILES		
-0260_00244	Oxamyl	C7H13N3O3S	7.936		missing SMILES		
 0260_00245	Pencycuron	C19H21ClN2O	11.46		missing SMILES		
 0260_00246	Phenthoate	C12H17O4PS2	11.335		missing SMILES		
 0260_00247	Phosalone	C12H15ClNO4PS2	11.713		missing SMILES		
@@ -252,17 +223,14 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00251	Pirimiphos-methyl	C11H20N3O3PS	11.335		missing SMILES		
 0260_00252	Propamocarb	C9H20N2O2	5.349		missing SMILES		
 0260_00253	Propoxur	C11H15NO3	9.831		missing SMILES		
-0260_00254	Pymetrozine	C10H11N5O	6.198		missing SMILES		
 0260_00255	Pyraclostrobin	C19H18ClN3O4	11.599		missing SMILES		
 0260_00256	Pyrazophos	C14H20N3O5PS	11.955		missing SMILES		
 0260_00257	Pyridaphenthion	C14H17N2O4PS	11.21		missing SMILES		
 0260_00258	Pyrimethanil	C12H13N3	10.341		missing SMILES		
-0260_00259	Rotenone	C23H22O6	11.955		missing SMILES		
 0260_00260	Spirodiclofen	C21H24Cl2O4	12.019		missing SMILES		
 0260_00261	Spiroxamine	C18H35NO2	10.793		missing SMILES		
 0260_00262	Tebufenozide	C22H28N2O2	10.959		missing SMILES		
 0260_00263	Thiabendazole	C10H7N3S	8.575		missing SMILES		
-0260_00264	Thiamethoxam	C8H10ClN5O3S	8.679		missing SMILES		
 0260_00265	Toclofos-methyl	C9H11Cl2O3PS	11.536		missing SMILES		
 0260_00266	Triadimefon	C14H16ClN3O2	10.832		missing SMILES		
 0260_00267	Fenthion-sulfoxide	C10H15O4PS2	10.529		missing SMILES		
@@ -271,13 +239,11 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00270	Tebutam	C15H23NO	10.971		missing SMILES		
 0260_00271	Napropamide	C17H21NO2	11.148		missing SMILES		
 0260_00272	Methomyl	C5H10N2O2S	7.818		missing SMILES		
-0260_00273	Aldicarb-sulfone (Aldoxycarb)	C7H14N2O4S	7.269		missing SMILES		
 0260_00274	Quinalophos	C12H15N2O3PS	11.335		missing SMILES		
 0260_00275	Sulcotrione	C14H13ClO5S	10.479		missing SMILES		
 0260_00276	Mesotrione	C14H13NO7S	10.265		missing SMILES		
 0260_00277	Demeton-S-methyl-sulfoxide (Oxydementon-methyl)	C6H15O4PS2	8.027		missing SMILES		
 0260_00278	Trichlorfon	C4H8Cl3O4P	8.236		missing SMILES		
-0260_00279	Dikegulac	C12H18O7	9.108		missing SMILES		
 0260_00280	Coumarin	C9H6O2	9.638		missing SMILES		
 0260_00281	2-Chloroaniline	C6H6ClN	9.108		missing SMILES		
 0260_00282	iso-Chloridazon	C10H8ClN3O	9.96		missing SMILES		
@@ -285,14 +251,12 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00284	Isofenphos (-ethyl)	C15H24NO4PS	11.26		missing SMILES		
 0260_00285	DMSA	C8H12N2O2S	9.444		missing SMILES		
 0260_00286	DMST	C9H14N2O2S	9.908		missing SMILES		
-0260_00287	Diallate	C10H17Cl2NOS	11.36		missing SMILES		
 0260_00288	Lenacil	C13H18N2O2	10.404		missing SMILES		
 0260_00289	Propachlor	C11H14ClNO	10.504		missing SMILES		
 0260_00290	Isofenphos-methyl	C14H22NO4PS	11.11		missing SMILES		
 0260_00291	Spiromesifen	C23H30O4	11.827		missing SMILES		
 0260_00292	Fosthiazate	C9H18NO3PS2	10.379		missing SMILES		
 0260_00293	Triflumizole	C15H15ClF3N3O	11.335		missing SMILES		
-0260_00294	Cycloxydim	C17H27NO3S	11.764		missing SMILES		
 0260_00295	Triforine	C10H14Cl6N4O2	10.479		missing SMILES		
 0260_00296	Tolyltriazole	C7H7N3	8.952		missing SMILES		
 0260_00297	1-H-Benzotriazol	C6H5N3	7.871		missing SMILES		
@@ -301,7 +265,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00300	5,6-Dimethyl-1,1,1-benzotriazol	C8H9N3	9.514		missing SMILES		
 0260_00301	Benzothiazole-6-carbonsÃ¤ure	C8H5NO2S	9.386		missing SMILES		
 0260_00302	Quinmerac 518-5	C11H8ClNO3	9.068		missing SMILES		
-0260_00303	Nadolol	C17H27NO4	8.115		missing SMILES		
 0260_00304	Imaxamox	C15H19N3O4	9.347		missing SMILES		
 0260_00305	Sulfadoxine	C12H14N4O4S	9.245		missing SMILES		
 0260_00306	Sulfathiazole	C9H9N3O2S2	8.037		missing SMILES		
@@ -327,7 +290,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00326	Clothianidin	C6H8ClN5O2S	8.794		missing SMILES		
 0260_00327	Tritosulfuron	C13H9F6N5O4S	10.987		missing SMILES		
 0260_00328	Tritosulfuron BH 635-5, AMTT	C5H5F3N4O	8.35		missing SMILES		
-0260_00329	Dimoxystrobin	C19H22N2O3	11.228		missing SMILES		
 0260_00330	Pethoxamid	C16H22ClNO2	11.127		missing SMILES		
 0260_00331	4-Nonylphenol-di-ethoxylate	C19H32O3	11.896		missing SMILES		
 0260_00332	Dimethylphthalat DMP	C10H10O4	9.845		missing SMILES		
@@ -335,36 +297,27 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00334	Diisobutylphthalat	C16H22O4	11.378		missing SMILES		
 0260_00335	Butylbenzylphthalat	C19H20O4	11.579		missing SMILES		
 0260_00336	Dicyclohexylphthalat	C20H26O4	11.922		missing SMILES		
-0260_00337	(-) - alpha-Bisabolol	C15H26O	10.452		missing SMILES		
-0260_00338	Licochalcone A	C21H22O4	10.923		missing SMILES		
 0260_00339	Tritosulfuron BH 635-4	C10H10F3N5O4S	8.585		missing SMILES		
 0260_00340	Metazachlor BH 479-11	C15H19N3O2S	9.628		missing SMILES		
-0260_00341	Dimoxystrobin 505 M08	C19H20N2O5	10.49		missing SMILES		
 0260_00342	Metalaxyl CGA 108906	C14H17NO6	9.424		missing SMILES		
-0260_00343	Metalaxyl NOA 409045 CGA 62826	C14H19NO4	10.06		missing SMILES		
 0260_00344	Metazachlor-BH 479-12	C14H13N3O5	8.493		missing SMILES		
 0260_00345	Metazachlor-BH 479-9	C16H19N3O4S	9.309		missing SMILES		
 0260_00346	Quinmerac-BH 518-2	C11H6ClNO4	9.039		missing SMILES		
-0260_00347	Trifloxystrobin-CGA321113	C19H17F3N2O4	11.089		missing SMILES		
 0260_00348	Clenbuterol	C12H18Cl2N2O	8.884		missing SMILES		
-0260_00349	Sitagliptin	C16H15F6N5O	8.949		missing SMILES		
 0260_00350	Flecainide	C17H20F6N2O3	9.794		missing SMILES		
 0260_00351	Mefenamic acid	C15H15NO2	11.24		missing SMILES		
-0260_00352	Testosteron	C19H28O2	11.228		missing SMILES		
 0260_00353	Dimethenamid M31	C14H21NO5S2	9.781		missing SMILES		
 0260_00354	TMDD	C14H26O2	11.102		missing SMILES		
 0260_00355	5-Methyl-1-H-benzotriazol	C7H7N3	8.949		missing SMILES		
 0260_00356	Triamterene	C12H11N7	8.975		missing SMILES		
 0260_00357	S-Metolachlor CGA 368208	C11H15NO4S	8.141		missing SMILES		
 0260_00358	Dimethachlor SYN 528702	C15H21NO5S	9.602		missing SMILES		
-0260_00359	Clindamycin	C18H33ClN2O5S	9.551		missing SMILES		
 0260_00360	Iothalamin SÃ¤ure	C11H9I3N2O4	4.011		missing SMILES		
 0260_00361	Sulfadimethoxine	C12H14N4O4S	9.631		missing SMILES		
 0260_00362	Flazasulfuron	C13H12F3N5O5S	10.911		missing SMILES		
 0260_00363	Dipropylphthalat	C14H18O4	10.987		missing SMILES		
 0260_00364	Di-n-octylphthalat	C24H38O4	12.533		missing SMILES		
 0260_00365	Flufenacet-oxalat (OA)	C11H12FNO3	8.868		missing SMILES		
-0260_00366	Dimoxystrobin-505M09	C19H20N2O5	10.595		missing SMILES		
 0260_00367	Dimethachlor CGA 102935	C12H13NO5	8.92		missing SMILES		
 0260_00368	S-Metolachlor CGA 357704	C14H17NO5	9.9		missing SMILES		
 0260_00369	2.2.6.6-Tetramethyl-4-piperidone	C9H17NO	2.417		missing SMILES		
@@ -372,15 +325,10 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00371	Tris-(2-chloroisopropyl)phosphate	C9H18Cl3O4P	10.785		missing SMILES		
 0260_00372	Tris-(2-chloroethyl)phosphate	C6H12Cl3O4P	10.142		missing SMILES		
 0260_00373	AcetylsalicylsÃ¤ure	C9H8O4	10.987		missing SMILES		
-0260_00374	Chlortetracyclin	C22H23ClN2O8	8.894		missing SMILES		
-0260_00375	Doxicyclin	C22H24N2O8	10.002		missing SMILES		
-0260_00376	Erythromycin (mixture of A, B,C)	C37H67NO13	10.456		missing SMILES		
-0260_00377	Oxytetracyclin	C22H24N2O9	8.842		missing SMILES		
 0260_00378	Pentoxifylline	C13H18N4O3	10.142		missing SMILES		
 0260_00379	Betaxolol	C18H29NO3	9.912		missing SMILES		
 0260_00380	Pindolol	C14H20N2O2	8.244		missing SMILES		
 0260_00381	Etofibrat	C18H18ClNO5	9.798		missing SMILES		
-0260_00382	Hydrocortisone	C21H30O5	10.267		missing SMILES		
 0260_00383	Genistein	C15H10O5	10.167		missing SMILES		
 0260_00384	Coumestrol	C15H8O5	10.406		missing SMILES		
 0260_00385	Oxypurinol	C5H4N4O2	10.368		missing SMILES		
@@ -395,36 +343,28 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00394	PEMA	C11H14N2O2	7.6		missing SMILES		
 0260_00395	Carbamazepine-10,11-epoxide	C15H12N2O2	9.772		missing SMILES		
 0260_00396	4-Methylbenzotriazole	C7H7N3	8.946		missing SMILES		
-0260_00397	Ranitidine	C13H22N4O3S	7.271		missing SMILES		
 0260_00398	Famotidine	C8H15N7O2S3	6.212		missing SMILES		
 0260_00399	Tris(2-chloro-1-(chloromethyl)ethyl)phosphat	C9H15Cl6O4P	11.252		missing SMILES		
 0260_00400	Metronidazole	C6H9N3O3	5.973		missing SMILES		
 0260_00401	Ronidazole	C6H8N4O4	7.627		missing SMILES		
 0260_00402	Sulfamerazine	C11H12N4O2S	8.373		missing SMILES		
-0260_00403	Furazolidone	C8H7N3O5	8.712		missing SMILES		
 0260_00404	Florasulam	C12H8F3N5O3S	10.305		missing SMILES		
 0260_00405	Acetylsulfamethoxazole	C12H13N3O4S	9.322		missing SMILES		
 0260_00406	Metformin	C4H11N5	1.702		missing SMILES		
 0260_00407	Irgarol (Cybutryn)	C11H19N5S	10.696		missing SMILES		
 0260_00408	DEET(N,N-Diethyl-meta-toluamide)	C12H17NO	10.393		missing SMILES		
-0260_00409	Hydrocortisone 21-acetat	C23H32O6	10.76		missing SMILES		
 0260_00410	1-Adamantylamin	C10H17N	7.785		missing SMILES		
-0260_00411	Crotamiton	C13H17NO	10.684		missing SMILES		
 0260_00412	N-n-Butylbenzenesulfonamide	C10H15NO2S	10.104		missing SMILES		
 0260_00413	1-Aminonaphthalene	C10H9N	8.607		missing SMILES		
 0260_00414	N,N-Dimethylaniline	C8H11N	3.995		missing SMILES		
-0260_00415	Simvastatin	C25H38O5	11.644		missing SMILES		
 0260_00416	Ritalinic acid	C13H17NO2	8.36		missing SMILES		
-0260_00417	Tetracyclin	C22H24N2O8	8.814		missing SMILES		
 0260_00418	Sulfadimidin	C12H14N4O2S	8.801		missing SMILES		
-0260_00419	10,11-Dihydro-10,11dihydroxy-carbamazepin	C15H14N2O3	9.072		missing SMILES		
 0260_00420	Dapson	C12H12N2O2S	8.878		missing SMILES		
 0260_00421	Trinexapac-ethyl	C13H16O5	10.817		missing SMILES		
 0260_00422	Tributylphosphat	C12H27O4P	11.16		missing SMILES		
 0260_00423	Thiophanate-methyl	C12H14N4O4S2	10.171		missing SMILES		
 0260_00424	3-Amino-1-adamantanol	C10H17NO	2.501		missing SMILES		
 0260_00425	2,4,6-Tris[bis(methoxy methyl)amino]-1,3,5-triazine (HMMM)	C15H30N6O6	10.461		missing SMILES		
-0260_00426	Picoxystrobin	C18H16F3NO4	11.26		missing SMILES		
 0260_00427	Fluopicolide	C14H8Cl3F3N2O	10.894		missing SMILES		
 0260_00428	Terbutylazin 1 SYN 545666	C8H14N4O2	8.293		missing SMILES		
 0260_00429	Terbutylazin 2 CGA 324007	C7H12N4O2	6.384		missing SMILES		
@@ -456,40 +396,29 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00455	Carboxyibuprofen	C13H16O4	9.407		missing SMILES		
 0260_00456	1-Hydroxyibuprofen	C13H18O3	10.234		missing SMILES		
 0260_00457	4-Hydroxy-Diclofenac	C14H11Cl2NO3	10.436		missing SMILES		
-0260_00458	Tramadol	C16H25NO2	8.917		missing SMILES		
 0260_00459	4-Hydroxy-1H-benzotriazole	C6H5N3O	6.04		missing SMILES		
 0260_00460	4-Nitrosulfamethoxazol	C10H9N3O5S	10.36		missing SMILES		
-0260_00461	Tramadol-N-oxide	C16H25NO3	9.085		missing SMILES		
 0260_00462	ValsartansÃ¤ure	C14H10N4O2	9.674		missing SMILES		
-0260_00463	Codein	C18H21NO3	7.731		missing SMILES		
 0260_00464	Temazepan C-IV	C16H13ClN2O2	10.92		missing SMILES		
 0260_00465	Losartan	C22H23ClN6O	10.6		missing SMILES		
-0260_00466	Eprosartan	C23H24N2O4S	10.006		missing SMILES		
 0260_00467	Telmisartan	C33H30N4O2	12.167		missing SMILES		
 0260_00468	Azilsartan	C25H20N4O5	11.009		missing SMILES		
 0260_00469	Olmesartan	C24H26N6O3	9.674		missing SMILES		
 0260_00470	Candesartan	C24H20N6O3	10.817		missing SMILES		
 0260_00471	Sulpiride N-Oxide	C15H23N3O5S	7.573		missing SMILES		
 0260_00472	Daminozide	C6H12N2O3	1.918		missing SMILES		
-0260_00473	Dexpanthenol	C9H19NO4	3.123		missing SMILES		
 0260_00474	Dicyclohexylamine	C12H23N	9.072		missing SMILES		
 0260_00475	1-Formylpiperidine	C6H11NO	7.587		missing SMILES		
 0260_00476	Aspartam	C14H18N2O5	8.204		missing SMILES		
-0260_00477	Levetiracetam	C8H14N2O2	6.026		missing SMILES		
 0260_00478	Gabapentin	C9H17NO2	5.973		missing SMILES		
 0260_00479	2-Hydroxyibuprofen	C13H18O3	10.228		missing SMILES		
 0260_00480	1-Hydroxybenzotriazol	C6H5N3O	5.681		missing SMILES		
-0260_00481	ClavulansÃ¤ure	C8H9NO5	2.658		missing SMILES		
-0260_00482	Cefixim	C16H15N5O7S2	9.076		missing SMILES		
-0260_00483	Cefachlor	C15H14ClN3O4S	7.705		missing SMILES		
 0260_00484	Amisulpride N-Oxide	C17H27N3O5S	8.752		missing SMILES		
 0260_00485	Micounazol	C18H14Cl4N2O	11.924		missing SMILES		
 0260_00486	Clotrimazol	C22H17ClN2	11.542		missing SMILES		
-0260_00487	Ambroxol	C13H18Br2N2O	9.346		missing SMILES		
 0260_00488	Lamotrigin-N2-Oxid	C9H7Cl2N5O	8.881		missing SMILES		
 0260_00489	4-Aminoantipyrin	C11H13N3O	7.032		missing SMILES		
 0260_00490	Fluxapyroxad	C18H12F5N3O	10.743		missing SMILES		
-0260_00491	Pregabalin	C8H17NO2	4.859		missing SMILES		
 0260_00492	Thiacloprid-amide	C10H11ClN4OS	9.372		missing SMILES		
 0260_00493	Metolcarb	C9H11NO2	9.489		missing SMILES		
 0260_00494	Propham	C10H13NO2	10.089		missing SMILES		
@@ -498,7 +427,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00497	Aminocarb	C11H16N2O2	6.384		missing SMILES		
 0260_00498	Promecarb	C12H17NO2	10.567		missing SMILES		
 0260_00499	Norflurazon	C12H9ClF3N3O	10.517		missing SMILES		
-0260_00500	Propetamphos	C10H20NO4PS	10.793		missing SMILES		
 0260_00501	Fenamiphos-sulfone	C13H22NO5PS	10.077		missing SMILES		
 0260_00502	4-Amino-3-chlortoluol	C7H8ClN	9.604		missing SMILES		
 0260_00503	Monalide	C13H18ClNO	10.718		missing SMILES		
@@ -525,7 +453,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00524	Dibutylphthalat	C16H22O4	11.414		missing SMILES		
 0260_00525	Triphenylphosphine oxide	C18H15OP	11.013		missing SMILES		
 0260_00526	Nafronyl	C24H33NO3	11.238		missing SMILES		
-0260_00527	Rivastigmin	C14H22N2O2	8.975		missing SMILES		
 0260_00528	3-Hydroxyibuprofen	C13H18O3	10.243		missing SMILES		
 0260_00529	1,3-Diphenylharnstoff	C13H12N2O	10.129		missing SMILES		
 0260_00530	XMC (3,5-xylyl methylcarbamate)	C10H13NO2	10.003		missing SMILES		
@@ -533,41 +460,30 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00532	Fenobucarb	C12H17NO2	10.394		missing SMILES		
 0260_00533	2-Amino-6-chlorotoluol	C7H8ClN	9.155		missing SMILES		
 0260_00534	3-(Trifluormethyl)anilin	C7H6F3N	9.477		missing SMILES		
-0260_00535	Pilocarpine	C11H16N2O2	5.311		missing SMILES		
 0260_00536	2-Ethoxybenzamide	C9H11NO2	9.439		missing SMILES		
 0260_00537	1-Phenylpyrrole	C10H9N	1.773		missing SMILES		
 0260_00538	N-Methylbenzenesulfonamide	C7H9NO2S	8.571		missing SMILES		
 0260_00539	Alachlor tert-oxanilic acid (OA)	C14H19NO4	10.066		missing SMILES		
 0260_00540	Didecyldimethylammoniumchlorid	C22H48N	12.655		missing SMILES		
 0260_00541	Citalopram	C20H21FN2O	10.091		missing SMILES		
-0260_00542	Perindopril	C19H32N2O5	10.104		missing SMILES		
 0260_00543	Amlodipine	C20H25ClN2O5	10.532		missing SMILES		
 0260_00544	Enrofloxacin	C19H22FN3O3	9.388		missing SMILES		
 0260_00545	Marbofloxacin	C17H19FN4O4	8.871		missing SMILES		
-0260_00546	Orbifloxacin	C19H20F3N3O3	9.594		missing SMILES		
 0260_00547	Sulfamethoxypyridazin	C11H12N4O3S	8.935		missing SMILES		
 0260_00548	Sulfaethoxipyridazin	C12H14N4O3S	9.491		missing SMILES		
 0260_00549	Sulfapyridine	C11H11N3O2S	8.049		missing SMILES		
-0260_00550	Danofloxacin	C19H20FN3O3	9.064		missing SMILES		
 0260_00551	Sulfachinoxalin	C14H12N4O2S	9.798		missing SMILES		
 0260_00552	Pyroxsulam	C14H13F3N6O5S	10.583		missing SMILES		
 0260_00553	O-Desmethylvenlafaxine	C16H25NO2	8.44		missing SMILES		
 0260_00554	Beflubutamid	C18H17F4NO2	10.963		missing SMILES		
 0260_00555	Sulfachloropyridazine	C10H9ClN4O2S	9.104		missing SMILES		
-0260_00556	Erithromycin A	C37H67NO13	10.482		missing SMILES		
 0260_00557	Cotinine	C10H12N2O	3.097		missing SMILES		
 0260_00558	Ofloxacine	C18H20FN3O4	8.961		missing SMILES		
-0260_00559	Benthiavalicarb-Isopropyl	C18H24FN3O3S	10.761		missing SMILES		
 0260_00560	Bixafen	C18H12Cl2F3N3O	11.088		missing SMILES		
-0260_00561	Clodinafop	C14H11ClFNO4	10.824		missing SMILES		
-0260_00562	Cyflufenamid	C20H17F5N2O2	11.289		missing SMILES		
-0260_00563	Fluoxastrobin	C21H16ClFN4O5	11.527		missing SMILES		
 0260_00564	Mandipropamid	C23H22ClNO4	11.088		missing SMILES		
 0260_00565	Silthoifam	C13H21NOSSi	10.875		missing SMILES		
-0260_00566	Tepraloxydim	C17H24ClNO4	11.263		missing SMILES		
 0260_00567	Triazoxide	C10H6ClN5O	11.741		missing SMILES		
 0260_00568	Tembotrione	C17H16ClF3O6S	11.351		missing SMILES		
-0260_00569	Triticonazole	C17H20ClN3O	10.875		missing SMILES		
 0260_00570	3-Isochromanone	C9H8O2	9.439		missing SMILES		
 0260_00571	2-Amino-4-methoxy-6-methyl-1.3.5-triazine (MMT)	C5H8N4O	3.865		missing SMILES		
 0260_00572	Coumatetralyl	C19H16O3	11.05		missing SMILES		
@@ -594,11 +510,9 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00593	Mepiquat chloride	C7H16N	2.26		missing SMILES		
 0260_00594	Chlormequat chloride	C5H13ClN	1.797		missing SMILES		
 0260_00595	Clofentezine	C14H8Cl2N4	11.577		missing SMILES		
-0260_00596	Nicotin	C10H14N2	2.393		missing SMILES		
 0260_00597	Rhodamin B	C28H30N2O3	14.98		missing SMILES		
 0260_00598	AHTN (Tonalide)	C18H26O	11.692		missing SMILES		
 0260_00599	Diazepam	C16H13ClN2O	11.237		missing SMILES		
-0260_00600	Dihydrocodein	C18H23NO3	7.653		missing SMILES		
 0260_00601	Acridin	C13H9N	9.401		missing SMILES		
 0260_00602	2-Amino-3-chlorotoluol	C7H8ClN	10.006		missing SMILES		
 0260_00603	Ethyl 4-aminobenzoate	C9H11NO2	9.479		missing SMILES		
@@ -610,7 +524,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00609	Chlorbromuron	C9H10BrClN2O2	10.613		missing SMILES		
 0260_00610	Metconazol	C17H22ClN3O	11.123		missing SMILES		
 0260_00611	Oxadiazon	C15H18Cl2N2O3	11.59		missing SMILES		
-0260_00612	2-Ethylhexyl 4-methoxycinnamate	C18H26O3	10.881		missing SMILES		
 0260_00613	Butachlor ESA	C17H27NO5S	11.212		missing SMILES		
 0260_00614	Venlafaxine	C17H27NO2	9.543		missing SMILES		
 0260_00615	Fluopyram	C16H11ClF6N2O	10.753		missing SMILES		
@@ -627,7 +540,6 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00626	Neostigmine	C12H19N2O2	7.39		missing SMILES		
 0260_00627	Edrophonium	C10H15NO	4.223		missing SMILES		
 0260_00628	Pyridostigmine	C9H13N2O2	3.719		missing SMILES		
-0260_00629	Galantamine	C17H21NO3	7.179		missing SMILES		
 0260_00630	Irbesartan_446	C25H30N6O2	10.476		missing SMILES		
 0260_00631	Methyl-Desphenyl-Chloridazon	C5H6ClN3O	5.459		missing SMILES		
 0260_00632	S-Metolachlor CGA 380168 CGA 354743 = Metolachlor ESA	C15H23NO5S	9.906		missing SMILES		
@@ -637,21 +549,15 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0260_00636	Dimethachlor SYN 530561	C13H17NO5	9.016		missing SMILES		
 0260_00637	Dimethachlor CGA 373464	C12H15NO6S	9.571		missing SMILES		
 0260_00638	Pinoxaden	C23H32N2O4	11.277		missing SMILES		
-0260_00639	Crotetamid	C12H22N2O2	9.623		missing SMILES		
 0260_00640	DL-Glutethimide	C13H15NO2	10.149		missing SMILES		
-0260_00641	Valsartan	C24H29N5O3	10.831		missing SMILES		
 0260_00642	Triamiphos	C12H19N6OP	10.401		missing SMILES		
 0260_00643	(+-)-Amphetamine	C9H13N	6.307		missing SMILES		
-0260_00644	(-)-Riboflavin	C17H20N4O6	8.978		missing SMILES		
-0260_00645	Deoxynivalenol	C15H20O6	10.742		missing SMILES		
-0260_00646	Zearalenone	C18H22O5	11.048		missing SMILES		
 0260_00647	Butachlor-OA	C17H25NO4	10.895		missing SMILES		
 0260_00648	Bisoprolol_M1	C15H23NO5	7.749		missing SMILES		
 0260_00649	Bisoprolol_M3	C13H19NO4	7.234		missing SMILES		
 0260_00650	Bisoprolol_M4	C15H25NO4	7.749		missing SMILES		
 0260_00651	Cyazofamid	C13H13ClN4O2S	11.348		missing SMILES		
 0260_00652	Etrimfos	C10H17N2O4PS	11.222		missing SMILES		
-0260_00653	Nitenpyram	C11H15ClN4O2	7.844		missing SMILES		
 0260_00654	Sebuthylazine-2-hydroxy	C9H17N5O	8.759		missing SMILES		
 0260_00655	Sebuthylazine-desethyl-2-hydroxy	C7H13N5O	4.466		missing SMILES		
 0260_00656	Trinexapac	C11H12O5	9.809		missing SMILES		
