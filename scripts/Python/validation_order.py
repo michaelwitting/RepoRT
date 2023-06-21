@@ -163,8 +163,10 @@ class Detector():
 
     def get_all_series_unreasonable_flips(self, criterion, dataset_query):
         # get corresponding cluster
+        print('INFO: looking for dataset clusters of systematic measurements with query', dataset_query)
         clusters = self.get_series_clusters(criterion, dataset_query)
         if len(clusters) == 0:
+            print('INFO: no clusters found')
             return
         for spec, series in clusters.items():
             print('INFO: looking for unlikely double order inversions for cluster',
@@ -188,7 +190,11 @@ class Detector():
 
 
     def get_all_cluster_conflicts(self, dataset_query):
+        print('INFO: looking for datasets measured under identical conditions with query', dataset_query)
         clusters = self.get_dataset_clusters(dataset_query)
+        if len(clusters) == 0:
+            print('INFO: no clusters found')
+            return
         for spec, c in clusters:
             print('INFO: looking for order conflicts in cluster',
                   ', '.join(f'{k}={v}' for k, v in spec), '; datasets:', ' '.join(c))
