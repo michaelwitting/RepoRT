@@ -26,6 +26,7 @@ class Detector():
         self.epsilon = epsilon
         self.metadata = pd.concat([pd.read_csv(f, sep='\t', dtype={'id': str}, index_col=0)
                                    for f in glob(self.repo_root + '/processed_data/*/*_metadata.txt')])
+        self.metadata.index = [str(i).rjust(4, '0') for i in self.metadata.index.tolist()]
         self.rtdata = self.get_rtdata()
 
     def get_rtdata(self, iso=True):
@@ -90,8 +91,8 @@ class Detector():
         for ds in cluster:
             void = self.metadata.loc[ds, 'column.t0']  * self.void_factor
             # remove duplicates
-            df = self.rtdata.loc[self.rtdata.dataset_id == ds].dropna(subset='rt')
-            dups_rt_diff = df.loc[df.duplicated(subset='smiles.std', keep=False)].groupby('smiles.std').rt.agg(
+            df = self.rtdata.loc[self.rtdata.dataset_id == ds].dropna(subset=['rt'])
+            dups_rt_diff = df.loc[df.duplicated(subset=['smiles.std'], keep=False)].groupby('smiles.std').rt.agg(
                 ['max', 'min']).diff(axis=1)['min'].abs()
             ignore_compounds.update(dups_rt_diff.loc[dups_rt_diff > rt_epsilon].index.tolist())
             # get all possible pairs
