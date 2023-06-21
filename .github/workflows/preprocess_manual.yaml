@@ -130,6 +130,9 @@ jobs:
       continue-on-error: true
       if: ${{ inputs.do_validation }}
 
+    - name: TEMPORARY Debug with tmate
+      uses: mxschmitt/action-tmate@v3
+
     - name: Retention order-based validation for datasets of systematic measurements
       run: python3 scripts/Python/validation_order.py --mode systematic ${{ inputs.datasets }}
       continue-on-error: true
