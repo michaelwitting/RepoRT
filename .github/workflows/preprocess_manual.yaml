@@ -115,6 +115,18 @@ jobs:
     - name: Update overview table of all datasets
       run: python3 scripts/Python/datasets_overview.py
       continue-on-error: true
+
+    - name: QSPR-based validation
+      run: python3 scripts/Python/validation_qspr.py ${{ inputs.datasets }}
+      continue-on-error: true
+
+    - name: Retention order-based validation for datasets with nominally identical setups
+      run: python3 scripts/Python/validation_order.py --mode same_condition ${{ inputs.datasets }}
+      continue-on-error: true
+
+    - name: Retention order-based validation for datasets of systematic measurements
+      run: python3 scripts/Python/validation_order.py --mode systematic ${{ inputs.datasets }}
+      continue-on-error: true
  
     - name: Commit preprocessing
       run: |
