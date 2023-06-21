@@ -13,7 +13,23 @@ def check_processed_file(f, fields):
     else:
         return (~pd.isna(df[fields]).all(axis=1)).sum()
 
-def print_stats(stats_raw, stats_processed, exist):
+def validation_file_len(f):
+    if os.path.exists(f):
+        return len(list(open(f).readlines())) - 1 # minus header
+    return 0
+
+def validation_stats(dataset, mode_):
+    if (mode_ == 'qspr'):
+        return validation_file_len(f'processed_data/{dataset}/{dataset}_validation_qspr_outliers.txt')
+    elif (mode_ == 'same_condition'):
+        return validation_file_len(f'processed_data/{dataset}/{dataset}_validation_same_condition.txt')
+    elif (mode_ == 'systematic'):
+        return (validation_file_len(f'processed_data/{dataset}/{dataset}_validation_systematic_column_temperature.txt')
+                + validation_file_len(f'processed_data/{dataset}/{dataset}_validation_systematic_column_flowrate.txt'))
+    else:
+        raise NotImplementedError(mode_)
+
+def print_stats(stats_raw, stats_processed, stats_val, exist):
     print(pd.DataFrame.from_records([{'mode': mode,
                                       'raw SMILES': stats_raw[f'{mode} SMILES'],
                                       'standardized SMILES': stats_processed[f'{mode} SMILES'],
@@ -25,7 +41,11 @@ def print_stats(stats_raw, stats_processed, exist):
     print(pd.DataFrame.from_records([{'entries without rt': stats_raw['entries without rt'],
                                       'entries without SMILES': stats_raw['entries without SMILES'],
                                       #TODO: duplicate entries
-                                      }]).to_markdown(index=False))
+                                      #TODO: validation with *pairs*
+                                      'entries flagged by QSPR-based validation': stats_val['qspr-flagged'],
+                                      'entry-pairs flagged by retention order-based validation (datasets with identical setups)': stats_val['same_condition-flagged'],
+                                      'entry-pairs flagged by retention order-based validation (systematic measurements)': stats_val['systematic-flagged']
+                                      }]).transpose().rename(columns={0: 'nr'}).to_markdown())
     # whether all files exist
     print('\n### Files successfully generated\n')
     for info in ['RTdata canonical',
@@ -45,6 +65,7 @@ def print_stats(stats_raw, stats_processed, exist):
 def check_dataset(dataset):
     stats_raw = {}
     stats_processed = {}
+    stats_val = {}
     raw_rtdata = pd.read_csv(f'raw_data/{dataset}/{dataset}_rtdata.txt', sep='\t')
     stats_raw['canonical SMILES'] = len(raw_rtdata.dropna(subset=['pubchem.smiles.canonical']))
     stats_raw['isomeric SMILES'] = len(raw_rtdata.dropna(subset=['pubchem.smiles.isomeric']))
@@ -82,8 +103,12 @@ def check_dataset(dataset):
                     ('report isomeric', f'processed_data/{dataset}/{dataset}_report_isomeric.pdf')]:
         if (os.path.exists(f)):
             exist.append(desc)
+    # validation
+    stats_val['qspr-flagged'] = validation_stats(dataset, 'qspr')
+    stats_val['same_condition-flagged'] = validation_stats(dataset, 'same_condition')
+    stats_val['systematic-flagged'] = validation_stats(dataset, 'systematic')
     # print everything
-    print_stats(stats_raw, stats_processed, exist)
+    print_stats(stats_raw=stats_raw, stats_processed=stats_processed, stats_val=stats_val, exist=exist)
     # reasons for failed classifications
     for f in [f'processed_data/{dataset}/{dataset}_rtdata_canonical_failed.txt', f'processed_data/{dataset}/{dataset}_rtdata_isomeric_failed.txt']:
         if (os.path.exists(f)):
