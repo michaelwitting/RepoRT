@@ -59,6 +59,8 @@ for(data_folder in data_folders) {
                                                    inchi.std = col_character(),
                                                    inchikey.std = col_character()))
 
+    cat(paste(Sys.time(), "descriptors canonical", data_folder, "\n"))
+
     # perform classification
     rcdk_descriptors <- map_dfr(rt_data_canonical$smiles.std, function(x) {
 
@@ -69,6 +71,8 @@ for(data_folder in data_folders) {
         desc_cache
 
       else {
+
+        cat(paste(Sys.time(), x, "\n"))
 
         # parse smiles into molecules
         mol <- parse.smiles(x)
@@ -110,8 +114,8 @@ for(data_folder in data_folders) {
   }
 
 
-  # canconical smiles data -----------------------------------------------------
-  # read canonical smiles data
+  # isomeric smiles data -----------------------------------------------------
+  # read isomeric smiles data
   rt_data_file <- list.files(data_folder,
                              pattern = "_rtdata_isomeric_success.txt$",
                              full.names = TRUE)
@@ -127,6 +131,8 @@ for(data_folder in data_folders) {
                                                   inchi.std = col_character(),
                                                   inchikey.std = col_character()))
 
+    cat(paste(Sys.time(), "descriptors isomeric", data_folder, "\n"))
+
     # perform classification
     rcdk_descriptors <- map_dfr(rt_data_isomeric$smiles.std, function(x) {
 
@@ -137,6 +143,8 @@ for(data_folder in data_folders) {
         desc_cache
 
       else {
+
+        cat(paste(Sys.time(), x, "\n"))
 
         # parse smiles into molecules
         mol <- parse.smiles(x)
