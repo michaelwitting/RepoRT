@@ -95,6 +95,18 @@ jobs:
       run: python3 scripts/Python/datasets_overview.py
       continue-on-error: true
 
+    - name: QSPR-based validation
+      run: python3 scripts/Python/validation_qspr.py ${{ steps.filesfolders.outputs.files }}
+      continue-on-error: true
+
+    - name: Retention order-based validation for datasets with nominally identical setups
+      run: python3 scripts/Python/validation_order.py --mode same_condition ${{ steps.filesfolders.outputs.files }}
+      continue-on-error: true
+
+    - name: Retention order-based validation for datasets of systematic measurements
+      run: python3 scripts/Python/validation_order.py --mode systematic ${{ steps.filesfolders.outputs.files }}
+      continue-on-error: true
+
     - name: Commit preprocessing
       run: |
         git config --global user.email 'actions@github.com'
