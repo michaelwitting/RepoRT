@@ -3,3 +3,4 @@ requests
 pubchempy
 zeep
 tabulate
+scikit-learn
