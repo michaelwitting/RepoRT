@@ -23,7 +23,7 @@
 # ==============================================================================
 # load required libraries
 # ==============================================================================
-options(java.parameters = "-Xmx4g" ) # more memory for descriptor computation
+options(java.parameters = c("-XX:+UseConcMarkSweepGC", "-Xmx8192m")) # more memory for descriptor computation
 library(tidyverse)
 library(rcdk)
 source("scripts/R_ci/helper_functions.R")
