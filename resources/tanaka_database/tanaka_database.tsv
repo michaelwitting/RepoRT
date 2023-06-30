@@ -1,0 +1,370 @@
+name_normalized	usp code	phase type	kPB	αCH2	αT/O	αC/P	αB/P	αB/P.1	particle size [µm]	pore size [A]	hplccolumns_number
+Thermo Scientific Acclaim 120 C18		C18	7.82	1.52	1.41	0.46	0.39	0.08	3	120	
+Thermo Scientific Acclaim Mixed-Mode HILIC-1		Diol	0.55	1.25	1.9	1.19	2.18	0.06	5	120	
+Thermo Scientific Acclaim Mixed Mode WAX-1		Alkyl/WAX	0.77	1.29	2.45	0.06	0.09	-0.1	5	120	
+Thermo Scientific Acclaim Mixed Mode WCX-1		Alkyl/WCX	0.66	1.16	3.33	0.48	1.84	0.05	5	120	
+Thermo Scientific Acclaim Polar Advantage		PEG	4.16	1.4	2.71	0.34	0.27	0.04	5	120	
+Thermo Scientific Acclaim Polar Advantage II		C18	4.28	1.45	1.87	0.26	0.34	0.05	3	120	
+Thermo Scientific Acclaim RSLC 120 C18		C18	7.62	1.51	1.37	0.44	0.38	0.1	2.2	120	
+Thermo Scientific Acclaim RSLC Polar Advantage II		C18	4.92	1.44	1.92	0.22	0.52	0.07	2.2	120	
+Thermo Scientific Accucore C18		C18	4.44	1.48	1.61	0.36	0.43	0.1	2.6 spp	150	
+Advanced Chromatography Technologies ACE C18		C18	5.22	1.48	1.59	0.39	0.32	0.11	3	100	
+Advanced Chromatography Technologies ACE C18-300		C18	2.41	1.46	1.58	0.37	0.38	0.11	3	300	
+Advanced Chromatography Technologies ACE C18-AR		Phenyl	4.33	1.42	1.75	0.76	0.42	0.13	3	100	
+Advanced Chromatography Technologies ACE C18-HL		C18	7.95	1.5	1.6	0.38	0.32	0.08	3	90	
+Advanced Chromatography Technologies ACE C18-PFP		PFP	4.34	1.39	3.04	0.54	0.31	0.11	5	100	
+Advanced Chromatography Technologies ACE C4		C4	1.09	1.29	0.71	0.44	0.37	0.14	3	100	
+Advanced Chromatography Technologies ACE C4-300		C4	0.49	1.28	0.73	0.46	0.49	0.17	3	300	
+Advanced Chromatography Technologies ACE C8		C8	2.41	1.36	1.0	0.34	0.31	0.11	3	100	
+Advanced Chromatography Technologies ACE C8-300		C8	1.38	1.31	1.0	0.35	0.42	0.19	3	300	
+Advanced Chromatography Technologies ACE CN		CN	0.18	1.0	1.88	0.68	0.0	0.16	3	100	
+Advanced Chromatography Technologies ACE CN-300		CN	0.29	1.0	1.0	1.28	0.0	0.33	3	300	
+Advanced Chromatography Technologies ACE Phenyl		Phenyl	1.14	1.27	1.03	1.25	0.59	0.16	5	100	
+Advanced Chromatography Technologies ACE Phenyl-300		Phenyl	0.55	1.25	1.03	1.28	0.61	0.23	3	300	
+Advanced Chromatography Technologies ACE AQ		PEG	2.53	1.36	1.26	0.48	0.36	0.11	5	100	
+Advanced Chromatography Technologies ACE C18		C18	5.44	1.48	1.56	0.38	0.32	0.11	5	100	
+Advanced Chromatography Technologies ACE C18-300		C18	2.41	1.47	1.61	0.35	0.34	0.11	5	300	
+Advanced Chromatography Technologies ACE C18-AR		Phenyl	4.5	1.42	1.74	0.75	0.35	0.12	5	100	
+Advanced Chromatography Technologies ACE C18-AR-300		Phenyl	1.95	1.41	1.8	0.71	0.44	0.08	5	300	
+Advanced Chromatography Technologies ACE C18-PFP		PFP	4.33	1.38	3.09	0.53	0.3	0.1	5	100	
+Advanced Chromatography Technologies ACE C18-PFP-300		PFP	1.85	1.36	3.02	0.52	0.35	0.11	5	300	
+Advanced Chromatography Technologies ACE C8		C8	2.36	1.36	1.0	0.34	0.31	0.11	5	100	
+Advanced Chromatography Technologies ACE CN		CN	0.26	1.08	1.73	0.51	0.0	0.15	5	100	
+Advanced Chromatography Technologies ACE Phenyl		Phenyl	1.2	1.26	1.0	1.14	0.46	0.14	5	100	
+Advanced Chromatography Technologies ACE SuperC18		C18	7.93	1.49	1.46	0.44	0.18	0.11	5	90	
+Advanced Chromatography Technologies ACE C18		C18	5.47	1.47	1.51	0.38	0.25	0.11	2	100	
+Advanced Chromatography Technologies ACE C18-Amide		PEG	4.17	1.39	2.07	0.26	0.21	0.07	10	100	
+Advanced Chromatography Technologies ACE C18-Amide		PEG	4.03	1.41	2.07	0.26	0.21	0.08	3	100	
+Advanced Chromatography Technologies ACE C18-Amide		PEG	4.3	1.41	2.11	0.25	0.2	0.07	5	100	
+Advanced Chromatography Technologies ACE C18-AR		Phenyl	4.35	1.41	1.71	0.75	0.29	0.12	2	100	
+Advanced Chromatography Technologies ACE C18-PFP		PFP	4.81	1.38	2.98	0.53	0.24	0.11	2	100	
+Advanced Chromatography Technologies ACE CN-ES		Cyano	2.34	1.3	4.44	0.17	0.0	0.04	2	100	
+Advanced Chromatography Technologies ACE CN-ES		Cyano	2.14	1.3	4.5	0.18	0.0	0.04	3	100	
+Advanced Chromatography Technologies ACE CN-ES		Cyano	2.19	1.3	4.57	0.17	0.22	0.05	5	100	
+Advanced Chromatography Technologies ACE SuperC18		C18	8.1	1.48	1.44	0.42	0.22	0.1	3.5	90	
+Advanced Chromatography Technologies ACE SuperC18		C18	7.28	1.47	1.42	0.43	0.23	0.11	3	90	
+Advanced Chromatography Technologies ACE UltraCore SuperPhenylHexyl		Phenyl	2.63	1.36	1.11	0.68	0.32	0.09	2.5spp	95	
+Advanced Chromatography Technologies ACE UltraCore SuperPhenylHexyl		Phenyl	2.5	1.37	1.1	0.67	0.31	0.09	5spp	95	
+Advanced Chromatography Technologies ACE UltraCore SuperC18		C18	6.33	1.49	1.46	0.39	0.32	0.09	2.5	95	
+Advanced Chromatography Technologies ACE UltraCore SuperC18		C18	5.61	1.5	1.45	0.4	0.32	0.1	5	95	
+Phase Analytical Technology, LLC ACME Amide/C18		PEG	3.44	1.41	1.77	0.29	0.19	0.07	3	120	
+Phase Analytical Technology, LLC ACME C18		C18	5.32	1.48	1.3	0.48	0.28	0.13	3	120	
+Phase Analytical Technology, LLC ACME F5/C18		PFP and C18	5.88	1.46	1.63	0.45	0.35	0.17	3	120	
+		C18	6.4	1.5	1.41	0.43	0.27	0.12	3	120	
+		C18	10.09	1.5	1.48	0.41	0.26	0.1	3	100	
+Phase Analytical Technology, LLC ACME PLUS		C18	4.3	1.48	1.4	0.41	0.39	0.12	3	120	
+Waters ACQUITY UPLC BEH C18		C18	4.0	1.47	1.37	0.56	0.21	0.1	1.7	130	
+Waters ACQUITY UPLC BEH C8		C8	1.16	1.34	0.86	0.59	0.31	0.13	1.7	130	
+Waters ACQUITY UPLC BEH Phenyl		Phenyl	1.64	1.3	1.0	0.85	0.42	0.18	1.7	130	
+Waters ACQUITY UPLC BEH Shield RP18		PEG	2.08	1.41	2.36	0.3	0.27	0.13	1.7	130	
+Waters ACQUITY UPLC CSH C18		C18	3.53	1.44	1.35	0.4	0.38	0.09	1.7	130	
+Waters ACQUITY UPLC CSH Fluoro-Phenyl		PFP	0.46	1.0	3.1	1.72	1.24	-0.06	1.7	130	
+Waters ACQUITY UPLC CSH Phenyl-Hexyl		Phenyl	1.47	1.31	1.13	0.7	0.42	0.07	1.7	130	
+Waters ACQUITY UPLC HSS C18		C18	7.38	1.48	1.47	0.37	0.24	0.11	1.8	100	
+Waters ACQUITY UPLC HSS C18 SB		C18	2.57	1.39	1.94	1.86	4.99	0.16	1.8	100	
+Waters ACQUITY UPLC HSS T3		C18	6.02	1.5	1.19	0.5	0.34	0.12	1.8	100	
+Waters ACQUITY UPLC BEH C18		C18	3.99	1.47	1.38	0.37	0.23	0.09	1.7	130	
+		C18	1.97	1.48	1.41	0.38	0.22	0.11	1.7	300	
+Phenomenex Aeris PEPTIDE XB-C18		C18	4.2	1.48	1.16	0.49	0.56	0.1	3.6 spp	100	
+Phenomenex Aeris WIDEPORE C4		C4	0.39	1.06	0.85	0.39	0.42	0.16	3.6 spp	200	
+Phenomenex Aeris WIDEPORE XB-C18		C18	1.15	1.44	1.16	0.52	0.6	0.16	3.6 spp	200	
+		C18	8.79	1.49	1.55	0.39	0.51	0.17	5	100	
+Phase Analytical Technology, LLC ACME AIDA C18		C18	4.84	1.52	1.35	0.42	0.3	0.09	5	120	
+Hichrom Alltima HP C18		C18	2.47	1.43	2.79	0.26	0.35	0.04	5	190	
+Hichrom Alltima HP C18-Amide		PEG	2.48	1.43	2.74	0.27	0.35	0.03	5	190	
+Hichrom Alltima HP C18-AQ		Aqua	4.23	1.42	1.97	1.1	3.1	0.1	5	190	
+Hichrom Alltima HP C18-EPS		C18	0.61	1.34	1.95	2.25	4.35	0.2	5	190	
+Hichrom Alltima HP C18-HL		C18	7.84	1.51	1.57	0.39	0.4	0.1	5	190	
+		Biphenyl	3.73	1.33	1.55	2.21	0.81	0.05	5	60	
+		C18	10.46	1.58	1.58	0.39	0.65	0.09	5	60	
+Restek Allure PFP Propyl		PFP	3.04	1.28	2.69	0.68	1.13	0.34	5	60	
+		Phenyl	1.75	1.27	0.96	0.94	0.52	0.15	5	60	
+Thermo Scientific AQUASIL C18		C18	4.14	1.41	1.84	1.18	2.29	0.16	5	100	
+Merck Supelco Ascentis RP-Amide		PEG	4.9	1.43	1.65	0.22	0.2	0.04	3	100	
+Merck Supelco Ascentis RP-Amide		PEG	4.8	1.43	1.61	0.23	0.2	0.04	5	100	
+Merck Supelco Ascentis C18		C18	7.35	1.5	1.59	0.37	0.31	0.08	5	100	
+Merck Supelco Ascentis C8		C8	3.61	1.41	0.93	0.31	0.25	0.07	5	100	
+Merck Supelco Ascentis Express Biphenyl		Biphenyl	1.69	1.29	1.53	2.3	0.96	0.16	2.7	90	
+Merck Supelco Ascentis Express C18		C18	5.28	1.53	1.42	0.39	0.28	0.08	2.7 spp	90	
+Merck Supelco Ascentis Express C8		C8	2.34	1.41	0.94	0.29	0.27	0.08	2.7 spp	90	
+Merck Supelco Ascentis Express F5 (PFP)		PFP	1.32	1.26	2.52	0.74	1.66	0.34	2.7 spp	90	
+Merck Supelco Ascentis Express Phenyl-Hexyl		Phenyl	2.17	1.34	1.2	0.88	0.46	0.11	2.7 spp	90	
+Merck Supelco Ascentis Express RP-Amide		PEG	3.87	1.43	1.79	0.22	0.25	0.07	2.7 spp	90	
+Merck Supelco Ascentis Phenyl		Phenyl	2.32	1.31	1.0	0.96	0.44	0.14		100	
+		C18	4.92	1.35	4.09	0.15	0.04	0.01	5	300	
+Waters Atlantis dC18		C18	3.74	1.45	1.23	0.61	0.56	0.11	5	100	
+Waters Atlantis T3		C18	5.48	1.47	1.17	0.49	0.25	0.11	3	100	
+Thermo Scientific BetaBasic C18		C18	4.49	1.47	1.56	0.39	0.8	0.12	5	150	
+Thermo Scientific BetaBasc CN		CN	0.18	1.06	1.82	0.43	0.77	0.17	5	150	
+Thermo Scientific BetaBasic Phenyl		Phenyl	0.39	1.21	0.92	1.0	0.64	0.19	5	150	
+Thermo Scientific BetaMax Acid		C8	2.84	1.33	2.04	0.29	0.55	-0.03	5	60	
+		CN	0.37	1.04	2.04	0.42	1.7	0.19	5	60	
+Thermo Scientific BetaMax Neutral		C18	10.62	1.49	1.5	0.4	1.0	0.1	5	60	
+Thermo Scientific BetaSil Phenyl/Hexyl		Phenyl	1.78	1.32	0.75	0.42	0.39	0.12	5	100	
+Merck Supelco BIOshell Peptide C18		C18	2.26	1.45	1.21	0.75	1.0	0.13	2.7	160	
+		Aqua	3.97	1.42	1.31	0.62	0.67	0.11	5	80	
+		C18	6.52	1.48	1.31	0.44	0.31	0.11	5	100	
+Merck Chromolith RP-18 endcapped		C18	4.22	1.24	1.31	0.48	0.63	0.12	5	130	
+Waters CORTECS C18		C18	4.51	1.48	1.38	0.39	0.38	0.1	1.6spp	90	
+Waters CORTECS C18+		C18	4.12	1.51	1.49	0.55	1.0	0.08	1.6spp	90	
+Waters CORTECS T3		C18	2.87	1.47	1.2	0.51	0.26	0.13	1.6	120	
+Nacalai Tesque COSMOSIL C18-EB		C18	4.8	1.46	1.29	0.59	0.38	0.11	3	120	
+Nacalai Tesque COSMOSIL PYE		Aromatic	1.95	1.37	3.02	24.1	0.58	0.2	5	120	
+Nacalai Tesque COSMOSIL Cholester		C18 like	5.24	1.49	3.26	0.39	0.23	0.03	5	120	
+Nacalai Tesque COSMOSIL πNAP		Aromatic	1.74	1.35	1.51	4.08	0.34	0.1	5	120	
+Phenomenex Curosil-PFP		PFP	1.77	1.27	2.49	0.71	0.85	0.1	5	110	
+Grace Alltech Denali C18		C18	6.47	1.48	1.69	0.38	0.33	0.1	5	120	
+Develosil ODS-MG		C18	6.7	1.49	1.24	0.51	0.1	0.07	5	100	
+Merck Discovery C18		C18	3.32	1.48	1.51	0.39	0.28	0.1	5	180	
+Merck Discovery HS C18		C18	6.68	1.49	1.55	0.4	0.38	0.1	5	120	
+Merck Discovery C8		C8	1.1	1.34	1.0	0.43	0.41	0.09	5	180	
+Merck Discovery Cyano		CN	0.29	1.0	1.0	1.0	1.6	0.55	5	180	
+Merck Discovery HS F5 (PFP)		PFP	1.7	1.26	2.55	0.68	0.85	0.34	5	120	
+Merck Discovery HS PEG		Polyethylene glycol	0.23	1.06	2.57	0.02	0.07	-0.04	5	120	
+Merck Discovery RP-AmideC16		PEG	1.65	1.35	1.81	0.49	0.44	0.19	5	180	
+		C18	6.19	1.46	1.5	0.56	1.0	0.12	5	114	
+Hichrom Wakopak Fluofix 120E		Fluoroalkyl	0.57	1.24	0.58	0.81	2.06	0.38	5	120	
+Hichrom Wakopak Fluofix 120N		Fluoroalkyl	0.48	1.2	0.67	1.37	3.9	0.26	5	120	
+Thermo Scientific Fluophase PFP		PFP	1.6	1.23	2.5	0.63	0.7	0.3	5	100	
+Thermo Scientific Fluophase RP		Fluoroalkyl	0.98	1.21	0.62	0.73	2.12	0.6	5	100	
+ES Industries FluoroSep-RP Octyl		Fluoroalkyl	1.44	1.23	0.63	0.75	4.12	0.52	5	60	
+ES Industries FluoroSep-RP Phenyl HS		PFP	3.31	1.29	2.72	0.65	0.74	0.19	5	60	
+ES Industries FluoroSep-RP Propyl		Fluoroalkyl	0.16	1.15	1.0	1.15	1.47	0.39	5	300	
+Fortis Technologies Fortis C18		C18	6.72	1.49	1.26	0.48	0.26	0.07	1.7	110	
+Fortis Technologies Fortis C18		C18	7.04	1.48	1.27	0.5	0.33	0.08	5	110	
+Fortis Technologies Fortis Cyano		CN	0.21	1.0	1.0	0.67	2.09	0.2	2.1	110	
+Fortis Technologies Fortis Cyano		CN	0.17	1.0	1.0	0.69	1.86	0.19	5	110	
+Fortis Technologies Fortis Diphenyl		Diphenyl	1.54	1.31	0.93	0.81	0.56	0.07	1.7	100	
+Fortis Technologies Fortis H2o		Aqua	7.42	1.5	1.64	0.41	1.56	0.1	5	110	
+		Phenyl	1.22	1.27	0.87	0.88	0.46	0.14	5	110	
+Phenomenex Gemini C18		C18	4.87	1.46	1.21	0.44	0.29	0.08	5	110	
+Phenomenex Gemini NX-C18		C18	4.87	1.46	1.11	0.34	0.3	0.09	5	110	
+		Phenyl	2.79	1.36	1.04	0.6	0.3	0.05	5	110	
+Grace Jones Genesis AQ		Aqua	6.07	1.49	1.26	0.53	0.42	0.11	5	120	
+Grace Jones Genesis C18		C18	6.25	1.5	1.41	0.44	0.29	0.1	5	120	
+		C8	2.09	1.33	1.01	0.55	0.6	0.12	5	120	
+Grace Jones Genesis CN		CN	0.22	1.16	1.9	0.6	1.0	0.18	5	120	
+Grace GraceSmart RP18 C18		C18	2.37	1.44	1.32	0.8	1.65	0.1	5	120	
+Dr. Maisch Gromsil 100 ODS-2 FE		C18	4.68	1.46	1.72	0.59	0.72	0.17	5	100	
+Dr. Maisch Gromsil 100 ODS-0 AB		C18	3.46	1.45	1.4	0.72	0.67	0.19	5	100	
+Dr. Maisch Gromsil 120 ODS-4 HE		C18	6.28	1.5	1.27	0.54	0.31	0.1	5	120	
+Dr. Maisch Gromsil 80 ODS-7 pH		C18	13.68	1.54	1.53	0.39	0.32	0.06	4	80	
+Advanced Materials Technology HALO C18		C18	6.01	1.51	1.38	0.42	0.3	0.1	2.7 spp	90	
+		C18	2.65	1.45	1.22	0.72	0.57	0.13	2.7 spp	160	
+Advanced Materials Technology HALO C8		C18	2.68	1.4	0.93	0.29	0.31	0.08	2.7 spp	90	
+Advanced Materials Technology HALO PFP		PFP	1.45	1.24	2.43	1.09	1.95	0.36	2.7 spp	90	
+Advanced Materials Technology HALO RP-Amide		PEG	3.42	1.42	1.75	0.25	0.65	0.06	2.7 spp	90	
+-		C18	0.37	1.43	2.52	1.0	4.13	0.15	5		
+Hichrom Hichrom C8		C8	2.22	1.35	1.01	0.38	0.49	0.12	3.5	150	
+Hichrom Hichrom RPB		C8/C18	4.56	1.4	1.21	0.36	0.18	0.11	5	110	
+KYA Technologies Corporation HiQ Sil C18HS-100		C18	6.02	1.46	1.45	0.67	0.88	0.12	5	120	
+Thermo Scientific Hypersil PREP HS C18		C18	7.66	1.53	1.4	0.42	1.01	0.25	5	100	
+Thermo Scientific Hypersil BDS C18		C18	4.5	1.47	1.49	0.39	0.19	0.17	5	130	
+Thermo Scientific Hypersil BDS Phenyl		Phenyl	0.52	1.24	1.0	0.85	0.56	0.25	5	130	
+		Alkyl/SCX	1.98	1.48	1.55	1.28	7.36	13.63	5	120	
+		C18	4.76	1.49	1.52	0.37	0.3	0.14	5	120	
+Thermo Scientific Hypersil GOLD		C12	2.42	1.42	1.3	0.34	0.35	0.12	5	175	
+Thermo Scientific Hypersil GOLD aQ		Aqua	2.09	1.44	2.33	0.69	1.42	0.12	5	175	
+Thermo Scientific Hypersil GOLD PFP		PFP	0.7	1.25	2.55	1.02	0.94	0.17	5	175	
+Thermo Scientific Hypersil GOLD PFP		PFP	0.54	1.11	2.45	1.15	1.63	0.34	1.9	175	
+Thermo Scientific Hypersil GOLD PFP		PFP	0.78	1.21	2.37	0.58	0.58	0.17	3	175	
+Thermo Scientific Hypersil GOLD Phenyl		Phenyl	0.88	1.3	1.04	1.04	0.44	0.12	3	175	
+Thermo Scientific Hypersil ODS		C18	4.44	1.45	1.28	0.38	1.04	0.64	5	120	
+Thermo Scientific Hypersil Phenyl		Phenyl	0.47	1.25	0.92	2.04	2.0	0.85	5	120	
+		PEG	1.13	1.0	1.59	0.39	0.8	0.13	5	190	
+Thermo Scientific HyPURITY AQUASTAR		Aqua	1.32	1.39	2.65	1.25	2.66	0.13	5	190	
+Thermo Scientific HyPURITY C18		C18	3.2	1.47	1.6	0.37	0.29	0.1	5	190	
+Thermo Scientific HyPURITY C4		C4	0.55	1.3	0.72	0.44	0.3	0.1	5	190	
+Thermo Scientific HyPURITY C8		C8	1.59	1.35	1.0	0.34	0.3	0.11	5	190	
+Thermo Scientific HyPURITY Cyano		CN	0.08	1.12	1.87	0.81	2.21	0.08	5	190	
+GL Sciences Inertsil CN-3		CN	0.57	1.04	1.97	0.26	3.27	0.03	5	100	
+		C18	6.31	1.47	1.57	0.36	0.53	0.01	5	100	
+GL Sciences Inertsil ODS-3		C18	7.74	1.45	1.29	0.48	0.29	0.01	5	100	
+		Phenyl	1.03	1.26	1.0	1.04	0.57	0.09	5	150	
+GL Sciences InertSustain C18		C18	8.35	1.48	1.21	0.42	0.29	0.1	5	100	
+		Proprietary	5.44	1.45	1.25	0.67	0.91	0.08	2.2	100	
+		C18	10.6	1.51	1.59	0.39	0.43	0.06		80	
+Phenomenex Jupiter C18		C18	2.57	1.45	1.44	0.37	0.36	0.12	3	300	
+Phenomenex Kinetex Biphenyl		Biphenyl	1.81	1.31	1.52	2.14	0.8	0.16	2.6	100	
+Phenomenex Kinetex C18		C18	3.6	1.47	1.28	0.46	0.12	0.09	1.7 spp	100	
+Phenomenex Kinetex C18		C18	3.59	1.45	1.26	0.46	0.41	0.1	2.6 spp	100	
+Phenomenex Kinetex C8		C8	1.84	1.35	1.15	0.36	0.42	0.09	2.6	100	
+Phenomenex Kinetex EVO C18		C18	3.07	1.44	1.12	0.42	0.37	0.09	2.6	100	
+Phenomenex Kinetex F5		PFP	1.36	1.32	2.29	0.77	0.71	0.13	2.6	100	
+Phenomenex Kinetex PFP		PFP	1.38	1.26	2.56	0.61	1.26	0.39	2.6 spp	100	
+		C18	3.08	1.42	1.32	0.36	0.42	0.12	1.8	175	
+		C18	3.71	1.45	2.08	0.45	0.77	0.11	1.8	175	
+Nouryon-Kromasil Kromasil C18		C18	7.01	1.48	1.53	0.4	0.31	0.11	5	100	
+Nouryon-Kromasil Kromasil Eternity C18		C18	5.21	1.42	1.15	0.45	0.22	0.1	2.5	100	
+Nouryon-Kromasil Kromasil Eternity C18		C18	5.08	1.42	1.18	0.46	0.22	0.1	5	100	
+Nouryon-Kromasil Kromasil Eternity PhenylHexyl		Phenyl	3.44	1.35	1.0	0.62	0.4	0.11	2.5	100	
+Nouryon-Kromasil Kromasil Phenyl		Phenyl	2.02	1.3	1.0	0.96	0.48	0.13	5	100	
+Merck LiChrospher 60 RP-Select B		C8	2.76	1.32	1.21	0.66	1.4	0.14	5	60	
+Merck LiChrospher RP-18		C18	7.92	1.48	1.73	0.54	1.39	0.19	5	100	
+Phenomenex Luna C18		C18	5.97	1.47	1.17	0.4	0.24	0.08	5	100	
+Phenomenex Luna C18(2)		C18	6.34	1.47	1.23	0.41	0.26	0.06	5	100	
+Phenomenex Luna CN		CN	0.17	1.14	1.47	0.75	3.51	0.24	5	100	
+Phenomenex Luna NH2		Amino	-0.17	1.01	4.05	0.47	0.43	3.41	5	100	
+Phenomenex Luna Omega C18		C18	5.42	1.46	1.13	0.45	0.42	0.11	1.6	100	
+Phenomenex Luna Omega Polar C18		C18	3.58	1.43	1.14	0.67	0.66	0.13	1.6	100	
+Phenomenex Luna Omega PS C18		C18	3.84	1.43	1.11	0.53	0.51	0.08	1.6	100	
+Phenomenex Kinetex PFP		PFP	3.26	1.35	2.42	0.76	0.59	0.09	5	100	
+Phenomenex Luna Phenyl-Hexyl		Phenyl	2.82	1.33	1.1	0.91	0.33	0.11	5	100	
+		C18	6.19	1.5	1.24	0.41	0.27	0.15	5	50	
+		Mixed alkyl	2.03	1.32	1.25	0.32	0.29	0.09	5	100	
+Agilent Monochrom CN		CN	0.24	1.0	1.96	0.38	0.53	0.18	5	110	
+Agilent Monochrom Diol		diol	0.0	1.0	3.7	0.49	3.3	0.0	5	110	
+Agilent Monochrom MS		PFP	1.69	1.27	2.53	0.83	0.66	0.15	5	110	
+Waters Nova-Pak C18		C18	4.49	1.49	1.44	0.48	0.27	0.14	5	60	
+Waters Nova-Pak Phenyl		Phenyl	0.98	1.29	1.0	1.56	0.89	0.25	5	60	
+Macherey-Nagel NUCLEODUR C18 ec		C18	7.86	1.48	1.74	0.44	0.76	0.08	5	110	
+Macherey-Nagel NUCLEODUR C18 Gravity		C18	9.0	1.53	1.39	0.37	0.26	0.07	1.8	110	
+Macherey-Nagel NUCLEODUR C18 Gravity		C18	9.35	1.52	1.38	0.37	0.27	0.07	3	110	
+Macherey-Nagel NUCLEODUR C8 Gravity		C18	2.91	1.36	0.83	0.3	0.35	0.06		110	
+Macherey-Nagel NUCLEODUR C18 Isis		C18	8.0	1.5	1.8	0.35	0.54	0.06	1.8	110	
+Macherey-Nagel NUCLEODUR C18 Isis		C18	7.22	1.48	1.89	0.33	0.48	0.07	3	110	
+Macherey-Nagel NUCLEODUR C18 Pyramid		C18 polar endcap	8.28	1.5	1.24	0.47	0.4	0.06	1.8	110	
+Macherey-Nagel NUCLEODUR C18 Pyramid		C18 polar endcap	6.95	1.5	1.19	0.49	0.41	0.04	3	110	
+Macherey-Nagel NUCLEODUR Sphinx RP		C18/phenyl	5.26	1.45	1.0	0.69	0.4	0.09	1.8	110	
+Macherey-Nagel NUCLEODUR Sphinx RP		C18/phenyl	4.74	1.43	0.96	0.67	0.45	0.09	3	110	
+Merck Supelco 100 C18 HD		C18	6.04	1.48	1.54	0.4	0.47	0.1	5	100	
+Merck Supelcosil NUCLEOSIL 100 C18 Nautilus		PEG	3.37	1.4	1.98	0.33	0.48	0.01	5	100	
+Merck Supelco 100 C8 HD		C8	3.05	1.38	0.91	0.49	0.51	0.13	5	100	
+Merck Supelcosil NUCLEOSIL 300 C18		C18	1.33	1.43	1.9	0.88	2.22	0.22	5	300	
+Merck Supelcosil NUCLEOSIL C18		C18	4.8	1.44	1.68	0.7	2.18	0.13	5	100	
+		C18	8.54	1.48	1.69	0.41	0.56	0.11	5	110	
+		C18	5.87	1.48	1.26	0.51	0.3	0.09	5	120	
+		C18	6.15	1.48	1.38	0.44	0.24	0.09	5	120	
+Phenomenex Aqua C18		Aqua	6.21	1.48	1.27	0.6	0.52	0.11	5	125	
+		C18	3.11	1.43	1.48	0.53	2.19	0.2	5	200	
+Restek Pinnacle DB PFP Propyl		PFP	0.82	1.22	2.45	0.65	0.85	0.3	5	140	
+Grace Alltech Platinum C18		C18	2.12	1.39	1.23	0.81	2.82	0.21	5	100	
+Grace Alltech Platinum EPS C18		C18	0.97	1.31	1.98	2.62	10.11	0.26	5	100	
+Agilent Polaris Amide-C18		PEG	2.87	1.43	2.43	0.2	0.15	-0.02	5	200	
+Agilent Polaris C18-A		C18	3.2	1.44	1.85	0.34	0.33	0.11	5	200	
+Agilent Polaris C18-Ether		PEG/C18	2.98	1.45	1.63	0.46	0.38	0.1	5	200	
+Agilent Polaris C8-Ether		PEG/C8	0.82	1.29	1.49	0.5	0.56	0.31	5	200	
+Agilent InfinityLab Poroshell 120 EC-C18		C18	5.29	1.49	1.29	0.41	0.35	0.1	2.7 spp	120	
+Agilent InfinityLab Poroshell 120 SB-C18		C18	3.43	1.45	1.21	0.55	0.62	0.12	2.7 spp	120	
+Agilent InfinityLab Poroshell 120 Bonus-RP		PEG	1.73	1.34	1.57	0.39	0.31	0.01	2.7	120	
+Agilent InfinityLab Poroshell 120 HPH-C18		C18	3.83	1.49	1.26	0.45	0.38	0.1	2.7	120	
+Agilent InfinityLab Poroshell 120 SB-Aq		Aqua	0.55	1.3	1.11	0.36	1.14	0.18	2.7	120	
+Agilent InfinityLab Poroshell 120 PFP		PFP	1.25	1.5	2.8	0.67	0.67	0.04	2.7	120	
+Agilent InfinityLab Poroshell 120 Phenyl-Hexyl		Phenyl	1.98	1.33	1.21	0.86	0.44	0.14	2.7	120	
+SIELC Technologies Primesep 100		Alkyl/WCX	1.78	1.28	1.92	0.88	9.6	7.83	5	100	
+SIELC Technologies Primesep 200		Alkyl/WCX	1.79	1.26	2.27	0.8	11.12	2.12	5	100	
+SIELC Technologies Primesep A		Alkyl/SCX	1.63	1.26	1.89	1.03	16.3	12.11	5	100	
+SIELC Technologies Primesep B		Alkyl/SAX	1.78	1.38	2.0	0.56	0.21	-0.03	5	100	
+		PEG	1.68	1.35	2.24	0.42	1.23	0.01	5	100	
+		PEG	2.54	1.33	1.66	0.38	0.59	0.01	5	100	
+Phenomenex Prodigy ODS2		C18	4.94	1.49	1.43	0.37	0.5	0.01	5	150	
+Phenomenex Prodigy ODS3		C18	7.27	1.49	1.26	0.42	0.27	0.09	5	100	
+Phenomenex Prodigy Phenyl-3		Phenyl	0.87	1.22	1.0	1.0	2.52	0.16	5	100	
+Knauer ProntoSIL C18-AQ		Aqua	4.8	1.46	1.28	0.58	0.56	0.11	5	120	
+Merck Purospher RP-18		C18	4.78	1.44	1.93	0.72	1.29	-0.07	5	90	
+Merck Purospher RP-18e		C18	6.51	1.48	1.75	0.46	0.34	0.08	5	90	
+		C18	8.31	1.47	1.74	0.43	0.36	0.1	2	120	
+Merck Purospher STAR RP-18		C18	8.41	1.52	1.88	0.4	0.28	0.09	3	120	
+Merck Purospher STAR RP-18e		C18	6.57	1.48	1.56	0.34	0.34	0.1	5	120	
+Agilent Pursuit C18		C18	3.73	1.47	1.57	0.38	0.37	0.11	5	200	
+Agilent Pursuit Diphenyl		Diphenyl	0.52	1.21	0.89	0.77	0.44	0.23	5	200	
+Agilent Pursuit PFP		PFP	1.03	1.28	2.46	0.73	0.4	0.12	5	200	
+Agilent Pursuit XRs C18		C18	8.23	1.5	1.45	0.42	0.32	0.1	5	100	
+Agilent Pursuit XRs Diphenyl		Diphenyl	5.97	1.18	0.87	0.88	0.46	0.14	5	100	
+Interchim Technology Uptisphere Strategy C8-2		C18	6.05	1.49	1.54	0.42	0.43	0.08	5	100	
+		C18	4.88	1.46	1.29	0.57	0.55	0.11	3	120	
+Interchim Technology Uptisphere ODB		C18	6.19	1.48	1.36	0.49	0.52	0.1	3	120	
+		C8/SCX	1.8	1.39	0.94	0.45	0.73	0.66	5	120	
+Interchim Technology Uptisphere PLP		PEG	1.18	1.33	1.81	0.44	0.39	-0.12	5	120	
+Interchim Technology Uptisphere TF		C18	1.77	1.52	3.11	0.33	0.61	0.15	5	120	
+Waters Resolve C18		C18	2.4	1.46	1.59	1.29	4.06	1.23	5	90	
+		C18	4.94	1.45	1.69	0.68	1.98	0.14	5	100	
+		PEG	1.74	1.39	2.53	0.18	1.0	-0.01	5	100	
+		PEG	2.63	1.41	2.67	0.19	0.31	0.0	5	100	
+		PEG	2.08	1.39	2.75	0.14	0.24	-0.03	5	100	
+Shimadzu Shim-pack GISS C18		C18	2.9	1.44	1.22	0.44	0.25	0.13	5	200	
+Shimadzu Shim-pack GIST C18		C18	7.94	1.46	1.15	0.4	0.24	0.1	5	100	
+Shimadzu Shim-pack GIST C18-AQ		Aqua	6.81	1.46	1.27	0.44	0.26	0.11	5	100	
+Shimadzu Shim-pack Scepter C18		C18	6.32	1.44	1.26	0.46	0.25	0.11	5	120	
+Shimadzu Shim-pack Velox C18		C18	4.13	1.5	1.55	0.34	0.3	0.1	5	90	
+		C18	7.26	1.48	1.59	0.56	0.93	0.07	5	100	
+		C18	0.73	1.41	1.71	0.84	1.44	13.39	5	80	
+Waters Spherisorb ODS1		C18	1.78	1.47	1.64	1.57	2.84	2.55	5	80	
+Waters Spherisorb ODS2		C18	3.0	1.51	1.56	0.59	0.76	0.23	5	80	
+Waters Spherisorb ODSB		C18	5.09	1.46	1.78	0.8	3.56	0.06	5	80	
+Waters Spherisorb Phenyl		Phenyl	0.05	1.0	1.0	5.91	15.1	1.0	5	80	
+Altmann Analytik Stability BS-C23		Alkyl/SAX	2.59	1.3	2.77	0.14	0.04	-0.07	5	100	
+		C18	5.45	1.47	1.29	0.56	0.4	0.1	5	120	
+Waters SunFire C18		C18	6.57	1.49	1.25	0.41	0.31	0.05	5	100	
+ChromaNik Technologies Inc. Sunniest RP-AQUA		C18	7.06	1.48	1.65	0.43	0.27	0.11	5	120	
+ChromaNik Technologies Inc. SunShell C18		C18	6.03	1.49	1.56	0.4	0.34	0.09	2.6 spp	90	
+ChromaNik Technologies Inc. SunShell C8		C18	2.96	1.39	1.14	0.31	0.29	0.09	2.6 spp	90	
+ChromaNik Technologies Inc. SunShell PFP		PFP	1.19	1.24	2.67	1.03	4.14	0.41	2.6 spp	90	
+		C18	11.99	1.44	2.81	0.34	0.2	0.06	5	100	
+Merck Supelco SUPELCOSIL LC-C18		C18	4.82	1.47	1.42	0.46	1.93	0.89	5	120	
+Merck Supelco SUPELCOSIL LC-C18-DB		C18	5.16	1.51	1.4	0.42	0.47	0.14	5	120	
+Merck Supelco SUPELCOSIL LC-ABZ		PEG	3.14	1.37	2.23	0.24	0.2	0.03	5	120	
+		C18	5.47	1.47	1.64	0.44	0.42	0.11	5	100	
+Merck Supelco SUPELCOSIL Suplex pkb-100		PEG	1.24	1.35	2.84	0.34	0.29	0.0	5	120	
+Waters Symmetry C18		C18	6.51	1.46	1.49	0.41	0.68	0.01	5	100	
+Waters Symmetry C8		C8	3.47	1.38	0.95	0.39	0.4	0.02	5	100	
+Waters Symmetry Shield RP18		PEG	4.66	1.41	2.22	0.27	0.2	0.04	5	100	
+Waters Symmetry Shield RP8		PEG	2.3	1.32	1.87	0.27	0.19	0.04	5	100	
+Phenomenex Synergi Fusion-RP		PEG	2.69	1.37	1.04	0.53	0.4	0.07	4	80	
+Phenomenex Synergi Max-RP		C12	4.91	1.44	1.15	0.33	0.32	0.08	4	80	
+Phenomenex Synergi Polar-RP		Phenyl ether	1.18	1.22	1.35	2.53	1.0	0.14	4	80	
+Phenomenex Synergi Hydro-RP		C18	7.63	1.47	1.47	0.58	0.83	0.25	4	80	
+Higgins Analytical TARGA C18		C18	6.06	1.63	1.27	0.52	0.1	0.14	5	120	
+Merck Supelco Titan C18		C18	6.91	1.5	1.13	0.49	0.5	0.12	1.9	80	
+		C18	2.22	1.47	1.65	0.33	0.33	0.1	2	140	
+Tosoh Bioscience TSKgel ODS-80Ts		C18	5.07	1.46	1.34	0.58	0.65	0.09	5	80	
+Tosoh Bioscience TSKgel ODS-80Tm		C18	4.57	1.45	1.24	0.52	0.3	0.08	5	80	
+Waters µBondapak C18		C18	1.97	1.39	1.28	0.78	1.12	0.15	5	125	
+Restek Ultra Aqueous C18		Aqua	6.04	1.45	1.9	0.97	2.21	0.09	5	100	
+Restek Ultra IBD		PEG	1.95	1.38	2.32	0.55	1.37	0.03	5	100	
+Restek Ultra PFPP		PFP	0.17	1.0	1.0	1.22	2.46	0.16	5	100	
+Phenomenex Ultracarb ODS (30)		C18	13.27	1.52	1.39	0.48	0.73	0.06	5	60	
+Hichrom Ultrasphere ODS		C18	6.41	1.52	1.42	0.48	0.31	0.16	5	80	
+		C18	1.86	1.46	2.35	0.56	1.23	0.09	5	300	
+Waters XBridge BEH C18		C18	2.22	1.45	1.37	0.38	0.24	0.13	3.5	300	
+Waters XBridge BEH C18		C18	2.18	1.45	1.39	0.34	0.23	0.12	5	300	
+Waters XBridge C18		C18	3.81	1.45	1.38	0.34	0.27	0.14	3.5	130	
+		Phenyl	1.45	1.31	1.0	0.86	0.41	0.19	3.5	130	
+		PEG	2.85	1.38	2.22	0.33	0.26	0.12	3.5	130	
+Waters XSelect CSH C18		C18	4.07	1.45	1.36	0.39	0.35	0.09	2.5	135	
+Waters Xselect CSH Fluoro-Phenyl		PFP	0.43	1.0	3.05	1.75	1.36	-0.14	3.5	135	
+Waters XSelect HSS C18		C18	7.0	1.51	1.48	0.36	0.24	0.1	3.5	135	
+Waters XSelect HSS C18 SB		C18	2.37	1.38	1.93	1.77	5.07	0.11	3.5	135	
+Waters XSelect HSS T3		C18	5.5	1.49	1.18	0.5	0.33	0.11	3.5	135	
+		Phenyl	1.45	1.33	1.0	0.7	0.34	0.06	3.5	135	
+Waters XTerra MS C18		C18	3.52	1.42	1.26	0.42	0.35	0.1	3.5	125	
+Waters XTerra MS C8		C8	1.15	1.3	0.87	0.42	0.33	0.1	3.5	125	
+Waters XTerra Phenyl		Phenyl	1.26	1.28	0.88	0.62	0.35	0.11	3.5	125	
+Waters XTerra Shield RP18		PEG	2.38	1.29	1.83	0.33	0.2	0.07	3.5	125	
+Waters XTerra Shield RP8		PEG	1.1	1.26	1.73	0.3	0.17	0.07	3.5	125	
+YMC YMCbasic		C8	1.4	1.26	0.98	0.57	0.51	0.27	3	proprietary	
+YMC Hydrosphere C18		C18	3.9	1.34	1.2	0.56	0.39	0.08	5	120	
+YMC Triart C18		C18	6.3	1.44	1.23	0.45	0.3	0.1	5	120	
+YMC Pack ODS-AQ		Aqua	4.44	1.46	1.25	0.57	0.41	0.11	5	120	
+YMC Pack Pro C18		C18	4.71	1.49	1.29	0.49	0.39	0.09	5	120	
+YMC Pack Pro C18 RS		C18	9.8	1.53	1.47	0.39	0.33	0.08	5	80	
+YMC Pack Pro C4		C4	1.45	1.33	0.73	0.4	0.31	0.08	5	120	
+ZirChrom ZirChrom-MS		C18	2.02	1.43	1.62	0.27	20.0	6.28	5	300	
+ZirChrom ZirChrom-PBD		Polybutadiene	1.28	1.41	2.08	0.32	18.77	9.2	5	300	
+Agilent ZORBAX RRHD 300-Diphenyl		Diphenyl	0.32	1.06	0.93	0.98	0.7	0.42	1.8	300	
+Agilent ZORBAX 300SB-C18		C18	1.58	1.44	1.2	0.69	0.73	0.21	1.8	300	
+Agilent ZORBAX RRHD 300 SB-C3		C3	0.29	1.07	1.07	2.32	1.0	0.32	1.8	300	
+Agilent ZORBAX Bonus-RP		PEG	1.74	1.43	1.6	0.31	0.3	0.04	3.5	80	
+Agilent ZORBAX Eclipse Plus C18		C18	5.91	1.51	1.15	0.44	0.37	0.09	1.8	95	
+Agilent ZORBAX Eclipse Plus C18		C18	5.76	1.51	1.16	0.44	0.29	0.1	3.5	95	
+Agilent ZORBAX Eclipse XDB-Phenyl		Phenyl	1.35	1.3	1.0	1.22	0.63	0.13	3.5	80	
+Agilent ZORBAX Eclipse XDB-C18		C18	5.79	1.5	1.3	0.47	0.35	0.09	3.5	80	
+Agilent ZORBAX Extend-C18		C18	6.66	1.5	1.49	0.38	0.2	0.08	3.5	80	
+Agilent ZORBAX Rx-C18		C18	5.68	1.57	1.61	0.54	0.55	0.11	3.5	80	
+Agilent ZORBAX SB-C18		C18	6.0	1.49	1.2	0.65	1.46	0.13	3.5	80	
+Agilent ZORBAX 300SB-C18		C18	1.23	1.44	1.22	0.76	1.0	0.12	3.5	300	
+Agilent ZORBAX SB-C3		C3	0.91	1.32	1.06	2.71	0.88	0.11	3.5	80	
+Agilent ZORBAX SB-C8		C8	1.97	1.37	1.08	1.27	0.81	0.12	3.5	80	
+Agilent ZORBAX SB-CN		CN	0.36	1.18	2.12	1.14	1.62	0.1	3.5	80	
+Agilent ZORBAX SB-Phenyl		Phenyl	1.09	1.3	1.18	3.69	1.08	0.13	3.5	80	
+Agilent ZORBAX SB-Aq		Aqua	0.93	1.31	1.18	2.54	1.27	0.13	3.5	80	

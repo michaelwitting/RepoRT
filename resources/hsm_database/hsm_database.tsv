@@ -1,0 +1,749 @@
+name_normalized	usp code	phase type	particle size [µm]	pore size [A]	H	S*	A	B	C (pH 2.8)	C (pH 7.0)	EB retention factor	hplccolumns_number	Manufacturer
+Agilent ZORBAX C18	L1	C18			1.08	0.05	0.47	0.06	1.48	1.56	10.7	1	
+Agilent ZORBAX C8	L7	C8			0.97	-0.04	0.21	0.17	0.97	1.05	8.3	2	
+Agilent ZORBAX Eclipse XDB-C18	L1	C18			1.07	0.02	-0.06	-0.03	0.05	0.08	9.1	3	
+Agilent ZORBAX Eclipse XDB-C8	L7	C8			0.91	0.02	-0.21	0.0	0.0	0.01	6.6	4	
+Agilent ZORBAX Extend-C18	L1	C18			1.09	0.05	0.01	-0.04	0.03	0.01	8.4	5	
+Agilent ZORBAX Rx-C18	L1	C18			1.07	0.03	0.3	-0.03	0.09	0.41	7.7	6	
+Agilent ZORBAX Rx-C8	L7	C8			0.79	-0.07	0.11	0.01	0.01	0.94	5.0	7	
+Agilent ZORBAX SB-C18	L1	C18		300.0	0.9	-0.05	0.04	0.04	0.25	0.7	2.2	8	
+Agilent ZORBAX SB-C3	L56	C3		300.0	0.52	-0.12	-0.19	0.04	0.05	0.35	0.7	9	
+Agilent ZORBAX SB-C8	L7	C8		300.0	0.7	-0.08	0.0	0.04	0.14	0.82	1.3	10	
+Agilent ZORBAX SB-C18	L1	C18		80.0	0.99	-0.03	0.26	0.0	0.13	1.04	7.6	11	
+Agilent ZORBAX SB-C3	L56	C3		80.0	0.6	-0.12	-0.08	0.03	-0.08	0.81	2.8	12	
+Agilent ZORBAX SB-C8	L7	C8		80.0	0.79	-0.07	0.13	0.01	0.01	1.02	5.1	13	
+Agilent ZORBAX SB-Aq		EP			0.59	-0.12	-0.08	0.03	-0.13	0.73	2.5	15	
+Agilent ZORBAX SB-Phenyl	L11	Phenyl			0.62	-0.16	0.06	0.03	0.03	1.08	2.7	16	
+Agilent ZORBAX Eclipse XDB-Phenyl	L11	Phenyl			0.66	-0.12	-0.24	0.01	0.06	0.58	3.2	17	
+Agilent ZORBAX SB-CN	L10	CN			0.5	-0.1	-0.22	0.04	-0.14	1.04	1.7	18	
+Agilent ZORBAX Eclipse XDB-CN	L10	CN			0.45	-0.06	-0.31	0.0	0.07	0.99	1.3	19	
+Nouryon Kromasil Classic C18	L1	C18	5.0	100.0	1.05	0.03	-0.07	-0.02	0.03	-0.05	12.5	20	
+Nouryon Kromasil Classic C4	L26	C4	5.0	100.0	0.73	0.0	-0.33	0.01	0.0	0.0	5.0	21	
+Nouryon Kromasil Classic C8	L7	C8	5.0	100.0	0.86	0.01	-0.21	0.01	0.05	0.0	7.6	22	
+Nouryon Kromasil Classic CN	L10	CN	5.0	60.0	0.44	-0.13	-0.57	-0.01	0.21	1.03	2.0	23	
+Grace-Alltech Adsorbosphere C18	L1	C18			0.98	-0.07	0.07	-0.04	1.49	1.68	7.7	24	
+Grace-Alltech Adsorbosphere C18 UHS	L1	C18			1.1	0.0	0.4	-0.04	-0.12	-0.12	18.2	25	
+Grace-Alltech Allsphere ADS-1	L1	C18			0.73	-0.16	0.38	0.0	0.84	1.14	4.7	26	
+Grace-Alltech Allsphere ADS-2	L1	C18			1.0	-0.04	0.24	-0.02	0.96	1.28	8.0	27	
+Grace-Alltech AlphaBond C18	L1	C18			0.84	-0.09	0.06	0.0	0.57	1.76	5.3	28	
+Grace-Alltech Econosil C18	L1	C18			0.96	-0.06	0.37	-0.03	1.02	1.33	8.2	29	
+Grace-Alltech Econosphere C18	L1	C18			0.81	-0.12	0.03	-0.01	1.04	1.52	5.1	30	
+Grace-Alltech GraceSmart C18	L1	C18	5.0		0.83	-0.03	0.07	0.0	0.07	0.74	4.0	31	
+Hichrom Alltima C18 AQ	L1	C18			0.88	-0.07	0.3	0.01	0.15	1.15	8.8	32	
+Hichrom Alltima C18	L1	C18			0.99	-0.01	0.03	-0.01	0.09	0.39	11.5	33	
+Hichrom Alltima C18 LL	L1	C18			0.78	0.08	-0.16	0.04	-0.05	0.36	5.9	34	
+Hichrom Alltima C18-WP	L1	C18			0.93	-0.06	0.02	0.0	-0.07	-0.08	4.9	35	
+Hichrom Alltima C8	L7	C8			0.75	0.01	-0.27	0.0	-0.06	0.28	5.5	36	
+Hichrom Alltima HP C18	L1	C18			0.98	-0.02	-0.04	0.0	0.17	0.19	4.9	37	
+Hichrom Alltima HP C18 HiLoad	L1	C18			1.08	-0.06	0.06	-0.04	-0.32	-0.24	11.8	38	
+Hichrom Alltima HP C8	L7	C8			0.83	0.01	-0.11	0.03	0.12	-0.41	3.1	39	
+Grace-Alltech Brava C18 BDS	L1	C18			0.93	-0.03	0.03	0.01	0.28	0.76	4.7	40	
+Grace-Alltech Platinum C18	L1	C18			0.78	-0.07	-0.09	0.0	0.4	0.69	4.6	41	
+Grace-Alltech Platinum C8	L7	C8			0.58	-0.05	-0.22	0.0	0.25	0.39	3.0	42	
+Grace-Alltech Platinum EPS C18	L1	C18			0.61	-0.17	0.3	0.02	0.68	1.7	2.6	43	
+Grace-Alltech Platinum EPS C8	L7	C8			0.42	-0.15	0.15	0.02	0.5	1.36	1.1	44	
+Hichrom Prevail C18	L1	C18			0.88	-0.07	0.31	0.02	0.1	1.2	9.4	45	
+Hichrom Prevail C8	L7	C8			0.61	-0.08	0.03	0.04	0.08	1.07	3.4	46	
+Hichrom Prevail Select C18	L1	C18			0.82	0.02	-0.36	0.14	-1.05	0.45	7.5	47	
+Hichrom Alltima HP C18 Amide	L1	EP			0.49	-0.02	0.35	0.12	-0.01	0.92	4.8	48	
+Hichrom Alltima HP C18 EPS	L1	EP			0.65	-0.1	0.4	0.03	0.45	0.95	1.2	49	
+Grace-Alltech Platinum EPS C18	L1	EP		300.0	0.45	-0.05	0.37	0.01	0.24	1.29	3.6	50	
+Grace-Alltech Platinum EPS C8	L7	EP		300.0	0.58	-0.11	-0.13	0.08	0.48	0.96	0.8	51	
+Hichrom Prevail Amino (NH2)	L8	EP			0.86	-0.06	0.25	0.03	0.05	1.2	9.6	52	
+Grace-Alltech ProSphere C4	L26	C4		300.0	0.68	-0.01	-0.05	0.02	0.31	0.68	1.0	53	
+Grace-Alltech ProSphere C18	L1	C18		100.0	0.88	-0.07	0.3	0.01	0.18	1.51	6.4	54	
+		C18		300.0	0.86	0.0	0.12	0.02	0.59	1.11	1.7	55	Analytical Sales & Services
+Analytical Sales & Services Advantage Armor C18	L1	C18		120.0	0.96	-0.01	-0.07	0.0	0.07	0.26	8.6	56	
+Analytical Sales & Services Armor C18	L1	C18			0.96	-0.01	-0.07	0.0	0.12	0.29	8.5	57	
+Hichrom Ultrasphere Octyl (C8)	L7	C8			0.89	0.01	0.0	0.08	0.15	0.54	5.7	58	
+Hichrom Ultrasphere ODS (C18)	L1	C18			1.08	-0.01	0.17	0.06	0.27	0.38	8.7	59	
+		C18			0.97	-0.06	0.18	0.02	1.08	1.39	6.9	60	BioAnalytical Systems
+		C18			1.0	0.0	0.26	0.0	0.17	0.44	9.3	61	Thermo/Hypersil
+Bischoff ProntoSIL C18 SH	L1	C18		120.0	1.03	0.01	-0.1	-0.02	0.11	0.4	8.7	62	
+Bischoff ProntoSIL C8 SH	L7	C8		120.0	0.73	-0.06	-0.08	0.01	0.07	0.52	4.9	63	
+Bischoff ProntoSIL C1	L13	C1		120.0	0.41	-0.07	-0.08	0.02	0.04	0.65	1.2	64	
+Bischoff ProntoSIL C18 H	L1	C18		120.0	1.0	0.0	-0.1	0.0	0.12	0.15	9.7	65	
+Bischoff ProntoSIL C18 AQ	L1	C18		120.0	0.97	0.0	-0.08	0.0	0.13	0.22	8.1	66	
+Bischoff ProntoSIL C30	L62	C30		120.0	0.91	-0.13	0.57	0.0	0.5	1.78	6.9	67	
+Bischoff ProntoSIL C30 EC	L62	C30		300.0	0.92	-0.04	-0.01	0.01	0.3	0.45	2.8	68	
+Bischoff ProntoSIL C18 AQ	L1	C18		200.0	0.97	-0.01	-0.05	0.0	0.12	0.28	6.3	69	
+Bischoff ProntoSIL C8 SH	L7	C8		200.0	0.76	-0.02	-0.19	0.02	0.12	0.23	2.7	70	
+Bischoff ProntoSIL C18 H	L1	C18		200.0	0.95	0.0	-0.12	0.01	0.16	0.21	4.8	71	
+Bischoff ProntoSIL C30	L62	C30		200.0	0.9	-0.09	0.34	0.0	0.3	1.17	4.4	72	
+Bischoff ProntoSIL C4	L26	C4		200.0	0.54	-0.06	-0.22	0.03	0.08	0.51	1.3	73	
+Bischoff ProntoSIL C8 SH	L7	C8		300.0	0.73	-0.04	-0.13	0.02	0.15	0.4	1.8	74	
+Bischoff ProntoSIL C18 H	L1	C18	5.0	300.0	0.95	-0.01	-0.09	0.01	0.23	0.24	3.2	75	
+Bischoff ProntoSIL C30	L62	C30		300.0	0.89	-0.1	0.32	0.03	0.4	1.54	3.0	76	
+Bischoff ProntoSIL C4	L26	C4		300.0	0.47	-0.09	-0.07	0.05	0.11	0.78	0.6	77	
+Bischoff ProntoSIL C8 SH	L7	C8		60.0	0.92	-0.01	0.16	-0.01	-0.31	1.0	8.4	78	
+Bischoff ProntoSIL C18 H	L1	C18		60.0	1.15	0.04	0.06	-0.07	0.1	0.26	12.2	79	
+Bischoff ProntoSIL C4	L26	C4		60.0	0.68	-0.07	0.1	0.0	-0.05	1.2	4.1	80	
+Bischoff ProntoSIL CN	L10	CN			0.37	-0.11	-0.41	-0.02	0.16	0.66	0.9	81	
+Bischoff ProntoSIL CN EC	L10	CN		120.0	0.42	-0.05	-0.32	0.01	0.01	0.76	1.2	82	
+Bischoff ProntoSIL C18 ace-EPS	L1	EP		120.0	0.77	0.04	-0.59	0.22	-0.3	0.04	8.3	83	
+Bischoff ProntoSIL C18 AG Plus	L1	EP		120.0	0.94	-0.01	0.21	0.04	-0.13	0.6	9.1	84	
+Bischoff ProntoSIL C8 ace-EPS	L7	EP		120.0	0.53	0.0	-0.85	0.21	-0.28	0.09	3.7	85	
+Bischoff ProntoSIL C18 ace-EPS	L1	EP		200.0	0.76	0.02	-0.56	0.21	0.02	0.14	4.7	86	
+Bischoff ProntoSIL C18 ace-EPS	L1	EP		300.0	0.76	0.02	-0.57	0.21	-0.05	0.13	2.9	87	
+Bischoff ProntoSIL Phenyl	L11	Phenyl		120.0	0.56	-0.15	-0.2	0.02	0.17	0.71	2.5	88	
+Bischoff ProntoSIL Phenyl	L11	Phenyl		60.0	0.7	-0.19	0.0	-0.01	0.41	1.51	4.5	89	
+Bischoff ProntoSIL ODS	L1	C18		120.0	0.95	-0.06	0.03	-0.02	0.79	1.31	5.2	90	
+Bischoff ProntoSIL Spheribond ODS 1	L1	C18		80.0	0.7	-0.19	0.36	0.01	1.45	2.4	3.8	91	
+Bischoff ProntoSIL Spheribond ODS 2	L1	C18		80.0	1.01	-0.02	0.15	-0.03	0.73	1.0	7.7	92	
+Thermo Scientific Acclaim 120 C8	L7	C8		120.0	0.85	0.0	-0.27	0.01	0.08	0.01	6.0	94	
+Thermo Scientific Acclaim 300 C18	L1	C18		300.0	0.95	-0.01	-0.17	0.01	0.26	0.22	2.9	95	
+Thermo Scientific Polar Advantage	L60	EP			0.85	-0.06	-0.11	0.02	-0.27	0.35	6.8	96	
+		Other			0.83	-0.06	-0.38	0.0	-0.31	0.34	6.7	97	Dionex
+Thermo Scientific PolarAdvantage II	L60	EP			0.74	0.01	-0.55	0.21	-0.22	0.67	6.3	98	
+SynChropak RP8	L7	C8			0.63	-0.09	0.1	0.02	0.22	0.94	1.2	99	
+SynChropak RPP	L1	C18			0.74	-0.11	0.23	0.03	0.25	1.28	1.8	100	
+SynChropak RPP	L1	C18		100.0	0.91	-0.05	-0.07	0.12	0.22	0.31	5.4	101	
+ES Industries Chromagabond WR-C18	L1	C18			0.97	0.02	-0.15	0.0	0.32	0.28	5.4	102	
+ES Industries Chromagabond WR-C8	L7	C8			0.85	0.02	-0.27	0.02	0.2	0.14	3.6	103	
+GL Science Inertsil Ph-3 (Phenyl)	L11	Phenyl			0.52	-0.17	-0.13	0.04	0.12	0.73	2.6	104	
+GL Science Insertsil C8-3	L7	C8			0.83	0.0	-0.26	-0.01	-0.33	-0.36	7.1	105	
+GL Science Inertsil ODS-2	L1	C18			1.0	0.04	-0.07	-0.01	-0.13	0.44	8.2	106	
+GL Science Inertsil ODS-3	L1	C18			0.99	0.02	-0.14	-0.02	-0.47	-0.33	10.9	107	
+GL Science Inertsil ODS-P	L1	C18			0.97	-0.02	0.61	-0.03	0.23	1.47	11.2	108	
+GL Science Inertsil WP300-C18	L1	C18			0.93	-0.01	-0.11	0.0	0.2	0.16	3.8	109	
+GL Science Insertsil WP300 C8	L7	C8			0.79	-0.01	-0.21	0.01	0.12	0.06	2.2	110	
+GL Science Inertsil CN-3	L10	CN			0.36	0.04	-0.8	0.08	-2.6	-1.29	1.1	111	
+GL Science Insertsil ODS-EP	L1	C18			0.8	0.06	-1.52	0.05	-0.62	-0.07	7.2	112	
+Grace-Vydac Vydac 201TP C18	L1	C18			0.9	-0.02	0.4	0.0	0.39	1.02	2.1	113	
+Grace-Vydac Vydac 218TP C18	L1	C18			0.9	0.0	0.34	0.0	0.27	0.67	2.0	114	
+Grace-Vydac Everest 238EV C18	L1	C18			0.99	0.04	0.12	0.0	0.06	0.34	2.2	115	
+Grace-Vydac Denali C18	L1	C18			1.05	0.04	0.12	-0.01	0.14	0.22	9.4	116	
+Grace-Vydac Vydac 218MS C18	L1	C18			0.77	0.18	0.11	-0.37	0.65	1.23	1.7	117	
+Grace-Grom Grom Sil ODS-5 CP	L1	C18		120.0	1.03	0.0	0.13	0.0	0.13	0.12	10.5	119	
+Grace-Grom Grom Sil Octyl-6 MB	L7	C8		120.0	0.87	0.0	0.0	0.02	-0.01	0.13	5.8	120	
+Grace-Grom Grom Saphire C18	L1	C18		110.0	1.05	0.0	0.08	0.0	-0.03	0.11	12.1	121	
+Grace-Grom Grom Sil ODS-3 CP	L1	C18		120.0	1.02	0.01	0.09	0.0	0.09	0.12	10.2	122	
+Grace-Grom Grom Saphire C8	L7	C8		110.0	0.83	-0.03	-0.1	0.03	-0.09	0.25	7.1	123	
+Hamilton Co. HxSil C18	L1	C18			0.84	-0.07	0.3	0.01	0.23	1.05	7.0	124	
+Hamilton Co. HxSil C8	L7	C8			0.68	-0.07	0.08	0.03	0.06	0.85	4.4	125	
+Hichrom Hichrom RPB	L42	C18/C8			0.96	0.02	0.1	0.0	0.15	0.14	6.4	126	
+Hichrom Hichrom RPB	L42	C18/C8	5.0	300.0	0.94	0.02	0.04	0.01	0.22	0.21	2.6	127	
+Higgins Analytical Targa C18	L1	C18			0.97	-0.01	-0.07	0.0	0.01	0.17	8.6	128	
+Imtakt Unison UK-C18	L1	C18			0.98	-0.01	0.01	-0.01	0.11	0.07	8.9	129	
+Grace-Jones Apex I C18	L1	C18			0.98	-0.03	0.01	0.04	1.24	2.31	6.1	130	
+Grace-Jones Apex I C8	L7	C18			0.86	-0.07	0.23	0.17	1.36	1.37	4.4	131	
+		C18			1.0	-0.07	0.23	0.12	2.03	2.69	6.7	132	Grace/Jones
+Grace-Jones Genesis AQ	L1	C18		120.0	0.96	-0.03	-0.15	0.0	0.06	0.23	9.6	133	
+Grace-Jones Genesis C18	L1	C18		120.0	1.0	0.0	-0.06	0.0	0.13	0.12	9.8	134	
+Grace-Jones Genesis C18	L1	C18		300.0	0.97	0.0	-0.08	0.01	0.26	0.27	3.5	135	
+Grace-Jones Genesis C4	L26	C4		300.0	0.61	-0.05	-0.39	0.03	0.14	0.24	1.1	136	
+Grace-Jones Gemini C4 EC	L26	C4		120.0	0.64	-0.05	-0.33	0.02	0.06	0.4	3.4	137	
+Grace-Jones Genesis C8	L7	C8		120.0	0.82	-0.01	-0.08	0.01	0.05	0.3	6.2	138	
+Grace-Jones Genesis C8(EC)	L7	C8		120.0	0.86	0.0	-0.17	0.02	0.06	0.14	6.9	139	
+Grace-Jones Genesis CN	L10	CN		120.0	0.42	-0.11	-0.68	-0.01	0.0	0.57	1.4	140	
+Grace-Jones Genesis CN	L10	CN		300.0	0.39	-0.1	-0.64	0.0	0.02	0.39	0.5	141	
+Grace-Jones Genesis Phenyl	L11	Phenyl			0.6	-0.14	-0.36	0.03	0.13	0.58	2.9	142	
+Macherey-Nagel NUCLEOSIL C8 HD	L7	C8			0.86	0.0	-0.17	0.02	0.04	0.18	6.3	143	
+Macherey-Nagel NUCLEOSIL C18 HD	L1	C18	5.0	100.0	0.96	-0.02	-0.12	0.0	0.08	0.15	8.8	144	
+Macherey-Nagel NUCLEOSIL C18 Nautilus	L1	EP	5.0	100.0	0.7	0.0	-0.48	0.26	-0.44	0.48	5.4	145	
+Macherey-Nagel NUCLEOSIL C8	L7	C8			0.57	-0.13	0.03	0.01	0.28	1.12	2.7	146	
+Macherey-Nagel NUCLEOSIL C18	L1	C18			0.9	-0.05	0.01	-0.03	0.32	0.73	7.3	147	
+Macherey-Nagel NUCLEOSIL C18	L1	C18	5.0	300.0	0.86	-0.08	0.0	0.01	0.45	0.98	2.7	148	
+Macherey-Nagel NUCLEODUR C8 Gravity	L7	C18	5.0		0.86	0.03	-0.24	0.0	-0.15	0.63	6.6	149	
+Macherey-Nagel NUCLEODUR C18 Gravity 	L1	C18			1.05	0.04	-0.09	-0.02	-0.08	0.31	11.0	150	
+Macherey-Nagel Nucleosil Protect 1		EP			0.54	0.04	-0.41	0.3	-3.21	-0.57	2.7	151	
+Advanced Chromatography Technologies ACE C8	L7	C8		300.0	0.78	0.0	-0.11	0.03	0.14	0.38	1.8	152	
+Advanced Chromatography Technologies ACE C4	L26	C4		100.0	0.67	-0.01	-0.17	0.02	0.09	0.31	2.5	153	
+Advanced Chromatography Technologies ACE C4	L26	C4		300.0	0.71	-0.01	-0.18	0.03	0.16	0.35	1.3	154	
+Advanced Chromatography Technologies ACE C18	L1	C18		100.0	1.0	0.02	-0.09	0.0	0.14	0.09	7.9	155	
+Advanced Chromatography Technologies ACE C18	L1	C18		300.0	0.98	0.02	0.04	0.01	0.26	0.23	3.0	156	
+Advanced Chromatography Technologies ACE C8	L7	C8		100.0	0.827	0.005	-0.18	0.026	0.11	0.16	4.9	157	
+Advanced Chromatography Technologies ACE CN	L10	CN		100.0	0.4	-0.1	-0.72	0.0	-0.08	0.44	1.0	158	
+Advanced Chromatography Technologies ACE CN	L10	CN		300.0	0.46	-0.07	-0.16	0.03	0.15	0.85	0.4	159	
+Advanced Chromatography Technologies ACE AQ	L1	EP		100.0	0.8	-0.05	-0.12	0.03	0.0	0.16	4.7	160	
+Advanced Chromatography Technologies ACE Phenyl	L11	Phenyl		100.0	0.64	-0.13	-0.29	0.02	0.13	0.46	2.8	161	
+Advanced Chromatography Technologies ACE Phenyl	L11	Phenyl		300.0	0.59	-0.1	-0.23	0.03	0.16	0.54	1.1	162	
+		CN			0.43	-0.11	-0.48	0.01	-0.04	0.6	1.3	163	Mac-Mod Analytical
+		C18			1.0	0.0	-0.04	-0.01	0.07	0.34	9.5	164	Mac-Mod Analytical
+		C8			0.82	-0.01	-0.18	0.02	0.09	0.24	4.9	165	Mac-Mod Analytical
+		EP			0.97	-0.01	-0.08	0.0	0.0	0.16	8.6	166	Mac-Mod Analytical
+		EP			0.81	-0.02	-0.15	0.01	0.05	0.27	5.0	167	Mac-Mod Analytical
+		Phenyl			0.59	-0.13	-0.29	0.02	0.09	0.5	2.6	168	Mac-Mod Analytical
+Merck Supelco LiChrosorb RP-18	L1	C18			0.9	-0.07	0.15	-0.08	0.71	0.97	7.1	169	
+Merck LiChrospher RP-18	L1	C18			1.0	-0.02	0.18	-0.03	0.64	0.89	9.5	170	
+Merck Chromolith Performance RP-18e	L1	C18			1.0	0.02	0.0	-0.01	0.1	0.18	3.1	171	
+Merck Supelco LiChrospher RP-select B	L7	C8			0.74	-0.06	-0.04	0.0	0.1	0.86	5.1	172	
+Merck Supelco Purospher RP-18	L1	C18			0.84	0.23	0.15	0.3	-0.96	0.9	4.9	173	
+Merck Supelco Purospher STAR RP18e	L1	C18			1.0	0.01	-0.07	-0.03	0.01	0.04	10.6	174	
+Merck Supelco Superspher RP-18e	L1	C18		100.0	1.03	0.02	-0.02	-0.01	0.35	0.26	9.3	175	
+Nacalai Tesque COSMOSIL C18 AR-II	L1	C18			1.01	0.01	0.12	-0.02	0.11	0.49	8.1	176	
+Nacalai Tesque COSMOSIL C18 MS-II	L1	C18			1.03	0.04	-0.13	-0.01	-0.11	-0.02	8.1	177	
+Nacalai Tesque COSMOSIL C18 PAQ	L1	EP			0.82	-0.02	-0.34	0.05	-0.35	0.04	5.5	178	
+Nomura Chemical Develosil C30-UG	L62	C30			0.97	-0.03	-0.19	0.01	0.15	0.17	7.8	179	
+Nomura Chemical Develosil ODS-HG	L1	C18			0.98	0.01	-0.17	0.0	0.18	0.22	8.2	180	
+Nomura Chemical Develosil ODS-MG	L1	C18			0.96	-0.03	-0.16	0.0	-0.01	0.05	11.2	181	
+Nomura Chemical Develosil ODS-UG	L1	C18			0.99	0.02	-0.14	0.0	0.15	0.15	8.4	182	
+Phenomenex Bondclone C18	L1	C18			0.82	-0.05	-0.12	0.04	0.07	0.34	4.5	183	
+Phenomenex Partisil C8	L7	C8			0.74	-0.07	-0.09	0.07	0.03	0.54	4.5	184	
+Phenomenex Partisil ODS3	L1	C18			0.81	-0.07	0.0	0.0	0.31	0.9	5.4	185	
+Phenomenex SphereClone ODS(2)	L1	C18			0.97	-0.04	0.27	-0.05	0.86	1.32	7.6	186	
+Phenomenex Jupiter C18	L1	C18		300.0	0.94	0.03	-0.22	0.0	0.23	0.21	2.9	187	
+Phenomenex Jupiter C8	L7	C4		300.0	0.69	0.0	-0.42	0.01	0.15	0.14	1.3	188	
+Phenomenex Jupiter C5		C5		300.0	0.72	0.02	-0.38	0.01	0.12	0.33	1.5	189	
+Phenomenex Luna C18	L1	C18			1.01	0.02	0.07	0.0	-0.36	-0.03	10.9	190	
+Phenomenex Luna C18(2)	L1	C18			1.0	0.02	-0.12	0.0	-0.26	-0.17	9.6	191	
+Phenomenex Luna C5		C5			0.8	0.03	-0.25	0.0	-0.27	0.11	5.9	192	
+Phenomenex Luna C8	L7	C8			0.87	0.03	-0.01	0.02	-0.4	0.13	7.0	193	
+Phenomenex Luns C8(2)	L7	C8			0.88	0.04	-0.22	0.0	-0.3	-0.17	7.2	194	
+Phenomenex Prodigy ODS(2)	L1	C18			0.99	0.03	-0.11	0.0	-0.09	0.23	7.7	195	
+Phenomenex Prodigy ODS(3)	L1	C18			1.02	0.02	-0.13	-0.01	-0.19	-0.13	10.1	196	
+		C18			0.91	-0.05	0.03	0.0	0.29	0.74	7.0	197	Phenomenex
+Phenomenex Synergi Max-RP		C12			0.98	0.02	0.0	-0.01	-0.13	-0.03	9.5	198	
+Phenomenex Ultracarb ODS (30)	L1	C18			1.11	0.01	0.37	-0.05	-0.31	0.73	18.2	199	
+Phenomenex AQUA C18	L1	C18			0.96	-0.03	0.03	0.0	0.06	0.27	8.8	200	
+Phenomenex Luna CN	L10	CN			0.45	-0.11	-0.32	-0.02	0.43	1.32	1.3	201	
+Agilent Polaris C18-Ether	L1	EP			0.94	-0.01	-0.12	0.02	0.16	0.55	5.5	202	
+Agilent Polaris C8-Ether	L7	EP			0.7	-0.02	-0.31	0.04	0.09	0.26	1.8	203	
+Phenomenex Synergi Hydro-RP	L1	EP			1.02	0.0	0.16	-0.04	-0.07	0.26	11.3	204	
+Phenomenex Synergi Polar-RP	L11	EP			0.65	-0.14	-0.25	0.0	0.05	0.77	3.9	205	
+Phenomenex Luna Phenyl-Hexyl	L11	Phenyl			0.78	-0.11	-0.27	0.0	0.0	0.38	5.2	206	
+Phenomenex Prodigy PH-3	L11	Phenyl			0.52	-0.19	0.05	0.02	0.23	1.46	2.3	207	
+Phenomenex Curosil PFP	L43	F			0.69	-0.07	-0.26	0.0	0.11	0.37	4.0	208	
+Phenomenex Onyx Monolithic C8	L7	C8			0.82	0.0	0.0	0.0	-0.02	0.44	2.0	209	
+Phenomenex Onyyx Monolithic C18	L1	C18			1.01	0.02	0.22	-0.01	0.12	0.43	3.2	210	
+Phenomenex Gemini C18	L1	C18		110.0	0.96	0.0	0.02	0.01	-0.09	0.19	8.0	211	
+Phenomenex Synergi Fusion-RP	L1	EP			0.87	-0.03	-0.01	0.0	-0.23	0.36	7.5	212	
+Restek Allure C18	L1	C18			1.13	0.05	0.04	-0.04	-0.03	0.02	17.9	214	
+Restek Ultra C18	L1	C18			1.05	0.03	-0.03	-0.02	0.05	0.0	12.2	215	
+Restek Ultra C8	L7	C8			0.87	0.01	-0.19	0.01	-0.03	-0.07	8.2	216	
+Restek Allure PFP Propyl	L43	F			0.83	-0.26	0.05	0.34	1.1	1.65	7.4	218	
+SEPSERV UltraSep ES AMID H RP18P		EP			0.75	-0.01	-0.1	0.25	-0.52	0.85	4.9	220	
+SEPSERV UltraSep ES PHARM RP18	L1	C18			0.95	-0.06	0.43	-0.05	0.59	1.67	8.5	221	
+		C8			0.75	-0.07	-0.04	-0.01	0.47	0.97	4.7	222	no longer available
+		C18			0.99	-0.03	0.29	-0.04	0.83	1.22	7.6	223	no longer available
+Wako Pure Chemical Ind. Wakopak Wakosil C8 RS	L7	C8	5.0		0.8	0.0	-0.27	0.0	-0.11	0.09	5.6	224	
+Wako Pure Chemical Ind. Wakopak Wakosil C18 AR	L1	C18	5.0		0.99	0.07	-0.05	-0.03	0.07	0.01	6.2	225	
+Wako Pure Chemical Ind. Wakopak Wakosil C18 HG	L1	C18	5.0		1.03	0.03	0.01	-0.02	0.0	0.21	7.1	226	
+Wako Pure Chemical Ind. Wakopak Wakosil C18 RS	L1	C18	5.0		0.96	0.0	-0.16	0.0	-0.07	0.04	9.2	227	
+Shiseido CAPCELL C18 UG 120	L1	C18			1.0	0.03	0.03	-0.01	0.01	0.0	6.9	228	
+Shiseido CAPCELL C18 AG 120	L1	C18		120.0	1.03	0.06	0.12	-0.06	0.54	0.62	7.2	229	
+Shiseido CAPCELL C18 MG	L1	C18			1.0	0.01	0.04	0.0	0.07	0.0	10.2	230	
+Shiseido CAPCELL C18 SG 120	L1	C18			0.98	0.03	0.09	-0.02	0.12	0.19	6.6	231	
+Shiseido CAPCELL C18 AQ	L1	EP			0.86	-0.04	-0.06	0.01	-0.09	0.4	7.0	232	
+Shiseido CAPCELL C18 ACR	L1	C18			1.02	0.04	0.07	-0.01	0.03	0.11	8.5	233	
+Shiseido CAPCELL PAK C8 DD	L7	C8			0.83	0.02	-0.15	0.01	-0.11	-0.07	5.4	234	
+Shiseido CAPCELL PAK C18 MGII	L1	C18			1.01	0.01	0.04	0.0	0.0	0.0	9.9	235	
+Shiseido CAPCELL C8 UG 120	L7	C8			0.85	0.03	-0.09	-0.01	-0.04	-0.01	4.3	236	
+Merck Discovery BIO Wide Pore C18	L1	C18			0.83	0.01	-0.25	0.02	0.12	0.11	3.4	238	
+Merck Discovery BIO Wide Pore C5		C5			0.65	-0.01	-0.3	0.02	0.09	0.21	1.1	239	
+Merck Discovery BIO Wide Pore C8	L7	C8			0.83	0.01	-0.22	0.03	0.2	0.19	2.2	240	
+Merck Discovery C18	L1	C18			0.98	0.02	-0.12	0.0	0.17	0.15	4.8	241	
+Merck Discovery C8	L7	C8			0.83	0.01	-0.23	0.02	0.11	0.14	3.3	242	
+Merck Discovery Cyano	L10	CN			0.39	-0.11	-0.61	0.0	-0.03	0.51	0.6	243	
+Merck Discovery RP-Amide C16	L60	EP			0.72	0.01	-0.62	0.21	-0.09	-0.02	4.0	244	
+Merck Discovery HS PEG		EP			0.31	0.02	-0.71	0.12	-0.53	0.38	0.7	245	
+Merck Supelco SUPELCOSIL LC-C18	L1	C18			1.01	-0.04	0.18	0.16	1.59	1.75	5.9	246	
+Merck Supelco SUPELCOSIL LC-C18-DB	L1	C18			0.97	-0.02	0.04	0.11	0.48	0.53	5.7	247	
+Merck Supelco SUPELCOSIL LC-8	L7	C8			0.83	-0.04	-0.02	0.08	1.11	1.09	3.6	248	
+Merck Supelco SUPELCOSIL LC-C8-DB	L7	C8			0.81	-0.03	-0.07	0.14	0.44	0.55	3.4	249	
+Merck Supelco SUPELCOSIL LC-PAH	L1	C18			0.85	-0.02	0.1	-0.03	0.64	0.83	4.4	250	
+		CN			0.4	-0.11	-0.7	0.0	-0.02	0.49	0.8	252	Thermo/Hypersil
+Thermo Scientific Hypersil C18	L1	C18			1.04	0.02	0.11	0.03	0.4	0.34	7.9	253	
+Thermo Scientific BDS C18	L1	C18			0.99	0.01	-0.09	0.0	0.33	0.28	5.6	254	
+Thermo Scientific Hypersil Elite C18	L1	C18			0.95	0.03	0.15	-0.01	0.31	0.73	6.5	255	
+Thermo Scientific Hypersil ODS	L1	C18			0.97	-0.02	-0.12	0.02	0.91	0.97	5.5	256	
+Thermo Scientific Hypersil ODS-2	L1	C18			0.98	0.01	0.13	-0.01	0.25	0.37	5.6	257	
+		C18			0.94	-0.05	0.23	-0.01	1.43	1.72	5.3	258	Thermo/Hypersil
+Thermo Scientific 	L1	C18			0.99	0.03	-0.09	0.0	0.16	0.12	6.4	259	
+Thermo Scientific BetaBasic C18	L1	C8			0.83	0.01	-0.24	0.02	0.11	0.11	4.2	260	
+Thermo Scientific BetaBasic Neutral	L1	C18			1.09	0.03	0.06	-0.03	-0.03	0.01	17.0	261	
+Thermo Scientific BetaBasic CN	L10	CN			0.42	-0.04	-0.45	0.01	0.01	0.9	0.8	262	
+Thermo Scientific BetaMax Acid	L26	EP			0.63	0.05	-0.59	0.37	-2.06	-0.51	5.8	263	
+Thermo Scientific BetaMax Base Cyano	L10	EP			0.47	-0.06	-0.39	0.01	0.01	1.14	2.2	264	
+Thermo Scientific BioBasic 18	L1	C18			0.97	0.02	-0.1	0.0	0.25	0.21	3.2	265	
+Thermo Scientific BioBasic 8	L7	C8			0.82	0.01	-0.23	0.02	0.23	0.21	1.8	266	
+Thermo Scientific Hypersil GOLD	L1	C18			0.88	0.0	-0.01	0.03	0.16	0.47	3.9	267	
+Thermo Scientific HyPURITY C18	L1	C18			0.98	0.02	-0.09	0.0	0.19	0.16	5.6	268	
+Thermo Scientific HyPURITY C4	L26	C4			0.71	0.0	-0.29	0.02	0.12	0.25	1.9	269	
+Thermo Scientific HyPURITY C8	L7	C8			0.83	0.01	-0.2	0.03	0.15	0.16	3.5	270	
+Thermo Scientific HyPURITY CN	L10	CN			0.45	-0.04	-0.49	0.02	-0.01	0.83	0.7	271	
+Thermo Scientific Hypersil Prism C18 RP	L60	EP			0.64	0.08	-0.45	0.3	-2.81	-0.71	4.8	272	
+Thermo Scientific Hypersil Prism C18 RPN	L60	EP			0.67	0.0	-0.06	0.23	-0.54	0.62	3.4	273	
+Thermo Scientific HyPURITY ADVANCE	L60	EP			0.41	-0.05	-0.09	0.24	-1.33	0.78	1.6	274	
+Thermo Scientific Flouphase PFP	L43	F			0.67	-0.12	-0.31	0.06	0.81	1.37	4.5	275	
+Thermo Scientific Flouphase RP	L43	F			0.69	0.02	0.1	0.03	1.03	1.41	3.4	276	
+Thermo Scientific BetaBasic Phenyl	L11	Phenyl			0.58	-0.15	-0.41	0.04	0.1	0.75	1.7	277	
+Thermo Scientific BETASIL Phenyl-Hexyl	L11	Phenyl			0.7	-0.05	-0.29	0.02	0.05	0.35	4.3	278	
+Agilent OmniSpher C18	L1	C18			1.05	0.05	-0.03	-0.02	0.12	0.05	10.9	279	
+Agilent Polaris C18-A	L1	EP			0.92	0.0	-0.22	0.06	0.14	0.16	5.2	280	
+Agilent Polaris C8-A	L7	EP			0.6	0.0	-0.6	0.1	-0.07	0.2	2.2	281	
+Agilent Pursuit C18	L1	C18			1.0	0.0	-0.16	0.01	0.24	0.22	6.2	282	
+Waters µBondapak C18	L1	C18			0.79	-0.07	-0.03	0.01	0.28	0.85	4.6	283	
+Waters Nova-Pak C18	L1	C18			1.04	0.0	0.09	-0.02	0.54	0.56	6.5	284	
+Waters Nova-Pak C8	L7	C8			0.89	-0.02	-0.09	0.0	0.61	0.62	3.9	285	
+Waters Resolve C18	L1	C18			0.96	-0.12	0.33	-0.04	1.92	2.14	7.9	286	
+Waters Spherisorb C8	L7	C8			0.76	-0.09	-0.03	0.05	0.73	1.14	4.9	287	
+Waters Spherisorb ODS1	L1	C18			0.68	-0.18	0.32	0.01	0.84	1.29	4.6	288	
+Waters Spherisorb ODS2	L1	C18			0.96	-0.07	0.07	0.03	0.9	1.26	8.3	289	
+Waters Spherisorb ODS-B	L1	C18			0.97	0.02	0.24	0.38	-0.64	1.68	6.9	290	
+Waters Atlantis dC18	L1	C18			0.91	-0.03	-0.19	0.0	0.03	0.08	8.1	291	
+Waters Delta-Pak C18	L1	C18		100.0	1.02	0.01	-0.01	-0.01	-0.05	0.02	9.0	292	
+Waters Delta-Pak C18	L1	C18		300.0	0.95	-0.01	-0.1	0.01	0.23	0.28	3.0	293	
+YMC J'Spherer ODS-H80	L1	C18			1.13	0.05	-0.02	-0.06	-0.24	-0.16	13.3	294	
+YMC J'Spherer ODS-L80	L1	C18			0.76	-0.03	-0.21	0.0	-0.4	0.34	5.8	295	
+YMC J'Spherer ODS-M80	L1	C18			0.92	-0.02	-0.12	0.0	-0.29	0.13	9.1	296	
+Waters SunFire C8	L7	C8			0.85	0.03	-0.12	0.0	-0.27	0.0	5.8	297	
+Waters SunFire C18	L1	C18			1.03	0.03	0.04	-0.01	-0.18	-0.09	9.9	298	
+Waters Symmetry C18	L1	C18		300.0	0.98	0.03	-0.05	0.0	0.22	0.2	3.5	299	
+Waters Symmetry C4	L26	C4		300.0	0.65	-0.01	-0.42	0.01	0.1	0.18	1.4	300	
+Waters Symmetry C18	L1	C18			1.05	0.06	0.01	-0.02	-0.3	0.12	9.8	301	
+Waters Symmetry C8	L7	C8			0.89	0.04	-0.2	0.02	-0.5	0.28	7.0	302	
+Waters XTerra MS C18	L1	C18			0.98	0.01	-0.14	-0.01	0.13	0.05	6.3	303	
+Waters XTerra MS C8	L7	C8			0.8	0.0	-0.29	0.0	0.05	0.0	3.7	304	
+YMC YMCbasic	L7	C8			0.82	0.0	-0.23	0.02	0.07	0.09	3.3	305	
+YMC Hydrosphere C18	L1	C18			0.93	-0.02	-0.12	0.0	-0.13	0.15	6.8	306	
+YMC YMC-Pack ODS-AQ	L1	C18			0.96	-0.03	-0.13	0.0	-0.06	0.1	8.6	307	
+YMC YMC-Pack Pro C18 RS	L1	C18			1.11	0.05	-0.06	-0.05	-0.17	-0.22	12.7	308	
+YMC YMC-Pack Pro C18	L1	C18			1.01	0.01	-0.12	0.0	-0.15	0.0	8.7	309	
+YMC YMC-Pack Pro C8	L7	C8			0.89	0.01	-0.21	0.0	-0.32	0.01	6.5	310	
+Waters Nova-Pak CN HP	L10	CN		60.0	0.36	-0.16	0.1	0.0	0.69	1.17	0.4	311	
+Waters SymmetryShield RP18	L1	EP			0.85	0.02	-0.41	0.09	-0.72	0.13	7.3	312	
+Waters SymmetryShield RP8	L7	EP			0.73	0.0	-0.55	0.1	-0.62	0.13	5.7	313	
+Waters XTerra RP18	L1	EP			0.75	-0.04	-0.48	0.09	-0.17	-0.17	4.3	314	
+Waters XTerra RP8	L7	EP			0.65	-0.04	-0.6	0.09	-0.18	-0.19	3.1	315	
+Waters XTerra Phenyl	L11	Phenyl			0.68	-0.07	-0.36	0.0	0.11	0.02	2.6	316	
+Waters µBondapak Phenyl	L11	Phenyl			0.58	-0.15	-0.24	0.02	0.35	0.97	2.1	317	
+Waters Nova-Pak Phenyl	L11	Phenyl			0.7	-0.15	-0.3	0.01	0.76	0.81	2.5	318	
+ZirChrom ZirChrom-EZ		Other			1.04	0.11	-0.99	0.0	2.08	2.08	1.1	319	
+ZirChrom ZirChrom-PBD	L49	Other			1.28	0.15	-0.38	-0.07	2.18	2.18	1.0	320	
+ZirChrom ZirChrom-PS		Other			0.58	-0.23	-0.47	0.06	1.75	1.75	0.3	321	
+Imtakt Cadenza 5CL-C18	L1	C18			1.01	0.0	0.09	-0.04	0.14	0.3	9.2	322	
+MicroSolv Technology Corp. hQ C18	L1	C18			0.9	-0.06	0.37	0.0	0.19	2.18	8.1	323	
+MicroSolv Technology Corp. Cogent Bidentate C18	L1	C18			0.95	0.05	-0.13	0.0	0.78	2.26	5.6	324	
+MicroSolv Technology Corp. Cogent HPS C18	L1	C18			1.02	-0.01	-0.07	-0.01	0.1	0.08	10.2	325	
+MicroSolv Technology Corp. Cogent UDC-Cholesterol	L101	Other			0.62	0.22	0.52	0.06	0.74	1.21	3.4	326	
+Waters Atlantis T3	L1	C18			0.94	-0.03	-0.18	0.0	0.02	0.71	8.4	327	
+Advanced Materials Technology HALO C18	L1	C18			1.1	0.04	0.0	-0.05	0.05	0.04	6.1	328	
+Advanced Materials Technology HALO C8	L7	C8			0.91	0.02	-0.13	0.0	-0.01	0.18	4.3	329	
+Waters ACQUITY UPLC BEH C8	L7	C8			0.85	0.0	0.09	0.05	0.22	0.77	2.7	330	
+Waters ACQUITY UPLC BEH Phenyl	L11	Phenyl			0.76	0.07	-0.05	0.06	0.29	0.58	2.0	331	
+Waters ACQUITY UPLC BEH Shield RP18	L1	EP			0.9	0.01	-0.03	0.13	-0.05	0.41	3.5	332	
+Thermo Scientific AQUASIL C18	L1	EP			0.8	0.11	0.26	0.01	0.23	1.19	7.4	333	
+Merck Supelco Ascentis C18	L1	C18			1.07	0.05	0.03	-0.04	-0.08	-0.08	10.5	334	
+Merck Supelco Ascentis C8	L7	C8			0.89	0.02	-0.18	0.0	-0.12	-0.03	8.4	335	
+Merck Supelco Ascentis Express C18	L1	C18			1.13	0.05	0.02	-0.05	0.06	0.1	6.5	336	
+Merck Supelco Ascentis Express C8	L7	C8			0.91	0.01	-0.11	0.0	0.0	0.17	4.6	337	
+Merck Supelco Ascentis RP-Amide	L60	EP			0.84	0.07	-0.49	0.18	-0.78	0.08	8.8	338	
+Thermo Scientific BETASIL C18	L1	C18			1.05	0.04	-0.1	-0.03	-0.03	-0.04	11.1	339	
+MicroSolv Technology Corp. Cogent Bidentate C8	L7	C8			0.68	-0.11	0.36	0.0	0.19	1.35	3.7	340	
+Thermo Scientific BioBasic CN	L10	CN			0.39	-0.03	-0.82	0.0	-0.07	0.53	0.4	341	
+Thermo Scientific BioBasic Phenyl	L11	Phenyl			0.49	-0.23	-0.67	0.21	0.01	0.39	0.8	342	
+Thermo Scientific BioBasic 4	L26	C4			0.69	0.0	-0.19	0.03	0.18	0.39	1.2	343	
+Grace-Alltech GraceSmart C18	L1	C18	3.0		0.83	-0.03	0.07	0.0	0.07	0.74	4.0	344	
+Thermo Scientific Hypersil GOLD aQ	L1	C18			0.91	-0.01	-0.06	-0.01	0.37	0.63	4.1	345	
+Thermo Scientific Hypersil GOLD C8	L7	C8			0.82	0.01	-0.15	0.03	0.09	0.21	2.7	346	
+Thermo Scientific Hypersil GOLD PFP	L43	F			0.62	-0.08	-0.11	-0.02	0.37	0.99	1.9	347	
+Sepax Technologies Sepax Bio-C18	L1	C18			0.91	-0.02	-0.13	0.01	0.21	0.22	2.6	348	
+Sepax Technologies Sepax Bio-C4	L26	C4			0.66	-0.01	-0.29	0.02	0.1	0.22	1.4	349	
+Sepax Technologies Sepax Bio-C8	L7	C8			0.77	-0.02	-0.27	0.02	0.16	0.21	1.6	350	
+Sepax Technologies Sepax GP-C18	L1	C18			1.01	0.01	-0.11	-0.01	0.1	0.09	9.0	351	
+Sepax Technologies Sepax GP-C4	L26	C4			0.69	-0.01	-0.26	0.0	-0.02	0.2	3.9	352	
+Sepax Technologies Sepax GP-Phenyl	L11	Phenyl			0.57	-0.11	-0.27	0.02	0.05	0.56	2.6	353	
+Sepax Technologies Sepax HP-C18	L1	C18			0.95	-0.02	-0.1	0.0	0.07	0.22	8.5	354	
+Sepax Technologies Sepax HP-Cyano	L10	CN			0.42	-0.05	-0.47	0.0	0.0	0.75	1.3	355	
+Tosoh Bioscience TSKgel CN-80Ts	L10	CN			0.37	-0.02	-0.61	0.01	-0.36	0.42	0.9	356	
+Tosoh Bioscience TSKgel Octyl-80Ts	L7	C8			0.81	0.0	-0.25	0.01	0.08	0.45	4.4	357	
+Tosoh Bioscience TSKgel ODS-100S	L1	C18			1.03	0.06	-0.09	-0.03	0.0	-0.03	8.1	358	
+Tosoh Bioscience TSKgel ODS-100V	L1	C18			0.9	-0.04	-0.22	0.0	-0.06	-0.02	9.0	359	
+Tosoh Bioscience TSKgel ODS-100Z	L1	C18			1.03	0.01	-0.13	-0.03	-0.06	-0.16	11.6	360	
+Tosoh Bioscience TSKgel ODS-140HTP	L1	C18			1.0	0.05	-0.25	-0.03	0.13	0.14	2.8	361	
+Tosoh Bioscience TSKgel ODS-80Ts	L1	C18			0.97	-0.01	-0.13	0.0	0.01	0.29	8.1	362	
+		C18			0.94	-0.03	-0.11	0.0	0.0	0.36	7.8	363	Tosoh Bioscience
+Tosoh Bioscience TSKgel Super-Octyl	L7	C8			0.82	0.03	-0.15	0.01	0.12	0.23	2.2	364	
+Tosoh Bioscience TSKgel Super-ODS	L1	C18			0.99	0.03	-0.04	-0.01	0.15	0.23	3.8	365	
+Tosoh Bioscience TSKgel Super-Phenyl	L11	Phenyl			0.58	-0.1	-0.14	0.01	0.08	0.67	1.0	366	
+Grace-Alltech VisionHT C18	L1	C18			0.78	-0.07	-0.09	0.0	0.4	0.69	4.6	367	
+Grace-Alltech VisionHT C18-P	L1	C18			0.63	-0.16	0.28	0.03	0.69	1.61	2.7	368	
+Agilent ZORBAX Bonus-RP	L60	EP			0.65	0.1	-1.04	0.37	-2.97	-1.1	4.5	369	
+Advanced Chromatography Technologies ACE C18-HL	L1	C18		90.0	1.04	0.05	-0.08	-0.03	-0.03	-0.11	10.0	372	
+Macherey-Nagel NUCLEODUR C18 Isis	L1	C18			1.02	0.05	-0.07	-0.02	-0.01	0.15	8.8	373	
+Macherey-Nagel NUCLEODUR C18 Pyramid	L1	C18			0.95	0.0	-0.13	-0.01	-0.28	0.21	8.0	374	
+Macherey-Nagel NUCLEODUR Sphinx RP	L1	Phenyl			0.8	-0.07	-0.27	0.0	0.02	0.72	5.6	375	
+Agilent ZORBAX Eclipse Plus C18	L1	C18			1.03	0.0	-0.07	-0.02	0.0	0.02	7.8	376	
+Agilent ZORBAX Eclipse Plus C8	L7	C18			0.88	0.01	-0.17	0.0	-0.04	0.05	5.2	377	
+ES Industries Epic C18	L1	C18			0.95	-0.02	-0.2	0.0	-0.13	-0.04	10.7	378	
+ES Industries Epic C8	L7	C8			0.89	0.02	-0.19	0.0	-0.1	0.03	8.6	379	
+ES Industries Epic C4 SD	L26	C4			0.77	0.01	-0.31	0.0	-0.2	0.06	5.9	380	
+ES Industries Epic Phenyl Hexyl	L11	phenyl			0.67	-0.08	-0.37	0.0	-0.14	0.3	4.5	381	
+Phenomenex Gemini NX-C18	L1	C18			0.96	0.01	-0.2	-0.01	-0.18	-0.13	7.1	382	
+Phenomenex Luna PFP(2)	L43	F			0.75	-0.07	-0.38	-0.05	0.08	0.54	4.9	383	
+Hichrom Alltima HP Cyano	L10	CN			0.46	-0.01	-0.55	0.0	-0.18	0.44	0.9	384	
+Sepax Technologies Sepax BR-C18	L1	C18			1.01	0.03	-0.07	-0.01	-0.01	0.06	8.2	385	
+Sepax Technologies Sepax GP-C8	L7	C8			0.84	0.0	-0.13	0.01	-0.07	0.26	5.6	386	
+Grace-Alltech VisionHT C18-B	L1	C18			0.68	-0.11	0.35	0.03	0.39	1.41	2.9	387	
+Grace-Alltech VisionHT C18-HL	L1	C18			0.99	0.05	0.05	-0.01	0.13	0.14	6.3	388	
+Shiseido CAPCELL PAK C18 IF	L1	C18			0.95	0.02	-0.2	0.0	-0.2	-0.01	3.8	389	
+Shiseido CAPCELL PAK C18 MGIII	L1	C18			0.95	0.0	-0.11	-0.01	-0.11	0.04	9.3	390	
+Grace-Grom Grom Sil ODS-4 HE	L1	C18		120.0	0.97	-0.03	-0.08	0.01	-0.03	0.26	6.8	391	
+Zodiac Life Sience ZodiacSIL C18H	L1	C18	5.0	60.0	1.15	0.04	0.06	-0.07	0.1	0.26	12.2	392	
+Zodiac Life Sience ZodiacSIL C18-Ace Eps		EP	5.0	120.0	0.77	0.04	-0.59	0.22	-0.3	0.04	8.3	393	
+		C18			0.97	0.0	-0.08	0.0	0.13	0.22	8.1	394	Zodiac Life Sciences
+		EP			0.94	-0.01	0.21	0.04	-0.13	0.6	9.1	395	Zodiac Life Sciences
+Zodiac Life Sience ZodiacSIL C18H	L1	C18	5.0	120.0	1.0	0.0	-0.1	0.0	0.12	0.15	9.7	396	
+		C18			1.03	0.01	-0.1	-0.02	0.11	0.4	8.7	397	Zodiac Life Sciences
+Zodiac Life Sience ZodiacSIL C18-Ace Eps		EP	5.0	200.0	0.76	0.02	-0.56	0.21	0.02	0.14	4.7	398	
+Zodiac Life Sience ZodiacSIL C18H	L1	C18	5.0	200.0	0.95	0.0	-0.12	0.01	0.16	0.21	4.8	399	
+		C18			0.97	-0.01	-0.05	0.0	0.12	0.02	6.3	400	Zodiac Life Sciences
+Zodiac Life Sience ZodiacSIL C18-Ace Eps		EP	5.0	300.0	0.76	0.02	-0.57	0.21	-0.05	0.13	2.9	402	
+Zodiac Life Sience ZodiacSIL C18H	L1	C18	5.0	300.0	0.95	-0.01	-0.09	0.01	0.24	0.24	3.2	403	
+Waters XBridge C18	L1	C18			1.0	0.02	-0.09	0.0	0.17	0.13	4.6	404	
+Waters XBridge Phenyl	L11	Phenyl			0.73	-0.07	-0.35	0.03	0.19	0.2	2.4	405	
+Waters XBridge Shield RP18	L1	EP			0.83	-0.02	-0.37	0.09	-0.12	-0.05	3.7	406	
+Advanced Chromatography Technologies ACE C18-AR	L1	Phenyl		100.0	0.88	-0.05	-0.2	-0.01	0.07	0.15	5.7	407	
+Restek Allure Aqueous C18	L1	C18			0.96	-0.1	0.39	-0.04	0.0	1.38	17.0	408	
+Restek Allure Basix	L10	CN			0.43	-0.07	-0.42	0.0	0.01	0.86	2.4	409	
+Restek Allure Biphenyl	L11	Phenyl			0.71	-0.19	-0.29	0.02	-0.01	0.69	7.2	410	
+Restek Allure Organic Acids	L3	C18			0.91	-0.12	0.53	-0.02	0.19	1.5	14.5	411	
+Merck Supelco Ascentis Express RP-Amide	L60	EP			0.84	0.06	-0.41	0.19	-0.47	0.26	5.1	412	
+Merck Supelco Ascentis Phenyl	L11	Phenyl			0.72	-0.1	-0.28	0.0	0.0	0.57	4.8	413	
+Higgins Analytical Clipeus C18	L1	C18			1.0	0.0	-0.04	-0.01	0.07	0.34	9.5	414	
+Higgins Analytical Clipeus C8	L7	C8			0.82	-0.01	-0.18	0.02	0.09	0.24	4.9	415	
+Higgins Analytical Clipeus Cyano	L10	CN			0.42	-0.06	-0.42	0.01	0.05	0.78	1.2	416	
+Higgins Analytical Clipeus Phenyl	L11	Phenyl			0.58	-0.11	-0.3	0.03	0.07	0.48	2.5	417	
+Merck Discovery HS F5	L43	F			0.67	0.08	-0.28	0.0	0.91	1.42	4.1	418	
+Phenomenex Gemini C6-Phenyl	L11	Phenyl		110.0	0.8	0.03	-0.34	0.0	-0.4	-0.26	4.8	419	
+Higgins Analytical HAISIL C18	L1	C18		300.0	0.94	0.0	-0.03	0.0	0.42	0.68	2.2	420	
+Higgins Analytical HAISIL HL C18	L1	C18			1.04	-0.03	-0.07	-0.02	0.04	-0.05	10.4	421	
+Advanced Materials Technology HALO Phenyl-Hexyl	L11	Phenyl			0.78	-0.09	-0.23	0.0	0.1	0.45	3.5	422	
+Advanced Materials Technology HALO RP-Amide	L60	EP			0.85	0.08	-0.38	0.19	-0.41	0.31	4.6	423	
+Higgins Analytical HEAVY C18	L1	C18			1.04	0.03	-0.13	-0.03	-0.08	-0.12	11.5	424	
+Phenomenex HyperClone BDS C18	L1	C18			0.98	0.03	0.01	-0.01	0.19	0.42	5.3	425	
+Phenomenex HyperClone BDS C8	L7	C8			0.84	0.0	-0.14	0.01	0.23	0.26	3.9	426	
+Phenomenex HyperClone CN (CPS)	L10	CN			0.4	-0.08	-0.55	0.0	0.92	1.04	0.8	427	
+Phenomenex HyperClone MOS (C8)	L7	EP			0.84	-0.05	0.04	0.13	1.14	1.12	3.7	428	
+Phenomenex HyperClone ODS (C18)	L1	C18			1.03	-0.02	0.06	0.09	1.03	0.96	6.1	429	
+		Other			0.98	0.0	0.18	-0.02	1.16	1.11	4.9	430	Phenomenex
+GL Science Inertsil ODS-4	L1	C18			0.91	-0.02	-0.22	-0.03	-0.02	-0.14	9.1	431	
+GL Science Inertsil ODS-SP	L1	C18			0.85	-0.02	-0.22	-0.02	-0.04	-0.07	7.8	432	
+Phenomenex Kinetex C18	L1	C18		100.0	0.96	0.0	-0.13	-0.01	0.0	0.12	4.9	433	
+Phenomenex Kinetex PFP	L43	F			0.68	0.08	-0.27	-0.03	0.94	1.53	2.4	434	
+Agilent Microsorb C8	L7	C8	5.0	100.0	0.87	0.06	0.09	0.19	0.61	0.82	5.4	435	
+Agilent Microsorb Phenyl	L11	phenyl	5.0	100.0	0.71	-0.14	-0.19	0.16	0.6	0.78	3.1	436	
+Agilent Microsrb C4	L26	C4	5.0	300.0	0.66	-0.02	-0.31	0.03	0.2	0.41	1.0	437	
+Agilent Microsorb-MV CN	L10	CN		100.0	0.35	-0.24	-0.85	-0.02	0.14	0.78	1.3	438	
+		C18			0.97	-0.02	0.0	-0.03	0.14	0.59	9.7	439	Macherey Nagel
+		C18			0.77	-0.04	-0.15	0.0	0.04	0.82	5.4	440	Macherey Nagel
+Higgins Analytical Phalanx C18	L1	C18			0.95	-0.03	-0.2	0.0	-0.07	-0.01	10.4	441	
+Restek Pinnacle DB Aqueous C18	L1	C18			0.69	-0.14	0.22	0.03	0.37	1.13	3.5	442	
+Restek Pinnacle DB Biphenyl	L11	Phenyl			0.64	-0.17	-0.34	0.05	0.19	0.51	2.3	443	
+Restek Pinnacle DB C18	L1	C18			1.01	0.02	-0.03	0.0	0.36	0.28	6.3	444	
+Restek Pinnacle DB C8	L7	C8			0.83	0.0	-0.19	0.03	0.26	0.23	3.8	445	
+Restek Pinnacle DB Cyano	L10	CN			0.37	-0.07	-0.38	0.0	0.22	0.72	0.7	446	
+Restek Pinnacle DB PFP Propyl	L43	F			0.64	-0.06	-0.25	0.05	0.59	1.1	2.5	447	
+Restek Pinnacle DB Phenyl	L11	Phenyl			0.57	-0.12	-0.46	0.04	0.16	0.28	1.7	448	
+Restek Pinnacle II Biphenyl	L11	Phenyl			0.64	-0.19	-0.24	0.05	0.46	0.73	2.9	449	
+Restek Pinnacle II C18	L1	C18			1.03	0.01	-0.03	0.0	0.44	0.34	8.4	450	
+Restek Pinnacle II C8	L7	C8			0.85	0.0	-0.11	0.03	0.39	0.43	5.3	451	
+Restek Pinnacle II Cyano	L10	CN			0.37	-0.08	-0.21	-0.01	0.2	0.78	1.2	452	
+Restek Pinnacle II PAH	L1	C18			0.97	-0.02	0.35	-0.02	0.74	1.18	6.8	453	
+Restek Pinnacle II Phenyl	L11	Phenyl			0.59	-0.13	-0.4	0.06	0.37	0.49	2.3	454	
+Agilent Polaris Amide-C18	L60	EP			0.84	0.11	-0.33	0.34	-1.65	-0.55	4.2	455	
+Higgins Analytical PROTO C18	L1	C18		300.0	0.96	0.01	-0.13	0.0	0.22	0.14	2.9	456	
+		Phenyl			0.57	-0.13	-0.53	0.04	0.15	0.26	1.7	457	Agilent Technologies/Varian
+Agilent Pursuit PFP	L43	F			0.65	-0.08	-0.25	-0.02	0.05	0.53	2.2	458	
+		C18			1.06	0.06	-0.05	0.0	-0.07	0.2	4.6	459	Agilent Technologies/Varian
+Higgins Analytical Targa C8	L7	C8			0.82	-0.02	-0.22	0.0	-0.02	0.17	6.0	460	
+Tosoh Bioscience TSKgel ODS-120A	L1	C18			0.89	-0.03	0.28	0.0	0.26	0.96	6.5	461	
+Tosoh Bioscience TSKgel ODS-120T	L1	C18			0.97	0.03	0.11	-0.01	0.19	0.22	6.5	462	
+		C18			0.96	-0.03	0.14	-0.01	0.16	0.58	8.3	463	Tosoh Bioscience
+Tosoh Bioscience TSKgel OligoDNA-RP	L1	C18			0.86	0.02	0.14	0.01	0.31	0.65	3.3	464	
+Restek Ultra Aqueous C18	L1	C18			0.8	-0.12	0.37	0.01	0.22	1.25	8.1	465	
+Restek Ultra Biphenyl	L11	Phenyl			0.66	-0.18	-0.28	0.04	0.2	0.72	3.9	466	
+Restek Ultra C1	L13	C1			0.61	-0.05	-0.4	0.01	-0.03	0.05	3.5	467	
+Restek Ultra C4	L26	C4			0.73	-0.01	-0.27	0.01	0.03	0.31	5.2	468	
+Restek Ultra  cyano	L10	CN			0.4	-0.04	-0.8	-0.01	-0.11	0.62	1.6	469	
+Restek Ultra IBD	L68	EP			0.67	-0.03	-0.05	0.23	-0.56	0.86	4.6	470	
+Restek Ultra II Aqueous C18	L1	C18			0.78	-0.15	0.32	0.01	0.46	1.16	7.4	471	
+Restek Ultra II Aromax	L11	Phenyl			0.73	-0.19	-0.34	0.02	0.47	0.64	5.3	472	
+Restek Ultra II C18	L1	C18			1.04	0.02	-0.03	-0.01	0.26	0.18	10.8	473	
+Restek Ultra II IBD	L68	EP			0.67	-0.04	-0.02	0.22	-0.25	0.86	4.0	474	
+Restek Ultra II PFP Propyl	L43	F			0.67	-0.08	-0.3	0.0	0.76	1.21	4.3	475	
+Restek Ultra PFP	L43	F			0.44	-0.05	-0.24	0.01	-0.22	0.15	1.6	476	
+Restek Ultra Phenyl	L11	Phenyl			0.58	-0.12	-0.33	0.03	0.04	0.43	3.0	477	
+Restek Ultra Quat		Other			0.85	0.01	-0.17	0.01	0.02	0.13	7.3	478	
+Restek Viva Biphenyl	L11	Phenyl			0.6	-0.18	-0.3	0.04	0.33	0.54	1.3	479	
+Restek Viva C18	L1	C18			0.98	0.01	-0.07	0.01	0.35	0.3	4.0	480	
+Restek Viva C4	L26	C4			0.7	-0.01	-0.28	0.03	0.22	0.31	1.7	481	
+Restek Viva C8	L7	C8			0.83	0.0	-0.22	0.03	0.26	0.22	2.6	482	
+Restek Viva PFP Propyl	L43	F			0.62	-0.06	-0.25	0.02	0.28	0.76	1.5	483	
+Waters XBridge C8	L7	C8			0.8	0.01	-0.29	0.01	0.12	0.06	3.4	484	
+ZirChrom ZirChrom-MS		Other			0.94	-0.17	-0.45	0.32	0.48	0.55	2.0	485	
+Agilent ZORBAX Eclipse PAH	L1	C18			1.03	-0.01	0.68	-0.05	0.07	1.4	5.9	486	
+Chromatopak Peerless Basic C18	L1	C18			0.98	-0.01	-0.15	-0.01	-0.16	-0.09	11.7	488	
+Chromatopak Peerless C18	L1	C18			0.99	-0.02	0.03	-0.01	0.0	0.45	10.2	489	
+Agilent Pursuit XRs C18	L1	C18			1.04	0.03	-0.12	-0.03	-0.01	-0.1	11.7	490	
+Agilent Pursuit XRs C8	L7	C8			0.88	0.02	-0.22	0.0	-0.15	-0.06	8.2	491	
+		Phenyl			0.63	-0.13	-0.43	0.03	0.04	0.39	4.0	492	Agilent Technologies/Varian
+Dikma Technologies Bio-Bond C18	L1	C18			0.96	-0.02	-0.15	0.0	0.22	0.18	3.1	493	
+Dikma Technologies Bio-Bond C4	L26	C4			0.7	0.0	-0.31	0.02	0.14	0.18	1.4	494	
+Dikma Technologies Bio-Bond C8	L7	C8			0.82	0.0	-0.26	0.02	0.17	0.15	2.0	495	
+Dikma Technologies Inspire C18	L1	C18			1.06	-0.05	-0.07	-0.04	-0.08	-0.1	11.2	496	
+Dikma Technologies Inspire C8	L7	C8			0.88	-0.02	-0.21	0.0	-0.19	-0.01	8.1	497	
+Dikma Technologies Spursil C18	siehe Bild	C18			0.96	0.0	-0.18	-0.04	0.42	0.76	9.1	498	
+Dikma Technologies Spursil C18-EP	siehe Bild	EP			0.83	0.1	-0.5	0.22	-1.12	0.89	8.9	499	
+Fortis Technologies Fortis C18	L1	C18			0.96	-0.02	-0.18	0.0	-0.16	0.11	11.0	500	
+Fortis Technologies Fortis C8	L7	C8			0.87	0.02	-0.22	0.0	-0.14	-0.04	8.2	501	
+Fortis Technologies Fortis Cyano	L10	CN			0.38	-0.05	-0.39	0.01	0.01	0.87	1.1	502	
+Fortis Technologies Fortis H2o	L1	EP			1.03	0.03	0.14	-0.02	0.0	0.1	10.5	503	
+Fortis Technologies Fortis Diphenyl	L11	phenyl			0.61	-0.15	-0.4	0.03	0.08	0.77	4.0	504	
+Fortis Technologies UniverSil C18	L1	C18			0.92	-0.02	-0.12	0.04	0.23	0.25	5.4	505	
+Fortis Technologies UniverSil HS C18	L1	C18			0.99	-0.01	-0.11	-0.01	-0.06	0.08	10.6	506	
+GL Science Insertsil C8-4	L7	C8			0.67	-0.03	-0.38	-0.01	-0.09	-0.15	4.5	507	
+Grace-Alltech ProSphere C18	L1	C18		300.0	0.9	-0.01	0.17	0.01	0.57	1.26	2.2	508	
+Grace-Vydac Vydac 218MS C18	L1	C18			0.88	-0.01	0.29	0.0	0.17	0.82	1.6	509	
+		C18			0.97	0.04	0.03	0.0	0.13	0.27	2.2	510	Grace/Vydac
+Imtakt Cadenza CD-C18	L1	C18			1.05	0.03	0.08	-0.02	0.11	0.04	9.9	511	
+Restek Ultra II Biphenyl	L11	Phenyl			0.65	-0.19	-0.27	0.04	0.43	0.76	3.9	513	
+Sepax Technologies Sepax HP-C18(2)	L1	C18			0.95	-0.02	-0.18	0.0	-0.13	0.05	11.3	514	
+Merck Supelco apHera C18	L67	C18			0.83	-0.01	-1.1	0.0	-0.55	7.51	6.3	515	
+Merck Supelco Ascentis ES-Cyano	L10	CN			0.54	-0.1	-0.49	0.01	0.13	-0.44	2.9	516	
+Merck Supelco Ascentis Express Peptide ES-C18	L1	C18			0.91	-0.04	0.26	0.01	0.19	0.81	3.6	517	
+Merck Supelco Ascentis Express Phenyl-Hexyl	L11	Phenyl			0.79	-0.08	-0.26	-0.01	0.09	0.48	3.5	518	
+Waters ACQUITY UPLC HSS C18		C18			1.02	0.03	-0.13	-0.02	0.05	0.0	8.6	519	Waters
+Waters ACQUITY UPLC HSS C18 SB		C18			0.73	-0.12	0.4	0.02	0.4	1.41	4.0	520	Waters
+Waters ACQUITY UPLC HSS T3		C18			0.94	-0.02	-0.17	0.0	0.03	0.18	7.9	521	Waters
+YMC YMC-Triart C18	L1	C18			0.92	-0.02	-0.19	-0.03	-0.02	-0.13	9.4	522	
+Dikma Technologies Endeavorsil C18	L1	C18			1.02	0.04	-0.09	-0.02	-0.07	0.0	4.05	523	
+Dikma Technologies Leapsil C18	L1	C18			1.05	0.04	-0.07	-0.03	-0.02	-0.05	10.51	524	
+Hitachi High-Tech LaChrom C18	L1	C18			0.99	0.01	-0.15	0.0	-0.27	-0.12	8.2	525	
+Hitachi High-Tech LaChrom C18-AQ	L1	C18			0.9	-0.02	-0.13	0.01	-0.32	0.19	6.8	526	
+Hitachi High-Tech LaChrom C18-NE	L1	C18			0.96	-0.02	0.36	0.0	0.13	0.77	7.6	527	
+Hitachi High-Tech LaChrom C8	L7	C8			0.85	0.02	-0.19	0.01	-0.41	-0.02	5.4	528	
+Hitachi High-Tech LaChrom CN	L10	CN			0.42	-0.06	-0.37	0.0	-0.02	0.79	1.13	529	
+Hitachi High-Tech LaChrom Ph	L11	Phenyl			0.59	-0.1	-0.32	0.02	0.0	0.45	2.51	530	
+Phenomenex Kinetex C8	L7	C8		100.0	0.86	0.01	-0.2	0.0	-0.08	0.0	3.5	531	
+Phenomenex Kinetex XB-C18	L1	C18			0.97	-0.01	-0.08	0.02	-0.04	0.3	4.9	532	
+Advanced Materials Technology HALO Peptide ES-C18	L1	C18			0.89	-0.059	0.25	0.024	0.177	0.819	3.0	533	
+Hitachi High-Tech LaChrom C18-PM	L1	C18			1.13	0.069	-0.019	-0.068	-0.267	-0.144	12.4	534	
+Advanced Chromatography Technologies ACE C18-PFP	L1	C18		100.0	0.899	-0.021	-0.246	-0.08	-0.001	-0.995	5.9	535	
+Advanced Materials Technology HALO PFP	L43	F			0.702	-0.117	-0.073	-0.062	1.17	0.972	2.3	536	
+Restek Ultra PFP Propyl	L43	F			0.622	-0.102	-0.314	-0.035	0.456	1.05	4.5	537	
+Restek Ultra Aromax	L11	Phenyl			0.741	-0.179	-0.375	0.021	0.195	0.375	5.6	538	
+Shimadzu Shim-pack XR-C8	L7	C8			0.862	0.01	-0.16	0.017	-0.044	0.217	3.689	539	
+Shimadzu Shim-pack XR-ODS	L1	C18			1.01	0.032	-0.106	-0.018	-0.061	0.17	5.741	540	
+Shimadzu Shim-pack XR-Phenyl	L11	Phenyl			0.705	-0.08	-0.264	0.01	-0.021	0.486	2.656	541	
+Waters CSH C18	L1	C18			0.954	-0.002	-0.179	0.118	0.082	0.171	5.62	542	
+Waters XSelect CSH Fluoro-Phenyl	L43	F			0.498	-0.138	-0.052	0.055	-0.321	0.793	1.413	543	
+Waters XSelect CSH Phenyl-Hexyl	L11	Phenyl			0.708	-0.059	-0.435	0.129	-0.068	0.223	2.865	544	
+GL Science InertSustain C18	L1	C18			1.01	0.055	-0.152	-0.087	-0.081	-0.195	11.399	545	
+Bonna-Agela Technologies Venusil ASB C18	L1	C18			0.824	-0.066	0.166	0.05	0.047	0.644	3.883	546	
+Bonna-Agela Technologies Venusil ASB C8	L7	C8			0.677	-0.078	-0.001	0.044	0.119	0.569	2.424	547	
+Bonna-Agela Technologies Durashell C18	L1	C18			1.04	0.041	-0.066	-0.038	-0.191	-0.174	10.556	548	
+Bonna-Agela Technologies Innoval C18	L1	C18			1.05	0.049	-0.024	-0.034	-0.066	0.027	6.731	549	
+Bonna-Agela Technologies Unisol C18		C18			0.95	-0.017	-0.108	-0.009	-0.108	0.092	10.176	550	
+Bonna-Agela Technologies Venusil XBP C18(2)	L1	C18			1.01	0.007	-0.081	-0.022	-0.116	0.072	11.451	551	
+Bonna-Agela Technologies Venusil XBP C18(L)	L1	C18			0.945	0.025	-0.135	-0.002	0.152	0.318	5.123	552	
+Showa Denko Shodex C18-4D	L1	C18			1.01	0.027	0.021	-0.01	-0.11	0.107	8.207	553	
+Bonna-Agela Technologies Venusil HLP	L60	EP			0.547	-0.015	-0.649	0.254	-0.926	1.64	3.801	554	
+Bonna-Agela Technologies Venusil XBP CN	L10	CN			0.45	-0.053	-0.631	-0.013	-0.018	0.737	1.94	555	
+Zodiac Life Sciences Zodiac C18(1)	L1	C18			0.973	0.008	-0.124	0.019	0.204	0.156	5.091	556	
+Zodiac Life Sciences Zodiac C18	L1	C18			1.07	0.052	-0.069	-0.039	-0.184	-0.152	11.626	557	
+Phenomenex Kinetex Pheyl-Hexyl	L11	Phenyl			0.795	-0.091	-0.258	0.016	0.062	0.236	3.49	558	
+Welch Materials Ultimate XB-C18	L1	C18			1.01	0.011	-0.046	0.001	0.118	0.133	9.39	559	
+Welch Materials Ultimate XB-C8	L7	C8			0.835	0.001	-0.074	0.028	0.069	0.281	5.55	560	
+Welch Materials Ultimate XB-Phenyl	L11	Phenyl			0.651	-0.108	-0.25	0.032	0.15	0.476	3.45	561	
+Waters XSelect HSS CN	L10	CN			0.479	-0.116	-0.224	0.043	0.082	1.18	1.76	562	
+Welch Materials UltisilXB-Phenyl	L11	Phenyl			0.651	-0.108	-0.273	0.032	0.144	0.466	3.53	563	
+Welch Materials Ultisil XB-C8	L7	C8			0.841	0.001	-0.108	0.027	0.063	0.244	5.87	564	
+Welch Materials Ultisil XB-C18	L1	C18			1.01	0.012	-0.016	0.005	0.118	0.142	9.44	565	
+Welch Materials Ultisil AQ-C18	L1	C18			0.872	-0.037	-0.072	0.031	0.054	0.323	6.61	566	
+Welch Material Xtimate C8	L7	C8			0.855	-0.014	-0.185	0.008	0.013	0.173	6.26	567	
+Welch Materials Xtimate C18	L1	C18			1.0	-0.001	-0.083	-0.011	0.155	0.283	8.99	568	
+Welch Materials Ultimate AQ-C18	L1	C18			0.868	-0.033	-0.055	0.029	0.058	0.363	6.51	569	
+Welch Materials Topsil C18	L1	C18			0.972	-0.011	-0.019	0.009	0.124	0.312	7.37	570	
+Merck Chromolith Performance RP-8e	L7	C8			0.833	-0.014	-0.01	0.014	0.071	0.572	2.41	571	
+Merck Chromolith HighResolution RP-C18e	L1	C18			0.999	0.019	0.017	-0.001	0.206	0.285	3.41	572	
+Genius Technologies COSMICSIL Aura C18	L1	C18			0.948	-0.04	-0.185	0.009	-0.047	0.089	11.7	573	
+Genius Technologies COSMICSIL AQ C18	L1	C18			0.958	-0.039	-0.072	0.013	0.133	0.295	9.19	574	
+		C18			1.08	0.038	0.042	-0.024	-0.086	0.084	13.5	575	Genius Technologies
+Genius Technologies COSMICSIL Agate 100 C18	L1	C18		100.0	1.02	-0.026	-0.07	0.009	0.048	0.263	13.0	576	
+		CN			0.339	-0.067	-0.488	0.008	0.099	0.901	0.561	577	Genius Technologies
+Waters Symmetry C4	L26	C4			0.687	-0.012	-0.29	0.022	0.217	0.305	1.41	578	
+Shimadzu Shim-pack XR-ODS II	L1	C18			1.09	0.039	0.076	-0.026	-0.006	0.204	12.85	579	
+Waters XSelect HSS PFP	L43	F			0.592	-0.164	0.146	-0.02	0.74	1.77	3.35	580	
+Macherey-Nagel NUCLEODUR C18 PAH	L118	C18			1.01	0.008	0.574	-0.022	0.343	1.22	8.74	581	
+Macherey-Nagel NUCLEODUR PolarTec	L1	C18			0.858	0.168	-0.259	0.351	-3.4	-0.787	7.67	582	
+Orochem Monitor C18	L1	C18			0.981	-0.004	-0.131	0.001	0.021	0.063	9.13	583	
+Orochem Matrix C18	L1	C18			0.934	-0.046	0.068	-0.003	0.071	0.765	11.42	584	
+Orochem Orosil Polar C18	L1	C18			0.981	-0.032	-0.137	0.002	-0.048	0.155	12.61	585	
+Orochem Orosil C18	L1	C18			1.04	-0.086	0.645	-0.035	1.07	1.56	10.17	586	
+Orochem Reliasil C18	L1	C18			0.879	-0.004	0.326	0.048	0.592	0.822	8.97	587	
+GL Science InerSustain C8	L7	C8			0.868	-0.005	-0.27	-0.021	-0.035	-0.122	8.59	588	
+GL Science InertSustain Phenyl	L11	Phenyl			0.569	-0.135	-0.375	0.035	-0.044	0.32	3.37	589	
+Macherey-Nagel NUCLEOSHELL RP 18	L1	C18			1.11	0.036	0.077	-0.04	0.082	0.266	7.5	590	
+Macherey-Nagel NUCLEODUR C18 Htec	L1	C18			1.05	0.038	-0.022	-0.015	-0.482	0.136	11.7	591	
+Macherey-Nagel NUCLEODUR PFP	L43	F			0.712	-0.059	-0.265	-0.036	0.023	0.81	4.8	592	
+		C18			0.918	-0.037	-0.17	0.025	0.109	0.734	7.97	593	Bonna-Agela Technologies, Inc.
+		Phenyl			0.678	-0.17	0.128	0.034	0.156	1.2	5.487	594	Bonna-Agela Technologies, Inc.
+Bonna-Agela Technologies Venusil PFP	L43	F			0.519	-0.158	0.12	0.011	0.35	1.14	2.763	595	
+		Phenyl			0.552	-0.214	0.016	0.052	-0.034	1.07	3.19	596	Bonna-Agela Technologies, Inc.
+Bonna-Agela Technologies Promosil C18	L1	C18			1.06	0.036	-0.068	-0.012	-0.002	-0.09	11.533	597	
+Bonna-Agela Technologies Venusil XBP Phenyl	L11	Phenyl			0.626	-0.118	-0.234	0.02	0.024	0.776	4.151	598	
+Advanced Materials Technology HALO C18	L1	C18	5.0		1.15	0.055	0.025	-0.055	0.073	0.1	7.031	599	
+Advanced Materials Technology HALO ES-CN	L10	CN			0.566	-0.11	-0.344	0.021	0.126	1.15	1.88	600	
+Advanced Materials Technology HALO PFP	L43	F	5.0		0.711	-0.122	-0.07	-0.052	1.16	1.85	2.725	601	
+CWN Technologies Athena  C8	L7	C8			0.831	-0.021	-0.166	0.009	0.026	0.274	6.43	602	
+CWN Technologies Athena C18	L1	C18			0.997	0.002	-0.03	-0.013	0.094	0.265	9.82	603	
+CWN Technologies Athena C18-WP	L1	C18			0.953	-0.03	-0.203	-0.003	-0.052	0.066	11.1	604	
+CWN Technologies Athena Phenyl	L11	Phenyl			0.587	-0.114	-0.396	0.033	0.067	0.345	2.52	605	
+Genius Technologies COSMICSIL Adze C18	L1	C18			0.997	-0.019	-0.138	-0.013	-0.082	0.069	12.7	606	
+		C18			0.854	-0.035	0.195	-0.012	0.476	0.929	3.79	607	Genius Technologies
+Thermo Scientific Synchronis C18	L1	C18			1.04	-0.003	-0.086	-0.019	-0.026	0.038	13.0	608	
+Thermo Scientific Synchronis C8	L7	C8			0.84	-0.024	-0.227	0.01	-0.058	0.116	7.99	609	
+Thermo Scientific Synchronis aQ	L1	EP			0.984	-0.004	-0.1	-0.038	0.066	1.08	10.2	610	
+Thermo Scientific Syncronis Phenyl	L11	Phenyl			0.75	-0.082	-0.32	0.008	-0.031	0.176	6.36	611	
+Thermo Scientific Hypersil GOLD C4	L26	C4			0.705	-0.003	-0.285	0.026	0.11	0.235	2.19	612	
+Thermo Scientific Hypersil GOLD Phenyl	L11	Phenyl			0.65	-0.091	-0.362	0.03	0.161	0.416	2.0	613	
+Thermo Scientific Hypersil GOLD L10	L10	CN			0.397	-0.035	-0.886	-0.019	-0.069	0.66	0.75	614	
+Thermo Scientific Accucore XL C18	L1	C18			1.09	0.059	0.051	-0.038	0.086	0.384	5.22	615	
+Thermo Scientific Accucore XL C8	L7	C8			0.926	0.02	-0.161	-0.001	0.02	-0.432	4.63	616	
+Thermo Scientific Accucore C18	L1	C18			1.09	0.054	0.055	-0.04	0.072	0.095	6.5	617	
+Thermo Scientific Accucore C8	L7	C8			0.924	0.015	-0.084	-0.003	0.002	0.186	5.2	618	
+Thermo Scientific Accucore C30	L62	C30			0.978	-0.02	-0.143	-0.002	0.321	0.462	4.52	619	
+Thermo Scientific Accucore C18	L1	C18		150.0	1.03	0.046	-0.037	-0.009	0.2	0.171	4.45	620	
+Thermo Scientific Accucore C4	L26	C4		150.0	0.738	-0.008	-0.309	0.023	0.13	0.224	2.17	621	
+Thermo Scientific Accucore aQ	L1	EP			1.07	0.05	0.002	-0.059	0.06	0.508	5.46	622	
+Thermo Scientific Accucore Phenyl-X	L11	Phenyl			0.781	-0.103	-0.554	0.044	-0.294	-0.082	3.64	623	
+Thermo Scientific Accucore Phenyl-Hexyl	L11	Phenyl			0.786	-0.047	-0.223	0.006	0.055	0.574	3.6	624	
+Thermo Scientific Accucore PFP	L43	F			0.729	-0.098	-0.249	-0.036	0.873	1.66	3.22	625	
+Thermo Accucore RP-MS					1.0	0.024	-0.015	-0.006	0.027	0.057	6.2	626	
+Thermo Scientific Accucore Polar Premium	L60	EP			0.871	0.103	-0.567	0.217	-0.207	0.787	5.6	627	
+Thermo Scientific Acclaim C30	L62	C30			0.973	-0.022	-0.126	0.004	0.353	0.32	5.52	628	
+Thermo Scientific Acclaim Phenyl-1	L11	Phenyl			0.689	-0.15	-0.548	0.068	0.013	0.15	4.27	629	
+Merck Supelco Ascentis Express F5	L43	F			0.721	-0.124	0.067	-0.074	1.06	1.84	3.25	630	
+Merck Supelco Ascentis Express F5	L43	F	5.0		0.711	-0.118	-0.097	-0.067	1.06	1.71	2.85	631	
+Merck Supelco Ascentis Express C18	L1	C18	5.0		1.13	0.053	0.053	-0.05	0.084	0.197	6.56	632	
+Advanced Materials Technology HALO C8	L7	C8	5.0		0.92	0.017	-0.118	-0.002	-0.002	0.205	4.6	633	
+Advanced Materials Technology HALO Phenyl-Hexyl	L11	Phenyl	5.0		0.799	-0.091	-0.295	-0.004	0.115	0.429	3.29	634	
+Merck Supelco Ascentis Express ES-Cyano	L10	CN			0.565	-0.098	-0.415	0.014	0.031	1.04	1.88	635	
+Advanced Materials Technology HALO ES-CN	L10	CN	5.0		0.558	-0.102	-0.492	0.012	0.081	0.967	1.61	636	
+Agilent InfinityLab Poroshell 120 EC-C18	L1	C18			1.02	0.008	-0.13	-0.004	0.161	0.123	6.92	637	
+Agilent InfinityLab Poroshell 120 EC-C8	L7	C8			0.877	0.011	-0.232	0.023	0.127	0.09	4.84	638	
+Agilent InfinityLab Poroshell 120 EC-CN	L10	CN			0.421	-0.057	-0.476	0.002	0.045	0.87	0.95	639	
+Agilent InfinityLab Poroshell 120 Phenyl-Hexyl	L11	Phenyl			0.752	-0.083	-0.394	0.018	0.136	0.14	3.59	640	
+Agilent InfinityLab Poroshell 120 Bonus-RP	L60	EP			0.686	-0.03	-0.573	0.18	-0.67	-0.017	3.98	641	
+Agilent InfinityLab Poroshell 120 SB-C18	L1	C18			0.956	-0.041	0.168	0.025	0.21	0.763	5.44	642	
+Agilent InfinityLab Poroshell 120 SB-C8	L7	C8			0.726	-0.087	0.068	0.044	0.087	0.807	3.56	643	
+Agilent InfinityLab Poroshell 120 C18-Aq	L1/L96	EP			0.581	-0.12	-0.133	0.051	-0.014	0.67	2.15	644	
+Merck Supelco Titan C18	L1	C18			1.01	0.004	-0.084	-0.047	-0.052	0.088	10.11	645	
+Nacalai Tesque πNap	L11	phenyl			0.665	-0.176	-0.258	0.034	0.188	0.789	3.48	646	
+Nacalai Tesque COSMOSIL 5PYE		Other			0.671	-0.271	-0.283	0.092	0.521	1.32	3.81	647	
+Advanced Chromatography Technologies Excel SuperC18	L1	C18			0.997	-0.003	-0.201	-0.013	0.03	0.009	9.92	648	
+Advanced Chromatography Technologies ACE Excel CN-ES	L10	CN			0.811	-0.005	-0.429	-0.01	-0.052	0.153	3.74	649	
+Advanced Chromatography Technologies ACE Excel C18-Amide	L60	EP			0.791	0.023	-0.489	0.199	-0.06	0.176	5.86	650	
+Advanced Chromatography Technologies UltraCore SuperPhenylHexyl	L11	phenyl			0.809	-0.074	-0.347	-0.014	-0.014	-0.007	3.7	651	
+Advanced Chromatography Technologies UltraCore SuperC18	L1	C18			1.09	0.03	-0.111	-0.05	-0.029	0.028	6.92	652	
+Diamond Analytics FLARE C18 Mixed Mode		Other			0.806	-0.073	-0.47	0.841	-1.48	2.41	0.75	653	
+Genius Technologies COSMICSIL Agate RP C8	L7	C8			0.846	-0.008	-0.178	0.022	0.034	0.262	7.16	654	
+Genius Technologies COSMICSIL APT C18	L1	C18			1.02	0.004	-0.064	-0.007	0.135	0.196	10.43	655	
+		C18			1.0	0.007	-0.17	0.003	0.172	0.222	9.38	656	Genius Technologies
+Genius Technologies COSMICSIL Abra UPLC C18	L1	C18			0.81	0.031	-0.482	0.214	-0.178	0.139	8.16	657	
+Genius Technologies COSMICSIL Agate RP C18	L1	C18			1.02	0.017	-0.007	-0.007	0.185	0.23	10.61	658	
+Phenomenex Kinetex Biphenyl	L11	Phenyl		100.0	0.697	-0.173	-0.583	0.034	0.122	0.817	2.63	659	
+Phenomenex Aeris PEPTIDE XB-C8	L7	C8			0.788	-0.038	-0.169	0.073	-0.042	0.518	1.23	660	
+Phenomenex Aeris WIDEPORE XB-C18	L1	C18			0.934	-0.032	-0.134	0.068	0.073	0.36	1.81	661	
+Phenomenex Aeris PEPTIDE XB-C4	L26	C4			0.699	-0.021	-0.31	0.017	0.084	0.195	0.91	662	
+Phenomenex Aeris PEPTIDE XB-C18	L1	C18			0.992	-0.021	-0.095	0.016	0.071	0.314	5.65	663	
+SIELC Technologies Primesep A		Other			0.57	-0.199	0.057	0.032	2.73	2.6	1.57	664	
+SIELC Technologies Primesep B		Other			0.497	-0.004	0.034	0.584	-1.87	-1.36	0.91	665	
+SIELC Technologies Primesep C		Other			0.513	-0.146	-0.265	0.124	1.04	1.55	1.85	666	
+Waters CORTECS C18	L1	C18			1.08	0.043	-0.108	-0.037	0.063	0.035	6.39	667	
+Waters CORTECS C18+	L1	C18			1.04	-0.005	0.175	0.026	-0.033	0.537	6.54	668	
+ChromNik Technologies SunShell RP-AQUA	L62	C28			0.898	-0.04	-0.272	0.013	0.127	0.095	4.02	669	
+ChromNik Technologies SunShell C18	L1	C18			1.09	0.028	-0.124	-0.056	-0.043	-0.084	7.79	670	
+ChromNik Technologies SunShell Phenyl	L11	Phenyl			0.813	-0.076	-0.323	-0.017	-0.061	-0.09	4.161	671	
+ChromNik Technologies SunShell C8	L7	C8			0.907	0.007	-0.235	-0.028	-0.065	-0.126	4.7	672	
+ChromNik Technologies SunShell PFP	L43	F			0.663	-0.176	0.14	-0.076	1.11	2.14	2.46	673	
+ChromaNik Technologies Sunniest C8	L7	C8			0.845	0.005	-0.304	-0.002	0.036	-0.018	5.7	674	
+ChromaNik Technologies Sunniest PhE	L11	Phenyl			0.656	-0.085	-0.469	0.008	0.044	-0.022	3.24	675	
+ChromaNik Technologies Sunniest RP-AQUA	L62	C28			0.958	-0.024	-0.21	-0.008	0.142	0.098	8.49	676	
+ChromaNik Technologies Sunniest C18	L1	C18			1.02	0.01	-0.169	-0.023	0.089	0.803	9.62	677	
+ChromaNik Technologies Sunniest PFP	L43	F			0.615	-0.15	-0.049	-0.04	1.1	1.8	2.97	678	
+Phenomenex Kinetex EVO C18	L1	C18			1.01	-0.006	-0.17	-0.024	-0.11	-0.01	4.38	679	
+Diamond Analytics FLARE C18+		Other			1.14	-0.31	0.73	0.97	-0.51	1.2	0.27	680	
+		C8			0.857	-0.014	-0.2	0.018	-0.052	0.17	8.2	681	Wesley Technologies Inc
+Wesley Technologies Inc. PrimeSIL C18	L1	C18	5.0		1.04	-0.002	-0.043	-0.013	0.015	0.15	12.4	682	
+Wesley Technologies Inc. PrimeSIL C18	L1	C18	3.0		1.02	0.025	-0.06	-0.001	0.014	0.12	9.0	683	
+Wesley Technologies Inc. PrimeSIL ODS P	L60	EP			0.752	0.09	-0.67	0.042	-0.24	-0.015	8.7	684	
+Wesley Technologies Inc. PrimeSIL ODS 2	L1	C18			1.0	-0.004	-0.057	-0.006	0.109	0.18	10.3	685	
+Phenomenex Kinetex F5	L43	F			0.725	-0.064	-0.32	-0.046	0.11	2.66	3.03	686	
+United Chemical Technologies Selctra Aqueous C18	L1	EP			0.78	-0.11	0.011	0.011	0.076	1.15	6.79	687	
+United Chemical Technologies Selctra C18	L1	C18			1.05	0.032	0.006	-0.017	0.015	0.026	11.8	688	
+United Chemical Technologies Selctra PFPP	L43	F			0.674	-0.081	-0.33	-0.033	0.43	1.26	4.63	689	
+GL Science InertSustain AQ-C18	L1	C18			0.939	-0.05	-0.23	0.001	-0.003	-0.095	10.7	690	
+GL Science InertSustain Phenylhexyl	L11	Phenyl			0.743	-0.043	-0.37	-0.015	-0.109	-0.204	5.92	691	
+GL Science InertSustainSwift C18	L1	C18			0.882	-0.013	-0.31	-0.001	0.13	0.074	4.74	692	
+Agilent InfinityLab Poroshell 120 HPH-C8	L7	C8			0.887	0.01	-0.25	0.008	-0.019	-0.073	4.18	693	
+Agilent InfinityLab Poroshell 120 HPH-C18	L1	C18			1.03	0.005	-0.14	-0.014	0.073	-0.004	6.1	694	
+Agilent InfinityLab Poroshell 120 	L43	F			0.63	-0.059	-0.46	0.015	-0.038	0.741	2.88	695	
+Merck Supelco AscentisExpress Biphenyl	L11	phenyl			0.702	-0.177	-0.23	0.031	0.208	0.923	2.43	696	
+Waters ACQUITY UPLC BEH C18	L1	C18			1.0	0.028	-0.366	0.007	0.142	0.088	6.4	697	
+Waters ACQUITY UPLC CSH C18	L1	EP			0.968	0.0	-0.355	0.199	0.065	0.157	6.1	698	
+YMC YMC-Triart C8	L7	C8			0.83	-0.007	-0.317	-0.007	-0.023	-0.102	7.2	699	
+YMC YMC-Triart C18 ExRS	L1	C18			1.17	0.063	-0.004	-0.096	-0.139	-0.254	18.4	700	
+YMC YMC-Triart Phenyl	L11	phenyl			0.723	-0.072	-0.376	-0.008	-0.021	-0.084	5.3	701	
+YMC YMC-Triart PFP	L43	F			0.586	-0.182	-0.014	-0.045	0.363	1.36	3.8	702	
+Merck Supelco BIOshell A160 Peptide C18	L1	C18		160.0	0.89	-0.059	0.25	0.024	0.177	0.819	3.0	703	
+Merck Supelco BIOshell A400 Protein C18	L1	C18		400.0	0.94	-0.052	-0.202	0.063	0.177	0.261	1.1	704	
+Merck Supelco BIOshell A400 Protein C4	L26	C4		400.0	0.704	0.005	-0.847	0.013	0.109	0.155	0.61	705	
+Merck Supelco BIOshell A160 Peptide CN	L10	CN		160.0	0.481	-0.098	-0.353	0.028	0.076	0.838	0.9	706	
+Phenomenex Luna Omega C18	L1	C18			0.976	-0.0029	-0.187	-0.0071	-0.018	0.005	9.6	707	
+Phenomenex Luna Omega Polar C18	L1	EP			0.86	-0.07	-0.158	0.02	0.0027	0.558	7.4	708	
+Phenomenex Luna Omega PS C18	L1	EP			0.901	-0.017	-0.273	0.011	-0.29	0.013	7.6	709	
+Advanced Materials Technology HALO AQ-C18	L1	C18			1.0	-0.036	0.099	-0.048	0.156	0.864	6.7	710	
+Advanced Materials Technology HALO Biphenyl	L11	phenyl			0.708	-0.183	-0.279	0.028	0.047	0.99	3.1	711	
+Nanologica Svea C18	L1	C18			1.06	0.041	-0.054	-0.028	0.047	-0.031	11.2	712	
+Nanologica Svea Phenyl Hexyl	L11	phenyl			0.763	-0.09	-0.304	0.011	0.152	0.417	5.5	713	
+Nanologica Svea C4	L26	C4			0.73	-0.002	-0.289	0.017	0.042	0.304	4.6	714	
+Nanghavi Chrom. Solutions KANAK C18	L1	C18			1.06	0.041	-0.054	-0.028	0.047	-0.031	11.2	715	
+Nanghavi Chrom. Solutions KANAK Phenyl-Hexyl	L11	phenyl			0.763	-0.09	-0.304	0.011	0.152	0.417	5.5	716	
+Nanghavi Chrom. Solutions KANAK C4	L26	C4			0.73	-0.002	-0.289	0.017	0.042	0.304	4.6	717	
+Waters CORTECS C8	L7	C8			0.882	0.02	-0.21	-0.007	0.028	0.047	4.5	718	
+Waters CORTECS T3	L1	C18			0.954	-0.036	-0.16	0.016	0.15	0.19	5.2	719	
+Waters CORTECS Phenyl	L11	phenyl			0.764	-0.088	-0.31	0.009	0.042	0.59	3.3	720	
+Waters CORTECS UPLC Shield RP18	L1	EP			0.869	-0.023	-0.28	0.1	-0.19	0.096	4.9	721	
+Waters XBridge Protein BEH C4	L26	C4			0.546	-0.073	-0.21	0.043	0.007	0.12	0.85	722	
+Waters BioResolve RP mAb Polyphenyl	L11	phenyl			0.586	-0.14	-0.49	0.058	0.18	0.25	0.39	723	
+GL Science Inertsil ODS-HL	L1	C18			1.07	0.01	-0.037	-0.066	0.016	-0.013	16.0	724	
+GL Science InertSustainSwift C8	L7	C8			0.785	-0.014	-0.32	0.0	0.07	0.0	3.7	725	
+GL Science InertSustain Cyano	L10	CN			0.445	-0.04	-0.37	-0.015	-0.077	0.83	1.6	726	
+Nanologica Svea C8	L7	C8			0.873	0.014	-0.17	0.012	0.029	0.15	7.2	727	
+Nanologica Svea PFP	L43	F			0.633	-0.085	-0.26	0.024	0.4	1.28	3.7	728	
+Nanologica Svea CN	L10	CN			0.44	-0.046	-0.65	-0.01	0.01	0.82	1.6	729	
+Advanced Materials Technology HALO C30	L62	C30			0.938	-0.046	-0.14	0.023	0.17	0.35	4.5	730	
+Welch Materials Ultisil LP-C18	L1	C18			0.913	-0.044	0.16	0.026	0.15	0.77	7.4	731	
+Welch Materials Ultisil Plus C18	L1	C18			0.979	-0.003	-0.12	0.015	0.16	0.17	6.3	732	
+Welch Materials Ultisil XS-C18	L1	C18			0.982	-0.009	0.45	-0.016	0.22	1.2	9.5	733	
+Welch Materials Ultisil Polar-RP	L1	EP			0.773	0.026	-0.43	0.19	-0.27	0.1	6.4	734	
+Welch Materials Ultisil PFP	L11	F			0.636	-0.1	-0.17	-0.023	0.45	1.1	3.4	735	
+Welch Materials Ultisil XB-CN	L10	CN			0.394	-0.074	-0.3	0.007	0.092	0.92	1.1	736	
+Welch Materials Ultisil LP-C18	L1	C18			0.916	-0.042	0.15	0.026	0.14	0.76	7.6	737	
+Welch Materials Ultisil Polar-RP	L1	EP			0.773	0.028	-0.44	0.19	-0.25	0.037	6.4	738	
+		C8			0.858	0.009	-0.186	0.026	0.1	0.125	6.3	739	Wesley Technologies Inc
+Wesley Technologies Inc. Flowrosil C18	L1	C18			1.01	0.004	-0.121	0.0	0.162	0.142	9.5	740	
+		C18			0.894	-0.04	-0.182	0.024	0.112	0.171	7.5	741	Wesley Technologies Inc
+Wesley Technologies Inc. Flowrosil C8	L7	C8			0.857	0.001	-0.173	0.024	0.11	0.166	6.4	742	
+		C18			0.973	-0.014	-0.084	0.01	0.148	0.208	7.2	743	Wesley Technologies Inc
+		C18			0.778	0.017	-0.463	0.185	-0.301	0.018	7.0	744	Wesley Technologies Inc
+VDS Optilab VDSpher PUR C18-E	L1	C18		100.0	1.03	-0.0034	-0.0026	-0.016	0.01	0.15	13.0	745	
+VDS Optilab VDSpher PUR C18-H	L1	C18		100.0	0.809	-0.073	-0.14	0.015	0.033	0.97	7.8	746	
+VDS Optilab VDSpher PUR C18-M-SE	L1	C18		100.0	1.07	0.037	-0.044	-0.037	-0.06	0.022	13.1	747	
+VDS Optilab VDSpher PUR C18-M	L1	C18		100.0	0.903	-0.077	0.51	0.0002	0.12	1.51	10.2	748	
+YMC Triart Bio C4	L26	C4			0.673	-0.015	-0.35	0.02	0.13	0.064	1.2	749	
+Shimadzu Shim-pack Arate C18	L1	C18			0.782	0.032	-0.503	0.236	-0.52	0.079	7.6	750	
+Shimadzu Shim-pack Velox SP-C18	L1	C18			0.983	-0.045	0.385	0.01	0.106	1.06	6.3	751	
+Shimadzu Shim-pack Velox C18	L1	C18			1.1	0.051	0.101	-0.034	0.111	0.196	6.6	752	
+Shimadzu Shim-pack Velox Biphenyl C18	L11	phenyl			0.707	-0.19	-0.244	0.046	0.063	1.07	3.2	753	
+Shimadzu Shim-pack Velox PFPP	L42	F			0.688	-0.13	0.116	-0.043	0.443	1.59	3.0	754	
+Thermo Scientific BETASIL C18	L1	C18			1.06	0.033	0.034	-0.014	0.095	0.099	12.3	755	
+Thermo Scientific Acclaim Mixed-Mode HILIC-1	L60	EP			0.517	-0.086	0.0	0.126	0.067	0.893	1.7	756	
+Thermo Scientific Acclaim Mixed-Mode WCX-1	L60	EP			0.432	-0.099	-0.606	0.168	-0.156	0.99	1.5	757	
+Thermo Scientific Hypersil ODS	L1	C18			0.973	-0.051	-0.094	0.019	1.1	0.895	5.7	758	
+Thermo Scientific BETASIL C8	L7	C8			0.875	-0.0027	-0.164	0.031	0.084	0.076	8.1	759	
+Thermo Scientific Accucore Biphenyl	L11	phenyl			0.706	-0.18	-0.317	0.025	0.077	0.727	3.3	760	
+YMC YMC-Triart Bio C18	L1	C18			0.954	-0.0081	-0.139	0.011	0.261	0.21	3.0	761	
