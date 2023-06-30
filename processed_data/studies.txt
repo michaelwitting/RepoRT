@@ -258,8 +258,8 @@ id	name	url	pmid	source	method.type	comment	missing information	authors
 0259	CCS_neg_40_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
 0260	Synergi_Pos	https://doi.org/10.1021/acs.analchem.1c00972		Dataset - Huber	RP			C. Huber
 0261	Synergi_Neg	https://doi.org/10.1021/acs.analchem.1c00972		Dataset - Huber	RP			C. Huber
-0262	SPECIMEN_Pos	https://doi.org/10.1021/acs.analchem.2c00061		Dataset - Huber	RP			C. Huber
-0263	SPECIMEN_Neg	https://doi.org/10.1021/acs.analchem.2c00061		Dataset - Huber	RP			C. Huber
+0262	SPECIMEN_Pos	https://doi.org/10.1021/acs.analchem.1c00972		Dataset - Huber	RP			C. Huber
+0263	SPECIMEN_Neg	https://doi.org/10.1021/acs.analchem.1c00972		Dataset - Huber	RP			C. Huber
 0264	AR			Dataset - Rutz	RP			Adriano Rutz
 0265	MZ			Dataset - Zdouc	RP			Mitja Zdouc
 0266	Kruve Lab_1	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
