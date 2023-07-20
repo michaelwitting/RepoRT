@@ -45,8 +45,11 @@ jobs:
     - name: Pyton dependencies
       run: pip install -r scripts/Python/requirements.txt
 
-    - name: Set java version
-      run: echo ("JAVA_HOME=" + $Env:JAVA_HOME_13_X64) >> $env:GITHUB_ENV
+    - name: Setup java
+      uses: actions/setup-java@v3
+      with:
+        distribution: 'temurin'
+        java-version: '17'
 
     - name: Set RENV_PATHS_ROOT
       shell: bash
