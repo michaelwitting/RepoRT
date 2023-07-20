@@ -55,17 +55,29 @@ if __name__ == '__main__':
     df = pd.read_csv(in_file, sep='\t', index_col=0)
     changed = False
     for i, r in df.iterrows():
-        if not pd.isna(df.loc[i, ['pubchem.smiles.isomeric', 'pubchem.smiles.canonical']]).all():
+        if not pd.isna(df.loc[i, 'pubchem.smiles.isomeric']):
             continue
         for id_type, _ in sorted(IDS.items(), key=lambda x: x[1][1]):
             id_ = df.loc[i, id_type]
             if not pd.isna(id_):
                 try:
                     smiles = get_smiles(id_, id_type)
-                    df.at[i, ('pubchem.smiles.isomeric' if is_isomeric(smiles) else 'pubchem.smiles.canonical')] = smiles
-                    print(f'retrieved {"isomeric" if is_isomeric(smiles) else "canonical"} SMILES for {i} via {id_type} with ID {id_}')
-                    changed = True
-                    continue
+                    if is_isomeric(smiles) and pd.isna(df.loc[i, 'pubchem.smiles.isomeric']):
+                        # update isomeric SMILES only if not set already
+                        df.at[i, 'pubchem.smiles.isomeric'] = smiles
+                        print(f'retrieved isomeric SMILES for {i} via {id_type} with ID {id_}')
+                        changed = True
+                        continue
+                    elif not is_isomeric(smiles) and pd.isna(df.loc[i, 'pubchem.smiles.canonical']):
+                        # update canonical SMILES only if not set already
+                        df.at[i, 'pubchem.smiles.canonical'] = smiles
+                        print(f'retrieved canonical SMILES for {i} via {id_type} with ID {id_}')
+                        changed = True
+                        continue
+                    else:
+                        print(f'[{id_type}: {id_}] not updating SMILES; already specified:',
+                              dict(~pd.isna(df.loc[i, ['pubchem.smiles.isomeric', 'pubchem.smiles.canonical']])),
+                              'retrieved SMILES are', 'isomeric' if is_isomeric(smiles) else 'canonical')
                 except Exception as e:
                     print(i, e)
     if (changed):
