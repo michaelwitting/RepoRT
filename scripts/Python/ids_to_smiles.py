@@ -9,6 +9,12 @@ import pubchempy as pcp
 def is_isomeric(smiles):
     return any(c in smiles for c in ['\\', '/', '@'])
 
+def is_na(x):
+    if isinstance(x, str):
+        return x == ''
+    else:
+        return pd.isna(x)
+
 def get_formula(smiles):
     return pcp.get_compounds(smiles, 'smiles')[0].molecular_formula
 
@@ -55,20 +61,21 @@ if __name__ == '__main__':
     df = pd.read_csv(in_file, sep='\t', index_col=0)
     changed = False
     for i, r in df.iterrows():
-        if not pd.isna(df.loc[i, 'pubchem.smiles.isomeric']):
+        if not (is_na(df.loc[i, 'pubchem.smiles.isomeric']) or is_na(df.loc[i, 'pubchem.smiles.isomeric'])):
+            # TODO: also for compounds without isomeric SMILES
             continue
         for id_type, _ in sorted(IDS.items(), key=lambda x: x[1][1]):
             id_ = df.loc[i, id_type]
-            if not pd.isna(id_):
+            if not is_na(id_):
                 try:
                     smiles = get_smiles(id_, id_type)
-                    if is_isomeric(smiles) and pd.isna(df.loc[i, 'pubchem.smiles.isomeric']):
+                    if is_isomeric(smiles) and is_na(df.loc[i, 'pubchem.smiles.isomeric']):
                         # update isomeric SMILES only if not set already
                         df.at[i, 'pubchem.smiles.isomeric'] = smiles
                         print(f'retrieved isomeric SMILES for {i} via {id_type} with ID {id_}')
                         changed = True
                         continue
-                    elif not is_isomeric(smiles) and pd.isna(df.loc[i, 'pubchem.smiles.canonical']):
+                    elif not is_isomeric(smiles) and is_na(df.loc[i, 'pubchem.smiles.canonical']):
                         # update canonical SMILES only if not set already
                         df.at[i, 'pubchem.smiles.canonical'] = smiles
                         print(f'retrieved canonical SMILES for {i} via {id_type} with ID {id_}')
