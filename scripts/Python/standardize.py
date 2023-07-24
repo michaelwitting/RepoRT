@@ -282,6 +282,7 @@ class StructureListPubChemStandardizer:
 
 def standardize_structure_with_pubchem(input_structure, input_format, output_format=None, return_none_if_error=True, request_processing_time=30):
     """returns tuples of (standardized_structure, Exception)"""
+    print(input_structure)
     try:
         standardization_request = PubChemStandardizationRequest(input_structure=input_structure, input_format=input_format, output_format=output_format)
         request_response = standardization_request.submit_request()  # IF the request failed and request_response.get_status() == 'FAILED', then an exception will be raises!!!
@@ -319,8 +320,9 @@ if __name__ == '__main__':
         structures['standardized'], structures['errors'] = list(zip(*standardized))
         structures.loc[pd.isna(structures.errors), ['standardized']].to_csv(success_out, header=None, sep='\t')
     else:
-        # write empty output file
-        with open(success_out, 'w') as out:
-            out.write('')
         structures['errors'] = []
-    pd.concat([empties, structures.loc[~pd.isna(structures.errors), ['smiles', 'errors']]]).sort_index().to_csv(failed_out, header=None, sep='\t')
+    # make sure output files exist, even if empty
+    with open(success_out, 'a') as out:
+        out.write('')
+    pd.concat([empties, structures.loc[~pd.isna(structures.errors), ['smiles', 'errors']]]).sort_index().to_csv(
+        failed_out, header=None, sep='\t')
