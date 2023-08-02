@@ -29,6 +29,13 @@ for(data_folder in data_folders) {
 
   cat(paste(Sys.time(), "processing", data_folder, "\n"))
 
+  # step will be skipped when ".fingerprints_done" file is present in folder
+  if(file.exists(file.path(data_folder, ".fingerprints_done"))){
+    cat(paste("skipping ", data_folder, "\n"))
+    next
+  }
+
+
   # canconical smiles data -----------------------------------------------------
   # read canonical smiles data
   rt_data_file <- list.files(data_folder,
