@@ -62,6 +62,9 @@ for(data_folder in data_folders) {
   ## get SMILES for entries where only database IDs are specified
   system(paste("python3 scripts/Python/ids_to_smiles.py", rt_data_file))
 
+  ## process duplicates and doublets
+  system(paste("python3 scripts/Python/process_dups.py", basename(data_folder)))
+
   rt_data <- read_tsv(rt_data_file,
                       col_types = cols(id = col_character(),
                                        name = col_character(),
