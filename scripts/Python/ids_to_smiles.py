@@ -61,8 +61,8 @@ if __name__ == '__main__':
     df = pd.read_csv(in_file, sep='\t', index_col=0)
     changed = False
     for i, r in df.iterrows():
-        if not (is_na(df.loc[i, 'pubchem.smiles.canonical']) and is_na(df.loc[i, 'pubchem.smiles.isomeric'])):
-            # TODO: also for compounds without isomeric SMILES
+        if not (is_na(df.loc[i, 'pubchem.smiles.canonical']) or is_na(df.loc[i, 'pubchem.smiles.isomeric'])):
+            # TODO: for large datasets, find a way to remember where there is no further information to retrieve
             continue
         for id_type, _ in sorted(IDS.items(), key=lambda x: x[1][1]):
             id_ = df.loc[i, id_type]
