@@ -30,7 +30,7 @@ for(data_folder in data_folders) {
   # canconical smiles data -----------------------------------------------------
   # read canonical smiles data
   rt_data_file <- list.files(data_folder,
-                             pattern = "_rtdata_canonical_success.txt$",
+                             pattern = "_rtdata_canonical_success.tsv$",
                              full.names = TRUE)
 
 
@@ -57,13 +57,13 @@ for(data_folder in data_folders) {
 
     # write results
     write_tsv(rt_data_canonical %>% select(id) %>% add_column(bits.on=fingerprints_ecfp6),
-              gsub("_rtdata_canonical_success.txt", "_fingerprints_ecfp6_canonical_success.txt", rt_data_file),
+              gsub("_rtdata_canonical_success.tsv", "_fingerprints_ecfp6_canonical_success.tsv", rt_data_file),
               na = "")
     write_tsv(rt_data_canonical %>% select(id) %>% add_column(bits.on=fingerprints_maccs),
-              gsub("_rtdata_canonical_success.txt", "_fingerprints_maccs_canonical_success.txt", rt_data_file),
+              gsub("_rtdata_canonical_success.tsv", "_fingerprints_maccs_canonical_success.tsv", rt_data_file),
               na = "")
     write_tsv(rt_data_canonical %>% select(id) %>% add_column(bits.on=fingerprints_pubchem),
-              gsub("_rtdata_canonical_success.txt", "_fingerprints_pubchem_canonical_success.txt", rt_data_file),
+              gsub("_rtdata_canonical_success.tsv", "_fingerprints_pubchem_canonical_success.tsv", rt_data_file),
               na = "")
 
     # remove to avoid overlap
@@ -78,7 +78,7 @@ for(data_folder in data_folders) {
   # canconical smiles data -----------------------------------------------------
   # read canonical smiles data
   rt_data_file <- list.files(data_folder,
-                             pattern = "_rtdata_isomeric_success.txt$",
+                             pattern = "_rtdata_isomeric_success.tsv$",
                              full.names = TRUE)
 
   if(length(rt_data_file) == 1) {
@@ -102,13 +102,13 @@ for(data_folder in data_folders) {
 
     # write results
     write_tsv(rt_data_isomeric %>% select(id) %>% add_column(bits.on=fingerprints_ecfp6),
-              gsub("_rtdata_isomeric_success.txt", "_fingerprints_ecfp6_isomeric_success.txt", rt_data_file),
+              gsub("_rtdata_isomeric_success.tsv", "_fingerprints_ecfp6_isomeric_success.tsv", rt_data_file),
               na = "")
     write_tsv(rt_data_isomeric %>% select(id) %>% add_column(bits.on=fingerprints_maccs),
-              gsub("_rtdata_isomeric_success.txt", "_fingerprints_maccs_isomeric_success.txt", rt_data_file),
+              gsub("_rtdata_isomeric_success.tsv", "_fingerprints_maccs_isomeric_success.tsv", rt_data_file),
               na = "")
     write_tsv(rt_data_isomeric %>% select(id) %>% add_column(bits.on=fingerprints_pubchem),
-              gsub("_rtdata_isomeric_success.txt", "_fingerprints_pubchem_isomeric_success.txt", rt_data_file),
+              gsub("_rtdata_isomeric_success.tsv", "_fingerprints_pubchem_isomeric_success.tsv", rt_data_file),
               na = "")
 
     # remove to avoid overlap

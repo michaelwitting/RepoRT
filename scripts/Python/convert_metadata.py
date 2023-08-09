@@ -51,7 +51,7 @@ def traverse(whole_key, x, result):
 def to_full_table(metadata):
     result = {}
     traverse('', metadata, result)
-    base = pd.read_csv('example/0259_metadata.txt', sep='\t',
+    base = pd.read_csv('example/0259_metadata.tsv', sep='\t',
                        dtype={'id': str})
     # clear everything
     for c in base.columns.tolist():
@@ -89,7 +89,7 @@ if __name__ == '__main__':
     # either convert from tsv to YAML or YAML to tsv
     for dataset in sys.argv[1:]:
         for mode_ in ['raw', 'processed']:
-            tsv_file = f'{mode_}_data/{dataset}/{dataset}_metadata.txt'
+            tsv_file = f'{mode_}_data/{dataset}/{dataset}_metadata.tsv'
             yaml_file = f'{mode_}_data/{dataset}/{dataset}_metadata.yaml'
             if (os.path.exists(tsv_file) and not os.path.exists(yaml_file)):
                 # tsv -> YAML

@@ -23,11 +23,11 @@ for(data_folder in data_folders) {
   study_id <- basename(data_folder)
 
   # meta data files
-  gradient_file <- file.exists(paste0(data_folder, "/", study_id, "_gradient.txt"))
-  metadata_file <- file.exists(paste0(data_folder, "/", study_id, "_metadata.txt"))
+  gradient_file <- file.exists(paste0(data_folder, "/", study_id, "_gradient.tsv"))
+  metadata_file <- file.exists(paste0(data_folder, "/", study_id, "_metadata.tsv"))
 
   # RT data files
-  rtdata_file <- file.exists(paste0(data_folder, "/", study_id, "_rtdata.txt"))
+  rtdata_file <- file.exists(paste0(data_folder, "/", study_id, "_rtdata.tsv"))
 
   file_complete_raw <- bind_rows(file_complete_raw,
                                  tibble(id = study_id,
@@ -59,18 +59,18 @@ for(data_folder in data_folders) {
   study_id <- basename(data_folder)
 
   # meta data files
-  gradient_file <- file.exists(paste0(data_folder, "/", study_id, "_gradient.txt"))
-  metadata_file <- file.exists(paste0(data_folder, "/", study_id, "_metadata.txt"))
+  gradient_file <- file.exists(paste0(data_folder, "/", study_id, "_gradient.tsv"))
+  metadata_file <- file.exists(paste0(data_folder, "/", study_id, "_metadata.tsv"))
 
   # RT data files
-  rtdata_canonical_success_file <- file.exists(paste0(data_folder, "/", study_id, "_rtdata_canonical_success.txt"))
-  rtdata_canonical_failed_file <- file.exists(paste0(data_folder, "/", study_id, "_rtdata_canonical_failed.txt"))
-  rtdata_isomeric_success_file <- file.exists(paste0(data_folder, "/", study_id, "_rtdata_isomeric_success.txt"))
-  rtdata_isomeric_failed_file <- file.exists(paste0(data_folder, "/", study_id, "_rtdata_isomeric_failed.txt"))
+  rtdata_canonical_success_file <- file.exists(paste0(data_folder, "/", study_id, "_rtdata_canonical_success.tsv"))
+  rtdata_canonical_failed_file <- file.exists(paste0(data_folder, "/", study_id, "_rtdata_canonical_failed.tsv"))
+  rtdata_isomeric_success_file <- file.exists(paste0(data_folder, "/", study_id, "_rtdata_isomeric_success.tsv"))
+  rtdata_isomeric_failed_file <- file.exists(paste0(data_folder, "/", study_id, "_rtdata_isomeric_failed.tsv"))
 
   # descriptor files
-  desc_canonical_file <- file.exists(paste0(data_folder, "/", study_id, "_descriptors_canonical_success.txt"))
-  desc_isomeric_file <- file.exists(paste0(data_folder, "/", study_id, "_descriptors_isomeric_success.txt"))
+  desc_canonical_file <- file.exists(paste0(data_folder, "/", study_id, "_descriptors_canonical_success.tsv"))
+  desc_isomeric_file <- file.exists(paste0(data_folder, "/", study_id, "_descriptors_isomeric_success.tsv"))
 
 
   file_complete_processed <- bind_rows(file_complete_processed,

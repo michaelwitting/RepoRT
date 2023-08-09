@@ -47,7 +47,7 @@ for(data_folder in data_folders) {
   # canconical smiles data -----------------------------------------------------
   # read canonical smiles data
   rt_data_file <- list.files(data_folder,
-                             pattern = "_rtdata_canonical_success.txt$",
+                             pattern = "_rtdata_canonical_success.tsv$",
                              full.names = TRUE)
 
   if(length(rt_data_file) == 1) {
@@ -156,7 +156,7 @@ for(data_folder in data_folders) {
   # isomeric smiles data -------------------------------------------------------
   # read isomeric smiles data
   rt_data_file <- list.files(data_folder,
-                             pattern = "_rtdata_isomeric_success.txt$",
+                             pattern = "_rtdata_isomeric_success.tsv$",
                              full.names = TRUE)
 
   if(length(rt_data_file) == 1) {

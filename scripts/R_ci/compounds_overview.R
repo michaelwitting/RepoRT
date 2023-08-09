@@ -40,8 +40,8 @@ for(data_folder in data_folders) {
 
   cat(paste(Sys.time(), "processing", data_folder, "\n"))
 
-  gradient_file <- paste0(data_folder, "/", basename(data_folder), "_gradient.txt")
-  metadata_file <- paste0(data_folder, "/", basename(data_folder), "_metadata.txt")
+  gradient_file <- paste0(data_folder, "/", basename(data_folder), "_gradient.tsv")
+  metadata_file <- paste0(data_folder, "/", basename(data_folder), "_metadata.tsv")
 
   if(file.exists(gradient_file) && file.exists(metadata_file)) {
 
@@ -99,7 +99,7 @@ for(data_folder in data_folders) {
 
     # read canonical smiles data
     rt_data_file <- list.files(data_folder,
-                               pattern = "_rtdata_canonical_success.txt$",
+                               pattern = "_rtdata_canonical_success.tsv$",
                                full.names = TRUE)
 
     rt_data_clipboard <- read_tsv(rt_data_file,
@@ -186,7 +186,7 @@ for(data_folder in data_folders) {
 
     # read isomeric smiles data
     rt_data_file <- list.files(data_folder,
-                               pattern = "_rtdata_isomeric_success.txt$",
+                               pattern = "_rtdata_isomeric_success.tsv$",
                                full.names = TRUE)
 
     rt_data_clipboard <- read_tsv(rt_data_file,

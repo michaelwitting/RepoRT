@@ -1,5 +1,5 @@
 """Creates queriable cache from already standardized SMILES, computed descriptors, classyfire classes.
-{'cached_files': {'processed_data/0340/0340_rtdata_isomeric_success.txt': '5fc536d7f6b5948586e4f9fe361b4b4c', ...},
+{'cached_files': {'processed_data/0340/0340_rtdata_isomeric_success.tsv': '5fc536d7f6b5948586e4f9fe361b4b4c', ...},
  'classyfire': {'UFIVEPVSAGBUSI-UHFFFAOYSA-N': (..., 'Amino acids and derivatives (CHEMONTID:0000347)', 'Alpha amino acids and derivatives (CHEMONTID:0000060)'),
                 'C1C(NC(=O)NC1=O)C(=O)O': (..., 'Amino acids and derivatives (CHEMONTID:0000347)', 'Alpha amino acids and derivatives (CHEMONTID:0000060)')},
  'descriptors': {'C1[C@H](NC(=O)NC1=O)C(=O)O': {'logp': 2.1, ...},
@@ -17,7 +17,7 @@ import os
 
 def get_file_hashes(specific_file=None):
     return {f: md5(open(f, 'rb').read()).hexdigest()
-            for f in (glob('processed_data/*/*_success.txt')
+            for f in (glob('processed_data/*/*_success.tsv')
                       if specific_file is None else [specific_file])
             if '_fingerprints_' not in f}
 
@@ -53,7 +53,7 @@ def cache_data(files):
                         # cache['descriptors'].setdefault(smiles, {}).setdefault(descriptors_by_index[i], []).append(value)
             elif ('_rtdata_' in f):
                 ds = os.path.basename(os.path.dirname(f))
-                raw_file = f'raw_data/{ds}/{ds}_rtdata.txt'
+                raw_file = f'raw_data/{ds}/{ds}_rtdata.tsv'
                 # get raw ID<->SMILES mapping
                 raw_rtdata = [line.strip('\n').split('\t') for line in open(raw_file)]
                 id_index, smiles_index = map(raw_rtdata[0].index, [

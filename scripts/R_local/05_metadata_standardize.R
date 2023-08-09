@@ -43,7 +43,7 @@ for(data_folder in data_folders) {
   # read and standardize meta data
   # ============================================================================
   meta_data_file <- list.files(data_folder,
-                               pattern = "_metadata.txt$",
+                               pattern = "_metadata.tsv$",
                                full.names = TRUE)
 
   if(length(meta_data_file) > 0 && file.exists(meta_data_file)) {
@@ -79,7 +79,7 @@ for(data_folder in data_folders) {
               paste0(result_folder,
                      "/",
                      basename(data_folder),
-                     "_metadata.txt"),
+                     "_metadata.tsv"),
               na = "")
   }
 
@@ -87,7 +87,7 @@ for(data_folder in data_folders) {
   # read and standardize gradient data
   # ============================================================================
   gradient_data_file <- list.files(data_folder,
-                               pattern = "_gradient.txt$",
+                               pattern = "_gradient.tsv$",
                                full.names = TRUE)
 
   if(length(gradient_data_file) > 0 && file.exists(gradient_data_file)) {
@@ -108,7 +108,7 @@ for(data_folder in data_folders) {
               paste0(result_folder,
                      "/",
                      basename(data_folder),
-                     "_gradient.txt"),
+                     "_gradient.tsv"),
               na = "")
   }
 }

@@ -1,0 +1,5 @@
+smiles1	smiles2	order_str	order
+C(C1C(C(C(C(O1)OC2C(C(C(C(O2)CO)O)O)O)O)O)O)O	CN(C)C(=O)NC1=CC=CC(=C1)C(F)(F)F	30.0: <, 40.0: >, 50.0: <	<><
+C(CCCC(C(CCCCCCO)O)O)CCCC(=O)O	C(C1C(C(C(C(O1)OC2C(C(C(C(O2)CO)O)O)O)O)O)O)O	30.0: >, 40.0: <, 50.0: >	><>
+C1=CC=C(C(=C1)C2=CC=C(C=C2)Cl)NC(=O)C3=C(N=CC=C3)Cl	C(C1C(C(C(C(O1)OC2C(C(C(C(O2)CO)O)O)O)O)O)O)O	30.0: >, 40.0: <, 50.0: >	><>
+CC1=NC2=NC(=NN2C=C1)S(=O)(=O)NC3=C(C=CC=C3F)F	C(C1C(C(C(C(O1)OC2C(C(C(C(O2)CO)O)O)O)O)O)O)O	30.0: >, 40.0: <, 50.0: >	><>

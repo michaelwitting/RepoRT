@@ -25,13 +25,13 @@ class Detector():
         self.void_factor = void_factor
         self.epsilon = epsilon
         self.metadata = pd.concat([pd.read_csv(f, sep='\t', dtype={'id': str}, index_col=0)
-                                   for f in glob(self.repo_root + '/processed_data/*/*_metadata.txt')])
+                                   for f in glob(self.repo_root + '/processed_data/*/*_metadata.tsv')])
         self.metadata.index = [str(i).rjust(4, '0') for i in self.metadata.index.tolist()]
         self.rtdata = self.get_rtdata()
 
     def get_rtdata(self, iso=True):
         cs_df = pd.concat([pd.read_csv(f, delimiter='\t') for f in
-                           glob(self.repo_root + '/processed_data/*/*rtdata_canonical_success.txt')],
+                           glob(self.repo_root + '/processed_data/*/*rtdata_canonical_success.tsv')],
                           axis=0, ignore_index=True)
         # no duplicate IDs
         assert len(list(cs_df.id)) == len(set(cs_df.id))
@@ -40,7 +40,7 @@ class Detector():
         cs_df.set_index('id', inplace=True, drop=False)
         if iso:
             cs_df_iso = pd.concat([pd.read_csv(f, delimiter='\t') for f in
-                                   glob(self.repo_root + '/processed_data/*/*rtdata_isomeric_success.txt')],
+                                   glob(self.repo_root + '/processed_data/*/*rtdata_isomeric_success.tsv')],
                                   axis=0, ignore_index=True)
             assert len(list(cs_df_iso.id)) == len(set(cs_df_iso.id))
             cs_df_iso['dataset_id'] = cs_df_iso.id.str.split('_', expand=True)[0]
@@ -53,7 +53,7 @@ class Detector():
         clusters = []
         # join metadata with dataset names, drop unusable datasets
         metadata = self.metadata.dropna(subset=MIN_REQUIRED_PARAMS).join(
-            pd.read_csv(self.repo_root + '/processed_data/studies.txt', sep='\t',
+            pd.read_csv(self.repo_root + '/processed_data/studies.tsv', sep='\t',
                         dtype={'id': str}, index_col=0)[['name', 'authors']], how='left')
         group_columns = [col for col in metadata.columns.tolist() if col not in ['name']]
         # get clusters
@@ -183,7 +183,7 @@ class Detector():
             # export
             for ds in dataset_query:
                 if ds in [x for value, cluster in series for x in cluster]:
-                    out_file = self.repo_root + f'/processed_data/{ds}/{ds}_validation_systematic_{criterion.replace(".", "_")}.txt'
+                    out_file = self.repo_root + f'/processed_data/{ds}/{ds}_validation_systematic_{criterion.replace(".", "_")}.tsv'
                     if (results is None or len(results) == 0):
                         delete_file(out_file)
                     else:
@@ -207,7 +207,7 @@ class Detector():
             # export
             for ds in dataset_query:
                 if ds in c:
-                    out_file = self.repo_root + f'/processed_data/{ds}/{ds}_validation_same_condition.txt'
+                    out_file = self.repo_root + f'/processed_data/{ds}/{ds}_validation_same_condition.tsv'
                     if (results is None or len(results) == 0):
                         delete_file(out_file)
                     else:

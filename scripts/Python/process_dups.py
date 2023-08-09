@@ -37,7 +37,7 @@ def flag_doublets(df):
 
 def delete_entries(ds, entries):
     entries = set(entries)      # faster
-    for f in glob(f'processed_data/{ds}/{ds}_*.txt'):
+    for f in glob(f'processed_data/{ds}/{ds}_*.tsv'):
         lines = open(f).readlines()
         len_orig = len(lines)
         written = 0
@@ -52,7 +52,7 @@ def delete_entries(ds, entries):
 
 if __name__ == '__main__':
     for ds in sys.argv[1:]:
-        f = f'raw_data/{ds}/{ds}_rtdata.txt'
+        f = f'raw_data/{ds}/{ds}_rtdata.tsv'
         df = pd.read_csv(f, sep='\t', index_col=0, converters={'pubchem.cid': str, 'comment': str})
         print('dataset', ds)
         if 'comment' not in df.columns.tolist():

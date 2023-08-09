@@ -20,12 +20,12 @@ def validation_file_len(f):
 
 def validation_stats(dataset, mode_):
     if (mode_ == 'qspr'):
-        return validation_file_len(f'processed_data/{dataset}/{dataset}_validation_qspr_outliers.txt')
+        return validation_file_len(f'processed_data/{dataset}/{dataset}_validation_qspr_outliers.tsv')
     elif (mode_ == 'same_condition'):
-        return validation_file_len(f'processed_data/{dataset}/{dataset}_validation_same_condition.txt')
+        return validation_file_len(f'processed_data/{dataset}/{dataset}_validation_same_condition.tsv')
     elif (mode_ == 'systematic'):
-        return (validation_file_len(f'processed_data/{dataset}/{dataset}_validation_systematic_column_temperature.txt')
-                + validation_file_len(f'processed_data/{dataset}/{dataset}_validation_systematic_column_flowrate.txt'))
+        return (validation_file_len(f'processed_data/{dataset}/{dataset}_validation_systematic_column_temperature.tsv')
+                + validation_file_len(f'processed_data/{dataset}/{dataset}_validation_systematic_column_flowrate.tsv'))
     else:
         raise NotImplementedError(mode_)
 
@@ -66,7 +66,7 @@ def check_dataset(dataset):
     stats_raw = {}
     stats_processed = {}
     stats_val = {}
-    raw_rtdata = pd.read_csv(f'raw_data/{dataset}/{dataset}_rtdata.txt', sep='\t')
+    raw_rtdata = pd.read_csv(f'raw_data/{dataset}/{dataset}_rtdata.tsv', sep='\t')
     stats_raw['canonical SMILES'] = len(raw_rtdata.dropna(subset=['pubchem.smiles.canonical']))
     stats_raw['isomeric SMILES'] = len(raw_rtdata.dropna(subset=['pubchem.smiles.isomeric']))
     stats_raw['entries without rt'] = len(raw_rtdata.loc[pd.isna(raw_rtdata.rt)])
@@ -75,10 +75,10 @@ def check_dataset(dataset):
     # TODO: stats['duplicate entries']
     exist = []
     # check rtdata, descriptors files for valid computations
-    for desc, f in [('RTdata canonical', f'processed_data/{dataset}/{dataset}_rtdata_canonical_success.txt'),
-                    ('RTdata isomeric', f'processed_data/{dataset}/{dataset}_rtdata_isomeric_success.txt'),
-                    ('descriptors canonical', f'processed_data/{dataset}/{dataset}_descriptors_canonical_success.txt'),
-                    ('descriptors isomeric', f'processed_data/{dataset}/{dataset}_descriptors_isomeric_success.txt')]:
+    for desc, f in [('RTdata canonical', f'processed_data/{dataset}/{dataset}_rtdata_canonical_success.tsv'),
+                    ('RTdata isomeric', f'processed_data/{dataset}/{dataset}_rtdata_isomeric_success.tsv'),
+                    ('descriptors canonical', f'processed_data/{dataset}/{dataset}_descriptors_canonical_success.tsv'),
+                    ('descriptors isomeric', f'processed_data/{dataset}/{dataset}_descriptors_isomeric_success.tsv')]:
         if desc.lower().split()[0] == 'rtdata':
             res_smiles = check_processed_file(f, ['smiles.std'])
             res_classyfire = check_processed_file(f, ['classyfire.kingdom'])
@@ -97,8 +97,8 @@ def check_dataset(dataset):
                 exist.append(desc)
                 stats_processed[f'{desc.split()[1]} descriptors'] = res
     # check whether all processed files exist
-    for desc, f in [('metadata file', f'processed_data/{dataset}/{dataset}_metadata.txt'),
-                    ('gradient file', f'processed_data/{dataset}/{dataset}_metadata.txt'),
+    for desc, f in [('metadata file', f'processed_data/{dataset}/{dataset}_metadata.tsv'),
+                    ('gradient file', f'processed_data/{dataset}/{dataset}_metadata.tsv'),
                     ('report canonical', f'processed_data/{dataset}/{dataset}_report_canonical.pdf'),
                     ('report isomeric', f'processed_data/{dataset}/{dataset}_report_isomeric.pdf')]:
         if (os.path.exists(f)):
@@ -110,7 +110,7 @@ def check_dataset(dataset):
     # print everything
     print_stats(stats_raw=stats_raw, stats_processed=stats_processed, stats_val=stats_val, exist=exist)
     # reasons for failed classifications
-    for f in [f'processed_data/{dataset}/{dataset}_rtdata_canonical_failed.txt', f'processed_data/{dataset}/{dataset}_rtdata_isomeric_failed.txt']:
+    for f in [f'processed_data/{dataset}/{dataset}_rtdata_canonical_failed.tsv', f'processed_data/{dataset}/{dataset}_rtdata_isomeric_failed.tsv']:
         if (os.path.exists(f)):
             print(f'\n### Failed {f.split("/")[-1].split("_")[-2]} classifications: reasons\n')
             print(pd.read_csv(f, sep='\t')['status'].value_counts().to_markdown())

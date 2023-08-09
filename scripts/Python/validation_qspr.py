@@ -15,11 +15,11 @@ def get_ds_data(ds, t0=0, ret_smiles=False, void_factor=2):
     descriptor_dfs = []
     for mode in ['canonical', 'isomeric']:
         try:
-            rt_data_dfs.append(pd.read_csv(f'processed_data/{ds}/{ds}_rtdata_{mode}_success.txt', sep='\t'))
+            rt_data_dfs.append(pd.read_csv(f'processed_data/{ds}/{ds}_rtdata_{mode}_success.tsv', sep='\t'))
         except Exception as e:
             print(e)
         try:
-            descriptor_dfs.append(pd.read_csv(f'processed_data/{ds}/{ds}_descriptors_{mode}_success.txt', sep='\t'))
+            descriptor_dfs.append(pd.read_csv(f'processed_data/{ds}/{ds}_descriptors_{mode}_success.tsv', sep='\t'))
         except Exception as e:
             print(e)
     rt_data = pd.concat(rt_data_dfs).drop_duplicates(subset='id', keep='last').set_index('id').sort_index()
@@ -31,7 +31,7 @@ def get_ds_data(ds, t0=0, ret_smiles=False, void_factor=2):
         return descriptors.dropna(axis=1).loc[relevant_indices], rt_data.loc[relevant_indices, 'rt'], rt_data.loc[relevant_indices, 'smiles.std']
 
 def get_column_t0(ds):
-    return pd.read_csv(f'processed_data/{ds}/{ds}_metadata.txt', sep='\t',
+    return pd.read_csv(f'processed_data/{ds}/{ds}_metadata.tsv', sep='\t',
                        index_col=0)['column.t0'].iloc[0]
 
 
@@ -94,7 +94,7 @@ if __name__ == '__main__':
     # NOTE: for now, only outliers are returned. Error metrics, predicted rt are also available!
     for ds in outliers:
         df = outliers[ds]
-        out_file = f'processed_data/{ds}/{ds}_validation_qspr_outliers.txt'
+        out_file = f'processed_data/{ds}/{ds}_validation_qspr_outliers.tsv'
         if (len(df) > 0):
             df[['error']].to_csv(out_file, sep='\t')
         else:

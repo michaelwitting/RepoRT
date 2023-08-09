@@ -45,7 +45,7 @@ for(data_folder in data_folders) {
   # read and standardize compound data
   # ============================================================================
   rt_data_file <- list.files(data_folder,
-                             pattern = "_rtdata.txt$",
+                             pattern = "_rtdata.tsv$",
                              full.names = TRUE)
 
   if (length(rt_data_file) == 0){
@@ -98,15 +98,15 @@ for(data_folder in data_folders) {
   # ============================================================================
   rt_data %>%
     select(id, pubchem.smiles.canonical) %>%
-    write_tsv("temp.txt", col_names = FALSE)
+    write_tsv("temp.tsv", col_names = FALSE)
 
   # perform standardization ----------------------------------------------------
-  #shell("java -jar scripts/Java/structure-standardization.jar temp.txt")
-  system("python3 scripts/Python/standardize.py temp.txt")
+  #shell("java -jar scripts/Java/structure-standardization.jar temp.tsv")
+  system("python3 scripts/Python/standardize.py temp.tsv")
 
   # read standarized smiles ----------------------------------------------------
-  smiles_canonical_std <- read_tsv("temp.txt_standardized", col_names = FALSE)
-  smiles_canonical_failed <- read_tsv("temp.txt_failed", col_names = FALSE)
+  smiles_canonical_std <- read_tsv("temp.tsv_standardized", col_names = FALSE)
+  smiles_canonical_failed <- read_tsv("temp.tsv_failed", col_names = FALSE)
 
   # check if it contains data and rename column names --------------------------
   if(nrow(smiles_canonical_std) > 0) {
@@ -161,24 +161,24 @@ for(data_folder in data_folders) {
                                          smiles_canonical_failed)
 
   # remove temp files ----------------------------------------------------------
-  file.remove("temp.txt")
-  file.remove("temp.txt_standardized")
-  file.remove("temp.txt_failed")
+  file.remove("temp.tsv")
+  file.remove("temp.tsv_standardized")
+  file.remove("temp.tsv_failed")
 
   # ============================================================================
   # standardize isomeric smiles
   # ============================================================================
   rt_data %>%
     select(id, pubchem.smiles.isomeric) %>%
-    write_tsv("temp.txt", col_names = FALSE)
+    write_tsv("temp.tsv", col_names = FALSE)
 
   # perform standardization ----------------------------------------------------
-  #shell("java -jar scripts/Java/structure-standardization.jar temp.txt")
-  system("python3 scripts/Python/standardize.py temp.txt")
+  #shell("java -jar scripts/Java/structure-standardization.jar temp.tsv")
+  system("python3 scripts/Python/standardize.py temp.tsv")
 
   # read standarized smiles ----------------------------------------------------
-  smiles_isomeric_std <- read_tsv("temp.txt_standardized", col_names = FALSE)
-  smiles_isomeric_failed <- read_tsv("temp.txt_failed", col_names = FALSE)
+  smiles_isomeric_std <- read_tsv("temp.tsv_standardized", col_names = FALSE)
+  smiles_isomeric_failed <- read_tsv("temp.tsv_failed", col_names = FALSE)
 
   # check if it contains data and rename column names --------------------------
   if(nrow(smiles_isomeric_std) > 0) {
@@ -233,15 +233,15 @@ for(data_folder in data_folders) {
                                          smiles_isomeric_failed)
 
   # remove temp files ----------------------------------------------------------
-  file.remove("temp.txt")
-  file.remove("temp.txt_standardized")
-  file.remove("temp.txt_failed")
+  file.remove("temp.tsv")
+  file.remove("temp.tsv_standardized")
+  file.remove("temp.tsv_failed")
 
   # ============================================================================
   # read and standardize meta data
   # ============================================================================
   meta_data_file <- list.files(data_folder,
-                               pattern = "_metadata.txt$",
+                               pattern = "_metadata.tsv$",
                                full.names = TRUE)
 
   meta_data <- read_tsv(meta_data_file)
@@ -262,7 +262,7 @@ for(data_folder in data_folders) {
               paste0(result_folder,
                      "/",
                      basename(data_folder),
-                     "_rtdata_canonical_success.txt"),
+                     "_rtdata_canonical_success.tsv"),
               na = "")
 
   }
@@ -273,7 +273,7 @@ for(data_folder in data_folders) {
               paste0(result_folder,
                      "/",
                      basename(data_folder),
-                     "_rtdata_canonical_failed.txt"),
+                     "_rtdata_canonical_failed.tsv"),
               na = "")
 
   }
@@ -284,7 +284,7 @@ for(data_folder in data_folders) {
               paste0(result_folder,
                      "/",
                      basename(data_folder),
-                     "_rtdata_isomeric_success.txt"),
+                     "_rtdata_isomeric_success.tsv"),
               na = "")
 
   }
@@ -295,7 +295,7 @@ for(data_folder in data_folders) {
               paste0(result_folder,
                      "/",
                      basename(data_folder),
-                     "_rtdata_isomeric_failed.txt"),
+                     "_rtdata_isomeric_failed.tsv"),
               na = "")
 
   }
@@ -306,7 +306,7 @@ for(data_folder in data_folders) {
               paste0(result_folder,
                      "/",
                      basename(data_folder),
-                     "_metadata.txt"),
+                     "_metadata.tsv"),
               na = "")
 
   }

@@ -51,7 +51,7 @@ for(data_folder in data_folders) {
   # canconical smiles data -----------------------------------------------------
   # read canonical smiles data
   rt_data_file <- list.files(data_folder,
-                             pattern = "_rtdata_canonical_success.txt$",
+                             pattern = "_rtdata_canonical_success.tsv$",
                              full.names = TRUE)
 
 
@@ -111,7 +111,7 @@ for(data_folder in data_folders) {
 
     # write results
     write_tsv(rt_data_canonical,
-              gsub("_rtdata_canonical_success.txt", "_descriptors_canonical_success.txt", rt_data_file),
+              gsub("_rtdata_canonical_success.tsv", "_descriptors_canonical_success.tsv", rt_data_file),
               na = "")
 
     # remove to avoid overlap
@@ -124,7 +124,7 @@ for(data_folder in data_folders) {
   # isomeric smiles data -----------------------------------------------------
   # read isomeric smiles data
   rt_data_file <- list.files(data_folder,
-                             pattern = "_rtdata_isomeric_success.txt$",
+                             pattern = "_rtdata_isomeric_success.tsv$",
                              full.names = TRUE)
 
   if(length(rt_data_file) == 1) {
@@ -183,7 +183,7 @@ for(data_folder in data_folders) {
 
     # write results
     write_tsv(rt_data_isomeric,
-              gsub("_rtdata_isomeric_success.txt", "_descriptors_isomeric_success.txt", rt_data_file),
+              gsub("_rtdata_isomeric_success.tsv", "_descriptors_isomeric_success.tsv", rt_data_file),
               na = "")
 
     # remove to avoid overlap
