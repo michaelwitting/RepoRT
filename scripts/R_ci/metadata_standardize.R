@@ -108,4 +108,19 @@ for(data_folder in data_folders) {
                      "_gradient.txt"),
               na = "")
   }
+
+  # ============================================================================
+  # copy "info" file to processed data folder
+  # ============================================================================
+  info_file <- list.files(data_folder,
+                          pattern = "_info.txt$",
+                          full.names = TRUE)
+
+  if(length(info_file) > 0 && file.exists(info_file)) {
+    result_folder <- paste0("processed_data/", basename(data_folder))
+    file.copy(info_file, paste0(result_folder,
+                                "/",
+                                basename(data_folder),
+                                "_info.txt"))
+  }
 }
