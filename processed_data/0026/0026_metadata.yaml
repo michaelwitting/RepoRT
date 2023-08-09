@@ -1,0 +1,19 @@
+id: '0026'
+column:
+  name: Thermo Scientific Hypersil GOLD PFP
+  usp.code: L43
+  particle.size: 3
+  t0: 0
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

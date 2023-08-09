@@ -4,3 +4,4 @@ pubchempy
 zeep
 tabulate
 scikit-learn
+pyyaml

@@ -1,0 +1,16 @@
+id: 0208
+column:
+  name: Merck SeQuant ZIC-pHILIC
+  usp.code: L122
+  t0: 0
+eluent:
+  A:
+    h2o: 100
+    nh4ac:
+      value: 10
+      unit: mM
+  B:
+    acn: 100
+    nh4ac:
+      value: 10
+      unit: mM

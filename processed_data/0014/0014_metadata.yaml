@@ -1,0 +1,22 @@
+id: '0014'
+column:
+  length: 50
+  id: 2.1
+  particle.size: 1.7
+  flowrate: 0.5
+  t0: 0.2205
+eluent:
+  A:
+    h2o: 98
+    acn: 2
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    h2o: 2
+    acn: 98
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

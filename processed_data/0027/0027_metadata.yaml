@@ -1,0 +1,23 @@
+id: '0027'
+column:
+  name: Merck SeQuant ZIC-HILIC
+  usp.code: L114
+  length: 100
+  id: 2.1
+  particle.size: 3.5
+  temperature: 25
+  flowrate: 0.3
+  t0: 0.735
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

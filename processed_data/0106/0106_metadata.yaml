@@ -1,0 +1,23 @@
+id: '0106'
+column:
+  name: Thermo Scientific Accucore HILIC
+  usp.code: L3
+  length: 100
+  id: 2.1
+  particle.size: 2.6
+  flowrate: 0.5
+  t0: 0.441
+eluent:
+  A:
+    h2o: 100
+    nh4ac:
+      value: 5
+      unit: mM
+    pH: 6
+  B:
+    h2o: 5
+    acn: 95
+    nh4ac:
+      value: 5
+      unit: mM
+    pH: 6

@@ -1,0 +1,32 @@
+id: '0232'
+column:
+  name: Waters ACQUITY UPLC BEH C8
+  usp.code: L7
+  length: 100
+  id: 2.1
+  particle.size: 1.7
+  temperature: 55
+  flowrate: 0.6
+eluent:
+  A:
+    h2o: 50
+    acn: 25
+    iproh: 25
+    acetic:
+      value: 0.05
+      unit: '%'
+    phosphor:
+      value: 20
+      unit: "\xB5M"
+    nh4ac:
+      value: 5
+      unit: mM
+  B:
+    acn: 50
+    iproh: 50
+    acetic:
+      value: 0.05
+      unit: '%'
+    nh4ac:
+      value: 5
+      unit: mM

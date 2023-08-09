@@ -1,0 +1,19 @@
+id: 0283
+column:
+  name: Phenomenex Kinetex HILIC
+  usp.code: L3
+  length: 150
+  id: 3
+  particle.size: 2.6
+  temperature: 40
+  flowrate: 0.35
+  t0: 1.9285714285714288
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    meoh: 100

@@ -1,0 +1,9 @@
+id: '0020'
+column:
+  name: Merck SeQuant ZIC-pHILIC
+  usp.code: L122
+  length: 100
+  id: 2.1
+  particle.size: 5
+  temperature: 25
+  t0: 0

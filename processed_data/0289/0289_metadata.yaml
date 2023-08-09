@@ -1,0 +1,19 @@
+id: 0289
+column:
+  name: Phenomenex Kinetex EVO C18
+  usp.code: L1
+  length: 150
+  id: 3
+  particle.size: 2.6
+  temperature: 40
+  flowrate: 0.35
+  t0: 1.9285714285714288
+eluent:
+  A:
+    h2o: 100
+    nh4ac:
+      value: 5
+      unit: mM
+    pH: 5
+  B:
+    meoh: 100

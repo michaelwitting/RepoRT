@@ -1,0 +1,22 @@
+id: '0102'
+column:
+  name: Thermo Scientific Hypercarb
+  usp.code: L109
+  length: 150
+  id: 2.1
+  particle.size: 5
+  flowrate: 0.1
+  t0: 3.3075
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    meoh: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

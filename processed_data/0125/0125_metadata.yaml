@@ -1,0 +1,22 @@
+id: '0125'
+column:
+  name: Merck Supelco Ascentis Express ES-Cyano
+  usp.code: L10
+  length: 100
+  id: 2.1
+  particle.size: 2.7
+  flowrate: 0.1
+  t0: 2.205
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    meoh: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

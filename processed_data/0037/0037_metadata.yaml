@@ -1,0 +1,23 @@
+id: '0037'
+column:
+  name: Phenomenex Kinetex PFP
+  usp.code: L43
+  length: 100
+  id: 4.6
+  particle.size: 2.6
+  temperature: 35
+  flowrate: 1.5
+  t0: 0.705333333
+eluent:
+  A:
+    h2o: 100
+    trifluoroacetic:
+      value: 0.1
+      unit: '%'
+    pH: 2
+  B:
+    acn: 100
+    trifluoroacetic:
+      value: 0.1
+      unit: '%'
+    pH: 2

@@ -1,0 +1,29 @@
+id: '0112'
+column:
+  name: Waters XBridge BEH Amide
+  usp.code: L68
+  length: 100
+  id: 2.1
+  particle.size: 2.5
+  flowrate: 0.5
+  t0: 0.441
+eluent:
+  A:
+    h2o: 100
+    acetic:
+      value: 0.1
+      unit: '%'
+    nh4ac:
+      value: 10
+      unit: mM
+    pH: 4
+  B:
+    h2o: 5
+    acn: 95
+    acetic:
+      value: 0.1
+      unit: '%'
+    nh4ac:
+      value: 10
+      unit: mM
+    pH: 4

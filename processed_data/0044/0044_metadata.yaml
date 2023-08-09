@@ -1,0 +1,19 @@
+id: '0044'
+column:
+  name: Merck SeQuant ZIC-HILIC
+  usp.code: L114
+  temperature: 25
+  flowrate: 0.25
+  t0: 0
+eluent:
+  A:
+    h2o: 100
+    nh4form:
+      value: 16
+      unit: mM
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

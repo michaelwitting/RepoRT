@@ -1,0 +1,21 @@
+id: 0039
+column:
+  name: Merck LiChrospher RP-18
+  usp.code: L1
+  length: 250
+  id: 4
+  particle.size: 5
+  temperature: 35
+  flowrate: 0.3
+  t0: 6.666666666666667
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.5
+      unit: '%'
+  B:
+    acn: 100
+    formic:
+      value: 0.5
+      unit: '%'

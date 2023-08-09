@@ -1,0 +1,27 @@
+id: 0381
+column:
+  name: HILICON iHILIC-(P) Classic, HILIC, PEEK
+  usp.code: L122
+  length: 100
+  id: 2.1
+  particle.size: 5
+  temperature: 40
+  flowrate: 0.12
+eluent:
+  A:
+    h2o: 100
+    nh4carb:
+      value: 20
+      unit: mM
+    medronic:
+      value: 5
+      unit: "\xB5M"
+  B:
+    h2o: 10
+    acn: 90
+    nh4carb:
+      value: 2
+      unit: mM
+    medronic:
+      value: 0.5
+      unit: "\xB5M"

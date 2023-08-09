@@ -1,0 +1,133 @@
+id: '0313'
+column:
+  name: Waters CORTECS UPLC C18
+  usp.code: L1
+  length: 100
+  id: 2.1
+  particle.size: 1.6
+  temperature: 40
+  flowrate: 0.4
+  t0: 0.55125
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    acetic:
+      unit: '%'
+    trifluoroacetic:
+      unit: '%'
+    phosphor:
+      unit: '%'
+    nh4ac:
+      unit: '%'
+    nh4form:
+      unit: '%'
+    nh4carb:
+      unit: '%'
+    nh4bicarb:
+      unit: '%'
+    nh4f:
+      unit: '%'
+    nh4oh:
+      unit: '%'
+    trieth:
+      unit: '%'
+    triprop:
+      unit: '%'
+    tribut:
+      unit: '%'
+    nndimethylhex:
+      unit: '%'
+    pH: 3
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    acetic:
+      unit: '%'
+    trifluoroacetic:
+      unit: '%'
+    phosphor:
+      unit: '%'
+    nh4ac:
+      unit: '%'
+    nh4form:
+      unit: '%'
+    nh4carb:
+      unit: '%'
+    nh4bicarb:
+      unit: '%'
+    nh4f:
+      unit: '%'
+    nh4oh:
+      unit: '%'
+    trieth:
+      unit: '%'
+    triprop:
+      unit: '%'
+    tribut:
+      unit: '%'
+    nndimethylhex:
+      unit: '%'
+    pH: 3
+  C:
+    formic:
+      unit: '%'
+    acetic:
+      unit: '%'
+    trifluoroacetic:
+      unit: '%'
+    phosphor:
+      unit: '%'
+    nh4ac:
+      unit: '%'
+    nh4form:
+      unit: '%'
+    nh4carb:
+      unit: '%'
+    nh4bicarb:
+      unit: '%'
+    nh4f:
+      unit: '%'
+    nh4oh:
+      unit: '%'
+    trieth:
+      unit: '%'
+    triprop:
+      unit: '%'
+    tribut:
+      unit: '%'
+    nndimethylhex:
+      unit: '%'
+  D:
+    formic:
+      unit: '%'
+    acetic:
+      unit: '%'
+    trifluoroacetic:
+      unit: '%'
+    phosphor:
+      unit: '%'
+    nh4ac:
+      unit: '%'
+    nh4form:
+      unit: '%'
+    nh4carb:
+      unit: '%'
+    nh4bicarb:
+      unit: '%'
+    nh4f:
+      unit: '%'
+    nh4oh:
+      unit: '%'
+    trieth:
+      unit: '%'
+    triprop:
+      unit: '%'
+    tribut:
+      unit: '%'
+    nndimethylhex:
+      unit: '%'

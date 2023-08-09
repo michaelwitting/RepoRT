@@ -1,0 +1,23 @@
+id: '0036'
+column:
+  name: Merck Supelco SUPELCOSIL LC-C18
+  usp.code: L1
+  length: 250
+  id: 4.6
+  particle.size: 5
+  temperature: 40
+  flowrate: 1
+  t0: 2.645
+eluent:
+  A:
+    h2o: 100
+    trifluoroacetic:
+      value: 0.1
+      unit: '%'
+    pH: 2
+  B:
+    acn: 100
+    trifluoroacetic:
+      value: 0.1
+      unit: '%'
+    pH: 2

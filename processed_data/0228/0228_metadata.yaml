@@ -1,0 +1,26 @@
+id: 0228
+column:
+  name: Waters ACQUITY UPLC BEH Amide
+  usp.code: L68
+  length: 100
+  id: 2.1
+  particle.size: 1.7
+  t0: 0
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.125
+      unit: '%'
+    nh4form:
+      value: 10
+      unit: mM
+  B:
+    h2o: 5
+    acn: 95
+    formic:
+      value: 0.125
+      unit: '%'
+    nh4form:
+      value: 10
+      unit: mM

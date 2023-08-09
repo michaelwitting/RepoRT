@@ -1,0 +1,22 @@
+id: '0152'
+column:
+  name: Waters CORTECS T3
+  usp.code: L1
+  length: 100
+  id: 2.1
+  particle.size: 2.7
+  flowrate: 0.25
+  t0: 0.882
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    meoh: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

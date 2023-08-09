@@ -1,0 +1,23 @@
+id: 0019
+column:
+  name: Waters XBridge C18
+  usp.code: L1
+  length: 50
+  id: 2.1
+  particle.size: 3.5
+  temperature: 30
+  flowrate: 0.2
+  t0: 0.55125
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    meoh: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

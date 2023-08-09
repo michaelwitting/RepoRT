@@ -1,0 +1,21 @@
+id: 0018
+column:
+  name: Waters Atlantis T3
+  usp.code: L1
+  length: 150
+  id: 2.1
+  particle.size: 5
+  t0: 0
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

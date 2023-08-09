@@ -1,0 +1,23 @@
+id: 0028
+column:
+  name: Phenomenex Synergi Hydro-RP
+  usp.code: L1
+  length: 150
+  id: 2
+  particle.size: 4
+  temperature: 30
+  flowrate: 0.5
+  t0: 0.6
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

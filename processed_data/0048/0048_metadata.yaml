@@ -1,0 +1,21 @@
+id: 0048
+column:
+  name: Thermo Scientific Hypersil GOLD
+  usp.code: L1
+  particle.size: 1.9
+  temperature: 40
+  flowrate: 0.4
+  t0: 0
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

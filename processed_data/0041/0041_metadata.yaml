@@ -1,0 +1,22 @@
+id: '0041'
+column:
+  name: Waters ACQUITY UPLC HSS T3
+  usp.code: L1
+  length: 100
+  id: 2.1
+  temperature: 50
+  t0: 0
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    meoh: 30
+    acn: 70
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

@@ -1,0 +1,18 @@
+id: 0229
+column:
+  name: Phenomenex Kinetex C18
+  usp.code: L1
+  length: 100
+  id: 2.1
+  particle.size: 1.7
+  temperature: 40
+  flowrate: 0.5
+  t0: 0.441
+eluent:
+  A:
+    h2o: 100
+    nh4f:
+      value: 1
+      unit: mM
+  B:
+    acn: 100

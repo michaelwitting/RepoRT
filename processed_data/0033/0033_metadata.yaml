@@ -1,0 +1,21 @@
+id: '0033'
+column:
+  length: 50
+  id: 0.5
+  particle.size: 2.7
+  temperature: 35
+  flowrate: 0.01
+  t0: 0.625
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

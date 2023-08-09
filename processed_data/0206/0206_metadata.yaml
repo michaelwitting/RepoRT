@@ -1,0 +1,21 @@
+id: '0206'
+column:
+  name: Phenomenex Kinetex EVO C18
+  usp.code: L1
+  length: 100
+  id: 2.1
+  particle.size: 2.6
+  t0: 0
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

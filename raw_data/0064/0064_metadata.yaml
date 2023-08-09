@@ -1,0 +1,17 @@
+id: '0064'
+column:
+  name: Waters ACQUITY UPLC BEH C18
+  usp.code: L1
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

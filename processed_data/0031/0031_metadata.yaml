@@ -1,0 +1,21 @@
+id: '0031'
+column:
+  name: Phenomenex Luna Omega Polar C18
+  usp.code: L1
+  length: 100
+  id: 2.1
+  particle.size: 1.6
+  temperature: 40
+  flowrate: 0.5
+  t0: 0.441
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    nh4form:
+      value: 10
+      unit: mM
+  B:
+    acn: 100

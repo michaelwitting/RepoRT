@@ -1,0 +1,18 @@
+id: 0139
+column:
+  name: Waters ACQUITY UPLC BEH C18
+  usp.code: L1
+  length: 100
+  id: 2.1
+  particle.size: 1.7
+  flowrate: 0.1
+  t0: 2.205
+eluent:
+  A:
+    h2o: 100
+    nh4oh:
+      value: 0.1
+      unit: '%'
+    pH: 11
+  B:
+    meoh: 100

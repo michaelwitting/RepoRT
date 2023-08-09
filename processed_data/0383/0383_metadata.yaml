@@ -1,0 +1,24 @@
+id: 0383
+column:
+  name: Thermo Scientific Acclaim RSLC 120 C18
+  usp.code: L1
+  length: 100
+  id: 2.1
+  particle.size: 2.2
+  temperature: 30
+  flowrate: 0.2
+  t0: 1.1025
+eluent:
+  A:
+    h2o: 90
+    meoh: 10
+    nh4ac:
+      value: 5
+      unit: mM
+    pH: 6.2
+  B:
+    meoh: 100
+    nh4ac:
+      value: 5
+      unit: mM
+    pH: 6.2

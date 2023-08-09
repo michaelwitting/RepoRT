@@ -1,0 +1,20 @@
+id: '0021'
+column:
+  name: Waters Symmetry C18
+  usp.code: L1
+  length: 100
+  id: 2.1
+  t0: 0
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

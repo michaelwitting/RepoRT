@@ -1,0 +1,17 @@
+id: '0007'
+column:
+  name: Merck SeQuant ZIC-pHILIC
+  usp.code: L122
+  length: 150
+  id: 2.1
+  particle.size: 5
+  flowrate: 0.1
+  t0: 3.3075
+eluent:
+  A:
+    acn: 100
+  B:
+    h2o: 100
+    nh4carb:
+      value: 10
+      unit: mM

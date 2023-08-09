@@ -1,0 +1,29 @@
+id: '0010'
+column:
+  name: Merck Supelco Ascentis Express C18
+  usp.code: L1
+  length: 150
+  id: 2.1
+  particle.size: 2.7
+  temperature: 55
+  flowrate: 0.26
+  t0: 1.2721153846153843
+eluent:
+  A:
+    h2o: 60
+    acn: 40
+    formic:
+      value: 0.1
+      unit: '%'
+    nh4form:
+      value: 10
+      unit: mM
+  B:
+    acn: 10
+    iproh: 90
+    formic:
+      value: 0.1
+      unit: '%'
+    nh4form:
+      value: 10
+      unit: mM

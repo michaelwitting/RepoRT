@@ -1,0 +1,22 @@
+id: '0032'
+column:
+  name: Phenomenex Luna C18
+  usp.code: L1
+  length: 150
+  id: 4.6
+  particle.size: 3
+  temperature: 25
+  flowrate: 0.5
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

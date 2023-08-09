@@ -1,0 +1,22 @@
+id: 0186
+column:
+  name: Agilent ZORBAX Extend-C18
+  usp.code: L1
+  length: 50
+  id: 2.1
+  particle.size: 1.8
+  flowrate: 0.1
+  t0: 1.1025
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

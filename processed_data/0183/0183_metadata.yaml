@@ -1,0 +1,21 @@
+id: 0183
+column:
+  name: Waters ACQUITY UPLC BEH Amide
+  usp.code: L68
+  length: 150
+  id: 2.1
+  particle.size: 1.7
+  temperature: 40
+  flowrate: 0.5
+  t0: 0.6615
+eluent:
+  A:
+    h2o: 5
+    acn: 95
+  B:
+    h2o: 70
+    acn: 30
+    nh4form:
+      value: 10
+      unit: mM
+    pH: 6.5

@@ -1,0 +1,22 @@
+id: '0265'
+column:
+  name: Waters Atlantis T3
+  usp.code: L1
+  length: 50
+  id: 4.6
+  particle.size: 5
+  temperature: 40
+  flowrate: 0.8
+  t0: 0.6612499999999999
+eluent:
+  A:
+    h2o: 100
+    trifluoroacetic:
+      value: 0.05
+      unit: '%'
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3

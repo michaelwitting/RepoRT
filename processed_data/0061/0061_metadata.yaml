@@ -1,0 +1,8 @@
+id: '0061'
+column:
+  name: Agilent ZORBAX Eclipse Plus C18
+  usp.code: L1
+  length: 150
+  id: 2.1
+  particle.size: 3.5
+  t0: 0

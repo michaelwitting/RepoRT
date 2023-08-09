@@ -1,0 +1,28 @@
+id: '0260'
+column:
+  name: Phenomenex Synergi Polar-RP
+  usp.code: L11
+  length: 100
+  id: 1
+  particle.size: 100
+  temperature: 40
+  flowrate: 0.4
+  t0: 0.125
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    meoh: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  C:
+    acn: 100
+  D:
+    iproh: 50
+    acetone: 50

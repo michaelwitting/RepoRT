@@ -1,0 +1,19 @@
+id: '0043'
+column:
+  name: Waters ACQUITY UPLC HSS T3
+  usp.code: L1
+  t0: 0
+eluent:
+  A:
+    h2o: 100
+    nh4ac:
+      value: 10
+      unit: mM
+    pH: 6.75
+  B:
+    acn: 10
+    iproh: 90
+    nh4ac:
+      value: 10
+      unit: mM
+    pH: 6.75

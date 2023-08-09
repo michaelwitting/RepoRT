@@ -1,0 +1,18 @@
+id: '0372'
+column:
+  name: Agilent InfinityLab Poroshell 120 HILIC-Z (Peek-lined)
+  usp.code: L114
+  length: 50
+  id: 2.1
+  particle.size: 2.7
+  temperature: 30
+  flowrate: 0.12
+  t0: 0.91875
+eluent:
+  A:
+    h2o: 100
+    nh4carb:
+      value: 20
+      unit: mM
+  B:
+    acn: 100

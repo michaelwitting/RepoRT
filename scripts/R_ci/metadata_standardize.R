@@ -37,6 +37,11 @@ for(data_folder in data_folders) {
   cat(paste(Sys.time(), "processing", data_folder, "\n"))
 
   # ============================================================================
+  # convert between TSV and YAML metadata formats (before standardization)
+  # ============================================================================
+  system(paste("python3 scripts/Python/convert_metadata.py", basename(data_folder)))
+
+  # ============================================================================
   # read and standardize meta data
   # ============================================================================
   meta_data_file <- list.files(data_folder,
@@ -79,6 +84,12 @@ for(data_folder in data_folders) {
                      "_metadata.txt"),
               na = "")
   }
+
+  # ============================================================================
+  # convert between TSV and YAML metadata formats (after standardization)
+  # ============================================================================
+  system(paste("python3 scripts/Python/convert_metadata.py", basename(data_folder)))
+
 
   # ============================================================================
   # read and standardize gradient data

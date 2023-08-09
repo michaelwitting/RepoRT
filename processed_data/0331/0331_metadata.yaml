@@ -1,0 +1,23 @@
+id: '0331'
+column:
+  name: Restek Raptor Biphenyl
+  usp.code: L11
+  length: 100
+  id: 2.1
+  particle.size: 2.7
+  temperature: 50
+  flowrate: 0.4
+  t0: 0.55125
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'
+    pH: 3
