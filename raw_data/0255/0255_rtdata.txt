@@ -1,4 +1,4 @@
-id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	pubchem.inchi	pubchem.inchikey	id.chebi	id.hmdb	id.hmdb	id.lipidmaps	id.kegg
+id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	pubchem.inchi	pubchem.inchikey	id.chebi	id.hmdb	id.hmdb.1	id.lipidmaps	id.kegg
 0255_00294	ADENOSINE 5'-DIPHOSPHATE	C10H15N5O10P2	0.605			O=P(O)(O)OP(=O)(O)OCC1OC(N2C=NC=3C(=NC=NC32)N)C(O)C1O	InChI=1S/C10H15N5O10P2/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(17)6(16)4(24-10)1-23-27(21,22)25-26(18,19)20/h2-4,6-7,10,16-17H,1H2,(H,21,22)(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10-/m1/s1	XTWYTFMLZFPYCI-KQYNXXCUSA-N					
 0255_00923	Acephate	C4H10NO3PS	1.572			O=C(NP(=O)(OC)SC)C	InChI=1S/C4H10NO3PS/c1-4(6)5-9(7,8-2)10-3/h1-3H3,(H,5,6,7)	YASYVMFAVPKPKE-UHFFFAOYSA-N					
 0255_00929	Diflufenican	C19H11F5N2O2	5.908			O=C(NC1=CC=C(F)C=C1F)C2=CC=CN=C2OC3=CC=CC(=C3)C(F)(F)F	InChI=1S/C19H11F5N2O2/c20-12-6-7-16(15(21)10-12)26-17(27)14-5-2-8-25-18(14)28-13-4-1-3-11(9-13)19(22,23)24/h1-10H,(H,26,27)	WYEHFWKAOXOVJD-UHFFFAOYSA-N					

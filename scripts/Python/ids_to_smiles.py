@@ -58,7 +58,7 @@ def get_smiles(id_, id_type):
 
 if __name__ == '__main__':
     in_file = sys.argv[1]
-    df = pd.read_csv(in_file, sep='\t', index_col=0)
+    df = pd.read_csv(in_file, sep='\t', index_col=0, converters={'pubchem.cid': str})
     changed = False
     for i, r in df.iterrows():
         if not (is_na(df.loc[i, 'pubchem.smiles.canonical']) or is_na(df.loc[i, 'pubchem.smiles.isomeric'])):
