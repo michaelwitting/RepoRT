@@ -59,7 +59,10 @@ for(data_folder in data_folders) {
                                                    rt = col_double(),
                                                    smiles.std = col_character(),
                                                    inchi.std = col_character(),
-                                                   inchikey.std = col_character()))
+                                                   inchikey.std = col_character(),
+                                                   comment = col_character()))
+    if (!("comment" %in% names(rt_data_canonical)))
+      rt_data_canonical <- rt_data_canonical %>% add_column(comment=NA)
 
     # perform classification
     classyfire <- map_dfr(rt_data_canonical$inchikey.std, function(x) {
@@ -133,10 +136,11 @@ for(data_folder in data_folders) {
                                                                 rt,
                                                                 smiles.std,
                                                                 inchi.std,
-                                                                inchikey.std), classyfire)
+                                                                inchikey.std,
+                                                                comment), classyfire)
 
     # write results
-    write_tsv(rt_data_canonical,
+    write_tsv(rt_data_canonical %>% relocate(comment, .after = last_col()),
               rt_data_file,
               na = "")
 
@@ -164,7 +168,10 @@ for(data_folder in data_folders) {
                                                   rt = col_double(),
                                                   smiles.std = col_character(),
                                                   inchi.std = col_character(),
-                                                  inchikey.std = col_character()))
+                                                  inchikey.std = col_character(),
+                                                  comment = col_character()))
+    if (!("comment" %in% names(rt_data_isomeric)))
+      rt_data_isomeric <- rt_data_isomeric %>% add_column(comment=NA)
 
     # perform classification
     classyfire <- map_dfr(rt_data_isomeric$inchikey.std, function(x) {
@@ -238,10 +245,11 @@ for(data_folder in data_folders) {
                                                               rt,
                                                               smiles.std,
                                                               inchi.std,
-                                                              inchikey.std), classyfire)
+                                                              inchikey.std,
+                                                              comment), classyfire)
 
     # write results
-    write_tsv(rt_data_isomeric,
+    write_tsv(rt_data_isomeric %>% relocate(comment, .after = last_col()),
               rt_data_file,
               na = "")
 
