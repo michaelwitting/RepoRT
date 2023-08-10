@@ -279,15 +279,6 @@ for(data_folder in data_folders) {
     if (file.exists(temp_file)) file.remove(temp_file)
 
   # ============================================================================
-  # read and standardize meta data
-  # ============================================================================
-  meta_data_file <- list.files(data_folder,
-                               pattern = "_metadata.tsv$",
-                               full.names = TRUE)
-
-  meta_data <- read_tsv(meta_data_file, show_col_types = FALSE)
-
-  # ============================================================================
   # write results
   # ============================================================================
   # create new path ------------------------------------------------------------
@@ -301,8 +292,7 @@ for(data_folder in data_folders) {
     list(rt_data_canonical_success, paste0(result_folder, "/", basename(data_folder), "_rtdata_canonical_success.tsv")),
     list(rt_data_canonical_failed, paste0(result_folder, "/", basename(data_folder), "_rtdata_canonical_failed.tsv")),
     list(rt_data_isomeric_success, paste0(result_folder, "/", basename(data_folder), "_rtdata_isomeric_success.tsv")),
-    list(rt_data_isomeric_failed, paste0(result_folder, "/", basename(data_folder), "_rtdata_isomeric_failed.tsv")),
-    list(meta_data, paste0(result_folder, "/", basename(data_folder), "_metadata.tsv"))
+    list(rt_data_isomeric_failed, paste0(result_folder, "/", basename(data_folder), "_rtdata_isomeric_failed.tsv"))
     )) {
       data <- output[[1]]
       out_file <- output[[2]]
