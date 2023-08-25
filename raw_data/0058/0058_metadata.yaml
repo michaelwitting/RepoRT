@@ -16,5 +16,5 @@ eluent:
     acn: 100
     formic:
       value: 0.1
-      unit: 3
+      unit: '%'
     pH: 3
