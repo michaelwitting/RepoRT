@@ -57,9 +57,9 @@ def to_full_table(metadata):
     for c in base.columns.tolist():
         if any([c.startswith(x) for x in ['eluent.', 'gradient.']]) and not any(
                 [c.endswith(x) for x in ['.unit', '.pH']]):
-            base.iloc[0][c] = 0
+            base.at[0, c] = 0
         else:
-            base.iloc[0][c] = None
+            base.at[0, c] = None
     for k, v in result.items():
         base.at[0, k] = v
     return base.set_index('id')
