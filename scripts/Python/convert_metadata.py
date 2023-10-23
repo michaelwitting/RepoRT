@@ -39,6 +39,7 @@ def to_hierarchical(metadata):
                     if list(v[part][chemical]) == ['value']:
                         v[part][chemical] = v[part][chemical]['value']
         result_simplified[k] = v
+    # TODO: don't store eluent values if they only have a unit but no value
     return result
 
 def traverse(whole_key, x, result):
@@ -96,7 +97,7 @@ if __name__ == '__main__':
                 df_series = read_tsv(tsv_file)
                 result = to_hierarchical(OrderedDict(df_series))
                 with open(yaml_file, 'w') as out:
-                    yaml.safe_dump(dict(result), out, default_flow_style=False, sort_keys=False)
+                    yaml.safe_dump(dict(result), out, default_flow_style=False, sort_keys=False, allow_unicode=True)
             elif (os.path.exists(yaml_file) and not os.path.exists(tsv_file)):
                 # YAML -> tsv
                 result = read_yaml(yaml_file, tsv_file.replace('metadata', 'gradient'))

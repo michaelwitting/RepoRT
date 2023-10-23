@@ -16,7 +16,7 @@ eluent:
       unit: mM
     medronic:
       value: 5
-      unit: "\xB5M"
+      unit: µM
   B:
     h2o: 10
     acn: 90
@@ -25,4 +25,4 @@ eluent:
       unit: mM
     medronic:
       value: 0.5
-      unit: "\xB5M"
+      unit: µM

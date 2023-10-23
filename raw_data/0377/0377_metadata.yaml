@@ -18,6 +18,6 @@ eluent:
       unit: mM
     medronic:
       value: 5
-      unit: "\xB5M"
+      unit: µM
   B:
     acn: 100
