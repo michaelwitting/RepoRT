@@ -1,5 +1,8 @@
 # RepoRT
 
+> [!IMPORTANT]
+> Git LFS has now been disabled for the majority of the contents of RepoRT for better traceability of changes. It might be necessary to ["force-pull" the repository, if you already have a local version](https://stackoverflow.com/a/8888015). Alternatively, simply clone/download the repository again, if experiencing difficulties. A mapping from old to new commit hashes is available [here](resources/migration_commit_mapping.tsv).
+
 *RepoRT* is a repository dedicated to the collection of training data
 for the development of new retention time prediction models for the
 identification of small molecules. It is part of the collaborative
