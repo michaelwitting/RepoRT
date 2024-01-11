@@ -29,17 +29,38 @@ jobs:
           ls -lh processed_data/$f
         done
 
-    - name: Setup R
-      uses: r-lib/actions/setup-r@v2
-
     - name: Setup java
       uses: actions/setup-java@v3
       with:
         distribution: 'temurin'
         java-version: '17'
 
-    - name: Install R packages
-      run: Rscript scripts/R_ci/dependencies.R
+    - name: Setup R
+      uses: r-lib/actions/setup-r@v2
+      with:
+        use-public-rspm: true
+
+    - name: Set RENV_PATHS_ROOT
+      shell: bash
+      run: |
+        echo "RENV_PATHS_ROOT=${{ runner.temp }}/renv" >> $GITHUB_ENV
+      # needed for every task
+
+    - name: Restore Renv package cache
+      uses: actions/cache@v3
+      with:
+        path: ${{ env.RENV_PATHS_ROOT }}
+        key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-renv-
+      # needed for every task
+
+    - name: Activate renv
+      shell: Rscript {0}
+      run: |
+        options(renv.config.mran.enabled = FALSE)
+        renv::restore()
+      # needed for every task
 
     - name: Compounds fingerprints
       run: Rscript scripts/R_ci/04_compounds_fingerprints.R ${{ steps.filesfolders.outputs.files }}
