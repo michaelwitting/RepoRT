@@ -70,7 +70,7 @@ def read_tsv(tsv_file):
     assert len(df_in) == 1, 'metadata tsv files can only have one row!'
     for c in df_in.columns.tolist():
         if (c.startswith('eluent') or c.startswith('gradient')) and df_in.loc[0, c] == 0:
-            df_in.at[0, c] = np.nan
+            df_in.at[0, c] = None
     return df_in.dropna(axis=1).loc[0]
 
 def read_yaml(yaml_file, gradient_file):
