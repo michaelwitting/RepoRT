@@ -1,1 +1,5 @@
+options(renv.config.ppm.enabled = TRUE)
+options(renv.config.ppm.default = TRUE)
+options(repos = c(CRAN = "https://packagemanager.posit.co/cran/__linux__/bookworm/2024-02-06"))
+options(renv.config.repos.override = getOption("repos"))
 source("renv/activate.R")
