@@ -95,6 +95,7 @@ for(data_folder in data_folders) {
         }
 
         desc_names <- unique(desc_names)
+        desc_names <- desc_names[desc_names != "org.openscience.cdk.qsar.descriptors.molecular.LongestAliphaticChainDescriptor"]
 
         # predict descriptors
         desc <- eval.desc(mol, desc_names, verbose = FALSE)
@@ -167,6 +168,7 @@ for(data_folder in data_folders) {
         }
 
         desc_names <- unique(desc_names)
+        desc_names <- desc_names[desc_names != "org.openscience.cdk.qsar.descriptors.molecular.LongestAliphaticChainDescriptor"]
 
         # predict descriptors
         desc <- eval.desc(mol, desc_names, verbose = FALSE)
