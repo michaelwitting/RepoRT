@@ -6,7 +6,7 @@ jobs:
   renv:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/${{ github.actor }}/repo_rt_preprocessing:latest
+      image: ghcr.io/${{ github.repository_owner }}/repo_rt_preprocessing:latest
       env:
         RENV_PATHS_LIBRARY: '/renv/library'
     defaults:
