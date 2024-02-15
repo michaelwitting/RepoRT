@@ -1,0 +1,29 @@
+name: Build and push docker container
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      # - 'scripts/**' # whole scripts probably too much
+      - 'scripts/Python/requirements.txt'
+      - 'renv.lock'
+      - 'renv/**'
+      - 'Dockerfile'
+      - '.Rprofile'
+
+jobs:
+  dockerloginbuildpush:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v3
+      - name: Create image from repository
+        run: docker build -t ghcr.io/${{ github.actor }}/repo_rt_preprocessing .
+      - name: Push image to GitHub Container Registry
+        run: docker push ghcr.io/${{ github.actor }}/repo_rt_preprocessing:latest

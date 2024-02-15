@@ -1,0 +1,45 @@
+name: Update R packages
+
+on: workflow_dispatch
+
+jobs:
+  renv:
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/${{ github.actor }}/repo_rt_preprocessing:latest
+      env:
+        RENV_PATHS_LIBRARY: '/renv/library'
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Init renv
+      shell: Rscript {0}
+      run: |
+        renv::restore()
+
+    - name: Install R dependencies
+      run: Rscript scripts/R_ci/dependencies.R
+
+    - name: Snapshot renv
+      shell: Rscript {0}
+      run: |
+        renv::snapshot()
+
+    - name: Commit
+      run: |
+        git config --global user.email 'actions@github.com'
+        git config --global user.name 'Github Actions'
+        # Use LFS storage of main repository: no push access to fork LFS storage
+        git add renv.lock renv .Rprofile
+        git commit -m "Update renv"
+        git lfs push origin HEAD # first push LFS, otherwise failure because of lfs.url
+        git push origin HEAD
+
+    - name: Debug with tmate on failure
+      if: ${{ failure() }}
+      uses: mxschmitt/action-tmate@v3

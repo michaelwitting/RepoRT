@@ -35,10 +35,14 @@ on:
 jobs:
   preprocess:
     name: Preprocess raw data
-    # NOTE: on windows as computing of descriptors has a bug on linux right now
-    runs-on: windows-2019
-    env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }} # needed for pulling R packages from github
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/${{ github.actor }}/repo_rt_preprocessing:latest
+      env:
+        RENV_PATHS_LIBRARY: '/renv/library'
+    defaults:
+      run:
+        shell: bash
 
     steps:
     - name: Checkout repository
@@ -46,9 +50,7 @@ jobs:
       with:
          lfs: true
 
-
     - name: List all files for selected datasets
-      shell: bash {0}
       run: |
         for f in ${{ inputs.datasets }}; do
           ls -lh raw_data/$f || true
@@ -56,44 +58,8 @@ jobs:
         done
       continue-on-error: true
 
-    - name: Pyton dependencies
-      run: pip install -r scripts/Python/requirements.txt
-      # needed for every task
-
-    - name: Setup java
-      uses: actions/setup-java@v3
-      with:
-        distribution: 'temurin'
-        java-version: '17'
-      # needed for every task
-
-    - name: Set RENV_PATHS_ROOT
-      shell: bash
-      run: |
-        echo "RENV_PATHS_ROOT=${{ runner.temp }}/renv" >> $GITHUB_ENV
-      # needed for every task
-
-    - name: Setup R
-      uses: r-lib/actions/setup-r@v2
-      with:
-        use-public-rspm: true
-      # needed for every task
-
-    - name: Restore Renv package cache
-      uses: actions/cache@v3
-      with:
-        path: ${{ env.RENV_PATHS_ROOT }}
-        key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-renv-
-      # needed for every task
-
-    - name: Activate renv
-      shell: Rscript {0}
-      run: |
-        options(renv.config.mran.enabled = FALSE)
-        renv::restore()
-      # needed for every task
+    - name: check renv
+      run: Rscript -e "renv::status()"
 
     - name: Standardize compounds
       run: Rscript scripts/R_ci/compounds_standardize.R ${{ inputs.datasets }}
@@ -144,8 +110,8 @@ jobs:
       run: |
         git config --global user.email 'actions@github.com'
         git config --global user.name 'Github Actions'
-        # Use LFS storage of main repository: no push access to fork LFS storage
-        # TODO: change once repository is moved
+        # because of dockerized environment, git will otherwise complain about "dubious ownership of directory"
+        git config --global safe.directory '*'
         git add processed_data raw_data
         git commit -m "Preprocessing ${{ inputs.datasets }}" -m "Tasks:
           - standardize compounds: ${{ inputs.do_standardize }}
