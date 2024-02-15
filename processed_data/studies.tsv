@@ -386,5 +386,5 @@ id	name	url	pmid	source	method.type	comment	missing information	authors
 0387	AA_LC6	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
 0388	AA_LC7	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
 0389	AA_LC8	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
-0390	reserved for Robin Schmid							
-0391	reserved for Robin Schmid							
+0390	Brungs_NIH			MZmine	RP			C. Brungs, R. Schmid, T. Pluskal
+0391	Brungs_MCE			MZmine	RP			C. Brungs, R. Schmid, T. Pluskal
