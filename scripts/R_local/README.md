@@ -13,6 +13,7 @@ docker run -v $(pwd)/scripts:/scripts -v $(pwd)/example:/example -v $(pwd)/resou
            ghcr.io/michaelwitting/repo_rt_preprocessing:latest Rscript scripts/R_ci/compounds_standardize.R <dataset ID(s)>
 ```
   - the `-v`-settings allow the docker container to access your RepoRT files/scripts
+  - on windows, replace `$(pwd)` with `%cd%` (when using `cmd`) or `${PWD}` (when using PowerShell)
   - `<dataset ID(s)>` are the dataset IDs, separated by space you want to preprocess, e.g.: `'0001' '0280' '0003'`
   - substitute `Rscript scripts/R_ci/compounds_standardize.R` with the script you want to run, the usual order is:
     1. `Rscript scripts/R_ci/compounds_standardize.R`
