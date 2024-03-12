@@ -1,0 +1,58 @@
+on:
+  pull_request_target:
+    types:
+      - ready_for_review
+
+jobs:
+  assign_ids:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Checkout fork repository
+      uses: actions/checkout@v3
+      with:
+         fetch-depth: 0
+         repository: ${{github.event.pull_request.head.repo.full_name}}
+         ref: ${{ github.head_ref }}
+         lfs: true
+
+    - name: Get changed files
+      id: files
+      uses: Ana06/get-changed-files@v2.2.0
+
+    - name: Get new/changed datasets
+      id: filesfolders
+      run: echo "files=$(for f in ${{ steps.files.outputs.added_modified_renamed }}; do basename $(dirname $f); done | grep -E '^[0-9]+$' | sort | uniq | tr '\n' ' ')" >> $GITHUB_OUTPUT
+
+    - name: adapt IDs of these datasets
+      id: newids
+      run: echo "ids=$(python3 scripts/Python/datasets_new_ids.py ${{ steps.filesfolders.outputs.files }})" >> $GITHUB_OUTPUT
+
+    - name: Update overview table of all datasets
+      run: |
+        python3 -m pip install pandas
+        python3 scripts/Python/datasets_overview.py
+
+    - name: Commit change
+      run: |
+        git config --global user.email 'actions@github.com'
+        git config --global user.name 'Github Actions'
+        # Use LFS storage of main repository: no push access to fork LFS storage
+        # TODO: change once repository is moved
+        git config lfs.url 'https://github.com/michaelwitting/RepoRT.git/info/lfs'
+        git add processed_data raw_data
+        git commit -m "[no ci] set IDs for newly submitted datasets: ${{ steps.newids.outputs.ids }}; previously ${{ steps.filesfolders.outputs.files }}"
+        git lfs push origin HEAD # first push LFS, otherwise failure because of lfs.url
+        git push origin HEAD
+
+    - name: Add comment with new dataset IDs to PR
+      uses: actions/github-script@v6
+      with:
+        script: |
+          github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: 'final IDs have been assigned to submitted datasets: ${{ steps.filesfolders.outputs.files }} -> ${{ steps.newids.outputs.ids }}\nThis Pull Request can now be merged!'
+          })
+      continue-on-error: true

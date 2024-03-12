@@ -10,4 +10,5 @@ if __name__ == '__main__':
             dfs.append(pd.read_csv(f, sep='\t', dtype={'id': 'str', 'pmid': 'str'}))
         studies_new = pd.concat(dfs, ignore_index=True).sort_values('id').set_index('id')
         studies.update(studies_new)
-        studies.to_csv(f'{mode_}_data/studies.tsv', sep='\t')
+        new_entries = studies_new.loc[studies_new.index.difference(studies.index)]
+        pd.concat([studies, new_entries]).to_csv(f'{mode_}_data/studies.tsv', sep='\t')
