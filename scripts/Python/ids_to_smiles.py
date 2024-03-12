@@ -65,7 +65,6 @@ if __name__ == '__main__':
     for c in example_df.columns.tolist():
         if c not in df.columns.tolist():
             df[c] = None
-            changed = True
     for i, r in df.iterrows():
         if not (is_na(df.loc[i, 'pubchem.smiles.canonical']) or is_na(df.loc[i, 'pubchem.smiles.isomeric'])):
             # TODO: for large datasets, find a way to remember where there is no further information to retrieve
@@ -97,5 +96,7 @@ if __name__ == '__main__':
                     print(i, e)
     if (changed):
         os.rename(in_file, in_file + '.old')
-        # TODO: restore example file column order
-        df.to_csv(in_file, sep='\t')
+    proper_column_order = ([c for c in example_df.columns.tolist() if c in df.columns.tolist()]
+                           + [c for c in df.columns.tolist() if c not in example_df.columns.tolist()])
+    proper_column_order = [c for c in proper_column_order if c != 'comment'] + ['comment'] # comment last
+    df[proper_column_order].to_csv(in_file, sep='\t')
