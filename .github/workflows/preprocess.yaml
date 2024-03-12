@@ -115,6 +115,18 @@ jobs:
         add-labels: "preprocessing successful"
         remove-labels: "preprocessing failed"
 
+    - name: Add comment on how to proceed with PR
+      uses: actions/github-script@v6
+      with:
+        script: |
+          github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: 'This Pull Request is in "draft" status. When all issues (if any) are addressed, the status can manually be set to "ready for review". Subsequently, the temporary dataset IDs will be replaced with the final ones; then the Pull Request can be merged.'
+          })
+      continue-on-error: true
+
     - name: Label as failed
       if: ${{ failure() }}
       uses: andymckay/labeler@master
