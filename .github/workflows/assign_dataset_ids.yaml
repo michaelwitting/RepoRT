@@ -22,7 +22,7 @@ jobs:
 
     - name: Get new/changed datasets
       id: filesfolders
-      run: echo "files=$(for f in ${{ steps.files.outputs.added_modified_renamed }}; do basename $(dirname $f); done | grep -E '^[0-9]+$' | sort | uniq | tr '\n' ' ')" >> $GITHUB_OUTPUT
+      run: echo "files=$(for f in ${{ steps.files.outputs.added_modified_renamed }}; do basename $(dirname $f); done | grep -E '^([0-9]+)|(draft_.*)$' | sort | uniq | tr '\n' ' ')" >> $GITHUB_OUTPUT
 
     - name: adapt IDs of these datasets
       id: newids
