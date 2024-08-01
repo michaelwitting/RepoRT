@@ -1,7 +1,7 @@
 # RepoRT
 
 > [!IMPORTANT]
-> Git LFS has now been disabled for the majority of the contents of RepoRT for better traceability of changes. It might be necessary to ["force-pull" the repository, if you already have a local version](https://stackoverflow.com/a/8888015). Alternatively, simply clone/download the repository again, if experiencing difficulties. A mapping from old to new commit hashes is available [here](https://github.com/michaelwitting/RepoRT/blob/master/resources/migration_commit_mapping.tsv).
+> A new web app has been launched making submission much easier: <https://rrt.boeckerlab.uni-jena.de/>
 
 *RepoRT* is a repository dedicated to the collection of training data
 for the development of new retention time prediction models for the
@@ -28,11 +28,15 @@ coverage of different separation modes and columns.
 
 **ToDo: add plot here**
 
+## Citation
+
+> F. Kretschmer, E.-M. Harrieder, M.  A. Hoffmann, S. Böcker, and M. Witting,
+> [RepoRT: a comprehensive repository for small molecule retention times](https://doi.org/10.1038/s41592-023-02143-z)
+> *Nat Methods* 21(2):153-155, 2024.
+
 # Contributing data
 
-We are welcoming data submissions. If you want to submit data to this
-repository, please get in contact with Michael Witting
-([michael.witting\@helmholtz-muenchen.de](mailto:michael.witting@helmholtz-muenchen.de){.email}).
+We are welcoming data submissions. Please submit using the web app at <https://rrt.boeckerlab.uni-jena.de/>
 
 # Contributors
 
@@ -59,3 +63,10 @@ repository.
 -   Maria Eugenia Monge, CIBION-CONICET
 -   Jörg Büscher, Max Plank Institute of Immunobiology and Epigenetics
 -   Aneli Kruve, Stockholm University
+
+# Notes on usage
+
+On October 24, 2023 Git LFS was disabled for the majority of the contents of RepoRT for better traceability of changes.
+If you still have a version of RepoRT from before that date, it might be necessary to ["force-pull" the repository](https://stackoverflow.com/a/8888015).
+Alternatively, simply clone/download the repository again, if experiencing difficulties.
+A mapping from old to new commit hashes is available [here](https://github.com/michaelwitting/RepoRT/blob/master/resources/migration_commit_mapping.tsv).
