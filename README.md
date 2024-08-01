@@ -1,6 +1,6 @@
 # RepoRT
 
-> [!IMPORTANT]
+> [!NOTE]
 > A new web app has been launched making submission much easier: <https://rrt.boeckerlab.uni-jena.de/>
 
 *RepoRT* is a repository dedicated to the collection of training data
@@ -30,9 +30,9 @@ coverage of different separation modes and columns.
 
 ## Citation
 
-> F. Kretschmer, E.-M. Harrieder, M.  A. Hoffmann, S. Böcker, and M. Witting,
-> [RepoRT: a comprehensive repository for small molecule retention times](https://doi.org/10.1038/s41592-023-02143-z)
-> *Nat Methods* 21(2):153-155, 2024.
+F. Kretschmer, E.-M. Harrieder, M.  A. Hoffmann, S. Böcker, and M. Witting, 
+[RepoRT: a comprehensive repository for small molecule retention times](https://doi.org/10.1038/s41592-023-02143-z) 
+*Nat Methods* 21(2):153-155, 2024.
 
 # Contributing data
 
