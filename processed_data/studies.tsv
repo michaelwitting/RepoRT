@@ -47,17 +47,17 @@ id	name	url	pmid	source	method.type	comment	missing information	authors	mail
 0047	Acquity HSST3-RP-60mn			PredRet	RP		column length, ID and particle size; temperature		
 0048	BDD_C18			PredRet	RP		column length and ID		
 0049	CS2	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0050	CS1	https://doi.org/10.1016/j.foodchem.2021.129758		PredRet	RP			Low et al.	
-0051	CS17	https://doi.org/10.1016/j.foodchem.2021.129759		PredRet	RP			Low et al.	
-0052	CS14	https://doi.org/10.1016/j.foodchem.2021.129760		PredRet	RP			Low et al.	
-0053	CS20	https://doi.org/10.1016/j.foodchem.2021.129761		PredRet	Other			Low et al.	
+0050	CS1	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
+0051	CS17	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
+0052	CS14	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
+0053	CS20	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	Other			Low et al.	
 0054	LIFE_old	https://doi.org/10.1016/j.aca.2011.12.065		PredRet	RP		temperature and flow rate	T. Barri, J. Holmer-Jensen, K. Hermansen, L. O. Dragsted	
 0055	LIFE_new	https://doi.org/10.1016/j.aca.2011.12.065		PredRet	RP		temperature and flow rate	T. Barri, J. Holmer-Jensen, K. Hermansen, L. O. Dragsted	
 0056	CS4	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0057	CS5	https://doi.org/10.1016/j.foodchem.2021.129758		PredRet	RP			Low et al.	
-0058	CS18	https://doi.org/10.1016/j.foodchem.2021.129759		PredRet	RP	column name not specific		Low et al.	
-0059	CS19	https://doi.org/10.1016/j.foodchem.2021.129760		PredRet	RP	column name not specific		Low et al.	
-0060	CS22	https://doi.org/10.1016/j.foodchem.2021.129761		PredRet	RP			Low et al.	
+0057	CS5	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
+0058	CS18	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP	column name not specific		Low et al.	
+0059	CS19	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP	column name not specific		Low et al.	
+0060	CS22	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
 0061	cuw			PredRet	RP	unknown amount of solvent	temperature, gradient and flow rate		
 0062	JP_RP			PredRet	RP		temperature, gradient and flow rate		
 0063	RPMMFDA			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate		
