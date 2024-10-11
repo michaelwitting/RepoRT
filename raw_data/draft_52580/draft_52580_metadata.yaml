@@ -1,0 +1,36 @@
+column:
+  name: Thermo Scientific Accucore C18
+  id: 2.1
+  temperature: 24
+  flowrate: 0.4
+  usp.code: L1
+  length: 150
+  particle.size: '2.6'
+eluent:
+  A:
+    h2o:
+      value: 90
+      unit: '%'
+    acn:
+      value: 10
+      unit: '%'
+    nh4ac:
+      value: 10
+      unit: mM
+    meoh:
+      value: 0
+      unit: '%'
+  B:
+    h2o:
+      value: 20
+      unit: '%'
+    acn:
+      value: 0
+      unit: '%'
+    nh4ac:
+      value: 10
+      unit: mM
+    meoh:
+      value: 80
+      unit: '%'
+id: draft_52580
