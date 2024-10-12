@@ -1,0 +1,30 @@
+column:
+  name: Waters Atlantis T3
+  id: 2.1
+  temperature: -1
+  flowrate: 0.1
+  usp.code: L1
+  length: 100
+  particle.size: '3'
+eluent:
+  A:
+    h2o:
+      value: 100
+      unit: '%'
+    meoh:
+      value: 0
+      unit: '%'
+    formic:
+      value: 0.01
+      unit: '%'
+  B:
+    h2o:
+      value: 0
+      unit: '%'
+    meoh:
+      value: 100
+      unit: '%'
+    formic:
+      value: 0.01
+      unit: '%'
+id: draft_01362
