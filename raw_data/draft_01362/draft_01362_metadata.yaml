@@ -1,7 +1,6 @@
 column:
   name: Agilent ZORBAX Eclipse Plus C18
   id: 4.6
-  temperature: -1
   flowrate: 0.5
   usp.code: L1
   length: 50
