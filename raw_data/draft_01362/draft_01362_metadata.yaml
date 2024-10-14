@@ -1,8 +1,6 @@
 column:
   name: Waters ACQUITY UPLC HSS T3
   id: 2.1
-  temperature: -1
-  flowrate: -1
   usp.code: L1
   length: 150
   particle.size: '1.8'

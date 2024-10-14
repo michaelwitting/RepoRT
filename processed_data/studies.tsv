@@ -390,4 +390,4 @@ id	name	url	pmid	source	method.type	comment	missing information	authors	mail
 0391	Brungs_MCE			MZmine	RP			C. Brungs, R. Schmid, T. Pluskal	
 0392	UIUC_Carver			Dataset - La Frano	RP			M. R. La Frano	
 Submitted by Fangyuan Sun.									
-draft_01362	dataset_43	10.1007/s00216-013-6954-6					missing information:coloumn temperature and flowrate.	Stanstrup, J., Gerlich, M., Dragsted, L.O. et al	
+draft_01362	ROASMI_43	10.1007/s00216-013-6954-6				Submitted by Fangyuan Sun	column temperature and flowrate	Stanstrup, J., Gerlich, M., Dragsted, L.O. et al	
