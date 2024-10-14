@@ -1,0 +1,29 @@
+column:
+  name: Waters SunFire C18
+  id: 4.6
+  flowrate: 0.5
+  usp.code: L1
+  length: 50
+  particle.size: '3.5'
+eluent:
+  A:
+    h2o:
+      value: 100
+      unit: '%'
+    acn:
+      value: 0
+      unit: '%'
+    formic:
+      value: 0.1
+      unit: '%'
+  B:
+    h2o:
+      value: 0
+      unit: '%'
+    acn:
+      value: 100
+      unit: '%'
+    formic:
+      value: 0.1
+      unit: '%'
+id: '0419'
