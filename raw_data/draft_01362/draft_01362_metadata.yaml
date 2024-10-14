@@ -2,7 +2,6 @@ column:
   name: Thermo Scientific Acclaim RSLC 120 C18
   id: 2.1
   temperature: 30
-  flowrate: -1
   usp.code: L1
   length: 100
   particle.size: '2.2'
