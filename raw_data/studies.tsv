@@ -389,4 +389,35 @@ id	name	url	pmid	source	method.type	comment	missing information	authors	mail
 0390	Brungs_NIH			MZmine	RP			C. Brungs, R. Schmid, T. Pluskal	
 0391	Brungs_MCE			MZmine	RP			C. Brungs, R. Schmid, T. Pluskal	
 0392	UIUC_Carver			Dataset - La Frano	RP			M. R. La Frano	
+0393	SQFZ_injection	10.1016/j.jpba.2012.10.024				Submitted by Fangyuan Sun		Meng-Hua Liu, Xin Tong, Jin-Xu Wang, Wei Zou, Hui Cao, Wei-Wei Su	
+0394	ACQUITY_UPLC_HSSC18_QTOF_20min			PredRet		Submitted by Fangyuan Sun	temperature, column id, column length, column particle size		
+0395	ST001610						Submitted from Fangyuan Sun.	Dr. Xiaozhuo Chen	
+0396	ROASMI_55	10.1016/j.chroma.2013.03.006				Submitted by Fangyuan Sun		Alessandro Musenga, David A. Cowan	
+0397	ROASMI_68	10.1016/j.phytochem.2014.10.005				Submitted by Fangyuan Sun		Philippe J. Eugster, Julien Boccard, Benjamin Debrus, Lise Bréant, Jean-Luc Wolfender, Sophie Martel, Pierre-Alain Carrupt	
+0398	ROASMI_19	10.1016/j.chroma.2011.01.060				Submitted by Fangyuan Sun		David R. Baker a, Barbara Kasprzyk-Hordern 	
+0399	ROASMI_52	10.1016/j.chroma.2012.12.030				Submitted by Fangyuan Sun		R. Diaz, M. Ibáñez, J.V. Sancho, F. Hernández	
+0400	ROASMI_79	10.1038/s41586-021-03707-9				Submitted by Fangyuan Sun		Shuo Han, Will Van Treuren, Curt R. Fischer, Bryan D. Merrill, Brian C. DeFelice, Juan M. Sanchez, Steven K. Higginbottom, Leah Guthrie, Lalla A. Fall, Dylan Dodd, Michael A. Fischbach & Justin L. Sonnenburg	
+0401	ROASMI_80	10.1038/s41586-021-03707-9				Submitted by Fangyuan Sun		Shuo Han, Will Van Treuren, Curt R. Fischer, Bryan D. Merrill, Brian C. DeFelice, Juan M. Sanchez, Steven K. Higginbottom, Leah Guthrie, Lalla A. Fall, Dylan Dodd, Michael A. Fischbach & Justin L. Sonnenburg	
+0402	ROASMI_81	10.1038/s41586-021-03707-9				Submitted by Fangyuan Sun		Shuo Han, Will Van Treuren, Curt R. Fischer, Bryan D. Merrill, Brian C. DeFelice, Juan M. Sanchez, Steven K. Higginbottom, Leah Guthrie, Lalla A. Fall, Dylan Dodd, Michael A. Fischbach & Justin L. Sonnenburg	
+0403	ROASMI_82	10.1038/s41586-021-03707-9				Submitted by Fangyuan Sun		Shuo Han, Will Van Treuren, Curt R. Fischer, Bryan D. Merrill, Brian C. DeFelice, Juan M. Sanchez, Steven K. Higginbottom, Leah Guthrie, Lalla A. Fall, Dylan Dodd, Michael A. Fischbach & Justin L. Sonnenburg	
+0404	ROASMI_49	10.1016/j.chroma.2015.03.063				Submitted by Fangyuan Sun		Kelly Munro, Thomas H. Miller, Claudia P.B. Martins , Anthony M. Edge , David A. Cowan, Leon P. Barron	
+0405	ROASMI_51	10.1038/s41596-020-0341-5				Submitted by Fangyuan Sun		Fujian Zheng, Xinjie Zhao, Zhongda Zeng, Lichao Wang, Wangjie Lv, Qingqing Wang & Guowang Xu	
+0406	ROASMI_7	10.1016/j.jpba.2015.06.020				Submitted by Fangyuan Sun		Zhenzuo Jiang, Yuefei Wang , Yan Zhu , Lei Zhang , Xin Chai, Miaomiao Jiang, Lihua Shan 	
+0407	ROASMI_33	10.1021/acs.jafc.0c00879				Submitted by Fangyuan Sun		Panagiotis Arapitsas,Maurizio Ugliano,Matteo Marangon,Paola Piombino,Luca Rolle,Vincenzo Gerbi,Andrea Versari,Fulvio Mattivi	
+0408	ROASMI_43	10.1007/s00216-013-6954-6				Submitted by Fangyuan Sun	column temperature and flowrate	Stanstrup, J., Gerlich, M., Dragsted, L.O. et al	
+0409	ROASMI_46	10.1016/j.scitotenv.2015.09.145				Submitted by Fangyuan Sun	column.temperature	Nikiforos A. Alygizakis, Pablo Gago-Ferrero, Viola L. Borova, Alexandra Pavlidou, Ioannis Hatzianestis, Nikolaos S. Thomaidis 	
+0410	ROASMI_30	10.1007/s00216-015-8540-6				Submitted by Fangyuan Sun	column temperature	Gago-Ferrero, P., Borova, V., Dasenaki, M.E. et al	
+0411	ROASMI_18	10.1016/j.foodchem.2018.11.056				Submitted by Fangyuan Sun		Wei Jia, Lin Shi, Feng Zhang, Cheng Fan, James Chang, Xiaogang Chu 	
+0412	ROASMI_61	10.1016/j.foodchem.2015.11.070				Submitted by Fangyuan Sun		Gerardo Martínez-Domínguez, Roberto Romero-González, Antonia Garrido Frenich	
+0413	ROASMI_6	10.1016/j.jpba.2019.06.042				Submitted by Fangyuan Sun	column temperature	Gregorio Peron, Jan Hošek, Sangeeta Rajbhandary, Deepak Raj Pant, Stefano Dall’Acqua 	
+0414	ROASMI_67	10.1016/j.chroma.2014.05.003				Submitted by Fangyuan Sun	column temperature	José Robles-Molina, Felipe J. Lara-Ortega, Bienvenida Gilbert-López, Juan F. García-Reyes, Antonio Molina-Díaz	
+0415	ROASMI_83	10.1016/j.chroma.2015.11.014				Submitted by Fangyuan Sun		Gudrun Nürenberg, Manoj Schulz, Uwe Kunkel, Thomas A. Ternes	
+0416	ROASMI_37	10.1038/s41592-019-0358-2				Submitted by Fangyuan Sun	Flowrate:0.3-0.4	Tsugawa, H., Nakabayashi, R., Mori, T. et al	
+0417	ROASMI_45	10.1038/s41592-019-0358-2				Submitted by Fangyuan Sun	flowrate:0.3-0.4	Tsugawa, H., Nakabayashi, R., Mori, T. et al	
+0418	ROASMI_41	10.1016/j.aca.2019.02.001				Submitted by Fangyuan Sun		Yezhen Huang, Yu Jiao, Yiqiao Gao, et al	
+0419	ROASMI_59	10.1038/s41597-019-0305-1				Submitted by Fangyuan Sun	column temperature	Olivier-Jimenez, D., Chollet-Krugler, M., Rondeau, D. et al.	
+0420	ROASMI_60	10.1038/s41597-019-0028-3				Submitted by Fangyuan Sun		Fox Ramos, A.E., Le Pogam, P., Fox Alcover, C. et al	
+0421	ROASMI_54	10.1016/j.aca.2011.01.006				Submitted by Fangyuan Sun		Yves Moulard, Ludovic Bailly-Chouriberry, Sophie Boyer, Patrice Garcia, Marie-Agnès Popot, Yves Bonnaire	
+0422	ROASMI_2	10.1016/j.foodchem.2018.09.045				Submitted by Fangyuan Sun	column temperature	Vesna Vasić, Uroš Gašić, Dalibor Stanković, Dražen Lušić, Darija Vukić-Lušić, Dušanka Milojković-Opsenica, Živoslav Tešić, Jelena Trifković	
+0423	ROASMI_11	10.1016/j.jhazmat.2020.123706				Submitted by Fangyuan Sun	column id, temperature, length, particle size	Younghun Choi, Ji-Ho Lee, Kyunghyun Kim, Hyunsaing Mun, Naree Park, Junho Jeon 	
 draft_01362	ROASMI_28	10.1016/j.chroma.2012.03.059				Submitted by Fangyuan Sun	Submitted by Fangyuan Sun.	Imma Ferrer, E. Michael Thurman	
