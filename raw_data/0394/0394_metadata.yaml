@@ -1,0 +1,26 @@
+column:
+  name: Waters ACQUITY UPLC HSS T3
+  flowrate: 0.4
+  usp.code: L1
+eluent:
+  A:
+    h2o:
+      value: 100
+      unit: '%'
+    acn:
+      value: 0
+      unit: '%'
+    formic:
+      value: 0.1
+      unit: '%'
+  B:
+    h2o:
+      value: 0
+      unit: '%'
+    acn:
+      value: 100
+      unit: '%'
+    formic:
+      value: 0.1
+      unit: '%'
+id: '0394'
