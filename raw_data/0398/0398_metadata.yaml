@@ -1,0 +1,30 @@
+column:
+  name: Waters XBridge BEH C18
+  id: 1
+  temperature: 30
+  flowrate: 0.04
+  usp.code: L1
+  length: 150
+  particle.size: '1.7'
+eluent:
+  A:
+    h2o:
+      value: 79.7
+      unit: '%'
+    meoh:
+      value: 20
+      unit: '%'
+    acetic:
+      value: 0.3
+      unit: '%'
+  B:
+    h2o:
+      value: 0
+      unit: '%'
+    meoh:
+      value: 99.7
+      unit: '%'
+    acetic:
+      value: 0.3
+      unit: '%'
+id: '0398'
