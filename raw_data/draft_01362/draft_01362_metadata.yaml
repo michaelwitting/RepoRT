@@ -1,7 +1,6 @@
 column:
   name: Thermo Scientific Syncronis C18
   id: 2.1
-  temperature: -1
   flowrate: 0.3
   usp.code: L1
   length: 100
