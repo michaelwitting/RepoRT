@@ -1,7 +1,6 @@
 column:
   name: Waters Atlantis T3
   id: 2.1
-  temperature: -1
   flowrate: 0.1
   usp.code: L1
   length: 100
