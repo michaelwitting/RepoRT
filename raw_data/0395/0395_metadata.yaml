@@ -1,0 +1,30 @@
+column:
+  name: Agilent InfinityLab Poroshell 120 SB-C18
+  id: 2.1
+  temperature: 40
+  flowrate: 0.2
+  usp.code: L1
+  length: 100
+  particle.size: '2.7'
+eluent:
+  A:
+    h2o:
+      value: 100
+      unit: '%'
+    acn:
+      value: 0
+      unit: '%'
+    formic:
+      value: 0.1
+      unit: '%'
+  B:
+    h2o:
+      value: 0
+      unit: '%'
+    acn:
+      value: 100
+      unit: '%'
+    formic:
+      value: 0
+      unit: '%'
+id: '0395'
