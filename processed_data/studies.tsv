@@ -389,5 +389,4 @@ id	name	url	pmid	source	method.type	comment	missing information	authors	mail
 0390	Brungs_NIH			MZmine	RP			C. Brungs, R. Schmid, T. Pluskal	
 0391	Brungs_MCE			MZmine	RP			C. Brungs, R. Schmid, T. Pluskal	
 0392	UIUC_Carver			Dataset - La Frano	RP			M. R. La Frano	
-Submitted by Fangyuan Sun.									
-draft_23062	dataset_62	10.3390/metabo9050085					missing information:flowrate;	Codesido, S.; Randazzo, G.M.; Lehmann, F.; González-Ruiz, V.; García, A.; Xenarios, I.; Liechti, R.; Bridge, A.; Boccard, J.; Rudaz, S	
+draft_23062	ROASMI_62	10.3390/metabo9050085				Submitted by Fangyuan Sun	flowrate	Codesido, S., Randazzo, G.M., Lehmann, F., González-Ruiz, V., García, A., Xenarios, I., Liechti, R., Bridge, A., Boccard, J., Rudaz, S	

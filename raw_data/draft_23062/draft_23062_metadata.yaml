@@ -2,7 +2,6 @@ column:
   name: Phenomenex Kinetex C18
   id: 2.1
   temperature: 30
-  flowrate: -0.72
   usp.code: L1
   length: 150
   particle.size: '1.7'
