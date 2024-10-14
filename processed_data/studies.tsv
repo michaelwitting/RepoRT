@@ -389,4 +389,4 @@ id	name	url	pmid	source	method.type	comment	missing information	authors	mail
 0390	Brungs_NIH			MZmine	RP			C. Brungs, R. Schmid, T. Pluskal	
 0391	Brungs_MCE			MZmine	RP			C. Brungs, R. Schmid, T. Pluskal	
 0392	UIUC_Carver			Dataset - La Frano	RP			M. R. La Frano	
-draft_01362	ACQUITY_UPLC_HSSC18_QTOF_20min						Source:Predret, Submitted by Fangyuan Sun		
+draft_01362	ACQUITY_UPLC_HSSC18_QTOF_20min			PredRet		Submitted by Fangyuan Sun	temperature, column id, column length, column particle size		
