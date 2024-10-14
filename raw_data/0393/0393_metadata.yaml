@@ -1,0 +1,30 @@
+column:
+  name: Agilent ZORBAX Eclipse Plus C18
+  id: 2.1
+  temperature: 25
+  flowrate: 0.3
+  usp.code: L1
+  length: 100
+  particle.size: '1.8'
+eluent:
+  A:
+    h2o:
+      value: 100
+      unit: '%'
+    meoh:
+      value: 0
+      unit: '%'
+    acetic:
+      value: 0.1
+      unit: '%'
+  B:
+    h2o:
+      value: 0
+      unit: '%'
+    meoh:
+      value: 100
+      unit: '%'
+    acetic:
+      value: 0
+      unit: '%'
+id: '0393'
