@@ -389,5 +389,4 @@ id	name	url	pmid	source	method.type	comment	missing information	authors	mail
 0390	Brungs_NIH			MZmine	RP			C. Brungs, R. Schmid, T. Pluskal	
 0391	Brungs_MCE			MZmine	RP			C. Brungs, R. Schmid, T. Pluskal	
 0392	UIUC_Carver			Dataset - La Frano	RP			M. R. La Frano	
-Submitted by Fangyuan Sun									
-draft_01362	dataset_06	10.1016/j.jpba.2019.06.042					missing information:column temperature.	Gregorio Peron, Jan Hošek , Sangeeta Rajbhandary , Deepak Raj Pant , Stefano Dall’Acqua 	
+draft_01362	ROASMI_6	10.1016/j.jpba.2019.06.042				Submitted by Fangyuan Sun	column temperature	Gregorio Peron, Jan Hošek, Sangeeta Rajbhandary, Deepak Raj Pant, Stefano Dall’Acqua 	
