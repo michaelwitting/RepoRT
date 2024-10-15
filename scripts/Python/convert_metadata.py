@@ -108,4 +108,4 @@ if __name__ == '__main__':
                     yaml_res = yaml.load(f, yaml.loader.SafeLoader)
                 tsv_res = to_hierarchical(dict(read_tsv(tsv_file)))
                 if not yaml_res == tsv_res:
-                    raise Exception('metadata files contain conflicting information!')
+                    print(f'WARNING: {dataset} metadata files contain conflicting information!', yaml_file, tsv_file, yaml_res, tsv_res)
