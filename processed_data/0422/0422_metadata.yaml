@@ -1,0 +1,28 @@
+id: '0422'
+column:
+  name: Thermo Scientific Syncronis C18
+  usp.code: L1
+  length: 100.0
+  id: 2.1
+  particle.size: 1.7
+  flowrate: 0.3
+  t0: 0.735
+eluent:
+  A:
+    h2o:
+      value: 100
+      unit: '%'
+    acetic:
+      value: 0.1
+      unit: '%'
+    acn:
+      unit: '%'
+  B:
+    acn:
+      value: 100
+      unit: '%'
+    acetic:
+      value: 0.1
+      unit: '%'
+    h2o:
+      unit: '%'

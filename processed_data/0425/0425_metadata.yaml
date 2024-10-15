@@ -1,0 +1,28 @@
+id: '0425'
+column:
+  name: Thermo Scientific Acclaim RSLC 120 C18
+  usp.code: L1
+  length: 100.0
+  id: 2.1
+  particle.size: 2.2
+  temperature: 30.0
+eluent:
+  A:
+    h2o:
+      value: 90
+      unit: '%'
+    meoh:
+      value: 10
+      unit: '%'
+    nh4ac:
+      value: 5
+      unit: mM
+  B:
+    meoh:
+      value: 100
+      unit: '%'
+    nh4ac:
+      value: 5
+      unit: mM
+    h2o:
+      unit: '%'
