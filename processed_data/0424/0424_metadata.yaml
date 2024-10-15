@@ -1,0 +1,21 @@
+id: '0424'
+column:
+  name: Agilent ZORBAX Eclipse XDB-C8
+  usp.code: L7
+  length: 150
+  id: 4.6
+  particle.size: 3.5
+  temperature: 25
+  flowrate: 0.6
+  t0: 2.645
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+  B:
+    acn: 100
+    formic:
+      value: 0.1
+      unit: '%'

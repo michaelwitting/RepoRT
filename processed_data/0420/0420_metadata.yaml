@@ -1,0 +1,20 @@
+id: '0420'
+column:
+  name: Waters SunFire C18
+  usp.code: L1
+  length: 150
+  id: 2.1
+  particle.size: 3.5
+  temperature: 25
+  flowrate: 0.25
+  t0: 1.323
+eluent:
+  A:
+    h2o: 100
+    formic:
+      value: 0.1
+      unit: '%'
+  B:
+    meoh: 100
+    formic:
+      unit: '%'

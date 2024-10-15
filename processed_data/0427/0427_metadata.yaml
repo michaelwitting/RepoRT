@@ -1,0 +1,21 @@
+id: '0427'
+column:
+  name: GL Sciences Inertsil ODS-4
+  usp.code: L1
+  length: 150
+  id: 2.1
+  particle.size: 3
+  temperature: 40
+  flowrate: 0.3
+  t0: 1.1025
+eluent:
+  A:
+    h2o: 100
+    nh4ac:
+      value: 5
+      unit: mM
+  B:
+    meoh: 100
+    nh4ac:
+      value: 5
+      unit: mM
