@@ -1,2 +1,2 @@
-id	url	source	comment	authors	name	missing information	mail
-0409	10.1016/j.scitotenv.2015.09.145		Submitted by Fangyuan Sun	Nikiforos A. Alygizakis, Pablo Gago-Ferrero, Viola L. Borova, Alexandra Pavlidou, Ioannis Hatzianestis, Nikolaos S. Thomaidis 	ROASMI_46	column.temperature	
+id	url	source	comment	authors	name	missing information	mail	method.type
+0409	10.1016/j.scitotenv.2015.09.145	Publication - Alygizakis	Submitted by Fangyuan Sun	Nikiforos A. Alygizakis, Pablo Gago-Ferrero, Viola L. Borova, Alexandra Pavlidou, Ioannis Hatzianestis, Nikolaos S. Thomaidis 	ROASMI_46	column.temperature		RP

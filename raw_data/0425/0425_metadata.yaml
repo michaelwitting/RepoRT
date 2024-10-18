@@ -5,6 +5,7 @@ column:
   usp.code: L1
   length: 100
   particle.size: '2.2'
+  flowrate: 0.2
 eluent:
   A:
     h2o:

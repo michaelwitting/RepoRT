@@ -1,2 +1,2 @@
-id	url	source	comment	authors	name	missing information	mail
-0425	10.1016/j.jhazmat.2019.121713		Submitted by Fangyuan Sun	Mengling Tang, Yanhui Ao, Peifang Wang, Chao Wang	ROASMI_70	general flowrate, can be obtained from gradient data	
+id	url	source	comment	authors	name	missing information	mail	method.type
+0425	10.1016/j.jhazmat.2019.121713	Publication - Tang	Submitted by Fangyuan Sun	Mengling Tang, Yanhui Ao, Peifang Wang, Chao Wang	ROASMI_70			RP
