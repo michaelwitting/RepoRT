@@ -1,0 +1,15 @@
+id: draft_45277
+column:
+  name: Agilent ZORBAX 300 SB-C18
+  usp.code: 1
+  length: 150
+  id: 1
+  particle.size: 3.5
+  temperature: -1
+  flowrate: -1
+  t0: -0.075
+eluent:
+  A:
+    h2o: 100
+  B:
+    acn: 100
