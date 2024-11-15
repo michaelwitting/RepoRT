@@ -1,7 +1,6 @@
 column:
   name: Waters ACQUITY UPLC BEH C18
   id: 1
-  temperature: -1
   flowrate: 0.15
   usp.code: L1
   length: 100
