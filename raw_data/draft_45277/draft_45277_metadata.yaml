@@ -1,0 +1,30 @@
+column:
+  name: Merck Supelco Ascentis Express C18
+  id: 1
+  temperature: 40
+  flowrate: 0.3
+  usp.code: L1
+  length: 100
+  particle.size: '1.7'
+eluent:
+  A:
+    h2o:
+      value: 100
+      unit: '%'
+    meoh:
+      value: 0
+      unit: '%'
+    nh4ac:
+      value: 5
+      unit: mM
+  B:
+    h2o:
+      value: 0
+      unit: '%'
+    meoh:
+      value: 100
+      unit: '%'
+    nh4ac:
+      value: 0
+      unit: mM
+id: draft_45277
