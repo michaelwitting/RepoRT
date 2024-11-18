@@ -7,6 +7,9 @@ import yaml
 def primitive(x):
     return x.item() if hasattr(x, 'item') else x
 
+def change_to_primitive_types(d):
+    return {k: primitive(v) for k, v in d.items()}
+
 def isna(x):
     res = pd.isna(x)
     if isinstance(res, bool):
@@ -29,8 +32,15 @@ def to_hierarchical(d):
     return dict(result)
 
 def make_liststrings_to_list(d_flattened):
-    return {k: v.split(', ') if k in ['authors', 'flags'] else v
-            for k, v in d_flattened.items()}
+    result = {}
+    for k, v in d_flattened.items():
+        if k in ['authors', 'flags']:
+            if pd.isna(v):
+                v = None
+            else:
+                v = v.strip().split(', ')
+        result[k] = v
+    return result
 
 def fill_in_missing(d_flattened):
     base = pd.read_csv('example/0259_info.tsv', sep='\t',
@@ -55,12 +65,14 @@ if __name__ == '__main__':
     # either convert from tsv to YAML or YAML to tsv
     for dataset in sys.argv[1:]:
         for mode_ in ['raw', 'processed']:
+            print(f'{dataset=}, {mode_=}')
             tsv_file = f'{mode_}_data/{dataset}/{dataset}_info.tsv'
             yaml_file = f'{mode_}_data/{dataset}/{dataset}_info.yaml'
             if (os.path.exists(tsv_file) and not os.path.exists(yaml_file)):
                 # tsv -> YAML
                 result = read_tsv(tsv_file)
                 result = make_liststrings_to_list(result)
+                result = change_to_primitive_types(result)
                 result = to_hierarchical({k: v for k, v in result.items()
                                           if not isna(v)})
                 with open(yaml_file, 'w') as out:
