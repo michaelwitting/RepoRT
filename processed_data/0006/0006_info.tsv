@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0006	MTBLS39	RP	PredRet	https://doi.org/10.1186/gb-2013-14-6-r54		Dal Santo et al.	temperature	guard column
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0006	MTBLS39	RP	PredRet	https://doi.org/10.1186/gb-2013-14-6-r54		Dal Santo et al.	temperature	guard column		EXCLUDE_FROM_EVALUATION, ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

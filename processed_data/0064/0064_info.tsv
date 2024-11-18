@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0064	RPFDAMM	RP	PredRet				column length, ID and particle size; temperature, gradient and flow rate	
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0064	RPFDAMM	RP	PredRet				column length, ID and particle size; temperature, gradient and flow rate			

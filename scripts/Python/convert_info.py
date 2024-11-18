@@ -34,7 +34,7 @@ def to_hierarchical(d):
 def make_liststrings_to_list(d_flattened):
     result = {}
     for k, v in d_flattened.items():
-        if k in ['authors', 'flags']:
+        if k in ['model.authors', 'model.flags']:
             if pd.isna(v):
                 v = None
             else:
@@ -42,8 +42,8 @@ def make_liststrings_to_list(d_flattened):
         result[k] = v
     return result
 
-def fill_in_missing(d_flattened):
-    base = pd.read_csv('example/0259_info.tsv', sep='\t',
+def fill_in_missing(d_flattened, base_mode):
+    base = pd.read_csv(f'{base_mode}_data/0259/0259_info.tsv', sep='\t',
                        dtype={'id': str})
     return {k: None for k, v in dict(base.iloc[0]).items() if k != 'id'} | d_flattened
 
@@ -56,8 +56,14 @@ def read_yaml(yaml_file):
     with open(yaml_file) as f:
         yaml_in = yaml.load(f, yaml.loader.SafeLoader)
     for k, v in yaml_in.items():
+        # convert [1,2] to '1, 2'
+        # only 2 levels
         if isinstance(v, list):
             yaml_in[k] = ', '.join(v)
+        elif isinstance(v, dict):
+            for k2, v2 in v.items():
+                if isinstance(v2, list):
+                    yaml_in[k][k2] = ', '.join(v2)
     return yaml_in
 
 
@@ -80,7 +86,7 @@ if __name__ == '__main__':
             elif (os.path.exists(yaml_file) and not os.path.exists(tsv_file)):
                 # YAML -> tsv
                 result = read_yaml(yaml_file)
-                result = fill_in_missing(result)
+                result = fill_in_missing(result, base_mode=mode_)
                 pd.json_normalize(result, sep='.').set_index('id').to_csv(tsv_file, sep='\t')
             elif (os.path.exists(yaml_file) and os.path.exists(tsv_file)):
                 # just make sure they are equal

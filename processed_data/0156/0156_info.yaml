@@ -12,3 +12,7 @@ authors:
 - M. Schwaninger
 - A. Othman
 missing information: temperature
+model:
+  flags:
+  - EXCLUDE_FROM_EVALUATION
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0007	MTBLS87	HILIC	PredRet	https://doi.org/10.1039/C4MB00346B		R. Chaleckis, M. Ebe, T. Pluskal, I. Murakami, H. Kondoh, M. Yanagida	temperature	
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0007	MTBLS87	HILIC	PredRet	https://doi.org/10.1039/C4MB00346B		R. Chaleckis, M. Ebe, T. Pluskal, I. Murakami, H. Kondoh, M. Yanagida	temperature			

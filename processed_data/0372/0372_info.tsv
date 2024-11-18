@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0372	JB_1	HILIC	Dataset - Buescher			J. Büscher		
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0372	JB_1	HILIC	Dataset - Buescher			J. Büscher				

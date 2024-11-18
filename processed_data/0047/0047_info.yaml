@@ -4,3 +4,6 @@ method:
   type: RP
 source: PredRet
 missing information: column length, ID and particle size; temperature
+model:
+  flags:
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

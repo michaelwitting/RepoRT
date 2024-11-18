@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0180	RP Geneva DB maXisQTOF neg	RP	Publication - Pezzatti	https://doi.org/10.1016/j.chroma.2019.01.023		J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz		
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0180	RP Geneva DB maXisQTOF neg	RP	Publication - Pezzatti	https://doi.org/10.1016/j.chroma.2019.01.023		J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz				

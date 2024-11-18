@@ -6,3 +6,6 @@ source: PredRet
 url: https://doi.org/10.1016/j.foodchem.2021.129757
 authors:
 - Low et al.
+model:
+  flags:
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

@@ -4,3 +4,5 @@ method:
   type: RP
 source: PredRet
 missing information: column length and ID
+model:
+  manual_void_threshold_estimate: 1.5

@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0212	SNU_RP_70	RP	PredRet				column length, ID, particle size, gradient, temperature, flow rate	
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0212	SNU_RP_70	RP	PredRet				column length, ID, particle size, gradient, temperature, flow rate			

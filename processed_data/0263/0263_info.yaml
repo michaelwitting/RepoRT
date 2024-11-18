@@ -6,3 +6,6 @@ source: Dataset - Huber
 url: https://doi.org/10.1021/acs.analchem.1c00972
 authors:
 - C. Huber
+model:
+  flags:
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

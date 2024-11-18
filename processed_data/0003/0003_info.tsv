@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0003	IPB_Halle	RP	PredRet	https://doi.org/10.1007/s00216-013-6954-6; 10.1016/j.phytochem.2014.10.003	23615935	J. Stanstrup, M. Gerlich, L. O. Dragsted, S. Neumann; N. Strehmel, C. Böttcher, S. Schmidt, D. Scheel	temperature, flow rate	
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0003	IPB_Halle	RP	PredRet	https://doi.org/10.1007/s00216-013-6954-6; 10.1016/j.phytochem.2014.10.003	23615935	J. Stanstrup, M. Gerlich, L. O. Dragsted, S. Neumann; N. Strehmel, C. Böttcher, S. Schmidt, D. Scheel	temperature, flow rate			

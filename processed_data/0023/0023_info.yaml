@@ -3,3 +3,7 @@ name: PFR-TK72
 method:
   type: RP
 source: PredRet
+model:
+  flags:
+  - EXCLUDE_FROM_EVALUATION
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

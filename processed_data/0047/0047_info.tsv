@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0047	Acquity HSST3-RP-60mn	RP	PredRet				column length, ID and particle size; temperature	
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0047	Acquity HSST3-RP-60mn	RP	PredRet				column length, ID and particle size; temperature			ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

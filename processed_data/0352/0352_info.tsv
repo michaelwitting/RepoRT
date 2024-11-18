@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0352	MSMS_pos_40_MeOH_HSS C18	RP	Dataset - BGC			E.-M. Harrieder, M. Witting		removed 44 entries with no retention times
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0352	MSMS_pos_40_MeOH_HSS C18	RP	Dataset - BGC			E.-M. Harrieder, M. Witting		removed 44 entries with no retention times		

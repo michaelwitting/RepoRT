@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0168	HILIC9 neg	HILIC	Publication - Folberth	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	temperature	removed 255 entries with no retention times
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0168	HILIC9 neg	HILIC	Publication - Folberth	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	temperature	removed 255 entries with no retention times		

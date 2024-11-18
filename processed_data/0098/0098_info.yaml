@@ -12,3 +12,5 @@ authors:
 - M. Schwaninger
 - A. Othman
 missing information: temperature
+model:
+  manual_void_threshold_estimate: 3

@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0227	Meister zic-pHILIC ph9.3	HILIC	PredRet				-	gradient: missing times
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0227	Meister zic-pHILIC ph9.3	HILIC	PredRet				-	gradient: missing times		

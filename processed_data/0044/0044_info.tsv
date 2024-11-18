@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0044	HILIC_BDD_2	HILIC	PredRet				column length, ID and particle size	
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0044	HILIC_BDD_2	HILIC	PredRet				column length, ID and particle size			

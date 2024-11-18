@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0210	ABC	RP	PredRet				temperature, gradient, flow rate	column name not specific
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0210	ABC	RP	PredRet				temperature, gradient, flow rate	column name not specific		ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

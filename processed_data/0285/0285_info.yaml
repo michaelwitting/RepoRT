@@ -10,3 +10,6 @@ authors:
 - E. Palm
 - L. Malm
 - A. Kruve
+model:
+  flags:
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

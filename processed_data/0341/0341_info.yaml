@@ -6,3 +6,7 @@ source: Dataset - BGC
 authors:
 - E.-M. Harrieder
 - M. Witting
+model:
+  flags:
+  - EXCLUDE_FROM_EVALUATION
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

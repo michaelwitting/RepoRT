@@ -9,3 +9,5 @@ authors:
 - R. Aalizadeh
 - V. Nikolopoulou
 - N. S. Thomaidis
+model:
+  manual_void_threshold_estimate: 2

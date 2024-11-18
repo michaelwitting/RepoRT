@@ -6,3 +6,5 @@ source: Dataset - BGC
 authors:
 - E.-M. Harrieder
 - M. Witting
+model:
+  manual_void_threshold_estimate: 2.1

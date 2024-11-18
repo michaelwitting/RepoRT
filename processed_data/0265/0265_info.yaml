@@ -5,3 +5,7 @@ method:
 source: Dataset - Zdouc
 authors:
 - Mitja Zdouc
+model:
+  flags:
+  - EXCLUDE_FROM_EVALUATION
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

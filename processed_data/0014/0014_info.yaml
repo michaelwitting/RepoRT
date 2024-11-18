@@ -8,3 +8,6 @@ authors:
 - Xiao et al.
 missing information: temperature
 comment: column name not specific
+model:
+  flags:
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

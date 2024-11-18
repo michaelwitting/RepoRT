@@ -11,3 +11,6 @@ authors:
 - E. Soini
 - F. Mattivi
 - U. Vrhovsek
+model:
+  flags:
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

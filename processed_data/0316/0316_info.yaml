@@ -7,3 +7,6 @@ authors:
 - E.-M. Harrieder
 - M. Witting
 comment: removed 1 entries with no retention times
+model:
+  flags:
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

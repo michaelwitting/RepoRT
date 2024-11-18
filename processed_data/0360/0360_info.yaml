@@ -5,3 +5,7 @@ method:
 source: Dataset - Monge
 authors:
 - E. Monge
+model:
+  flags:
+  - EXCLUDE_FROM_EVALUATION
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

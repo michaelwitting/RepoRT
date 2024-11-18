@@ -8,3 +8,7 @@ authors:
 - Dal Santo et al.
 missing information: temperature
 comment: guard column
+model:
+  flags:
+  - EXCLUDE_FROM_EVALUATION
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

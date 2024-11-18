@@ -9,3 +9,6 @@ authors:
 - R. Aalizadeh
 - V. Nikolopoulou
 - N. S. Thomaidis
+model:
+  flags:
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

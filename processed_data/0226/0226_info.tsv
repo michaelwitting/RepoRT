@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0226	SNU_organoid	RP	PredRet				column length, ID, temperature, gradient, flow rate	
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0226	SNU_organoid	RP	PredRet				column length, ID, temperature, gradient, flow rate			

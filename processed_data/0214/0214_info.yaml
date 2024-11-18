@@ -5,3 +5,7 @@ method:
 source: PredRet
 missing information: column length, ID, particle size, gradient, temperature, flow
   rate
+model:
+  flags:
+  - EXCLUDE_FROM_EVALUATION
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

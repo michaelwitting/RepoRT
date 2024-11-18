@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0264	AR	RP	Dataset - Rutz			Adriano Rutz		
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0264	AR	RP	Dataset - Rutz			Adriano Rutz				

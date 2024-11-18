@@ -5,3 +5,6 @@ method:
 source: PredRet
 missing information: temperature
 comment: 'gradient: missing times'
+model:
+  flags:
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

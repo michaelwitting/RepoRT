@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0231	HPOS_ROI_V_3_1_1	HILIC	The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics					
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0231	HPOS_ROI_V_3_1_1	HILIC	The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics							

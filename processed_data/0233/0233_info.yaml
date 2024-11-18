@@ -3,3 +3,6 @@ name: LPOS_ROI_V_5_1_1
 method:
   type: RP
 source: The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics
+model:
+  flags:
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

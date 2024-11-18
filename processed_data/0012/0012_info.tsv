@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0012	FEM_orbitrap_urine	RP	PredRet	https://doi.org/10.1016/j.talanta.2015.03.003		A. Della Corts, G. Chitarrini, I. Di Gangim D. Masuero, E. Soini, F. Mattivi, U. Vrhovsek	column length, ID and particle size; temperature, gradient and flow rate	
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0012	FEM_orbitrap_urine	RP	PredRet	https://doi.org/10.1016/j.talanta.2015.03.003		A. Della Corts, G. Chitarrini, I. Di Gangim D. Masuero, E. Soini, F. Mattivi, U. Vrhovsek	column length, ID and particle size; temperature, gradient and flow rate			

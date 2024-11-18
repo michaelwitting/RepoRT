@@ -11,4 +11,6 @@ if __name__ == '__main__':
         studies_new = pd.concat(dfs, ignore_index=True).sort_values('id').set_index('id')
         studies.update(studies_new)
         new_entries = studies_new.loc[studies_new.index.difference(studies.index)]
-        pd.concat([studies, new_entries]).to_csv(f'{mode_}_data/studies.tsv', sep='\t')
+        combined = pd.concat([studies, new_entries])
+        combined.drop(columns=['mail'], inplace=True)
+        combined.to_csv(f'{mode_}_data/studies.tsv', sep='\t')

@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0005	MTBLS38	RP	PredRet	https://doi.org/10.1002/minf.201400016		Beisken et al.		different flow rates during gradient (0,25 and 0,4 ml/min)
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.manual_void_threshold_estimate	model.flags
+0005	MTBLS38	RP	PredRet	https://doi.org/10.1002/minf.201400016		Beisken et al.		different flow rates during gradient (0,25 and 0,4 ml/min)		ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

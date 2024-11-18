@@ -6,3 +6,6 @@ source: BGC
 authors:
 - E.-M. Harrieder
 - M. Witting
+model:
+  flags:
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

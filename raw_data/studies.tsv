@@ -1,428 +1,428 @@
-id	name	url	pmid	source	method.type	comment	missing information	authors	mail
-0001	FEM_short	https://doi.org/10.1007/s11306-014-0638-x		PredRet	RP	guard column		P. Arapitsas, G. Speri, A. Angeli, D. Perenzoni, Fulvio Mattivi	
-0002	FEM_long	https://doi.org/10.1007/s11306-011-0298-z		PredRet	RP			G. Theodoridis, H. Gika, P. Franceschi, L. Caputi, P. Arapitsas, M. Scholz, D. Masuero, R. Wehrens, U. Vrhovsek, F. Mattivi 	
-0003	IPB_Halle	https://doi.org/10.1007/s00216-013-6954-6; 10.1016/j.phytochem.2014.10.003	23615935	PredRet	RP		temperature, flow rate	J. Stanstrup, M. Gerlich, L. O. Dragsted, S. Neumann; N. Strehmel, C. Böttcher, S. Schmidt, D. Scheel	
-0004	MTBLS20	https://doi.org/10.1021/ac300829f	22770225	PredRet	RP	different chromatographic conditions of HPLC and UHPLC but only one RT	temperature	A. Roux, Y. Xu, J.-F. Heilier, M.-F. Olivier, E. Ezan, J.-C. Tabe, C. Junot	
-0005	MTBLS38	https://doi.org/10.1002/minf.201400016		PredRet	RP	different flow rates during gradient (0,25 and 0,4 ml/min)		Beisken et al.	
-0006	MTBLS39	https://doi.org/10.1186/gb-2013-14-6-r54		PredRet	RP	guard column	temperature	Dal Santo et al.	
-0007	MTBLS87	https://doi.org/10.1039/C4MB00346B		PredRet	HILIC		temperature	R. Chaleckis, M. Ebe, T. Pluskal, I. Murakami, H. Kondoh, M. Yanagida	
-0008	MTBLS4	https://doi.org/10.1002/rcm.4015	19347970	PredRet	RP			A. Koulman, G. Woffendin, V. K. Narayana, H. Welchman, C. Crone, D. A. Volmer	
-0009	RIKEN	https://doi.org/10.1093/pcp/pcn183	19054808	PredRet	RP		column length, ID and particle size	Y. Sawada, K. Akiyama, A. Sakata, A. Kuwahara, H. Otsuki, T. Sakurai, K. Saito, M. Y. Hirai	
-0010	FEM_lipids	https://doi.org/10.1016/j.talanta.2015.03.003		PredRet	RP			A. Della Corts, G. Chitarrini, I. Di Gangim D. Masuero, E. Soini, F. Mattivi, U. Vrhovsek	
-0011	FEM_orbitrap_plasma	https://doi.org/10.1016/j.talanta.2015.03.003		PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	A. Della Corts, G. Chitarrini, I. Di Gangim D. Masuero, E. Soini, F. Mattivi, U. Vrhovsek	
-0012	FEM_orbitrap_urine	https://doi.org/10.1016/j.talanta.2015.03.003		PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	A. Della Corts, G. Chitarrini, I. Di Gangim D. Masuero, E. Soini, F. Mattivi, U. Vrhovsek	
-0013	MTBLS17	https://doi.org/10.1016/j.aca.2012.07.013		PredRet	RP	column name not specific	temperature	Ressom et al.	
-0014	MTBLS19	https://doi.org/10.1021/pr300673x		PredRet	RP	column name not specific	temperature	Xiao et al.	
-0015	MTBLS36	https://doi.org/10.1038/sdata.2014.29		PredRet	RP	different flow rates during gradient (0,25 and 0,4 ml/min)		Beisken et al.	
-0016	MTBLS52	metaboloLights		PredRet	RP				
-0017	UFZ_Phenomenex	www.massbank.eu		PredRet	RP		temperature, gradient and flow rate		
-0018	UniToyama_Atlantis	www.massbank.eu		PredRet	RP		temperature, gradient and flow rate		
-0019	Eawag_XBridgeC18	https://doi.org/10.1021/es4044374,  10.1002/jms.3131	24417318	PredRet	RP			E. L. Schymanski, H. P. Singer, P. Longrée, M. Loos, M. Ruff, M. A. Stravs, C. R. Vidal, J. Hollender; M. A. Stravs, E. L. Schymanski, H. P. Singer, J. Hollender	
-0020	Cao_HILIC	https://doi.org/10.1007/s11306-014-0727-x		PredRet	HILIC	unknown amount of solvent	flow rate	M. Cao, K. Fraser, J. Huege, T. Featonby, S. Rasmussen, C. Jones	
-0021	MPI_Symmetry	https://doi.org/10.1021/ac101825k	21182243	PredRet	RP	incorrect  particle size	temperature, flow rate	F. Rasche, A. Svatoš, R. K. Maddula, C. Böttcher, S. Böcker	
-0022	1290SQ			PredRet	RP		temperature, gradient and flow rate		
-0023	PFR-TK72			PredRet	RP				
-0024	Waters ACQUITY UPLC with synapt G1			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate		
-0025	OBSF			PredRet	RP		temperature		
-0026	re			PredRet	Other		column length and ID; temperature, gradient and flow rate		
-0027	KI_GIAR_zic_HILIC_ph2_7	https://doi.org/10.1021/acs.analchem.7b00925		PredRet	HILIC			S. Naz, H. Gallart-Ayala, S. N. Reinke, C. Mathon, R. Blankley, R. Chaleckis, C. E. Wheelock	
-0028	CS6	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0029	CS3	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0030	CS11	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0031	CS12	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0032	CS13	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0033	CS15	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0034	CS16	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0036	CS8	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0037	CS9	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	Other			Low et al.	
-0038	CS10	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0039	CS21	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0040	CS7	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0041	CS23	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP	incorrect  particle size	flow rate	Low et al.	
-0042	CS24	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0043	C18_SOP3			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate		
-0044	HILIC_BDD_2			PredRet	HILIC		column length, ID and particle size		
-0045	Bade_Publi	https://doi.org/10.1016/j.scitotenv.2015.08.078		PredRet	RP		temperature	R. Bade, L. Bijlsma, T. H. Miller, L. P. Barron, J. V. Sancho, F. Hernández	
-0046	Waters_Chiu_T3_pos			PredRet	RP		column length, ID and particle size; temperature		
-0047	Acquity HSST3-RP-60mn			PredRet	RP		column length, ID and particle size; temperature		
-0048	BDD_C18			PredRet	RP		column length and ID		
-0049	CS2	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0050	CS1	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0051	CS17	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0052	CS14	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0053	CS20	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	Other			Low et al.	
-0054	LIFE_old	https://doi.org/10.1016/j.aca.2011.12.065		PredRet	RP		temperature and flow rate	T. Barri, J. Holmer-Jensen, K. Hermansen, L. O. Dragsted	
-0055	LIFE_new	https://doi.org/10.1016/j.aca.2011.12.065		PredRet	RP		temperature and flow rate	T. Barri, J. Holmer-Jensen, K. Hermansen, L. O. Dragsted	
-0056	CS4	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0057	CS5	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0058	CS18	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP	column name not specific		Low et al.	
-0059	CS19	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP	column name not specific		Low et al.	
-0060	CS22	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.	
-0061	cuw			PredRet	RP	unknown amount of solvent	temperature, gradient and flow rate		
-0062	JP_RP			PredRet	RP		temperature, gradient and flow rate		
-0063	RPMMFDA			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate		
-0064	RPFDAMM			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate		
-0065	RP1 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0066	RP2 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0067	RP3 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0068	RP4 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0069	RP5 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	Other		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0070	RP6 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0071	RP7 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0072	RP8 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0073	RP9 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0074	RP10 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0075	RP11 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0076	RP12 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0077	RP13 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0078	RP14 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0079	RP15 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0080	RP16 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0081	RP17 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0082	RP18 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0083	RP19 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0084	RP20 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0085	RP21 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0086	RP22 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0087	RP23 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0088	RP24 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0089	RP25 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0090	RP26 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0091	RP27 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0092	RP28 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0093	RP29 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0094	RP30 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0095	RP31 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0096	RP32 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0097	RP33 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0098	RP34 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0099	RP35 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0100	RP36 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0101	RP37 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0102	RP38 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0103	HILIC1 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0104	HILIC2 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0105	HILIC3 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0106	HILIC4 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0107	HILIC5 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0108	HILIC6 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0109	HILIC7 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0110	HILIC8 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0111	HILIC9 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0112	HILIC10 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0113	HILIC11 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0114	HILIC12 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0115	HILIC13 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0116	HILIC14 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0117	HILIC15 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0118	HILIC16 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0119	HILIC17 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0120	HILIC18 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0121	HILIC19 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0122	RP1 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0123	RP2 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0124	RP3 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0125	RP4 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0126	RP5 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	Other		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0127	RP6 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0128	RP7 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0129	RP8 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0130	RP9 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0131	RP10 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0132	RP11 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0133	RP12 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0134	RP13 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0135	RP14 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0136	RP15 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0137	RP16 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0138	RP17 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0139	RP18 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0140	RP19 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0141	RP20 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0142	RP21 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0143	RP22 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0144	RP23 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0145	RP24 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0146	RP25 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0147	RP26 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0148	RP27 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0149	RP28 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0150	RP29 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0151	RP30 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0152	RP31 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0153	RP32 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0154	RP33 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0155	RP34 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0156	RP35 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0157	RP36 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0158	RP37 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0159	RP38 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0160	HILIC1 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0161	HILIC2 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0162	HILIC3 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0163	HILIC4 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC	removed 238 entries with no retention times	temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0164	HILIC5 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0165	HILIC6 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0166	HILIC7 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0167	HILIC8 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0168	HILIC9 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC	removed 255 entries with no retention times	temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0169	HILIC10 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0170	HILIC11 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC	removed 240 entries with no retention times	temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0171	HILIC12 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0172	HILIC13 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0173	HILIC14 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0174	HILIC15 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0175	HILIC16 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0176	HILIC17 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0177	HILIC18 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0178	HILIC19 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman	
-0179	RP Geneva DB maXisQTOF pos	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz	
-0180	RP Geneva DB maXisQTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz	
-0181	RP VION QTOF pos	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP	sometimes two RTs; removed 12 entries with no retention times		J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz	
-0182	RP VION QTOF new	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP	sometimes two RTs; removed 3 entries with no retention times		J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz	
-0183	aHILIC Geneva DB maXisQTOF pos	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication - Pezzatti	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz	
-0184	aHILIC Geneva DB maXisQTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication - Pezzatti	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz	
-0185	zHILIC Geneva DB VION QTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication - Pezzatti	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz	
-0186	SMRT_METLIN	https://doi.org/10.1038/s41467-019-13680-7	31862874	Publication - Domingo-Almenara	RP		temperature	Xavier Domingo-Almenara, Carlos Guijas, Elizabeth Billings, J. Rafael Montenegro-Burke, Winnie Uritboonthai, Aries E. Aisporna, Emily Chen, H. Paul Benton, Gary Siuzdak	
-0187	Standard_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0188	Standard_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0189	flow0.2_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0190	flow0.2_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0191	flow0.25_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0192	flow0.25_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0193	flow0.35_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0194	flow0.35_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0195	flow0.4_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0196	flow0.4_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0197	temp37.5_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0198	temp37.5_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0199	temp39_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0200	temp39_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0201	temp41_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0202	temp41_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0203	temp42.5_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0204	temp42.5_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting	
-0205	Orbitrap1			PredRet	RP		temperature and flow rate		
-0206	RP_PSB_HF			PredRet	RP		gradient, temperatur, flow rate		
-0207	hypergold_pea			PredRet	RP		gradient, temperatur, flow rate		
-0208	IJM_TEST			PredRet	HILIC		column length, ID, particle size, gradient, temperature, flow rate		
-0209	SMRT			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
-0210	ABC			PredRet	RP	column name not specific	temperature, gradient, flow rate		
-0211	SNU-Test			PredRet	RP	gradient: missing times	temperature		
-0212	SNU_RP_70			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
-0213	SNU_RP_108			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
-0214	SNU_RP_10			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
-0215	SNU_RP_20			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
-0216	SNU_RP_30			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
-0217	SNU_RP_50			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
-0218	#HILIC_tip			PredRet			all		
-0219	SNU_RIKEN_POS			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
-0220	cecum_JS			PredRet	RP	gradient: missing times	temperature		
-0221	SNU_RP_indole_annotation			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
-0223	SNU_RP_indole_order			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
-0224	JKD_Probiotics			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
-0225	AjsTestF			PredRet	HILIC		temperature, flow rate		
-0226	SNU_organoid			PredRet	RP		column length, ID, temperature, gradient, flow rate		
-0227	Meister zic-pHILIC ph9.3			PredRet	HILIC	gradient: missing times	-		
-0228	AnnieTestFiehn			PredRet	HILIC		temperature, flow rate		
-0229	Dafachronic acids			BGC	RP			E.-M. Harrieder, M. Witting	
-0230	AjsUoB			PredRet			column length, ID, particle size, gradient, temperature, flow rate		
-0231	HPOS_ROI_V_3_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	HILIC				
-0232	LNEG_ROI_V_5_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP				
-0233	LPOS_ROI_V_5_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP				
-0234	RNEG_ROI_V_3_1_0			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP				
-0235	RPOS_ROI_V_3_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP				
-0236	MSMS_pos_30_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0237	MSMS_neg_30_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0238	MSMS_pos_40_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0239	MSMS_neg_40_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0240	MSMS_pos_50_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0241	MSMS_neg_50_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0242	CCS_pos_40_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0243	CCS_neg_40_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0244	MSMS_pos_30_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0245	MSMS_neg_30_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0246	MSMS_pos_40_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0247	MSMS_neg_40_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0248	MSMS_pos_50_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0249	MSMS_neg_50_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0250	CCS_pos_40_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0251	CCS_neg_40_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0252	MSMS_pos_30_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0253	MSMS_neg_30_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0254	MSMS_pos_40_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0255	MSMS_neg_40_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0256	MSMS_pos_50_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0257	MSMS_neg_50_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0258	CCS_pos_40_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0259	CCS_neg_40_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0260	Synergi_Pos	https://doi.org/10.1021/acs.analchem.1c00972		Dataset - Huber	RP			C. Huber	
-0261	Synergi_Neg	https://doi.org/10.1021/acs.analchem.1c00972		Dataset - Huber	RP			C. Huber	
-0262	SPECIMEN_Pos	https://doi.org/10.1021/acs.analchem.1c00972		Dataset - Huber	RP			C. Huber	
-0263	SPECIMEN_Neg	https://doi.org/10.1021/acs.analchem.1c00972		Dataset - Huber	RP			C. Huber	
-0264	AR			Dataset - Rutz	RP			Adriano Rutz	
-0265	MZ			Dataset - Zdouc	RP			Mitja Zdouc	
-0266	Kruve Lab_1	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0267	Kruve Lab_2	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0268	Kruve Lab_3	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0269	Kruve Lab_4	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0270	Kruve Lab_5	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0271	Kruve Lab_6	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0272	Kruve Lab_7	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0273	Kruve Lab_8	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0274	Kruve Lab_9	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0275	Kruve Lab_10	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0276	Kruve Lab_11	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0277	Kruve Lab_12	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0278	Kruve Lab_13	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0279	Kruve Lab_14	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0280	Kruve Lab_15	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0281	Kruve Lab_16	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0282	Kruve Lab_17	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	HILIC			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0283	Kruve Lab_18	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	HILIC			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0284	Kruve Lab_19	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0285	Kruve Lab_20	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0286	Kruve Lab_21	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0287	Kruve Lab_22	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0288	Kruve Lab_23	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0289	Kruve Lab_24	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0290	Kruve Lab_25	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0291	Kruve Lab_26	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0292	Kruve Lab_27	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0293	Kruve Lab_28	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0294	Kruve Lab_29	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0295	Kruve Lab_30	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve	
-0296	reserved for Kruve Lab								
-0297	reserved for Kruve Lab								
-0298	reserved for Kruve Lab								
-0299	reserved for Kruve Lab								
-0300	reserved for Kruve Lab								
-0301	reserved for Kruve Lab								
-0302	reserved for Kruve Lab								
-0303	reserved for Kruve Lab								
-0304	reserved for Kruve Lab								
-0305	reserved for Kruve Lab								
-0306	reserved for Kruve Lab								
-0307	reserved for Kruve Lab								
-0308	reserved for Kruve Lab								
-0309	reserved for Kruve Lab								
-0310	MSMS_pos_30_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0311	MSMS_neg_30_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0312	MSMS_pos_40_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0313	MSMS_neg_40_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0314	MSMS_pos_50_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0315	MSMS_neg_50_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0316	CCS_pos_40_ACN_Raptor Biphenyl			Dataset - BGC	RP	removed 1 entries with no retention times		E.-M. Harrieder, M. Witting	
-0317	CCS_neg_40_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0318	MSMS_pos_30_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0319	MSMS_neg_30_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0320	MSMS_pos_40_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0321	MSMS_neg_40_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0322	MSMS_pos_50_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0323	MSMS_neg_50_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0324	CCS_pos_40_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0325	CCS_neg_40_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0326	MSMS_pos_30_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0327	MSMS_neg_30_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0328	MSMS_pos_40_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0329	MSMS_neg_40_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0330	MSMS_pos_50_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0331	MSMS_neg_50_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0332	CCS_pos_40_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0333	CCS_neg_40_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0334	MSMS_pos_30_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0335	MSMS_neg_30_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0336	MSMS_pos_40_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0337	MSMS_neg_40_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0338	MSMS_pos_50_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0339	MSMS_neg_50_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0340	CCS_pos_40_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0341	CCS_neg_40_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0342	MSMS_pos_30_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0343	MSMS_neg_30_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0344	MSMS_pos_40_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0345	MSMS_neg_40_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0346	MSMS_pos_50_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0347	MSMS_neg_50_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0348	CCS_pos_40_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0349	CCS_neg_40_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0350	MSMS_pos_30_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0351	MSMS_neg_30_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0352	MSMS_pos_40_MeOH_HSS C18			Dataset - BGC	RP	removed 44 entries with no retention times		E.-M. Harrieder, M. Witting	
-0353	MSMS_neg_40_MeOH_HSS C18			Dataset - BGC	RP	removed 15 entries with no retention times		E.-M. Harrieder, M. Witting	
-0354	MSMS_pos_50_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0355	MSMS_neg_50_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0356	CCS_pos_40_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0357	CCS_neg_40_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting	
-0358	EM_1			Dataset - Monge	RP			E. Monge	
-0359	EM_2			Dataset - Monge	RP			E. Monge	
-0360	EM_3			Dataset - Monge	RP			E. Monge	
-0361	EM_4			Dataset - Monge	RP			E. Monge	
-0362	EM_5			Dataset - Monge	RP			E. Monge	
-0363	JB_MM03			Dataset - Buescher	HILIC			J. Büscher	
-0364	JB_MM05			Dataset - Buescher	HILIC			J. Büscher	
-0365	JB_MM07			Dataset - Buescher	HILIC			J. Büscher	
-0366	JB_MM09			Dataset - Buescher	HILIC			J. Büscher	
-0367	JB_MM11			Dataset - Buescher	HILIC			J. Büscher	
-0368	JB_MM13			Dataset - Buescher	HILIC			J. Büscher	
-0369	JB_MM15			Dataset - Buescher	HILIC			J. Büscher	
-0370	JB_MM18			Dataset - Buescher	HILIC			J. Büscher	
-0371	JB_MM20			Dataset - Buescher	HILIC			J. Büscher	
-0372	JB_1			Dataset - Buescher	HILIC			J. Büscher	
-0373	JB_2			Dataset - Buescher	HILIC			J. Büscher	
-0374	JB_3			Dataset - Buescher	HILIC			J. Büscher	
-0375	JB_4			Dataset - Buescher	HILIC			J. Büscher	
-0376	JB_5			Dataset - Buescher	HILIC			J. Büscher	
-0377	JB_6			Dataset - Buescher	HILIC			J. Büscher	
-0378	JB_7			Dataset - Buescher	HILIC			J. Büscher	
-0379	JB_8			Dataset - Buescher	HILIC			J. Büscher	
-0380	JB_9			Dataset - Buescher	HILIC			J. Büscher	
-0381	JB_10			Dataset - Buescher	HILIC			J. Büscher	
-0382	AA_LC1	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis	
-0383	AA_LC2	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis	
-0384	AA_LC3	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis	
-0385	AA_LC4	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis	
-0386	AA_LC5	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis	
-0387	AA_LC6	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis	
-0388	AA_LC7	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis	
-0389	AA_LC8	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis	
-0390	Brungs_NIH			MZmine	RP			C. Brungs, R. Schmid, T. Pluskal	
-0391	Brungs_MCE			MZmine	RP			C. Brungs, R. Schmid, T. Pluskal	
-0392	UIUC_Carver			Dataset - La Frano	RP			M. R. La Frano	
-0393	SQFZ_injection	10.1016/j.jpba.2012.10.024		Publication - Liu	RP	Submitted by Fangyuan Sun		Meng-Hua Liu, Xin Tong, Jin-Xu Wang, Wei Zou, Hui Cao, Wei-Wei Su	
-0394	ACQUITY_UPLC_HSSC18_QTOF_20min			PredRet	RP	Submitted by Fangyuan Sun	temperature, column id, column length, column particle size		
-0395	ST001610				RP		Submitted from Fangyuan Sun.	Dr. Xiaozhuo Chen	
-0396	ROASMI_55	10.1016/j.chroma.2013.03.006		Publication - Musenga	RP	Submitted by Fangyuan Sun		Alessandro Musenga, David A. Cowan	
-0397	ROASMI_68	10.1016/j.phytochem.2014.10.005		Publication - Eugster	RP	Submitted by Fangyuan Sun		Philippe J. Eugster, Julien Boccard, Benjamin Debrus, Lise Bréant, Jean-Luc Wolfender, Sophie Martel, Pierre-Alain Carrupt	
-0398	ROASMI_19	10.1016/j.chroma.2011.01.060		Publication - Baker	RP	Submitted by Fangyuan Sun		David R. Baker, Barbara Kasprzyk-Hordern 	
-0399	ROASMI_52	10.1016/j.chroma.2012.12.030		Publication - Diaz	RP	Submitted by Fangyuan Sun		R. Diaz, M. Ibáñez, J.V. Sancho, F. Hernández	
-0400	ROASMI_79	10.1038/s41586-021-03707-9		Publication - Han	RP	Submitted by Fangyuan Sun		Shuo Han, Will Van Treuren, Curt R. Fischer, Bryan D. Merrill, Brian C. DeFelice, Juan M. Sanchez, Steven K. Higginbottom, Leah Guthrie, Lalla A. Fall, Dylan Dodd, Michael A. Fischbach & Justin L. Sonnenburg	
-0401	ROASMI_80	10.1038/s41586-021-03707-9		Publication - Han	RP	Submitted by Fangyuan Sun		Shuo Han, Will Van Treuren, Curt R. Fischer, Bryan D. Merrill, Brian C. DeFelice, Juan M. Sanchez, Steven K. Higginbottom, Leah Guthrie, Lalla A. Fall, Dylan Dodd, Michael A. Fischbach & Justin L. Sonnenburg	
-0402	ROASMI_81	10.1038/s41586-021-03707-9		Publication - Han	RP	Submitted by Fangyuan Sun		Shuo Han, Will Van Treuren, Curt R. Fischer, Bryan D. Merrill, Brian C. DeFelice, Juan M. Sanchez, Steven K. Higginbottom, Leah Guthrie, Lalla A. Fall, Dylan Dodd, Michael A. Fischbach & Justin L. Sonnenburg	
-0403	ROASMI_82	10.1038/s41586-021-03707-9		Publication - Han	RP	Submitted by Fangyuan Sun		Shuo Han, Will Van Treuren, Curt R. Fischer, Bryan D. Merrill, Brian C. DeFelice, Juan M. Sanchez, Steven K. Higginbottom, Leah Guthrie, Lalla A. Fall, Dylan Dodd, Michael A. Fischbach & Justin L. Sonnenburg	
-0404	ROASMI_49	10.1016/j.chroma.2015.03.063		Publication - Munro	RP	Submitted by Fangyuan Sun		Kelly Munro, Thomas H. Miller, Claudia P.B. Martins , Anthony M. Edge , David A. Cowan, Leon P. Barron	
-0405	ROASMI_51	10.1038/s41596-020-0341-5		Publication - Zheng	RP	Submitted by Fangyuan Sun		Fujian Zheng, Xinjie Zhao, Zhongda Zeng, Lichao Wang, Wangjie Lv, Qingqing Wang & Guowang Xu	
-0406	ROASMI_7	10.1016/j.jpba.2015.06.020		Publication - Jiang	RP	Submitted by Fangyuan Sun		Zhenzuo Jiang, Yuefei Wang, Yan Zhu, Lei Zhang, Xin Chai, Miaomiao Jiang, Lihua Shan 	
-0407	ROASMI_33	10.1021/acs.jafc.0c00879		Publication - Arapitsas	RP	Submitted by Fangyuan Sun		Panagiotis Arapitsas, Maurizio Ugliano, Matteo Marangon, Paola Piombino, Luca Rolle, Vincenzo Gerbi, Andrea Versari, Fulvio Mattivi	
-0409	ROASMI_46	10.1016/j.scitotenv.2015.09.145		Publication - Alygizakis	RP	Submitted by Fangyuan Sun	column.temperature	Nikiforos A. Alygizakis, Pablo Gago-Ferrero, Viola L. Borova, Alexandra Pavlidou, Ioannis Hatzianestis, Nikolaos S. Thomaidis 	
-0410	ROASMI_30	10.1007/s00216-015-8540-6		Publication - Gago-Ferrero	RP	Submitted by Fangyuan Sun	column temperature	Gago-Ferrero, P., Borova, V., Dasenaki, M.E. et al	
-0411	ROASMI_18	10.1016/j.foodchem.2018.11.056		Publication - Jia	RP	Submitted by Fangyuan Sun		Wei Jia, Lin Shi, Feng Zhang, Cheng Fan, James Chang, Xiaogang Chu 	
-0412	ROASMI_61	10.1016/j.foodchem.2015.11.070		Publication - Martínez-Domínguez	RP	Submitted by Fangyuan Sun		Gerardo Martínez-Domínguez, Roberto Romero-González, Antonia Garrido Frenich	
-0413	ROASMI_6	10.1016/j.jpba.2019.06.042		Publication - Peron	RP	Submitted by Fangyuan Sun	column temperature	Gregorio Peron, Jan Hošek, Sangeeta Rajbhandary, Deepak Raj Pant, Stefano Dall’Acqua 	
-0414	ROASMI_67	10.1016/j.chroma.2014.05.003		Publication - Robles-Molina	RP	Submitted by Fangyuan Sun	column temperature	José Robles-Molina, Felipe J. Lara-Ortega, Bienvenida Gilbert-López, Juan F. García-Reyes, Antonio Molina-Díaz	
-0415	ROASMI_83	10.1016/j.chroma.2015.11.014		Publication - Nürenberg	RP	Submitted by Fangyuan Sun		Gudrun Nürenberg, Manoj Schulz, Uwe Kunkel, Thomas A. Ternes	
-0416	ROASMI_37	10.1038/s41592-019-0358-2		Publication - Tsugawa	RP	Submitted by Fangyuan Sun		Tsugawa, H., Nakabayashi, R., Mori, T. et al	
-0417	ROASMI_45	10.1038/s41592-019-0358-2		Publication - Tsugawa	RP	Submitted by Fangyuan Sun		Tsugawa, H., Nakabayashi, R., Mori, T. et al	
-0418	ROASMI_41	10.1016/j.aca.2019.02.001		Publication - Huang	RP	Submitted by Fangyuan Sun		Yezhen Huang, Yu Jiao, Yiqiao Gao, et al	
-0419	ROASMI_59	10.1038/s41597-019-0305-1		Publication - Olivier-Jimenez	RP	Submitted by Fangyuan Sun	column temperature	Olivier-Jimenez, D., Chollet-Krugler, M., Rondeau, D. et al.	
-0420	ROASMI_60	10.1038/s41597-019-0028-3		Publication - Fox Ramos	RP	Submitted by Fangyuan Sun		Fox Ramos, A.E., Le Pogam, P., Fox Alcover, C. et al	
-0421	ROASMI_54	10.1016/j.aca.2011.01.006		Publication - Moulard	RP	Submitted by Fangyuan Sun		Yves Moulard, Ludovic Bailly-Chouriberry, Sophie Boyer, Patrice Garcia, Marie-Agnès Popot, Yves Bonnaire	
-0422	ROASMI_2	10.1016/j.foodchem.2018.09.045		Publication - Vasić	RP	Submitted by Fangyuan Sun	column temperature	Vesna Vasić, Uroš Gašić, Dalibor Stanković, Dražen Lušić, Darija Vukić-Lušić, Dušanka Milojković-Opsenica, Živoslav Tešić, Jelena Trifković	
-0423	ROASMI_11	10.1016/j.jhazmat.2020.123706		Publication - Choi	RP	Submitted by Fangyuan Sun	column id, temperature, length, particle size	Younghun Choi, Ji-Ho Lee, Kyunghyun Kim, Hyunsaing Mun, Naree Park, Junho Jeon 	
-0424	ROASMI_28	10.1016/j.chroma.2012.03.059		Publication - Ferrer	RP	Submitted by Fangyuan Sun		Imma Ferrer, E. Michael Thurman	
-0425	ROASMI_70	10.1016/j.jhazmat.2019.121713		Publication - Tang	RP	Submitted by Fangyuan Sun		Mengling Tang, Yanhui Ao, Peifang Wang, Chao Wang	
-0426	ROASMI_23	10.1039/c6ra10883k		Publication - Yao	RP	Submitted by Fangyuan Sun		Changliang Yao,   Wenzhi Yang   Wei Si,   Huiqin Pan,   Shi Qiu,   Jia Wu,   Xiaojian Shi,   Ruihong Feng,   Wanying Wu and  Dean Guo	
-0427	ROASMI_50	10.1007/s11356-017-9929-x		Publication - Chau	RP	Submitted by Fangyuan Sun		Chau, H.T.C., Kadokami, K., Ifuku, T. et al.	
-0428	ROASMI_62	10.3390/metabo9050085		Publication - Codesido	RP	Submitted by Fangyuan Sun	flowrate	Codesido, S., Randazzo, G.M., Lehmann, F., González-Ruiz, V., García, A., Xenarios, I., Liechti, R., Bridge, A., Boccard, J., Rudaz, S	
-0429	ROASMI_84	10.1021/acs.analchem.9b05765		Publication - Bonini	RP	Submitted by Fangyuan Sun		Paolo Bonini, Tobias Kind, Hiroshi Tsugawa, Dinesh Kumar Barupal, Oliver Fiehn	
-0430	ROASMI_5	10.1016/j.foodchem.2012.08.062		Publication - De Paepe	RP	Submitted by Fangyuan Sun		D. De Paepe, K. Servaes, B. Noten, L. Diels, M. De Loose, B. Van Droogenbroeck, S. Voorspoels 	
+id	name	url	pmid	source	method.type	comment	missing information	authors
+0001	FEM_short	https://doi.org/10.1007/s11306-014-0638-x		PredRet	RP	guard column		P. Arapitsas, G. Speri, A. Angeli, D. Perenzoni, Fulvio Mattivi
+0002	FEM_long	https://doi.org/10.1007/s11306-011-0298-z		PredRet	RP			G. Theodoridis, H. Gika, P. Franceschi, L. Caputi, P. Arapitsas, M. Scholz, D. Masuero, R. Wehrens, U. Vrhovsek, F. Mattivi
+0003	IPB_Halle	https://doi.org/10.1007/s00216-013-6954-6; 10.1016/j.phytochem.2014.10.003	23615935	PredRet	RP		temperature, flow rate	J. Stanstrup, M. Gerlich, L. O. Dragsted, S. Neumann; N. Strehmel, C. Böttcher, S. Schmidt, D. Scheel
+0004	MTBLS20	https://doi.org/10.1021/ac300829f	22770225	PredRet	RP	different chromatographic conditions of HPLC and UHPLC but only one RT	temperature	A. Roux, Y. Xu, J.-F. Heilier, M.-F. Olivier, E. Ezan, J.-C. Tabe, C. Junot
+0005	MTBLS38	https://doi.org/10.1002/minf.201400016		PredRet	RP	different flow rates during gradient (0,25 and 0,4 ml/min)		Beisken et al.
+0006	MTBLS39	https://doi.org/10.1186/gb-2013-14-6-r54		PredRet	RP	guard column	temperature	Dal Santo et al.
+0007	MTBLS87	https://doi.org/10.1039/C4MB00346B		PredRet	HILIC		temperature	R. Chaleckis, M. Ebe, T. Pluskal, I. Murakami, H. Kondoh, M. Yanagida
+0008	MTBLS4	https://doi.org/10.1002/rcm.4015	19347970	PredRet	RP			A. Koulman, G. Woffendin, V. K. Narayana, H. Welchman, C. Crone, D. A. Volmer
+0009	RIKEN	https://doi.org/10.1093/pcp/pcn183	19054808	PredRet	RP		column length, ID and particle size	Y. Sawada, K. Akiyama, A. Sakata, A. Kuwahara, H. Otsuki, T. Sakurai, K. Saito, M. Y. Hirai
+0010	FEM_lipids	https://doi.org/10.1016/j.talanta.2015.03.003		PredRet	RP			A. Della Corts, G. Chitarrini, I. Di Gangim D. Masuero, E. Soini, F. Mattivi, U. Vrhovsek
+0011	FEM_orbitrap_plasma	https://doi.org/10.1016/j.talanta.2015.03.003		PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	A. Della Corts, G. Chitarrini, I. Di Gangim D. Masuero, E. Soini, F. Mattivi, U. Vrhovsek
+0012	FEM_orbitrap_urine	https://doi.org/10.1016/j.talanta.2015.03.003		PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	A. Della Corts, G. Chitarrini, I. Di Gangim D. Masuero, E. Soini, F. Mattivi, U. Vrhovsek
+0013	MTBLS17	https://doi.org/10.1016/j.aca.2012.07.013		PredRet	RP	column name not specific	temperature	Ressom et al.
+0014	MTBLS19	https://doi.org/10.1021/pr300673x		PredRet	RP	column name not specific	temperature	Xiao et al.
+0015	MTBLS36	https://doi.org/10.1038/sdata.2014.29		PredRet	RP	different flow rates during gradient (0,25 and 0,4 ml/min)		Beisken et al.
+0016	MTBLS52	metaboloLights		PredRet	RP			
+0017	UFZ_Phenomenex	www.massbank.eu		PredRet	RP		temperature, gradient and flow rate	
+0018	UniToyama_Atlantis	www.massbank.eu		PredRet	RP		temperature, gradient and flow rate	
+0019	Eawag_XBridgeC18	https://doi.org/10.1021/es4044374,  10.1002/jms.3131	24417318	PredRet	RP			E. L. Schymanski, H. P. Singer, P. Longrée, M. Loos, M. Ruff, M. A. Stravs, C. R. Vidal, J. Hollender; M. A. Stravs, E. L. Schymanski, H. P. Singer, J. Hollender
+0020	Cao_HILIC	https://doi.org/10.1007/s11306-014-0727-x		PredRet	HILIC	unknown amount of solvent	flow rate	M. Cao, K. Fraser, J. Huege, T. Featonby, S. Rasmussen, C. Jones
+0021	MPI_Symmetry	https://doi.org/10.1021/ac101825k	21182243	PredRet	RP	incorrect  particle size	temperature, flow rate	F. Rasche, A. Svatoš, R. K. Maddula, C. Böttcher, S. Böcker
+0022	1290SQ			PredRet	RP		temperature, gradient and flow rate	
+0023	PFR-TK72			PredRet	RP			
+0024	Waters ACQUITY UPLC with synapt G1			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
+0025	OBSF			PredRet	RP		temperature	
+0026	re			PredRet	Other		column length and ID; temperature, gradient and flow rate	
+0027	KI_GIAR_zic_HILIC_ph2_7	https://doi.org/10.1021/acs.analchem.7b00925		PredRet	HILIC			S. Naz, H. Gallart-Ayala, S. N. Reinke, C. Mathon, R. Blankley, R. Chaleckis, C. E. Wheelock
+0028	CS6	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0029	CS3	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0030	CS11	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0031	CS12	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0032	CS13	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0033	CS15	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0034	CS16	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0036	CS8	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0037	CS9	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	Other			Low et al.
+0038	CS10	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0039	CS21	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0040	CS7	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0041	CS23	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP	incorrect  particle size	flow rate	Low et al.
+0042	CS24	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0043	C18_SOP3			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
+0044	HILIC_BDD_2			PredRet	HILIC		column length, ID and particle size	
+0045	Bade_Publi	https://doi.org/10.1016/j.scitotenv.2015.08.078		PredRet	RP		temperature	R. Bade, L. Bijlsma, T. H. Miller, L. P. Barron, J. V. Sancho, F. Hernández
+0046	Waters_Chiu_T3_pos			PredRet	RP		column length, ID and particle size; temperature	
+0047	Acquity HSST3-RP-60mn			PredRet	RP		column length, ID and particle size; temperature	
+0048	BDD_C18			PredRet	RP		column length and ID	
+0049	CS2	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0050	CS1	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0051	CS17	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0052	CS14	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0053	CS20	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	Other			Low et al.
+0054	LIFE_old	https://doi.org/10.1016/j.aca.2011.12.065		PredRet	RP		temperature and flow rate	T. Barri, J. Holmer-Jensen, K. Hermansen, L. O. Dragsted
+0055	LIFE_new	https://doi.org/10.1016/j.aca.2011.12.065		PredRet	RP		temperature and flow rate	T. Barri, J. Holmer-Jensen, K. Hermansen, L. O. Dragsted
+0056	CS4	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0057	CS5	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0058	CS18	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP	column name not specific		Low et al.
+0059	CS19	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP	column name not specific		Low et al.
+0060	CS22	https://doi.org/10.1016/j.foodchem.2021.129757		PredRet	RP			Low et al.
+0061	cuw			PredRet	RP	unknown amount of solvent	temperature, gradient and flow rate	
+0062	JP_RP			PredRet	RP		temperature, gradient and flow rate	
+0063	RPMMFDA			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
+0064	RPFDAMM			PredRet	RP		column length, ID and particle size; temperature, gradient and flow rate	
+0065	RP1 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0066	RP2 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0067	RP3 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0068	RP4 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0069	RP5 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	Other		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0070	RP6 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0071	RP7 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0072	RP8 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0073	RP9 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0074	RP10 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0075	RP11 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0076	RP12 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0077	RP13 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0078	RP14 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0079	RP15 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0080	RP16 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0081	RP17 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0082	RP18 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0083	RP19 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0084	RP20 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0085	RP21 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0086	RP22 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0087	RP23 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0088	RP24 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0089	RP25 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0090	RP26 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0091	RP27 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0092	RP28 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0093	RP29 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0094	RP30 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0095	RP31 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0096	RP32 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0097	RP33 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0098	RP34 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0099	RP35 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0100	RP36 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0101	RP37 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0102	RP38 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0103	HILIC1 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0104	HILIC2 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0105	HILIC3 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0106	HILIC4 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0107	HILIC5 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0108	HILIC6 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0109	HILIC7 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0110	HILIC8 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0111	HILIC9 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0112	HILIC10 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0113	HILIC11 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0114	HILIC12 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0115	HILIC13 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0116	HILIC14 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0117	HILIC15 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0118	HILIC16 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0119	HILIC17 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0120	HILIC18 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0121	HILIC19 pos	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0122	RP1 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0123	RP2 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0124	RP3 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0125	RP4 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0126	RP5 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	Other		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0127	RP6 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0128	RP7 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0129	RP8 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0130	RP9 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0131	RP10 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0132	RP11 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0133	RP12 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0134	RP13 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0135	RP14 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0136	RP15 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0137	RP16 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0138	RP17 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0139	RP18 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0140	RP19 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0141	RP20 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0142	RP21 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0143	RP22 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0144	RP23 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0145	RP24 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0146	RP25 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0147	RP26 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0148	RP27 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0149	RP28 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0150	RP29 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0151	RP30 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0152	RP31 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0153	RP32 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0154	RP33 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0155	RP34 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0156	RP35 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0157	RP36 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0158	RP37 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0159	RP38 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	RP		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0160	HILIC1 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0161	HILIC2 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0162	HILIC3 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0163	HILIC4 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC	removed 238 entries with no retention times	temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0164	HILIC5 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0165	HILIC6 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0166	HILIC7 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0167	HILIC8 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0168	HILIC9 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC	removed 255 entries with no retention times	temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0169	HILIC10 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0170	HILIC11 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC	removed 240 entries with no retention times	temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0171	HILIC12 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0172	HILIC13 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0173	HILIC14 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0174	HILIC15 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0175	HILIC16 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0176	HILIC17 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0177	HILIC18 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0178	HILIC19 neg	https://doi.org/10.1016/j.jchromb.2020.122105	32305706	Publication - Folberth	HILIC		temperature	J. Folberth, K. Begemann, O. Jöhren, M. Schwaninger, A. Othman
+0179	RP Geneva DB maXisQTOF pos	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
+0180	RP Geneva DB maXisQTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
+0181	RP VION QTOF pos	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP	sometimes two RTs; removed 12 entries with no retention times		J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
+0182	RP VION QTOF new	https://doi.org/10.1016/j.chroma.2019.01.023		Publication - Pezzatti	RP	sometimes two RTs; removed 3 entries with no retention times		J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
+0183	aHILIC Geneva DB maXisQTOF pos	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication - Pezzatti	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
+0184	aHILIC Geneva DB maXisQTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication - Pezzatti	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
+0185	zHILIC Geneva DB VION QTOF neg	https://doi.org/10.1016/j.chroma.2019.01.023	30685186	Publication - Pezzatti	HILIC			J. Pezzatti, V. González-Ruiz, S. Codesido, Y. Gagnebin, A. Joshi, D. Guillarme, J. Schappler, D. Picard, J. Boccard, S. Rudaz
+0186	SMRT_METLIN	https://doi.org/10.1038/s41467-019-13680-7	31862874	Publication - Domingo-Almenara	RP		temperature	Xavier Domingo-Almenara, Carlos Guijas, Elizabeth Billings, J. Rafael Montenegro-Burke, Winnie Uritboonthai, Aries E. Aisporna, Emily Chen, H. Paul Benton, Gary Siuzdak
+0187	Standard_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0188	Standard_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0189	flow0.2_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0190	flow0.2_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0191	flow0.25_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0192	flow0.25_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0193	flow0.35_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0194	flow0.35_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0195	flow0.4_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0196	flow0.4_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0197	temp37.5_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0198	temp37.5_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0199	temp39_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0200	temp39_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0201	temp41_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0202	temp41_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0203	temp42.5_pos	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0204	temp42.5_neg	https://doi.org/10.1007/s00216-021-03828-0	34907452	Publication - Stoffel	RP			R. Stoffel, M. Quilliam, N. Hardt, A. Fridstrom, M. Witting
+0205	Orbitrap1			PredRet	RP		temperature and flow rate	
+0206	RP_PSB_HF			PredRet	RP		gradient, temperatur, flow rate	
+0207	hypergold_pea			PredRet	RP		gradient, temperatur, flow rate	
+0208	IJM_TEST			PredRet	HILIC		column length, ID, particle size, gradient, temperature, flow rate	
+0209	SMRT			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0210	ABC			PredRet	RP	column name not specific	temperature, gradient, flow rate	
+0211	SNU-Test			PredRet	RP	gradient: missing times	temperature	
+0212	SNU_RP_70			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0213	SNU_RP_108			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0214	SNU_RP_10			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0215	SNU_RP_20			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0216	SNU_RP_30			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0217	SNU_RP_50			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0218	#HILIC_tip			PredRet			all	
+0219	SNU_RIKEN_POS			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0220	cecum_JS			PredRet	RP	gradient: missing times	temperature	
+0221	SNU_RP_indole_annotation			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0223	SNU_RP_indole_order			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0224	JKD_Probiotics			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate	
+0225	AjsTestF			PredRet	HILIC		temperature, flow rate	
+0226	SNU_organoid			PredRet	RP		column length, ID, temperature, gradient, flow rate	
+0227	Meister zic-pHILIC ph9.3			PredRet	HILIC	gradient: missing times	-	
+0228	AnnieTestFiehn			PredRet	HILIC		temperature, flow rate	
+0229	Dafachronic acids			BGC	RP			E.-M. Harrieder, M. Witting
+0230	AjsUoB			PredRet			column length, ID, particle size, gradient, temperature, flow rate	
+0231	HPOS_ROI_V_3_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	HILIC			
+0232	LNEG_ROI_V_5_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
+0233	LPOS_ROI_V_5_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
+0234	RNEG_ROI_V_3_1_0			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
+0235	RPOS_ROI_V_3_1_1			The National Phenome Centre’s Open Platform for LC-MS-Based Metabolomics	RP			
+0236	MSMS_pos_30_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0237	MSMS_neg_30_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0238	MSMS_pos_40_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0239	MSMS_neg_40_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0240	MSMS_pos_50_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0241	MSMS_neg_50_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0242	CCS_pos_40_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0243	CCS_neg_40_ACN_HSS T3			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0244	MSMS_pos_30_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0245	MSMS_neg_30_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0246	MSMS_pos_40_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0247	MSMS_neg_40_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0248	MSMS_pos_50_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0249	MSMS_neg_50_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0250	CCS_pos_40_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0251	CCS_neg_40_ACN_XB-C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0252	MSMS_pos_30_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0253	MSMS_neg_30_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0254	MSMS_pos_40_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0255	MSMS_neg_40_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0256	MSMS_pos_50_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0257	MSMS_neg_50_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0258	CCS_pos_40_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0259	CCS_neg_40_ACN_BEH C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0260	Synergi_Pos	https://doi.org/10.1021/acs.analchem.1c00972		Dataset - Huber	RP			C. Huber
+0261	Synergi_Neg	https://doi.org/10.1021/acs.analchem.1c00972		Dataset - Huber	RP			C. Huber
+0262	SPECIMEN_Pos	https://doi.org/10.1021/acs.analchem.1c00972		Dataset - Huber	RP			C. Huber
+0263	SPECIMEN_Neg	https://doi.org/10.1021/acs.analchem.1c00972		Dataset - Huber	RP			C. Huber
+0264	AR			Dataset - Rutz	RP			Adriano Rutz
+0265	MZ			Dataset - Zdouc	RP			Mitja Zdouc
+0266	Kruve Lab_1	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0267	Kruve Lab_2	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0268	Kruve Lab_3	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0269	Kruve Lab_4	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0270	Kruve Lab_5	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0271	Kruve Lab_6	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0272	Kruve Lab_7	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0273	Kruve Lab_8	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0274	Kruve Lab_9	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0275	Kruve Lab_10	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0276	Kruve Lab_11	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0277	Kruve Lab_12	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0278	Kruve Lab_13	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0279	Kruve Lab_14	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0280	Kruve Lab_15	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0281	Kruve Lab_16	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0282	Kruve Lab_17	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	HILIC			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0283	Kruve Lab_18	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	HILIC			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0284	Kruve Lab_19	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0285	Kruve Lab_20	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0286	Kruve Lab_21	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0287	Kruve Lab_22	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0288	Kruve Lab_23	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0289	Kruve Lab_24	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0290	Kruve Lab_25	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0291	Kruve Lab_26	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0292	Kruve Lab_27	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0293	Kruve Lab_28	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0294	Kruve Lab_29	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0295	Kruve Lab_30	https://doi.org/10.1016/j.chroma.2022.462867		Publication - Souihi	RP			A. Souihi, M.P. Mohai, E. Palm, L. Malm, A. Kruve
+0296	reserved for Kruve Lab							
+0297	reserved for Kruve Lab							
+0298	reserved for Kruve Lab							
+0299	reserved for Kruve Lab							
+0300	reserved for Kruve Lab							
+0301	reserved for Kruve Lab							
+0302	reserved for Kruve Lab							
+0303	reserved for Kruve Lab							
+0304	reserved for Kruve Lab							
+0305	reserved for Kruve Lab							
+0306	reserved for Kruve Lab							
+0307	reserved for Kruve Lab							
+0308	reserved for Kruve Lab							
+0309	reserved for Kruve Lab							
+0310	MSMS_pos_30_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0311	MSMS_neg_30_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0312	MSMS_pos_40_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0313	MSMS_neg_40_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0314	MSMS_pos_50_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0315	MSMS_neg_50_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0316	CCS_pos_40_ACN_Raptor Biphenyl			Dataset - BGC	RP	removed 1 entries with no retention times		E.-M. Harrieder, M. Witting
+0317	CCS_neg_40_ACN_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0318	MSMS_pos_30_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0319	MSMS_neg_30_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0320	MSMS_pos_40_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0321	MSMS_neg_40_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0322	MSMS_pos_50_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0323	MSMS_neg_50_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0324	CCS_pos_40_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0325	CCS_neg_40_MeOH_Raptor Biphenyl			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0326	MSMS_pos_30_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0327	MSMS_neg_30_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0328	MSMS_pos_40_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0329	MSMS_neg_40_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0330	MSMS_pos_50_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0331	MSMS_neg_50_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0332	CCS_pos_40_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0333	CCS_neg_40_ACN_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0334	MSMS_pos_30_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0335	MSMS_neg_30_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0336	MSMS_pos_40_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0337	MSMS_neg_40_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0338	MSMS_pos_50_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0339	MSMS_neg_50_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0340	CCS_pos_40_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0341	CCS_neg_40_MeOH_CORTECS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0342	MSMS_pos_30_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0343	MSMS_neg_30_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0344	MSMS_pos_40_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0345	MSMS_neg_40_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0346	MSMS_pos_50_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0347	MSMS_neg_50_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0348	CCS_pos_40_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0349	CCS_neg_40_ACN_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0350	MSMS_pos_30_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0351	MSMS_neg_30_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0352	MSMS_pos_40_MeOH_HSS C18			Dataset - BGC	RP	removed 44 entries with no retention times		E.-M. Harrieder, M. Witting
+0353	MSMS_neg_40_MeOH_HSS C18			Dataset - BGC	RP	removed 15 entries with no retention times		E.-M. Harrieder, M. Witting
+0354	MSMS_pos_50_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0355	MSMS_neg_50_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0356	CCS_pos_40_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0357	CCS_neg_40_MeOH_HSS C18			Dataset - BGC	RP			E.-M. Harrieder, M. Witting
+0358	EM_1			Dataset - Monge	RP			E. Monge
+0359	EM_2			Dataset - Monge	RP			E. Monge
+0360	EM_3			Dataset - Monge	RP			E. Monge
+0361	EM_4			Dataset - Monge	RP			E. Monge
+0362	EM_5			Dataset - Monge	RP			E. Monge
+0363	JB_MM03			Dataset - Buescher	HILIC			J. Büscher
+0364	JB_MM05			Dataset - Buescher	HILIC			J. Büscher
+0365	JB_MM07			Dataset - Buescher	HILIC			J. Büscher
+0366	JB_MM09			Dataset - Buescher	HILIC			J. Büscher
+0367	JB_MM11			Dataset - Buescher	HILIC			J. Büscher
+0368	JB_MM13			Dataset - Buescher	HILIC			J. Büscher
+0369	JB_MM15			Dataset - Buescher	HILIC			J. Büscher
+0370	JB_MM18			Dataset - Buescher	HILIC			J. Büscher
+0371	JB_MM20			Dataset - Buescher	HILIC			J. Büscher
+0372	JB_1			Dataset - Buescher	HILIC			J. Büscher
+0373	JB_2			Dataset - Buescher	HILIC			J. Büscher
+0374	JB_3			Dataset - Buescher	HILIC			J. Büscher
+0375	JB_4			Dataset - Buescher	HILIC			J. Büscher
+0376	JB_5			Dataset - Buescher	HILIC			J. Büscher
+0377	JB_6			Dataset - Buescher	HILIC			J. Büscher
+0378	JB_7			Dataset - Buescher	HILIC			J. Büscher
+0379	JB_8			Dataset - Buescher	HILIC			J. Büscher
+0380	JB_9			Dataset - Buescher	HILIC			J. Büscher
+0381	JB_10			Dataset - Buescher	HILIC			J. Büscher
+0382	AA_LC1	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0383	AA_LC2	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0384	AA_LC3	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0385	AA_LC4	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0386	AA_LC5	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0387	AA_LC6	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0388	AA_LC7	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0389	AA_LC8	https://doi.org/10.1021/acs.analchem.2c02893	36347512	Publication - Aalizadeh	RP			R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis
+0390	Brungs_NIH			MZmine	RP			C. Brungs, R. Schmid, T. Pluskal
+0391	Brungs_MCE			MZmine	RP			C. Brungs, R. Schmid, T. Pluskal
+0392	UIUC_Carver			Dataset - La Frano	RP			M. R. La Frano
+0393	SQFZ_injection	10.1016/j.jpba.2012.10.024		Publication - Liu	RP	Submitted by Fangyuan Sun		Meng-Hua Liu, Xin Tong, Jin-Xu Wang, Wei Zou, Hui Cao, Wei-Wei Su
+0394	ACQUITY_UPLC_HSSC18_QTOF_20min			PredRet	RP	Submitted by Fangyuan Sun	temperature, column id, column length, column particle size	
+0395	ST001610				RP		Submitted from Fangyuan Sun.	Dr. Xiaozhuo Chen
+0396	ROASMI_55	10.1016/j.chroma.2013.03.006		Publication - Musenga	RP	Submitted by Fangyuan Sun		Alessandro Musenga, David A. Cowan
+0397	ROASMI_68	10.1016/j.phytochem.2014.10.005		Publication - Eugster	RP	Submitted by Fangyuan Sun		Philippe J. Eugster, Julien Boccard, Benjamin Debrus, Lise Bréant, Jean-Luc Wolfender, Sophie Martel, Pierre-Alain Carrupt
+0398	ROASMI_19	10.1016/j.chroma.2011.01.060		Publication - Baker	RP	Submitted by Fangyuan Sun		David R. Baker, Barbara Kasprzyk-Hordern 
+0399	ROASMI_52	10.1016/j.chroma.2012.12.030		Publication - Diaz	RP	Submitted by Fangyuan Sun		R. Diaz, M. Ibáñez, J.V. Sancho, F. Hernández
+0400	ROASMI_79	10.1038/s41586-021-03707-9		Publication - Han	RP	Submitted by Fangyuan Sun		Shuo Han, Will Van Treuren, Curt R. Fischer, Bryan D. Merrill, Brian C. DeFelice, Juan M. Sanchez, Steven K. Higginbottom, Leah Guthrie, Lalla A. Fall, Dylan Dodd, Michael A. Fischbach & Justin L. Sonnenburg
+0401	ROASMI_80	10.1038/s41586-021-03707-9		Publication - Han	RP	Submitted by Fangyuan Sun		Shuo Han, Will Van Treuren, Curt R. Fischer, Bryan D. Merrill, Brian C. DeFelice, Juan M. Sanchez, Steven K. Higginbottom, Leah Guthrie, Lalla A. Fall, Dylan Dodd, Michael A. Fischbach & Justin L. Sonnenburg
+0402	ROASMI_81	10.1038/s41586-021-03707-9		Publication - Han	RP	Submitted by Fangyuan Sun		Shuo Han, Will Van Treuren, Curt R. Fischer, Bryan D. Merrill, Brian C. DeFelice, Juan M. Sanchez, Steven K. Higginbottom, Leah Guthrie, Lalla A. Fall, Dylan Dodd, Michael A. Fischbach & Justin L. Sonnenburg
+0403	ROASMI_82	10.1038/s41586-021-03707-9		Publication - Han	RP	Submitted by Fangyuan Sun		Shuo Han, Will Van Treuren, Curt R. Fischer, Bryan D. Merrill, Brian C. DeFelice, Juan M. Sanchez, Steven K. Higginbottom, Leah Guthrie, Lalla A. Fall, Dylan Dodd, Michael A. Fischbach & Justin L. Sonnenburg
+0404	ROASMI_49	10.1016/j.chroma.2015.03.063		Publication - Munro	RP	Submitted by Fangyuan Sun		Kelly Munro, Thomas H. Miller, Claudia P.B. Martins , Anthony M. Edge , David A. Cowan, Leon P. Barron
+0405	ROASMI_51	10.1038/s41596-020-0341-5		Publication - Zheng	RP	Submitted by Fangyuan Sun		Fujian Zheng, Xinjie Zhao, Zhongda Zeng, Lichao Wang, Wangjie Lv, Qingqing Wang & Guowang Xu
+0406	ROASMI_7	10.1016/j.jpba.2015.06.020		Publication - Jiang	RP	Submitted by Fangyuan Sun		Zhenzuo Jiang, Yuefei Wang, Yan Zhu, Lei Zhang, Xin Chai, Miaomiao Jiang, Lihua Shan 
+0407	ROASMI_33	10.1021/acs.jafc.0c00879		Publication - Arapitsas	RP	Submitted by Fangyuan Sun		Panagiotis Arapitsas, Maurizio Ugliano, Matteo Marangon, Paola Piombino, Luca Rolle, Vincenzo Gerbi, Andrea Versari, Fulvio Mattivi
+0409	ROASMI_46	10.1016/j.scitotenv.2015.09.145		Publication - Alygizakis	RP	Submitted by Fangyuan Sun	column.temperature	Nikiforos A. Alygizakis, Pablo Gago-Ferrero, Viola L. Borova, Alexandra Pavlidou, Ioannis Hatzianestis, Nikolaos S. Thomaidis 
+0410	ROASMI_30	10.1007/s00216-015-8540-6		Publication - Gago-Ferrero	RP	Submitted by Fangyuan Sun	column temperature	Gago-Ferrero, P., Borova, V., Dasenaki, M.E. et al
+0411	ROASMI_18	10.1016/j.foodchem.2018.11.056		Publication - Jia	RP	Submitted by Fangyuan Sun		Wei Jia, Lin Shi, Feng Zhang, Cheng Fan, James Chang, Xiaogang Chu 
+0412	ROASMI_61	10.1016/j.foodchem.2015.11.070		Publication - Martínez-Domínguez	RP	Submitted by Fangyuan Sun		Gerardo Martínez-Domínguez, Roberto Romero-González, Antonia Garrido Frenich
+0413	ROASMI_6	10.1016/j.jpba.2019.06.042		Publication - Peron	RP	Submitted by Fangyuan Sun	column temperature	Gregorio Peron, Jan Hošek, Sangeeta Rajbhandary, Deepak Raj Pant, Stefano Dall’Acqua 
+0414	ROASMI_67	10.1016/j.chroma.2014.05.003		Publication - Robles-Molina	RP	Submitted by Fangyuan Sun	column temperature	José Robles-Molina, Felipe J. Lara-Ortega, Bienvenida Gilbert-López, Juan F. García-Reyes, Antonio Molina-Díaz
+0415	ROASMI_83	10.1016/j.chroma.2015.11.014		Publication - Nürenberg	RP	Submitted by Fangyuan Sun		Gudrun Nürenberg, Manoj Schulz, Uwe Kunkel, Thomas A. Ternes
+0416	ROASMI_37	10.1038/s41592-019-0358-2		Publication - Tsugawa	RP	Submitted by Fangyuan Sun		Tsugawa, H., Nakabayashi, R., Mori, T. et al
+0417	ROASMI_45	10.1038/s41592-019-0358-2		Publication - Tsugawa	RP	Submitted by Fangyuan Sun		Tsugawa, H., Nakabayashi, R., Mori, T. et al
+0418	ROASMI_41	10.1016/j.aca.2019.02.001		Publication - Huang	RP	Submitted by Fangyuan Sun		Yezhen Huang, Yu Jiao, Yiqiao Gao, et al
+0419	ROASMI_59	10.1038/s41597-019-0305-1		Publication - Olivier-Jimenez	RP	Submitted by Fangyuan Sun	column temperature	Olivier-Jimenez, D., Chollet-Krugler, M., Rondeau, D. et al.
+0420	ROASMI_60	10.1038/s41597-019-0028-3		Publication - Fox Ramos	RP	Submitted by Fangyuan Sun		Fox Ramos, A.E., Le Pogam, P., Fox Alcover, C. et al
+0421	ROASMI_54	10.1016/j.aca.2011.01.006		Publication - Moulard	RP	Submitted by Fangyuan Sun		Yves Moulard, Ludovic Bailly-Chouriberry, Sophie Boyer, Patrice Garcia, Marie-Agnès Popot, Yves Bonnaire
+0422	ROASMI_2	10.1016/j.foodchem.2018.09.045		Publication - Vasić	RP	Submitted by Fangyuan Sun	column temperature	Vesna Vasić, Uroš Gašić, Dalibor Stanković, Dražen Lušić, Darija Vukić-Lušić, Dušanka Milojković-Opsenica, Živoslav Tešić, Jelena Trifković
+0423	ROASMI_11	10.1016/j.jhazmat.2020.123706		Publication - Choi	RP	Submitted by Fangyuan Sun	column id, temperature, length, particle size	Younghun Choi, Ji-Ho Lee, Kyunghyun Kim, Hyunsaing Mun, Naree Park, Junho Jeon 
+0424	ROASMI_28	10.1016/j.chroma.2012.03.059		Publication - Ferrer	RP	Submitted by Fangyuan Sun		Imma Ferrer, E. Michael Thurman
+0425	ROASMI_70	10.1016/j.jhazmat.2019.121713		Publication - Tang	RP	Submitted by Fangyuan Sun		Mengling Tang, Yanhui Ao, Peifang Wang, Chao Wang
+0426	ROASMI_23	10.1039/c6ra10883k		Publication - Yao	RP	Submitted by Fangyuan Sun		Changliang Yao,   Wenzhi Yang   Wei Si,   Huiqin Pan,   Shi Qiu,   Jia Wu,   Xiaojian Shi,   Ruihong Feng,   Wanying Wu and  Dean Guo
+0427	ROASMI_50	10.1007/s11356-017-9929-x		Publication - Chau	RP	Submitted by Fangyuan Sun		Chau, H.T.C., Kadokami, K., Ifuku, T. et al.
+0428	ROASMI_62	10.3390/metabo9050085		Publication - Codesido	RP	Submitted by Fangyuan Sun	flowrate	Codesido, S., Randazzo, G.M., Lehmann, F., González-Ruiz, V., García, A., Xenarios, I., Liechti, R., Bridge, A., Boccard, J., Rudaz, S
+0429	ROASMI_84	10.1021/acs.analchem.9b05765		Publication - Bonini	RP	Submitted by Fangyuan Sun		Paolo Bonini, Tobias Kind, Hiroshi Tsugawa, Dinesh Kumar Barupal, Oliver Fiehn
+0430	ROASMI_5	10.1016/j.foodchem.2012.08.062		Publication - De Paepe	RP	Submitted by Fangyuan Sun		D. De Paepe, K. Servaes, B. Noten, L. Diels, M. De Loose, B. Van Droogenbroeck, S. Voorspoels 

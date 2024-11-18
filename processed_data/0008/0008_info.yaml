@@ -12,3 +12,7 @@ authors:
 - H. Welchman
 - C. Crone
 - D. A. Volmer
+model:
+  flags:
+  - EXCLUDE_FROM_EVALUATION
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

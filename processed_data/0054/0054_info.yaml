@@ -10,3 +10,5 @@ authors:
 - K. Hermansen
 - L. O. Dragsted
 missing information: temperature and flow rate
+model:
+  manual_void_threshold_estimate: 0.8

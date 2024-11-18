@@ -7,3 +7,7 @@ url: https://doi.org/10.1016/j.foodchem.2021.129757
 authors:
 - Low et al.
 comment: column name not specific
+model:
+  flags:
+  - EXCLUDE_FROM_EVALUATION
+  - ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

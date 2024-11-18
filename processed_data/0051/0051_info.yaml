@@ -6,3 +6,5 @@ source: PredRet
 url: https://doi.org/10.1016/j.foodchem.2021.129757
 authors:
 - Low et al.
+model:
+  manual_void_threshold_estimate: 10
