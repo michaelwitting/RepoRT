@@ -1,0 +1,9 @@
+id: 0391
+name: Brungs_MCE
+method:
+  type: RP
+source: MZmine
+authors:
+- C. Brungs
+- R. Schmid
+- T. Pluskal

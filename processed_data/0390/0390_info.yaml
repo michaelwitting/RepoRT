@@ -1,0 +1,9 @@
+id: 0390
+name: Brungs_NIH
+method:
+  type: RP
+source: MZmine
+authors:
+- C. Brungs
+- R. Schmid
+- T. Pluskal
