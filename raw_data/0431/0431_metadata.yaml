@@ -1,0 +1,29 @@
+column:
+  name: Waters ACQUITY UPLC BEH C18
+  id: 1
+  flowrate: 0.15
+  usp.code: L1
+  length: 100
+  particle.size: '1.7'
+eluent:
+  A:
+    formic:
+      value: 0.1
+      unit: '%'
+    h2o:
+      value: 100
+      unit: '%'
+    acn:
+      value: 0
+      unit: '%'
+  B:
+    formic:
+      value: 0.1
+      unit: '%'
+    h2o:
+      value: 0
+      unit: '%'
+    acn:
+      value: 100
+      unit: '%'
+id: '0431'
