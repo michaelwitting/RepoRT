@@ -1,0 +1,7 @@
+id: '0370'
+name: JB_MM18
+method:
+  type: HILIC
+source: Dataset - Buescher
+authors:
+- J. Büscher

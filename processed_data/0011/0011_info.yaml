@@ -1,0 +1,15 @@
+id: '0011'
+name: FEM_orbitrap_plasma
+method:
+  type: RP
+source: PredRet
+url: https://doi.org/10.1016/j.talanta.2015.03.003
+authors:
+- A. Della Corts
+- G. Chitarrini
+- I. Di Gangim D. Masuero
+- E. Soini
+- F. Mattivi
+- U. Vrhovsek
+missing information: column length, ID and particle size; temperature, gradient and
+  flow rate

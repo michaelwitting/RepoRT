@@ -1,0 +1,7 @@
+id: '0364'
+name: JB_MM05
+method:
+  type: HILIC
+source: Dataset - Buescher
+authors:
+- J. Büscher

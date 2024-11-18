@@ -1,0 +1,6 @@
+id: '0205'
+name: Orbitrap1
+method:
+  type: RP
+source: PredRet
+missing information: temperature and flow rate

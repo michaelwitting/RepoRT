@@ -1,0 +1,9 @@
+id: '0005'
+name: MTBLS38
+method:
+  type: RP
+source: PredRet
+url: https://doi.org/10.1002/minf.201400016
+authors:
+- Beisken et al.
+comment: different flow rates during gradient (0,25 and 0,4 ml/min)

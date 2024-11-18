@@ -1,0 +1,7 @@
+id: '0216'
+name: SNU_RP_30
+method:
+  type: RP
+source: PredRet
+missing information: column length, ID, particle size, gradient, temperature, flow
+  rate

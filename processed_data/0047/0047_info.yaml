@@ -1,0 +1,6 @@
+id: '0047'
+name: Acquity HSST3-RP-60mn
+method:
+  type: RP
+source: PredRet
+missing information: column length, ID and particle size; temperature

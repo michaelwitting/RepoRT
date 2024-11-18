@@ -1,0 +1,10 @@
+id: '0041'
+name: CS23
+method:
+  type: RP
+source: PredRet
+url: https://doi.org/10.1016/j.foodchem.2021.129757
+authors:
+- Low et al.
+missing information: flow rate
+comment: incorrect  particle size

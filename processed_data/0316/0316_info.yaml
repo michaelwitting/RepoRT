@@ -1,0 +1,9 @@
+id: '0316'
+name: CCS_pos_40_ACN_Raptor Biphenyl
+method:
+  type: RP
+source: Dataset - BGC
+authors:
+- E.-M. Harrieder
+- M. Witting
+comment: removed 1 entries with no retention times

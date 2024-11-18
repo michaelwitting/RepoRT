@@ -1,0 +1,8 @@
+id: 0339
+name: MSMS_neg_50_MeOH_CORTECS C18
+method:
+  type: RP
+source: Dataset - BGC
+authors:
+- E.-M. Harrieder
+- M. Witting

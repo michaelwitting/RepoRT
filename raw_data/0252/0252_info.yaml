@@ -1,0 +1,8 @@
+id: '0252'
+name: MSMS_pos_30_ACN_BEH C18
+method:
+  type: RP
+source: Dataset - BGC
+authors:
+- E.-M. Harrieder
+- M. Witting

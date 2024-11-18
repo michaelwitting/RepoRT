@@ -1,0 +1,6 @@
+id: '0026'
+name: re
+method:
+  type: Other
+source: PredRet
+missing information: column length and ID; temperature, gradient and flow rate

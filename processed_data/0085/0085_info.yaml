@@ -1,0 +1,14 @@
+id: 0085
+name: RP21 pos
+method:
+  type: RP
+source: Publication - Folberth
+url: https://doi.org/10.1016/j.jchromb.2020.122105
+pmid: 32305706
+authors:
+- J. Folberth
+- K. Begemann
+- O. Jöhren
+- M. Schwaninger
+- A. Othman
+missing information: temperature

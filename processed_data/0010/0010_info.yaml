@@ -1,0 +1,13 @@
+id: '0010'
+name: FEM_lipids
+method:
+  type: RP
+source: PredRet
+url: https://doi.org/10.1016/j.talanta.2015.03.003
+authors:
+- A. Della Corts
+- G. Chitarrini
+- I. Di Gangim D. Masuero
+- E. Soini
+- F. Mattivi
+- U. Vrhovsek

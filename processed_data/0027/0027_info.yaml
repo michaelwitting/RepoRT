@@ -1,0 +1,14 @@
+id: '0027'
+name: KI_GIAR_zic_HILIC_ph2_7
+method:
+  type: HILIC
+source: PredRet
+url: https://doi.org/10.1021/acs.analchem.7b00925
+authors:
+- S. Naz
+- H. Gallart-Ayala
+- S. N. Reinke
+- C. Mathon
+- R. Blankley
+- R. Chaleckis
+- C. E. Wheelock

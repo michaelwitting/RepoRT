@@ -1,0 +1,17 @@
+id: '0004'
+name: MTBLS20
+method:
+  type: RP
+source: PredRet
+url: https://doi.org/10.1021/ac300829f
+pmid: 22770225
+authors:
+- A. Roux
+- Y. Xu
+- J.-F. Heilier
+- M.-F. Olivier
+- E. Ezan
+- J.-C. Tabe
+- C. Junot
+missing information: temperature
+comment: different chromatographic conditions of HPLC and UHPLC but only one RT

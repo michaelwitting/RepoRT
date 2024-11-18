@@ -1,0 +1,16 @@
+id: '0003'
+name: IPB_Halle
+method:
+  type: RP
+source: PredRet
+url: https://doi.org/10.1007/s00216-013-6954-6; 10.1016/j.phytochem.2014.10.003
+pmid: 23615935
+authors:
+- J. Stanstrup
+- M. Gerlich
+- L. O. Dragsted
+- S. Neumann; N. Strehmel
+- C. Böttcher
+- S. Schmidt
+- D. Scheel
+missing information: temperature, flow rate

@@ -1,0 +1,14 @@
+id: '0045'
+name: Bade_Publi
+method:
+  type: RP
+source: PredRet
+url: https://doi.org/10.1016/j.scitotenv.2015.08.078
+authors:
+- R. Bade
+- L. Bijlsma
+- T. H. Miller
+- L. P. Barron
+- J. V. Sancho
+- F. Hernández
+missing information: temperature

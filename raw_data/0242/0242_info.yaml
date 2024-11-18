@@ -1,0 +1,8 @@
+id: '0242'
+name: CCS_pos_40_ACN_HSS T3
+method:
+  type: RP
+source: Dataset - BGC
+authors:
+- E.-M. Harrieder
+- M. Witting

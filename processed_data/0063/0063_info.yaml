@@ -1,0 +1,7 @@
+id: '0063'
+name: RPMMFDA
+method:
+  type: RP
+source: PredRet
+missing information: column length, ID and particle size; temperature, gradient and
+  flow rate

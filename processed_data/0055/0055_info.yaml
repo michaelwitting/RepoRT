@@ -1,0 +1,12 @@
+id: '0055'
+name: LIFE_new
+method:
+  type: RP
+source: PredRet
+url: https://doi.org/10.1016/j.aca.2011.12.065
+authors:
+- T. Barri
+- J. Holmer-Jensen
+- K. Hermansen
+- L. O. Dragsted
+missing information: temperature and flow rate

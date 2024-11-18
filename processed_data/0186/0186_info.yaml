@@ -1,0 +1,18 @@
+id: 0186
+name: SMRT_METLIN
+method:
+  type: RP
+source: Publication - Domingo-Almenara
+url: https://doi.org/10.1038/s41467-019-13680-7
+pmid: 31862874
+authors:
+- Xavier Domingo-Almenara
+- Carlos Guijas
+- Elizabeth Billings
+- J. Rafael Montenegro-Burke
+- Winnie Uritboonthai
+- Aries E. Aisporna
+- Emily Chen
+- H. Paul Benton
+- Gary Siuzdak
+missing information: temperature

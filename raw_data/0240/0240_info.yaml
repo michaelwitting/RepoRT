@@ -1,0 +1,8 @@
+id: '0240'
+name: MSMS_pos_50_ACN_HSS T3
+method:
+  type: RP
+source: Dataset - BGC
+authors:
+- E.-M. Harrieder
+- M. Witting

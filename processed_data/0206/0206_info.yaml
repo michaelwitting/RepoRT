@@ -1,0 +1,6 @@
+id: '0206'
+name: RP_PSB_HF
+method:
+  type: RP
+source: PredRet
+missing information: gradient, temperatur, flow rate

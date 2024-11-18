@@ -1,0 +1,6 @@
+id: '0022'
+name: 1290SQ
+method:
+  type: RP
+source: PredRet
+missing information: temperature, gradient and flow rate

@@ -1,0 +1,6 @@
+id: '0025'
+name: OBSF
+method:
+  type: RP
+source: PredRet
+missing information: temperature

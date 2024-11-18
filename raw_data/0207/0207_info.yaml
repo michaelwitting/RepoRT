@@ -1,0 +1,6 @@
+id: '0207'
+name: hypergold_pea
+method:
+  type: RP
+source: PredRet
+missing information: gradient, temperatur, flow rate

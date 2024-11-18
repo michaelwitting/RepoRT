@@ -1,0 +1,7 @@
+id: '0043'
+name: C18_SOP3
+method:
+  type: RP
+source: PredRet
+missing information: column length, ID and particle size; temperature, gradient and
+  flow rate

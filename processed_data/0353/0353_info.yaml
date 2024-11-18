@@ -1,0 +1,9 @@
+id: '0353'
+name: MSMS_neg_40_MeOH_HSS C18
+method:
+  type: RP
+source: Dataset - BGC
+authors:
+- E.-M. Harrieder
+- M. Witting
+comment: removed 15 entries with no retention times

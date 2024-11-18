@@ -1,0 +1,6 @@
+id: '0016'
+name: MTBLS52
+method:
+  type: RP
+source: PredRet
+url: metaboloLights

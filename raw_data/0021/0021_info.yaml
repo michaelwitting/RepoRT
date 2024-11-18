@@ -1,0 +1,15 @@
+id: '0021'
+name: MPI_Symmetry
+method:
+  type: RP
+source: PredRet
+url: https://doi.org/10.1021/ac101825k
+pmid: 21182243
+authors:
+- F. Rasche
+- A. Svatoš
+- R. K. Maddula
+- C. Böttcher
+- S. Böcker
+missing information: temperature, flow rate
+comment: incorrect  particle size

@@ -1,0 +1,8 @@
+id: '0320'
+name: MSMS_pos_40_MeOH_Raptor Biphenyl
+method:
+  type: RP
+source: Dataset - BGC
+authors:
+- E.-M. Harrieder
+- M. Witting

@@ -1,0 +1,6 @@
+id: '0044'
+name: HILIC_BDD_2
+method:
+  type: HILIC
+source: PredRet
+missing information: column length, ID and particle size

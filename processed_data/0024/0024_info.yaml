@@ -1,0 +1,7 @@
+id: '0024'
+name: Waters ACQUITY UPLC with synapt G1
+method:
+  type: RP
+source: PredRet
+missing information: column length, ID and particle size; temperature, gradient and
+  flow rate

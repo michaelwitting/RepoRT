@@ -1,0 +1,6 @@
+id: 0048
+name: BDD_C18
+method:
+  type: RP
+source: PredRet
+missing information: column length and ID

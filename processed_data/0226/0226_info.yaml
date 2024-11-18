@@ -1,0 +1,6 @@
+id: '0226'
+name: SNU_organoid
+method:
+  type: RP
+source: PredRet
+missing information: column length, ID, temperature, gradient, flow rate

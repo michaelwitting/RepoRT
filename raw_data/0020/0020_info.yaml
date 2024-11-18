@@ -1,0 +1,15 @@
+id: '0020'
+name: Cao_HILIC
+method:
+  type: HILIC
+source: PredRet
+url: https://doi.org/10.1007/s11306-014-0727-x
+authors:
+- M. Cao
+- K. Fraser
+- J. Huege
+- T. Featonby
+- S. Rasmussen
+- C. Jones
+missing information: flow rate
+comment: unknown amount of solvent

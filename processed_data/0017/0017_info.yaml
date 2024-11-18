@@ -1,0 +1,7 @@
+id: '0017'
+name: UFZ_Phenomenex
+method:
+  type: RP
+source: PredRet
+url: www.massbank.eu
+missing information: temperature, gradient and flow rate

@@ -1,0 +1,10 @@
+id: '0013'
+name: MTBLS17
+method:
+  type: RP
+source: PredRet
+url: https://doi.org/10.1016/j.aca.2012.07.013
+authors:
+- Ressom et al.
+missing information: temperature
+comment: column name not specific

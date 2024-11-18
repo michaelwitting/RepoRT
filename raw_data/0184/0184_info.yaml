@@ -1,0 +1,18 @@
+id: 0184
+name: aHILIC Geneva DB maXisQTOF neg
+method:
+  type: HILIC
+source: Publication - Pezzatti
+url: https://doi.org/10.1016/j.chroma.2019.01.023
+pmid: 30685186
+authors:
+- J. Pezzatti
+- V. González-Ruiz
+- S. Codesido
+- Y. Gagnebin
+- A. Joshi
+- D. Guillarme
+- J. Schappler
+- D. Picard
+- J. Boccard
+- S. Rudaz

@@ -1,0 +1,8 @@
+id: '0354'
+name: MSMS_pos_50_MeOH_HSS C18
+method:
+  type: RP
+source: Dataset - BGC
+authors:
+- E.-M. Harrieder
+- M. Witting

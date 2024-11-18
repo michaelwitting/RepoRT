@@ -1,0 +1,7 @@
+id: '0227'
+name: Meister zic-pHILIC ph9.3
+method:
+  type: HILIC
+source: PredRet
+missing information: '-'
+comment: 'gradient: missing times'

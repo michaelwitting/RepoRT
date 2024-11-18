@@ -1,0 +1,17 @@
+id: '0002'
+name: FEM_long
+method:
+  type: RP
+source: PredRet
+url: https://doi.org/10.1007/s11306-011-0298-z
+authors:
+- G. Theodoridis
+- H. Gika
+- P. Franceschi
+- L. Caputi
+- P. Arapitsas
+- M. Scholz
+- D. Masuero
+- R. Wehrens
+- U. Vrhovsek
+- F. Mattivi

@@ -1,0 +1,17 @@
+id: 0009
+name: RIKEN
+method:
+  type: RP
+source: PredRet
+url: https://doi.org/10.1093/pcp/pcn183
+pmid: 19054808
+authors:
+- Y. Sawada
+- K. Akiyama
+- A. Sakata
+- A. Kuwahara
+- H. Otsuki
+- T. Sakurai
+- K. Saito
+- M. Y. Hirai
+missing information: column length, ID and particle size

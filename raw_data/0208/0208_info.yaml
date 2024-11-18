@@ -1,0 +1,7 @@
+id: 0208
+name: IJM_TEST
+method:
+  type: HILIC
+source: PredRet
+missing information: column length, ID, particle size, gradient, temperature, flow
+  rate

@@ -1,0 +1,6 @@
+id: 0228
+name: AnnieTestFiehn
+method:
+  type: HILIC
+source: PredRet
+missing information: temperature, flow rate

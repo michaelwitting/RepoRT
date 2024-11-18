@@ -1,0 +1,10 @@
+id: '0006'
+name: MTBLS39
+method:
+  type: RP
+source: PredRet
+url: https://doi.org/10.1186/gb-2013-14-6-r54
+authors:
+- Dal Santo et al.
+missing information: temperature
+comment: guard column

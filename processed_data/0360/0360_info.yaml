@@ -1,0 +1,7 @@
+id: '0360'
+name: EM_3
+method:
+  type: RP
+source: Dataset - Monge
+authors:
+- E. Monge

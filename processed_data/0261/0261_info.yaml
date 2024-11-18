@@ -1,0 +1,8 @@
+id: '0261'
+name: Synergi_Neg
+method:
+  type: RP
+source: Dataset - Huber
+url: https://doi.org/10.1021/acs.analchem.1c00972
+authors:
+- C. Huber

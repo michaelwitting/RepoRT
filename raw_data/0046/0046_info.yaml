@@ -1,0 +1,6 @@
+id: '0046'
+name: Waters_Chiu_T3_pos
+method:
+  type: RP
+source: PredRet
+missing information: column length, ID and particle size; temperature

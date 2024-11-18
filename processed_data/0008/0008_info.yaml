@@ -1,0 +1,14 @@
+id: 0008
+name: MTBLS4
+method:
+  type: RP
+source: PredRet
+url: https://doi.org/10.1002/rcm.4015
+pmid: 19347970
+authors:
+- A. Koulman
+- G. Woffendin
+- V. K. Narayana
+- H. Welchman
+- C. Crone
+- D. A. Volmer

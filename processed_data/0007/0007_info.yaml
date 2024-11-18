@@ -1,0 +1,14 @@
+id: '0007'
+name: MTBLS87
+method:
+  type: HILIC
+source: PredRet
+url: https://doi.org/10.1039/C4MB00346B
+authors:
+- R. Chaleckis
+- M. Ebe
+- T. Pluskal
+- I. Murakami
+- H. Kondoh
+- M. Yanagida
+missing information: temperature
