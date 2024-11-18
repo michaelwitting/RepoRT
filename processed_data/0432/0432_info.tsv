@@ -1,2 +1,2 @@
-id	authors	name	url
-0432	Tobias Bruderer , Emmanuel Varesio , Gérard Hopfgartner	ROASMI_65	10.1016/j.jchromb.2017.07.016.
+id	authors	name	url	source	method.type
+0432	Tobias Bruderer, Emmanuel Varesio, Gérard Hopfgartner	ROASMI_65	10.1016/j.jchromb.2017.07.016	Publication - Bruderer	RP

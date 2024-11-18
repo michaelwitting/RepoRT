@@ -1,15 +1,28 @@
 id: '0437'
 column:
   name: Agilent ZORBAX 300 SB-C18
-  usp.code: 1
+  usp.code: L1
   length: 150
   id: 1
   particle.size: 3.5
-  temperature: -1
-  flowrate: -1
-  t0: -0.075
 eluent:
   A:
-    h2o: 100
+    heptafluorobutyric:
+      value: 0.01
+      unit: '%'
+    h2o:
+      value: 100
+      unit: '%'
+    acn:
+      value: 0
+      unit: '%'
   B:
-    acn: 100
+    heptafluorobutyric:
+      value: 0.01
+      unit: '%'
+    h2o:
+      value: 0
+      unit: '%'
+    acn:
+      value: 100
+      unit: '%'
