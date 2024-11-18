@@ -426,4 +426,9 @@ id	name	url	pmid	source	method.type	comment	missing information	authors	mail
 0428	ROASMI_62	10.3390/metabo9050085		Publication - Codesido	RP	Submitted by Fangyuan Sun	flowrate	Codesido, S., Randazzo, G.M., Lehmann, F., González-Ruiz, V., García, A., Xenarios, I., Liechti, R., Bridge, A., Boccard, J., Rudaz, S	
 0429	ROASMI_84	10.1021/acs.analchem.9b05765		Publication - Bonini	RP	Submitted by Fangyuan Sun		Paolo Bonini, Tobias Kind, Hiroshi Tsugawa, Dinesh Kumar Barupal, Oliver Fiehn	
 0430	ROASMI_5	10.1016/j.foodchem.2012.08.062		Publication - De Paepe	RP	Submitted by Fangyuan Sun		D. De Paepe, K. Servaes, B. Noten, L. Diels, M. De Loose, B. Van Droogenbroeck, S. Voorspoels 	
+0431	ROASMI_08	10.1021/acs.analchem.9b05135						Jian Guo, Tao Huan	
+0432	ROASMI_65	10.1016/j.jchromb.2017.07.016.						Tobias Bruderer , Emmanuel Varesio , Gérard Hopfgartner	
+0433	ROASMI_66	10.1016/j.jchromb.2017.07.016.				 mobile phase A was 5 mM ammonium formate in water with an adjusted pH of 3.0 by the addition of formic acid., Submitted by Fangyuan Sun		Tobias Bruderer , Emmanuel Varesio , Gérard Hopfgartner	
+0434	ROASMI_71	10.1016/j.jchromb.2017.07.016.				 mobile phase A was 5 mM ammonium formate in water with an adjusted pH of 3.0 by the addition of formic acid, Submitted by Tobias Bruderer , Emmanuel Varesio , Gérard Hopfgartner		Tobias Bruderer , Emmanuel Varesio , Gérard Hopfgartner	
+0435	ROASMI_77	10.1016/j.jchromb.2017.07.016.				Mobile A was 5 mM ammonium acetate in water with an adjusted pH of 8.0 by the addition of ammonium hydroxide., Submitted by Fangyuan Sun		Tobias Bruderer , Emmanuel Varesio , Gérard Hopfgartner	
 draft_45277	ROASMI_85	10.1016/j.jhazmat.2019.121712				flow rate:0.2-0.48, Submitted by Fangyuan Sun		Pablo Gago-Ferrero, Anna A. Bletsou, Dimitrios E. Damalas, Reza Aalizadeh, Nikiforos A.Alygizakis, Heinz P.Singer, Juliane Hollender, Nikolaos S. Thomaidis 	
