@@ -3,8 +3,8 @@ column:
   name: Phenomenex Synergi Polar-RP
   usp.code: L11
   length: 100
-  id: 1
-  particle.size: 100
+  id: 3
+  particle.size: 2.5
   temperature: 40
   flowrate: 0.4
   t0: 0.125
