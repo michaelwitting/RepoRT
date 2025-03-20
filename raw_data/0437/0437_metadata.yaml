@@ -1,3 +1,4 @@
+id: '0437'
 column:
   name: Agilent ZORBAX 300 SB-C18
   id: 1
@@ -11,18 +12,13 @@ eluent:
       unit: '%'
     h2o:
       value: 100
-      unit: '%'
     acn:
       value: 0
-      unit: '%'
   B:
     heptafluorobutyric:
       value: 0.01
       unit: '%'
     h2o:
       value: 0
-      unit: '%'
     acn:
       value: 100
-      unit: '%'
-id: '0437'

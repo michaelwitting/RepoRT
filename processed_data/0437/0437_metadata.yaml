@@ -5,6 +5,7 @@ column:
   length: 150
   id: 1
   particle.size: 3.5
+  t0: 0
 eluent:
   A:
     heptafluorobutyric:
@@ -12,17 +13,13 @@ eluent:
       unit: '%'
     h2o:
       value: 100
-      unit: '%'
     acn:
       value: 0
-      unit: '%'
   B:
     heptafluorobutyric:
       value: 0.01
       unit: '%'
     h2o:
       value: 0
-      unit: '%'
     acn:
       value: 100
-      unit: '%'
