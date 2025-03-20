@@ -80,10 +80,12 @@ def read_yaml(yaml_file, gradient_file):
     if os.path.exists(gradient_file):
         # add gradient data
         gradient = pd.read_csv(gradient_file, sep='\t').sort_values('t [min]')
-        for part in [c.split()[0] for c in gradient.columns.tolist() if len(c.split()[0]) == 1
-                     and (ord(c[0]) >= ord('A') and ord(c[0]) <= ord('Z'))]: # future proof ;)
-            result[f'gradient.start.{part}'] = gradient.iloc[0][f'{part} [%]']
-            result[f'gradient.end.{part}'] = gradient.iloc[-1][f'{part} [%]']
+        if len(gradient) > 0:
+            # gradient file might exist but simply be empty
+            for part in [c.split()[0] for c in gradient.columns.tolist() if len(c.split()[0]) == 1
+                         and (ord(c[0]) >= ord('A') and ord(c[0]) <= ord('Z'))]: # future proof ;)
+                result[f'gradient.start.{part}'] = gradient.iloc[0][f'{part} [%]']
+                result[f'gradient.end.{part}'] = gradient.iloc[-1][f'{part} [%]']
     return result
 
 if __name__ == '__main__':
