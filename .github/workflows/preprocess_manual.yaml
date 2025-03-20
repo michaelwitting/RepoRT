@@ -81,6 +81,14 @@ jobs:
       run: Rscript scripts/R_ci/metadata_standardize.R  ${{ inputs.datasets }}
       if: ${{ inputs.do_metadata }}
 
+    - name: Metadata TSV consistent column ordering
+      run: |
+        for dsid in ${{ inputs.datasets }}; do
+          python3 scripts/Python/order_metadata_tsv.py processed_data/${dsid}/${dsid}_metadata.tsv
+        done
+      if: ${{ inputs.do_metadata }}
+      continue-on-error: true    
+
     - name: Generate dataset reports
       run: Rscript scripts/R_ci/compounds_overview.R ${{ inputs.datasets }}
 

@@ -60,6 +60,13 @@ jobs:
     - name: Metadata standardization
       run: Rscript scripts/R_ci/metadata_standardize.R ${{ steps.filesfolders.outputs.files }}
 
+    - name: Metadata TSV consistent column ordering
+      run: |
+        for dsid in ${{ steps.filesfolders.outputs.files }}; do
+          python3 scripts/Python/order_metadata_tsv.py processed_data/${dsid}/${dsid}_metadata.tsv
+        done
+      continue-on-error: true
+
     - name: Generate dataset reports
       run: Rscript scripts/R_ci/compounds_overview.R ${{ steps.filesfolders.outputs.files }}
 
