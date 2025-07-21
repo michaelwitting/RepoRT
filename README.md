@@ -1,5 +1,7 @@
 # RepoRT
 
+[![DOI](https://zenodo.org/badge/1023557814.svg)](https://doi.org/10.5281/zenodo.16267767)
+
 > [!NOTE]
 > A new web app has been launched making submission much easier: <https://rrt.boeckerlab.uni-jena.de/>
 
@@ -25,8 +27,6 @@ We are covering all possible separation modes of liquid chromatograpy
 (LC), such as Reversed-phase (RP), Hydrophilic iinteraction Liquid
 Chromatography (HILIC) and others. The plot below show the current
 coverage of different separation modes and columns.
-
-**ToDo: add plot here**
 
 ## Citation
 
