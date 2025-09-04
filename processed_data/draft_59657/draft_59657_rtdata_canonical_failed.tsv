@@ -1,2 +1,4 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 draft_59657_00005	2-Phosphoglyceric-acid	C3H7O7P	15.841	C1(C(C(=O)O)OP(=O)(O)O)O	The standardization request failed. The response contains the following ""PCT-Status"" tag: <PCT-Status value=""data-error""/>		
+draft_59657_00180	Propionyl-CoA	C24H40N7O17P3S	23.26	CCC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)O	Too many requests or server is busy, retry later.		
+draft_59657_00192	Succinyl-CoA	C25H40N7O19P3S	22.66	CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCSC(=O)CCC(=O)O)O	Too many requests or server is busy, retry later.		

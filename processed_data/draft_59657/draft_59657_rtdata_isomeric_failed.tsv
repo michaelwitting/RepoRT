@@ -6,7 +6,6 @@ draft_59657_00005	2-Phosphoglyceric-acid	C3H7O7P	15.841		missing SMILES
 draft_59657_00006	2-phosphoglycolic acid	C2H5O6P	2.73		missing SMILES		
 draft_59657_00011	4-Hydroxyproline	C5H9NO3	1.51		missing SMILES		
 draft_59657_00016	Acetoacetic acid	C4H6O3	10.4		missing SMILES		
-draft_59657_00017	Acetoacetyl-CoA	C25H40N7O18P3S	22.23	CC(=O)CC(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)O	Too many requests or server is busy, retry later.		
 draft_59657_00019	Aconitic acid (cis and/or trans)	C6H6O6	18.604		missing SMILES		
 draft_59657_00020	Adenosine 2',3'-cyclic phosphate	C10H12N5O6P	12.16		missing SMILES		
 draft_59657_00024	alpha-Ketoglutaric acid	C5H6O5	15.292		missing SMILES		
@@ -38,7 +37,6 @@ draft_59657_00114	Itaconic-acid	C5H6O4	14.6		missing SMILES
 draft_59657_00115	Ketoleucine	C6H10O3	18.31		missing SMILES		
 draft_59657_00116	4-(Methylthio)-2-oxobutyric acid	C5H8O3S	14.7		missing SMILES		
 draft_59657_00121	Lauric-acid	C12H24O2	29.76		missing SMILES		
-draft_59657_00126	Linoleamide	C18H33NO	31.67	CCCCC/C=C\C/C=C\CCCCCCCC(=O)N	Too many requests or server is busy, retry later.		
 draft_59657_00144	Malonate	C3H4O4	13.62		missing SMILES		
 draft_59657_00151	Mevalonate	C6O4H12	10.5		missing SMILES		
 draft_59657_00153	Mevalonate-pyrophosphate	C6H14O10P2	19.21		missing SMILES		
