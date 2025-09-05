@@ -1,5 +1,5 @@
 id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
-draft_59657_00054	DCTP	C9H16N3O13P3	19.9	C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O	Too many requests or server is busy, retry later.		
-draft_59657_00162	NADP	C21H28N7O17P3	17.985	C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O)N	Too many requests or server is busy, retry later.		
+draft_59657_00108	Inositol-3-phosphate	C6H13O9P	10.61	C1(C(C(C(C(C1O)O)O)OP(=O)(O)O)O)O	Too many requests or server is busy, retry later.		
+draft_59657_00109	Inositol-4-phosphate	C6H13O9P	8.86	C1(C(C(C(C(C1O)O)O)OP(=O)(O)O)O)O	Too many requests or server is busy, retry later.		
+draft_59657_00145	Malonyl-CoA	C24H38N7O19P3S	22.71	CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCSC(=O)CC(=O)O)O	Too many requests or server is busy, retry later.		
 draft_59657_00167	Oleoyl-CoA	C39H68N7O17P3S	29.7	CCCCCCCCC=CCCCCCCCC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)O	Too many requests or server is busy, retry later.		
-draft_59657_00180	Propionyl-CoA	C24H40N7O17P3S	23.26	CCC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)O	Too many requests or server is busy, retry later.		
