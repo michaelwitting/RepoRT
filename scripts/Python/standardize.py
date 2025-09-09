@@ -240,7 +240,7 @@ class StructureListPubChemStandardizer:
             LOGGER.info("Start submitting standardization.")
 
             for idx in range(len(self.__input_structures)):
-                sleep(0.2)
+                sleep(1)
                 LOGGER.info("Submit standardization task of structure " + self.__input_structures[idx] + " with index " + str(idx) + ".")
                 processing_queue[idx] = executor.submit(standardize_structure_with_pubchem,
                                                         input_structure=self.__input_structures[idx],

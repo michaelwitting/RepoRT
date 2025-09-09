@@ -1,0 +1,36 @@
+column:
+  name: Waters ACQUITY Premier HSS T3
+  id: 2.1
+  temperature: 40
+  flowrate: 0.25
+  usp.code: L1
+  length: 150
+  particle.size: '1.8'
+eluent:
+  A:
+    h2o:
+      value: 95
+      unit: '%'
+    meoh:
+      value: 5
+      unit: '%'
+    acetic:
+      value: 15
+      unit: mM
+    tribut:
+      value: 10
+      unit: mM
+  B:
+    h2o:
+      value: 0
+      unit: '%'
+    meoh:
+      value: 100
+      unit: '%'
+    acetic:
+      value: 0
+      unit: mM
+    tribut:
+      value: 0
+      unit: mM
+id: '0438'
