@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0383	AA_LC2	RP	Publication - Aalizadeh	https://doi.org/10.1021/acs.analchem.2c02893	36347512	R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis		
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.flags
+0383	AA_LC2	RP	Publication - Aalizadeh	https://doi.org/10.1021/acs.analchem.2c02893	36347512	R. Aalizadeh, V. Nikolopoulou, N. S. Thomaidis			ESSENTIAL_METADATA_FEATURES_UNAVAILABLE
