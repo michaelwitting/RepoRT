@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0014	MTBLS19	RP	PredRet	https://doi.org/10.1021/pr300673x		Xiao et al.	temperature	column name not specific
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.flags
+0014	MTBLS19	RP	PredRet	https://doi.org/10.1021/pr300673x		Xiao et al.	temperature	column name not specific	ESSENTIAL_METADATA_FEATURES_UNAVAILABLE

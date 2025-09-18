@@ -1,2 +1,2 @@
-id	name	method.type	source	url	pmid	authors	missing information	comment
-0205	Orbitrap1	RP	PredRet				temperature and flow rate	
+id	name	method.type	source	url	pmid	authors	missing information	comment	model.flags
+0205	Orbitrap1	RP	PredRet				temperature and flow rate		EXCLUDE_FROM_EVALUATION, ESSENTIAL_METADATA_FEATURES_UNAVAILABLE
