@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 *.xlsx
+**/__pycache__/

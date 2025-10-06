@@ -1,0 +1,68 @@
+name: Make stats
+
+on: workflow_dispatch
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v5
+      with:
+        ref: 'stats'            # TODO: change when everything works
+
+    - uses: actions/setup-python@v6
+      with:
+        python-version: '3.13'
+        cache: 'pip'
+
+    - name: install python dependencies
+      run: pip install pandas numpy pyyaml
+
+    - name: make stat files
+      run: python stast/make_stats.py
+
+    - name: Commit
+      run: |
+        git config --global user.email 'actions@github.com'
+        git config --global user.name 'Github Actions'
+        git add stats/*
+        git commit -m "update stats"
+        git push origin HEAD
+
+    - name: Debug with tmate on failure
+      if: ${{ failure() }}
+      uses: mxschmitt/action-tmate@v3
+
+  figures:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v5
+      with:
+        ref: 'stats'            # TODO: change when everything works
+
+    - uses: actions/setup-python@v6
+      with:
+        python-version: '3.13'
+        cache: 'pip'
+
+    - name: install python dependencies
+      run: pip install pandas numpy pyyaml matplotlib seaborn
+
+    - name: make figures
+      run: python stast/make_figures_simple.py
+
+    - name: Commit
+      run: |
+        git config --global user.email 'actions@github.com'
+        git config --global user.name 'Github Actions'
+        git add stats/*
+        git commit -m "update stats figures"
+        git push origin HEAD
+
+    - name: Debug with tmate on failure
+      if: ${{ failure() }}
+      uses: mxschmitt/action-tmate@v3
