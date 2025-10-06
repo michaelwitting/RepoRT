@@ -178,5 +178,5 @@ class Stats():
 
 if __name__ == '__main__':
     stats = Stats()
-    # stats.make_stats_yaml()
-    stats.make_stats_json()
+    stats.make_stats_yaml()
+    # stats.make_stats_json()
