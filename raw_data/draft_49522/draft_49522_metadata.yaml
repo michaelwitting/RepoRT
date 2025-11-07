@@ -1,0 +1,16 @@
+column:
+  name: Waters ACQUITY UPLC HSS T3
+  id: 40
+  temperature: 40
+  flowrate: 0.28
+  usp.code: L1
+  length: 150
+  particle.size: '1.8'
+eluent:
+  A:
+    h2o: 100
+    meoh: 0
+  B:
+    h2o: 0
+    meoh: 100
+id: draft_49522
