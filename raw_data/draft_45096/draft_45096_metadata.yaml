@@ -1,0 +1,14 @@
+column:
+  name: ''
+  id: ''
+  temperature: ''
+  flowrate: ''
+  usp.code: ''
+  length: ''
+  particle.size: ''
+eluent:
+  A:
+    '': 0
+  B:
+    '': 0
+id: draft_45096
