@@ -1,0 +1,24 @@
+column:
+  name: Advanced Chromatography Technologies ACE C18
+  id: 40
+  temperature: 40
+  flowrate: 0.28
+  usp.code: L1
+  length: 150
+  particle.size: '1.8'
+eluent:
+  A:
+    h2o:
+      value: 100
+      unit: '%'
+    meoh:
+      value: 0
+      unit: '%'
+  B:
+    h2o:
+      value: 0
+      unit: '%'
+    meoh:
+      value: 100
+      unit: '%'
+id: draft_88486
