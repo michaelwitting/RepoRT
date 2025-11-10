@@ -1,11 +1,11 @@
-name	formula	rt	comment	id	pubchem.smiles.isomeric	pubchem.smiles.canonical
-3?-hydroxy-5?-androstan-17-one 3-sulfate	C19H30O5S	1		draft_62824_00001	C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C)OS(=O)(=O)O	CC12CCC(CC1CCC3C2CCC4(C3CCC4=O)C)OS(=O)(=O)O
-cholic acid	C24H40O5	1		draft_62824_00002	C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C	CC(CCC(=O)O)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C
-2-hydroxymyristic acid	C14H28O3	0.92		draft_62824_00003		CCCCCCCCCCCCC(C(=O)O)O
-undecylenic acid	C11H20O2	1		draft_62824_00004		C=CCCCCCCCCC(=O)O
-cis-5-dodecenoic acid	C12H22O2	1		draft_62824_00005	CCCCCC/C=C\CCCC(=O)O	CCCCCCC=CCCCC(=O)O
-lauric acid	C12H24O2	1		draft_62824_00006		CCCCCCCCCCCC(=O)O
-LPC(16:0/0:0)	C24H50NO7P	1.35		draft_62824_00007	CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)O	CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])OCC[N+](C)(C)C)O
-arachidonic acid	C20H32O2	2		draft_62824_00008	CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O	CCCCCC=CCC=CCC=CCC=CCCCC(=O)O
-linoleic acid	C18H32O2	2		draft_62824_00009	CCCCC/C=C\C/C=C\CCCCCCCC(=O)O	CCCCCC=CCC=CCCCCCCCC(=O)O
-cis-13-docosenoic acid	C22H42O2	4		draft_62824_00010	CCCCCCCC/C=C\CCCCCCCCCCCC(=O)O	CCCCCCCCC=CCCCCCCCCCCCC(=O)O
+id	name	formula	rt	pubchem.cid	pubchem.smiles.isomeric	pubchem.smiles.canonical	pubchem.inchi	pubchem.inchikey	id.chebi	id.hmdb	id.lipidmaps	id.kegg	comment
+draft_62824_00001	3?-hydroxy-5?-androstan-17-one 3-sulfate	C19H30O5S	1.0		C[C@]12CC[C@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CCC4=O)C)OS(=O)(=O)O	CC12CCC(CC1CCC3C2CCC4(C3CCC4=O)C)OS(=O)(=O)O							
+draft_62824_00002	cholic acid	C24H40O5	1.0		C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C	CC(CCC(=O)O)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C							
+draft_62824_00003	2-hydroxymyristic acid	C14H28O3	0.92			CCCCCCCCCCCCC(C(=O)O)O							
+draft_62824_00004	undecylenic acid	C11H20O2	1.0			C=CCCCCCCCCC(=O)O							
+draft_62824_00005	cis-5-dodecenoic acid	C12H22O2	1.0		CCCCCC/C=C\CCCC(=O)O	CCCCCCC=CCCCC(=O)O							
+draft_62824_00006	lauric acid	C12H24O2	1.0			CCCCCCCCCCCC(=O)O							
+draft_62824_00007	LPC(16:0/0:0)	C24H50NO7P	1.35		CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)O	CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])OCC[N+](C)(C)C)O							
+draft_62824_00008	arachidonic acid	C20H32O2	2.0		CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O	CCCCCC=CCC=CCC=CCC=CCCCC(=O)O							
+draft_62824_00009	linoleic acid	C18H32O2	2.0		CCCCC/C=C\C/C=C\CCCCCCCC(=O)O	CCCCCC=CCC=CCCCCCCCC(=O)O							
+draft_62824_00010	cis-13-docosenoic acid	C22H42O2	4.0		CCCCCCCC/C=C\CCCCCCCCCCCC(=O)O	CCCCCCCCC=CCCCCCCCCCCCC(=O)O							
