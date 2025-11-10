@@ -19,6 +19,7 @@ jobs:
     defaults:
       run:
         shell: bash
+    if: ${{ !startsWith(github.event.pull_request.head.ref, 'new_data_rrtdebug') }}
 
     steps:
     - name: Checkout fork repository
