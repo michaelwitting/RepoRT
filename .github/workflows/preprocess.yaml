@@ -28,7 +28,7 @@ jobs:
          fetch-depth: 0
          repository: ${{github.event.pull_request.head.repo.full_name}}
          ref: ${{ github.head_ref }}
-         lfs: true
+         lfs: false
 
 
     - name: Get changed files
@@ -96,12 +96,8 @@ jobs:
         git config --global user.name 'Github Actions'
         # because of dockerized environment, git will otherwise complain about "dubious ownership of directory"
         git config --global safe.directory '*'
-        # Use LFS storage of main repository: no push access to fork LFS storage
-        # TODO: change once repository is moved
-        git config lfs.url 'https://github.com/michaelwitting/RepoRT.git/info/lfs'
         git add processed_data raw_data
         git commit -m "Preprocessing ${{ steps.filesfolders.outputs.files }}"
-        git lfs push origin HEAD # first push LFS, otherwise failure because of lfs.url
         git push origin HEAD
 
     - name: Add comment with report to PR
