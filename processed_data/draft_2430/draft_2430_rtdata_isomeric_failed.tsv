@@ -1,0 +1,107 @@
+id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
+draft_2430_00001	1-(2-butylphenyl)ethanone	C12H16O	10.34		missing SMILES		
+draft_2430_00002	1-(oxan-2-yl)pyrazole	C8H12N2O	10.48		missing SMILES		
+draft_2430_00003	1-butylpyrrolidine	C8H17N	1.73		missing SMILES		
+draft_2430_00004	1-ethylpiperidin-3-one	C7H13NO	1.4		missing SMILES		
+draft_2430_00005	1-phenylpyrrolidine	C10H13N	1.4		missing SMILES		
+draft_2430_00006	1-piperidinebutyronitrile	C9H16N2	1.4		missing SMILES		
+draft_2430_00007	1,4-dimethylnaphthalene	C12H12	1.4		missing SMILES		
+draft_2430_00008	1,5-dimethylnaphthalene	C12H12	1.4		missing SMILES		
+draft_2430_00009	1,8-diaminonaphthalene	C10H10N2	1.4		missing SMILES		
+draft_2430_00010	2-amino-4'-methylbenzophenone	C14H13NO	1.4		missing SMILES		
+draft_2430_00011	2-aminonaphthalene	C10H9N	1.4		missing SMILES		
+draft_2430_00013	2-chlorobenzothiazole	C7H4ClNS	1.4		missing SMILES		
+draft_2430_00014	2-heptan-3-yl-1,3-dioxolane	C10H20O2	1.4		missing SMILES		
+draft_2430_00015	2-hydroxy-4-methoxybenzophenone	C14H12O3	1.4		missing SMILES		
+draft_2430_00016	5,5-dimethyl-2-propan-2-yl-1,3-dioxane	C9H18O2	1.4		missing SMILES		
+draft_2430_00017	2-methylfuran	C5H6O	1.4		missing SMILES		
+draft_2430_00018	2-phenoxy ethanol	C8H10O2	1.4		missing SMILES		
+draft_2430_00019	2-(2-hydroxypropan-2-yloxy)propan-2-ol	C6H14O3	1.4		missing SMILES		
+draft_2430_00020	2,3'-bipyridine	C10H8N2	1.4		missing SMILES		
+draft_2430_00021	2-(2,4-dichlorophenoxy)acetic acid	C8H6Cl2O3	1.4		missing SMILES		
+draft_2430_00023	2,4,6-tribromophenol	C6H3Br3O	1.4		missing SMILES		
+draft_2430_00024	2,5-dimethylfuran	C6H8O	1.4		missing SMILES		
+draft_2430_00025	2,6-diethylnaphthalene	C14H16	1.4		missing SMILES		
+draft_2430_00026	2-methyl-1,3-dinitrobenzene	C7H6N2O4	1.4		missing SMILES		
+draft_2430_00027	3-(n,n-diisopropylamino)propane-1,2-diol	C9H21NO2	1.4		missing SMILES		
+draft_2430_00028	3-methylcholanthrene	C21H16	1.4		missing SMILES		
+draft_2430_00029	3,4-dimethylbenzaldehyde	C9H10O	1.4		missing SMILES		
+draft_2430_00030	2,5-dimethylbenzaldehyde	C9H10O	1.4		missing SMILES		
+draft_2430_00031	3,5-lutidine	C7H9N	1.4		missing SMILES		
+draft_2430_00032	4-benzyloxybenzaldehyde	C14H12O2	1.4		missing SMILES		
+draft_2430_00033	4-hydroxybenzophenone	C13H10O2	1.4		missing SMILES		
+draft_2430_00034	diphenyl (4-propan-2-ylphenyl) phosphate	C21H21O4P	1.4		missing SMILES		
+draft_2430_00036	(4-methylphenyl)-phenylmethanone	C14H12O	1.4		missing SMILES		
+draft_2430_00038	2-(3-methylbutoxy)oxane	C10H20O2	1.4		missing SMILES		
+draft_2430_00039	7,12-dimethylbenz[a]anthracene	C20H16	1.4		missing SMILES		
+draft_2430_00040	atrazine	C8H14ClN5	1.4		missing SMILES		
+draft_2430_00041	avobenzone	C20H22O3	1.4		missing SMILES		
+draft_2430_00043	2,4-dibromo-1-(2,4-dibromophenoxy)benzene	C12H6Br4O	1.4		missing SMILES		
+draft_2430_00044	cyclohexyl 2-aminobenzoate	C13H17NO2	1.4		missing SMILES		
+draft_2430_00045	5-benzoyl-4-hydroxy-2-methoxybenzenesulfonic acid	C14H12O6S	1.4		missing SMILES		
+draft_2430_00046	bis(2-hydroxy-4-methoxyphenyl)methanone	C15H14O5	1.4		missing SMILES		
+draft_2430_00047	1,3-benzothiazole	C7H5NS	1.4		missing SMILES		
+draft_2430_00048	bis(2-ethylhexyl) benzene-1,2-dicarboxylate	C24H38O4	1.4		missing SMILES		
+draft_2430_00049	bisphenol S	C12H10O4S	1.4		missing SMILES		
+draft_2430_00050	boscalid	C18H12Cl2N2O	1.4		missing SMILES		
+draft_2430_00051	2-biphenylol diphenyl phosphate	C24H19O4P	1.4		missing SMILES		
+draft_2430_00052	butyl benzyl phthalate	C19H20O4	1.4		missing SMILES		
+draft_2430_00053	caffeine	C8H10N4O2	1.4		missing SMILES		
+draft_2430_00054	captafol	C10H9Cl4NO2S	1.4		missing SMILES		
+draft_2430_00055	carbendazim	C9H9N3O2	1.4		missing SMILES		
+draft_2430_00056	carbofuran	C12H15NO3	1.4		missing SMILES		
+draft_2430_00057	celestolide	C17H24O	1.4		missing SMILES		
+draft_2430_00059	choline	C5H14NO+	1.4		missing SMILES		
+draft_2430_00060	chrysene	C18H12	1.4		missing SMILES		
+draft_2430_00062	coumarin	C9H6O2	1.4		missing SMILES		
+draft_2430_00063	cypermethrin	C22H19Cl2NO3	1.4		missing SMILES		
+draft_2430_00064	bis(2-ethylhexyl) hexanedioate	C22H42O4	1.4		missing SMILES		
+draft_2430_00065	dicloran	C6H4Cl2N2O2	1.4		missing SMILES		
+draft_2430_00066	dicyclohexyl phthalate	C20H26O4	1.4		missing SMILES		
+draft_2430_00068	dipentyl phthalate	C18H26O4	1.4		missing SMILES		
+draft_2430_00069	diphenylamine	C12H11N	1.4		missing SMILES		
+draft_2430_00070	diuron	C9H10Cl2N2O	1.4		missing SMILES		
+draft_2430_00071	ethyl benzoate	C9H10O2	1.4		missing SMILES		
+draft_2430_00072	ethylparaben	C9H10O3	1.4		missing SMILES		
+draft_2430_00073	etofenprox	C25H28O3	1.4		missing SMILES		
+draft_2430_00074	fipronil	C12H4Cl2F6N4OS	1.4		missing SMILES		
+draft_2430_00075	fluazinam	C13H4Cl2F6N4O4	1.4		missing SMILES		
+draft_2430_00076	fluoranthene	C16H10	1.4		missing SMILES		
+draft_2430_00077	guaiacol	C7H8O2	1.4		missing SMILES		
+draft_2430_00078	icaridin	C12H23NO3	1.4		missing SMILES		
+draft_2430_00080	indole	C8H7N	1.4		missing SMILES		
+draft_2430_00082	metribuzin	C8H14N4OS	1.4		missing SMILES		
+draft_2430_00083	myclobutanil	C15H17ClN4	1.4		missing SMILES		
+draft_2430_00084	n-(methylsulfonyl)-o-methylhydroxylamine	C2H7NO3S	1.4		missing SMILES		
+draft_2430_00085	n-isopropyl-2,3-dimethyl-2-(1-methylpropyl)valeramide	C14H29NO	1.4		missing SMILES		
+draft_2430_00086	n-methyl-o-toluidine	C8H11N	1.4		missing SMILES		
+draft_2430_00088	naphthalene	C10H8	1.4		missing SMILES		
+draft_2430_00091	2-nonylphenol	C15H24O	12.9		missing SMILES		
+draft_2430_00092	nonylphenol ethoxylate	C17H28O2	13.2		missing SMILES		
+draft_2430_00093	nornicotyrine	C9H8N2	1.4		missing SMILES		
+draft_2430_00094	o-cymene	C10H14	1.4		missing SMILES		
+draft_2430_00095	octylphenol	C14H22O	1.4		missing SMILES		
+draft_2430_00096	p-cymene	C10H14	1.4		missing SMILES		
+draft_2430_00097	1,2,4-trichloro-5-(2,4,5-trichlorophenyl)benzene	C12H4Cl6	1.4		missing SMILES		
+draft_2430_00098	1,2,3,4-tetrachloro-5-(2,4,5-trichlorophenyl)benzene	C12H3Cl7	1.4		missing SMILES		
+draft_2430_00099	permethrin	C21H20Cl2O3	1.4		missing SMILES		
+draft_2430_00100	propiconazole	C15H17Cl2N3O2	1.4		missing SMILES		
+draft_2430_00101	propoxur	C11H15NO3	1.4		missing SMILES		
+draft_2430_00102	pyrene	C16H10	1.4		missing SMILES		
+draft_2430_00104	styrene	C8H8	1.4		missing SMILES		
+draft_2430_00105	tert-butylhydroquinone	C10H14O2	1.4		missing SMILES		
+draft_2430_00106	tris(2-chloroethyl) phosphate	C6H12Cl3O4P	1.4		missing SMILES		
+draft_2430_00107	tris(1-chloro-2-propyl) phosphate	C9H18Cl3O4P	1.4		missing SMILES		
+draft_2430_00108	triethyl phosphate	C6H15O4P	1.4		missing SMILES		
+draft_2430_00109	tetrabromobisphenol A	C15H12Br4O2	1.4		missing SMILES		
+draft_2430_00110	toluene	C7H8	1.4		missing SMILES		
+draft_2430_00111	tripropyl phosphate	C9H21O4P	1.4		missing SMILES		
+draft_2430_00112	triclosan	C12H7Cl3O2	1.4		missing SMILES		
+draft_2430_00114	tripropan-2-yl phosphate	C9H21O4P	1.4		missing SMILES		
+draft_2430_00115	2-piperidone	C5H9NO	1.4		missing SMILES		
+draft_2430_00116	camphene	C10H16	1.4		missing SMILES		
+draft_2430_00117	limonene	C10H16	1.4		missing SMILES		
+draft_2430_00118	perylene	C20H12	1.4		missing SMILES		
+draft_2430_00119	triphenyl phosphate	C18H15O4P	1.4		missing SMILES		
+draft_2430_00120	triclocarban	C13H9Cl3N2O	1.4		missing SMILES		
+draft_2430_00121	_-pinene	C10H16	1.4		missing SMILES		
