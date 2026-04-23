@@ -101,6 +101,7 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0055_00174	lysoPC(16:0/0:0)	C24H50NO7P	4.697783333		missing SMILES		
 0055_00175	lysoPC(18:1(9Z)/0:0)	C26H52NO7P	4.719916667		missing SMILES		
 0055_00176	Riboflavin	C17H20N4O6	3.3807		missing SMILES		
+0055_00179	1-Methyl-L-Histidine	C7H11N3O2	0.424883333		missing SMILES		
 0055_00180	Creatinine	C4H7N3O	0.467266667		missing SMILES		
 0055_00181	N,N-dimethylglycine	C4H9NO2	0.469533333		missing SMILES		
 0055_00182	Mevalonolactone	C6H10O3	1.193016667		missing SMILES		
