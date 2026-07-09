@@ -1,0 +1,20 @@
+id: draft_79318
+column:
+  name: Waters ACQUITY UPLC BEH HILIC
+  usp.code: L3
+  length: 150
+  id: 2.1
+  particle.size: 1.7
+  temperature: 25
+  flowrate: 0.4
+  t0: 0.8268749999999999
+eluent:
+  A:
+    acn: 100
+    nh4ac:
+      unit: mM
+  B:
+    h2o: 100
+    nh4ac:
+      value: 50
+      unit: mM
