@@ -71,28 +71,3 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0052_00101	Chrysin	C15H10O4	22.19		missing SMILES		
 0052_00102	Tangeretin	C20H20O7	22.77		missing SMILES		
 0052_00104	Rubiadin	C15H10O4	23.75		missing SMILES		
-0052_00106	Trigonelline	C6H12O6	1.13		missing SMILES		
-0052_00107	Stachydrine	C7H7NO2	1.17		missing SMILES		
-0052_00109	Castalagin	C7H6O5	3.07		missing SMILES		
-0052_00110	Theobromine	C41H26O26	3.25		missing SMILES		
-0052_00111	Gallocatechin	C7H8N4O2	3.4		missing SMILES		
-0052_00113	Hydroxytyrosol	C8H8O8S	3.8		missing SMILES		
-0052_00114	Castalagin	C8H10O3	3.82		missing SMILES		
-0052_00115	Protocatechuic acid	C41H26O26	3.96		missing SMILES		
-0052_00116	Pyrogallol 2-O-sulfate	C7H6O4	3.99		missing SMILES		
-0052_00117	Catechol O-sulfate	C6H6O6S	4.22		missing SMILES		
-0052_00118	(-)-Epigallocatechin	C6H6O5S	4.79		missing SMILES		
-0052_00120	Gentisic acid	C15H14O6	5.44		missing SMILES		
-0052_00121	Chlorogenic acid	C7H6O4	5.48		missing SMILES		
-0052_00123	Cyanidin 3-O-glucoside	C15H11O6+	5.65		missing SMILES		
-0052_00125	Dihydrocaffeic acid	C9H6O4	6.04		missing SMILES		
-0052_00126	Hippuric acid	C9H10O4	6.09		missing SMILES		
-0052_00127	4-Hydroxyphenylacetic acid	C9H9NO3	6.13		missing SMILES		
-0052_00128	Vanillic acid	C8H8O3	6.3		missing SMILES		
-0052_00129	2,4-Dihydroxybenzoic acid	C8H8O4	6.36		missing SMILES		
-0052_00130	Caffeic acid	C7H6O4	6.36		missing SMILES		
-0052_00132	2,6-Dihydroxybenzoic acid	C9H10O5	6.49		missing SMILES		
-0052_00133	5-(3?,4?-dihydroxyphenyl)-gamma-valerolactone-3?-O-sulfate	C7H6O4	6.5		missing SMILES		
-0052_00134	Homovanillic acid	C11H12O7S	6.83		missing SMILES		
-0052_00135	(-)-Epicatechin	C9H10O4	6.84		missing SMILES		
-0052_00160	Dihydroresveratrol 3-O-glucuronide		9.84		missing SMILES		
