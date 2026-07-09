@@ -264,6 +264,18 @@ check_metadata <- function(x) {
     x <- add_column(x, eluent.A.pH = 0)
   }
 
+  if(!"eluent.A.heptafluorobutyric" %in% colnames(x)) {
+    x <- add_column(x, eluent.A.heptafluorobutyric = 0)
+  }
+
+  if(!"eluent.A.heptafluorobutyric.unit" %in% colnames(x)) {
+    x <- add_column(x, eluent.A.heptafluorobutyric.unit = NA_character_)
+  } else {
+    if(all(x$eluent.A.heptafluorobutyric.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.A.heptafluorobutyric.unit = NA_character_)
+    }
+  }
+
 
   # eluent B -------------------------------------------------------------------
   # base solvents
@@ -487,6 +499,18 @@ check_metadata <- function(x) {
   # pH value
   if(!"eluent.B.pH" %in% colnames(x)) {
     x <- add_column(x, eluent.B.pH = 0)
+  }
+
+  if(!"eluent.B.heptafluorobutyric" %in% colnames(x)) {
+    x <- add_column(x, eluent.B.heptafluorobutyric = 0)
+  }
+
+  if(!"eluent.B.heptafluorobutyric.unit" %in% colnames(x)) {
+    x <- add_column(x, eluent.B.heptafluorobutyric.unit = NA_character_)
+  } else {
+    if(all(x$eluent.B.heptafluorobutyric.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.B.heptafluorobutyric.unit = NA_character_)
+    }
   }
 
   # eluent C -------------------------------------------------------------------
@@ -713,6 +737,18 @@ check_metadata <- function(x) {
     x <- add_column(x, eluent.C.pH = 0)
   }
 
+  if(!"eluent.C.heptafluorobutyric" %in% colnames(x)) {
+    x <- add_column(x, eluent.C.heptafluorobutyric = 0)
+  }
+
+  if(!"eluent.C.heptafluorobutyric.unit" %in% colnames(x)) {
+    x <- add_column(x, eluent.C.heptafluorobutyric.unit = NA_character_)
+  } else {
+    if(all(x$eluent.C.heptafluorobutyric.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.C.heptafluorobutyric.unit = NA_character_)
+    }
+  }
+
   # eluent D -------------------------------------------------------------------
   # base solvents
   if(!"eluent.D.h2o" %in% colnames(x)) {
@@ -937,6 +973,18 @@ check_metadata <- function(x) {
     x <- add_column(x, eluent.D.pH = 0)
   }
 
+  if(!"eluent.D.heptafluorobutyric" %in% colnames(x)) {
+    x <- add_column(x, eluent.D.heptafluorobutyric = 0)
+  }
+
+  if(!"eluent.D.heptafluorobutyric.unit" %in% colnames(x)) {
+    x <- add_column(x, eluent.D.heptafluorobutyric.unit = NA_character_)
+  } else {
+    if(all(x$eluent.D.heptafluorobutyric.unit %in% c(0, NA))) {
+      x <- x %>% mutate(eluent.D.heptafluorobutyric.unit = NA_character_)
+    }
+  }
+
   # gradient conditions --------------------------------------------------------
   if(!"gradient.start.A" %in% colnames(x)) {
     x <- add_column(x, gradient.start.A = 0)
@@ -1019,6 +1067,8 @@ check_metadata <- function(x) {
                "eluent.A.medronic",
                "eluent.A.medronic.unit",
                "eluent.A.pH",
+               "eluent.A.heptafluorobutyric",
+               "eluent.A.heptafluorobutyric.unit",
                "eluent.B.h2o",
                "eluent.B.meoh",
                "eluent.B.acn",
@@ -1059,6 +1109,8 @@ check_metadata <- function(x) {
                "eluent.B.medronic",
                "eluent.B.medronic.unit",
                "eluent.B.pH",
+               "eluent.B.heptafluorobutyric",
+               "eluent.B.heptafluorobutyric.unit",
                "eluent.C.h2o",
                "eluent.C.meoh",
                "eluent.C.acn",
@@ -1099,6 +1151,8 @@ check_metadata <- function(x) {
                "eluent.C.medronic",
                "eluent.C.medronic.unit",
                "eluent.C.pH",
+               "eluent.C.heptafluorobutyric",
+               "eluent.C.heptafluorobutyric.unit",
                "eluent.D.h2o",
                "eluent.D.meoh",
                "eluent.D.acn",
@@ -1139,6 +1193,8 @@ check_metadata <- function(x) {
                "eluent.D.medronic",
                "eluent.D.medronic.unit",
                "eluent.D.pH",
+               "eluent.D.heptafluorobutyric",
+               "eluent.D.heptafluorobutyric.unit",
                "gradient.start.A",
                "gradient.start.B",
                "gradient.start.C",
