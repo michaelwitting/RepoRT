@@ -1,0 +1,9 @@
+column:
+  name: Advanced Chromatography Technologies ACE AQ
+  id: 0.075
+  usp.code: L1
+  length: 100
+  particle.size: '3'
+  temperature: 40
+  flowrate: 0.28
+id: draft_03450004
