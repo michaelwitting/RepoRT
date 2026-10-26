@@ -1,0 +1,83 @@
+# DESTINED FOR THE repo-rt REPOSITORY — place at .github/workflows/sync-psi-ms-ids.yml
+# (and put add_psi_ms_id.py at .github/scripts/add_psi_ms_id.py, or adjust the path below).
+#
+# Return leg of the cross-repo loop: pulls the MS:ID mapping that HUPO-PSI/psi-ms-CV
+# publishes and back-fills the psi_ms_id column of the column database, then opens a PR.
+# psi-ms-CV is the authority for ID assignment; this only mirrors the ids. It runs a
+# couple of days after psi-ms-CV's own weekly sync so the latest mapping is usually
+# merged there; brand-new repo-rt models psi-ms-CV hasn't minted yet are left blank and
+# picked up on a later run (no error).
+name: Sync PSI-MS column IDs
+
+on:
+  schedule:
+    - cron: "0 6 * * 3"    # weekly, Wednesday 06:00 UTC (after psi-ms-CV's Monday run)
+  workflow_dispatch: {}    # allow manual runs
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: sync-psi-ms-ids
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    # Pinned (not ubuntu-latest) for reproducible runs; bump when GitHub deprecates the image.
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+        # add_psi_ms_id.py is pure stdlib — no dependencies to install.
+
+      - name: Download the psi-ms-CV id mapping
+        run: |
+          curl -fsSL --retry 3 --connect-timeout 30 --max-time 300 -o psi-ms-column-ids.tsv \
+            https://raw.githubusercontent.com/HUPO-PSI/psi-ms-CV/master/.github/repo-rt/psi-ms-column-ids.tsv
+
+      - name: Back-propagate MS:IDs into the catalog
+        run: |
+          python .github/scripts/add_psi_ms_id.py \
+            --mapping psi-ms-column-ids.tsv \
+            --catalog resources/column_database/column_database.tsv \
+            --report sync-report.md
+
+      - name: Build PR body
+        id: prbody
+        run: |
+          {
+            echo "body<<PRBODY_EOF"
+            echo 'Automated back-fill of the `psi_ms_id` column from the'
+            echo '[PSI-MS controlled vocabulary](https://github.com/HUPO-PSI/psi-ms-CV) id mapping.'
+            echo ''
+            echo 'PSI-MS-CV is the authority for the MS:IDs; this only mirrors them. New models'
+            echo 'not yet assigned an id upstream are left blank and filled on a later run, and an'
+            echo 'existing id is never erased. Review the diff before merging.'
+            echo ''
+            echo '## Summary'
+            echo ''
+            cat sync-report.md
+            echo 'PRBODY_EOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Remove downloaded scratch files
+        run: rm -f psi-ms-column-ids.tsv sync-report.md
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          # A repo-rt secret with contents+pull-requests write; or use ${{ secrets.GITHUB_TOKEN }}
+          # plus Settings → Actions → "Allow GitHub Actions to create and approve pull requests".
+          token: ${{ secrets.PSI_MS_ID_SYNC_TOKEN }}
+          add-paths: resources/column_database/column_database.tsv
+          branch: sync/psi-ms-column-ids
+          delete-branch: true
+          commit-message: "Sync psi_ms_id column from PSI-MS-CV"
+          title: "Sync psi_ms_id column from PSI-MS-CV"
+          body: ${{ steps.prbody.outputs.body }}
