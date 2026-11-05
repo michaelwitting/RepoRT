@@ -216,7 +216,7 @@ id	name	url	pmid	source	method.type	comment	missing information	authors	mail
 0216	SNU_RP_30			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
 0217	SNU_RP_50			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
 0218	#HILIC_tip			PredRet			all		
-0219	SNU_RIKEN_POS			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
+0219	SNU_RIKEN_POS	https://doi.org/10.1021/acs.analchem.9b05765		PredRet	RP	merged with 0429		Paolo Bonini, Tobias Kind, Hiroshi Tsugawa, Dinesh Kumar Barupal, Oliver Fiehn	
 0220	cecum_JS			PredRet	RP	gradient: missing times	temperature		
 0221	SNU_RP_indole_annotation			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
 0223	SNU_RP_indole_order			PredRet	RP		column length, ID, particle size, gradient, temperature, flow rate		
@@ -424,7 +424,6 @@ id	name	url	pmid	source	method.type	comment	missing information	authors	mail
 0426	ROASMI_23	10.1039/c6ra10883k		Publication - Yao	RP	Submitted by Fangyuan Sun		Changliang Yao,   Wenzhi Yang   Wei Si,   Huiqin Pan,   Shi Qiu,   Jia Wu,   Xiaojian Shi,   Ruihong Feng,   Wanying Wu and  Dean Guo	
 0427	ROASMI_50	10.1007/s11356-017-9929-x		Publication - Chau	RP	Submitted by Fangyuan Sun		Chau, H.T.C., Kadokami, K., Ifuku, T. et al.	
 0428	ROASMI_62	10.3390/metabo9050085		Publication - Codesido	RP	Submitted by Fangyuan Sun	flowrate	Codesido, S., Randazzo, G.M., Lehmann, F., González-Ruiz, V., García, A., Xenarios, I., Liechti, R., Bridge, A., Boccard, J., Rudaz, S	
-0429	ROASMI_84	10.1021/acs.analchem.9b05765		Publication - Bonini	RP	Submitted by Fangyuan Sun		Paolo Bonini, Tobias Kind, Hiroshi Tsugawa, Dinesh Kumar Barupal, Oliver Fiehn	
 0430	ROASMI_5	10.1016/j.foodchem.2012.08.062		Publication - De Paepe	RP	Submitted by Fangyuan Sun		D. De Paepe, K. Servaes, B. Noten, L. Diels, M. De Loose, B. Van Droogenbroeck, S. Voorspoels 	
 0431	ROASMI_08	10.1021/acs.analchem.9b05135		Publication - Guo	RP			Jian Guo, Tao Huan	
 0432	ROASMI_65	10.1016/j.jchromb.2017.07.016		Publication - Bruderer	RP			Tobias Bruderer, Emmanuel Varesio, Gérard Hopfgartner	

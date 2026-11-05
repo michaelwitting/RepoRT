@@ -615,3 +615,187 @@ id	name	formula	rt	smiles.std	status	inchi.std	inchikey.std
 0219_00670	Sinapoyl + C6H9O5	C17H20O9	3.28		missing SMILES		
 0219_00671	Flavonol base + 3O, O-Hex-Hex, O-Hex-Hex-Feruloyl	C49H58O29	4.01		missing SMILES		
 0219_00672	Flavone base + 3O, C-Pen-FeruloylHex	C36H36O17	4.71		missing SMILES		
+0219_00673	Licoricesaponin H2	C42H62O16	7.03		missing SMILES		
+0219_00674	Acacetin	C16H12O5	7.38		missing SMILES		
+0219_00675	(+)-Epicatechin	C15H14O6	3.44		missing SMILES		
+0219_00676	3-Hydroxycinnamic acid	C9H8O3	4.42		missing SMILES		
+0219_00677	Procyanidin B2	C30H26O12	3.24		missing SMILES		
+0219_00678	Malvidin-3-O-galactoside	C23H25O12+	3.16		missing SMILES		
+0219_00679	Isoformosanine	C21H24N2O4	4.42		missing SMILES		
+0219_00680	Kynurenic acid (not validated)	C10H7NO3	3.11		missing SMILES		
+0219_00681	Glutathione (not validated)	C10H17N3O6S	1.52		missing SMILES		
+0219_00682	Pantothenic acid (not validated)	C9H17NO5	2.48		missing SMILES		
+0219_00683	Fusaric acid (not validated)	C10H13NO2	2.79		missing SMILES		
+0219_00684	Aconitic acid (not validated, isomer of 273)	C6H6O6	1.61		missing SMILES		
+0219_00685	Uridine (not validated)	C9H12N2O6	1.8		missing SMILES		
+0219_00686	Xanthosine (not validated)	C10H12N4O6	2.07		missing SMILES		
+0219_00687	Adenosine (not validated)	C10H13N5O4	1.88		missing SMILES		
+0219_00688	Guanosine (not validated)	C10H13N5O5	1.93		missing SMILES		
+0219_00689	Xanthine (not validated)	C5H4N4O2	1.75		missing SMILES		
+0219_00690	Nicotine (not validated)	C10H14N2	1.62		missing SMILES		
+0219_00691	Phytosphingosine (not validated, isomer of 1697)	C18H39NO3	7.82		missing SMILES		
+0219_00692	Formononetin	C16H12O4	6.69		missing SMILES		
+0219_00693	Formononetin-7-O-glucoside	C22H22O9	5.04		missing SMILES		
+0219_00694	Tryptophanol (not validated)	C10H11NO	3.06		missing SMILES		
+0219_00695	Tryptamine (not validated)	C10H12N2	1.79		missing SMILES		
+0219_00696	Cosmosiin	C21H20O10	4.2		missing SMILES		
+0219_00697	PyroglutamylIsoleucine (isomer of 1005)	C11H18N2O4	2.55		missing SMILES		
+0219_00698	Rosmarinic acid (not validated)	C18H16O8	4.6		missing SMILES		
+0219_00699	trans-Caffeic acid	C9H8O4	3.44		missing SMILES		
+0219_00700	Vanillic acid (not validated)	C9H10O4	3.84		missing SMILES		
+0219_00701	Pyroglutamic acid (not validated, isomer of 88)	C5H7NO3	1.73		missing SMILES		
+0219_00702	Diosmetin-7-O-rutinoside	C28H32O15	4.39		missing SMILES		
+0219_00703	Ginsenoside Rh1	C36H62O9	6.29		missing SMILES		
+0219_00704	Ginsenoside Rg6	C42H70O12	7.57		missing SMILES		
+0219_00705	Ginsenoside Rg2	C42H72O13	6.25		missing SMILES		
+0219_00706	Ginsenoside F2	C42H72O13	7.66		missing SMILES		
+0219_00707	Ginsenoside Rf	C42H72O14	5.94		missing SMILES		
+0219_00708	Ginsenoside-Rg1	C42H72O14	4.8		missing SMILES		
+0219_00709	Ginsenoside Re	C48H82O18	4.79		missing SMILES		
+0219_00710	Ginsenoside Rc	C53H90O22	6.01		missing SMILES		
+0219_00711	Ginsenoside Rb3	C53H90O22	6.19		missing SMILES		
+0219_00712	Echinocystic acid-3-O-glucoside	C36H58O9	7.33		missing SMILES		
+0219_00713	Saikosaponin b2	C42H68O13	7.11		missing SMILES		
+0219_00714	Chikusetsusaponin IV	C47H74O18	6.39		missing SMILES		
+0219_00715	Chrysanthellin A	C58H94O25	6.12		missing SMILES		
+0219_00716	Paeoniflorin	C23H28O11	3.78		missing SMILES		
+0219_00717	Cynarin	C25H24O12	3.49		missing SMILES		
+0219_00718	Arbutin	C12H16O7	1.88		missing SMILES		
+0219_00719	Arctiin	C27H34O11	5.18		missing SMILES		
+0219_00720	Phillyrin	C27H34O11	5.13		missing SMILES		
+0219_00721	Eleutheroside E	C34H46O18	3.61		missing SMILES		
+0219_00722	2-Propenyl glucosinolate	C10H17NO9S2	1.77		missing SMILES		
+0219_00723	(2S)-2-Hydroxy-3-butenyl-glucosinolate	C11H19NO10S2	1.77		missing SMILES		
+0219_00724	Benzyl glucosinolate	C14H19NO9S2	2.83		missing SMILES		
+0219_00725	p-Hydroxybenzyl glucosinolate	C14H19NO10S2	2		missing SMILES		
+0219_00726	7-Methylsulfinylheptyl isothiocyanate	C9H17NOS2	5.41		missing SMILES		
+0219_00727	8-Methylsulfinyloctyl isothiocyanate	C10H19NOS2	3.56		missing SMILES		
+0219_00728	Kaempferol-3-O-glucoside-2''-p-coumaroyl	C30H26O13	5.32		missing SMILES		
+0219_00729	Quercetin-3-O-glucuronide	C21H18O13	4.01		missing SMILES		
+0219_00730	p-Coumaryl alcohol	C9H10O2	3.76		missing SMILES		
+0219_00731	4-Methoxycinnamic acid	C10H10O3	5.86		missing SMILES		
+0219_00732	4-Deoxyphloridzin	C21H24O9	4.85		missing SMILES		
+0219_00733	Maritimetin-6-O-glucoside	C21H20O11	4		missing SMILES		
+0219_00734	Sennoside B	C42H38O20	3.82		missing SMILES		
+0219_00735	Cyanidin-3-O-rhamnoside	C21H21O10+	3.18		missing SMILES		
+0219_00736	Luteolinidin	C15H11O5+	3.59		missing SMILES		
+0219_00737	Voacamine	C43H52N4O5	4.94		missing SMILES		
+0219_00738	Dodecyl hydrogen sulfate	C12H26O4S	8.65		missing SMILES		
+0219_00739	Stachyose	C24H42O21	1.69		missing SMILES		
+0219_00740	Sinapoyl malate	C15H16O9	4.23		missing SMILES		
+0219_00741	Cryptochlorogenic acid	C16H18O9	4.6		missing SMILES		
+0219_00742	4-O-feruloyl-D-quinic acid	C17H20O9	3.74		missing SMILES		
+0219_00743	FA 18:3+1O ((9S,10E,12Z,15Z)-9-Hydroxy-10,12,15-octadecatrienoic acid)	C18H30O3	9.1		missing SMILES		
+0219_00744	FA 18:3+2O ((9S,10E,12Z,15Z)-9-hydroperoxyoctadeca-10,12,15-trienoic acid)	C18H30O4	6.77		missing SMILES		
+0219_00745	FA 18:2+1O (Alpha-dimorphecolic acid)	C18H32O3	9.79		missing SMILES		
+0219_00746	FA 18:2+2O	C18H32O4	8		missing SMILES		
+0219_00747	FA 18:1+1O (Ricinoleic acid)	C18H34O3	10.08		missing SMILES		
+0219_00748	FA 18:1+2O (12,13-DiHOME)	C18H34O4	8.39		missing SMILES		
+0219_00749	FA 18:1+2O	C18H34O4	8.54		missing SMILES		
+0219_00750	Citric acid	C6H8O7	1.57		missing SMILES		
+0219_00751	3-Hydroxymethylglutaric acid	C6H10O5	1.98		missing SMILES		
+0219_00752	2-Isopropylmalic acid	C7H12O5	3.25		missing SMILES		
+0219_00753	Suberic acid	C8H14O4	4.1		missing SMILES		
+0219_00754	3-Glu-3,4',7-trihydroxyisoflavanone	C21H22O10	3.56		missing SMILES		
+0219_00755	Myricetin-3-O-galactoside	C21H20O13	3.64		missing SMILES		
+0219_00756	Quercetin 3,7-di-O-alpha-L-rhamnopyranoside	C27H30O15	3.67		missing SMILES		
+0219_00757	3-hydroxy-2-(4-hydroxyphenyl)-4H-chromen-4-one	C15H10O4	8.56		missing SMILES		
+0219_00758	Diosmetin	C16H12O6	6.78		missing SMILES		
+0219_00759	Apiin	C26H28O14	4.71		missing SMILES		
+0219_00760	Luteolin-8-C-glucoside	C21H20O11	3.7		missing SMILES		
+0219_00761	Pinocembrin	C15H12O4	7.47		missing SMILES		
+0219_00762	Epigallocatechin	C15H14O7	2.49		missing SMILES		
+0219_00763	6,7-Dihydroxycoumarin-6-glucoside	C15H16O9	2.87		missing SMILES		
+0219_00764	6,7-Dihydroxycoumarin	C9H6O4	2.87		missing SMILES		
+0219_00765	3-O-p-Coumaroylquinic acid	C16H18O8	3.08		missing SMILES		
+0219_00766	Procyanidin C1	C45H38O18	3.46		missing SMILES		
+0219_00767	N-Acetylleucine	C8H15NO3	3.81		missing SMILES		
+0219_00768	isorhamnetin-3-glucoside-4'-glucoside (Isorhamnetin 3,4'-diglucoside)	C28H32O17	3.23		missing SMILES		
+0219_00769	Caffeyl alcohol	C9H10O3	3.18		missing SMILES		
+0219_00770	Phloretin-2'-O-glucoside	C21H24O10	4.73		missing SMILES		
+0219_00771	3,4,5-Trihydroxystilbene	C14H12O3	5		missing SMILES		
+0219_00772	Kaempferol-3-O-robinoside-7-O-rhamnoside	C33H40O19	3.55		missing SMILES		
+0219_00773	FA 18:3+1O	C18H30O3	9.14		missing SMILES		
+0219_00774	FA 18:3+1O	C18H30O3	10.13		missing SMILES		
+0219_00775	Plantaginin	C21H20O11	4.07		missing SMILES		
+0219_00776	Arachidonic acid (not validated)	C20H32O2	7.39		missing SMILES		
+0219_00777	Threonylleucine (isomer of 809, 925)	C10H20N2O4	2.41		missing SMILES		
+0219_00778	Peonidin-3-O-beta-galactoside	C22H23O11+	3.12		missing SMILES		
+0219_00779	Ginsenoside Rh2 (S-FORM)	C36H62O8	9.84		missing SMILES		
+0219_00780	Ginsenoside Rg3(S-FORM)	C42H72O13	8.2		missing SMILES		
+0219_00781	[6]-Gingerol	C17H26O4	7.45		missing SMILES		
+0219_00782	Lariciresinol	C20H24O6	4.96		missing SMILES		
+0219_00783	Loganin	C17H26O10	3.36		missing SMILES		
+0219_00784	(2R)-2-Hydroxy-2-phenethylglucosinolate	C15H21NO10S2	2.71		missing SMILES		
+0219_00785	Kaempferol-3-O-arabinoside	C20H18O10	4.47		missing SMILES		
+0219_00786	2-Methoxycinnamic acid	C10H10O3	6.12		missing SMILES		
+0219_00787	Cyanidine-3-O-sambubioside	C26H27O15-	2.88		missing SMILES		
+0219_00788	Cyanidin-3-O-rutinoside	C27H31O15+	2.94		missing SMILES		
+0219_00789	FA 18:1+1O (9,10-epoxyoctadecanoic acid)	C18H34O3	10.3		missing SMILES		
+0219_00790	Glutaric acid	C5H8O4	2.53		missing SMILES		
+0219_00791	Glucoraphanin	C12H23NO10S3	1.74		missing SMILES		
+0219_00792	Datiscetin-3-O-rutinoside	C27H30O15	4.1		missing SMILES		
+0219_00793	Solasodine base + 2H, 1Acetyl, O-Hex, O-Hex-Hex-Hex-Pen	C58H95NO29	3.95		missing SMILES		
+0219_00794	Solanidine base -2H + 1O, O-Hex-dHex-dHex	C45H71NO15	4.26		missing SMILES		
+0219_00795	Solasodiene (not validated)	C27H41NO	5.94		missing SMILES		
+0219_00796	UNPD203664 (not validated)	C34H46O19	3.84		missing SMILES		
+0219_00797	Dihydrostilbene base + 4O, 2Prenyl	C24H30O4	8.65		missing SMILES		
+0219_00798	Licodione base + 2Prenyl	C25H28O5	9.16		missing SMILES		
+0219_00799	Licodione base + 2Prenyl	C25H28O5	10.36		missing SMILES		
+0219_00800	Flavone base + 4O, 1Prenyl	C20H18O6	6.29		missing SMILES		
+0219_00801	Flavone base + 2O, 1Prenyl	C20H18O4	6.91		missing SMILES		
+0219_00802	Flavanone + 4O, 1Prenyl	C20H20O6	8.96		missing SMILES		
+0219_00803	Flavanone base + 3O, 1Prenyl	C20H20O5	9.7		missing SMILES		
+0219_00804	Dihydroflavonol + 2O, 2Prenyl	C25H28O5	8.69		missing SMILES		
+0219_00805	Licoagroside B (not validated)	C18H24O12	3.18		missing SMILES		
+0219_00806	Chelidonic acid (not validated)	C7H4O6	1.62		missing SMILES		
+0219_00807	Anatabine (not validated)	C10H12N2	1.77		missing SMILES		
+0219_00808	Hydroxypyridin + C5H10NO or 6-Hydroxypseudooxynicotine (not validated)	C10H14N2O2	1.8		missing SMILES		
+0219_00809	Dehydrophytosphingosine (not validated) - 2H	C18H35NO3	7.04		missing SMILES		
+0219_00810	Dehydrophytosphingosine (not validated, isomer of 1677)	C18H37NO3	7.3		missing SMILES		
+0219_00811	Dehydrophytosphingosine (not validated, isomer of 1679)	C18H37NO3	7.59		missing SMILES		
+0219_00812	LPC 18:3	C26H48NO7P	8.75		missing SMILES		
+0219_00813	LPC 18:2	C26H50NO7P	9.52		missing SMILES		
+0219_00814	LPC 18:1	C26H52NO7P	10.28		missing SMILES		
+0219_00815	Hexosyl LPE 18:2	C29H54NO12P	9.21		missing SMILES		
+0219_00816	Flavone base + 3O, 2MeO, O-MalonylHex, O-guaiacylglycerol	C36H38O19	5.03		missing SMILES		
+0219_00817	Isoflavone base + 3O, O-MalonylHex	C24H22O13	4.69		missing SMILES		
+0219_00818	Isoflavone base + 2O, O-MalonylHex	C24H22O12	4.44		missing SMILES		
+0219_00819	Isoflavone base + 2O, O-Hex	C21H20O9	5.9		missing SMILES		
+0219_00820	Isoflavone base + 2O, O-MalonylHex	C24H22O12	4.19		missing SMILES		
+0219_00821	Isoflavone base + 1O + 1MeO, O-MalonylHex	C25H24O12	5.59		missing SMILES		
+0219_00822	Isoflavone base + 2O, O-Hex	C21H20O9	3.98		missing SMILES		
+0219_00823	Isoflavone base + 1O, 1MeO, O-MalonylHex	C25H24O12	5.79		missing SMILES		
+0219_00824	9-methanesulfinylnonanenitrile (isomer of 665)	C10H19NOS	4.89		missing SMILES		
+0219_00825	Flavonol base + 3O	C15H10O6	4.37		missing SMILES		
+0219_00826	Flavone base + 3O, 2MeO, O-guaiacylglycerol	C27H26O11	6.04		missing SMILES		
+0219_00827	Flavone base + 3O, 2MeO, O-Hex, O-guaiacylglycerol	C33H36O16	4.74		missing SMILES		
+0219_00828	Flavone base + 3O, 2MeO, O-Hex	C23H24O12	4.21		missing SMILES		
+0219_00829	Flavone base + 1O, 2MeO, O-MalonylHex	C26H26O13	5.65		missing SMILES		
+0219_00830	Flavanone base +2O, 1MeO	C16H14O5	5.15		missing SMILES		
+0219_00831	Feruloyl putrescine (isomer of 1173)	C14H20N2O3	2.9		missing SMILES		
+0219_00832	Feruloyl agmatine (isomer of 1607)	C15H22N4O3	2.98		missing SMILES		
+0219_00833	Feruloyl dehydrotyramine (isomer of 1654)	C18H17NO4	4.28		missing SMILES		
+0219_00834	Smiglaside C (not validated) + 1Acetyl	C40H46O21	6.79		missing SMILES		
+0219_00835	Smiglaside C (not validated)	C38H44O20	6.05		missing SMILES		
+0219_00836	Glutamylphenylalanine (isomer of 1503)	C14H18N2O5	3.14		missing SMILES		
+0219_00837	Phenylalanylisoleucine (isomer of 1328)	C15H22N2O3	3.51		missing SMILES		
+0219_00838	Coumestan base + 2O, O-HexPyruvate	C24H20O12	4.82		missing SMILES		
+0219_00839	Coumaroyl agmatine (isomer of 1297)	C14H20N4O2	2.85		missing SMILES		
+0219_00840	Tricoumaroyl spermidine (isomer of 2951)	C34H37N3O6	5.52		missing SMILES		
+0219_00841	Chalcone base + 2O, 1MeO, 1Prenyl or Licochalcone A (not validated)	C21H22O4	8.1		missing SMILES		
+0219_00842	Paratunamide D (not validated)	C26H32N2O11	4.99		missing SMILES		
+0219_00843	Caffeoyl putrescin (isomer of 1059)	C13H18N2O3	2.42		missing SMILES		
+0219_00844	HDMBOA (not validated, isomer of 871)	C10H11NO5	3.62		missing SMILES		
+0219_00845	HDMBOA (not validated, isomer of 868)	C10H11NO5	3.86		missing SMILES		
+0219_00846	Grossamide or its isomer (not validated)	C36H36N2O8	5.62		missing SMILES		
+0219_00847	Grossamide or its isomer (not validated)	C36H36N2O8	5.55		missing SMILES		
+0219_00848	Grossamide or its isomer (not validated)	C36H36N2O8	6.42		missing SMILES		
+0219_00849	Isodityrosine (not validated)	C18H20N2O6	3.98		missing SMILES		
+0219_00850	Pyroglutamic acid (not validated, isomer of 89)	C5H7NO3	1.62		missing SMILES		
+0219_00851	Allysine (not validated)	C6H11NO3	2.42		missing SMILES		
+0219_00852	Allicin (not validated)	C6H10OS2	4.24		missing SMILES		
+0219_00853	Allicin + 2H (not validated, isomer of 328)	C6H12OS2	4.41		missing SMILES		
+0219_00854	Allicin + 2H (not validated, isomer of 327)	C6H12OS2	6.17		missing SMILES		
+0219_00855	Allicin + 4H (not validated)	C6H14OS2	6.26		missing SMILES		
+0219_00856	Ajoene (not validated)	C9H14OS3	6.8		missing SMILES		

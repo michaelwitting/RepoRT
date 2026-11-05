@@ -95,8 +95,8 @@ class PubChemStandardizationResponse:
             LOGGER.error("PUGREST.ServerError or PUGREST.Unknown - Problem on the server side (e.g. server is down) or another unknown problem occurred.")
             raise PubChemUnknownServerError("Problem on the server side (e.g. server is down) or another unknown problem occurred.")
         else:
-            LOGGER.error("An unknown error occurred. HTTP status code: " + response.status_code)
-            raise PubChemUnknownServerError("An unknown error occurred. HTTP status code: " + response.status_code)
+            LOGGER.error("An unknown error occurred. HTTP status code: " + str(response.status_code))
+            raise PubChemUnknownServerError("An unknown error occurred. HTTP status code: " + str(response.status_code))
 
     def get_standardized_structure(self):
         if self.__status == 'FINISHED':
@@ -280,20 +280,28 @@ class StructureListPubChemStandardizer:
         return self.__standardized_structures
 
 
-def standardize_structure_with_pubchem(input_structure, input_format, output_format=None, return_none_if_error=True, request_processing_time=30):
+def standardize_structure_with_pubchem(input_structure, input_format, output_format=None, return_none_if_error=True, request_processing_time=30, retries=3):
     """returns tuples of (standardized_structure, Exception)"""
     print(input_structure)
     try:
-        standardization_request = PubChemStandardizationRequest(input_structure=input_structure, input_format=input_format, output_format=output_format)
-        request_response = standardization_request.submit_request()  # IF the request failed and request_response.get_status() == 'FAILED', then an exception will be raises!!!
+        for attempt in range(retries + 1):
+            try:
+                standardization_request = PubChemStandardizationRequest(input_structure=input_structure, input_format=input_format, output_format=output_format)
+                request_response = standardization_request.submit_request()  # IF the request failed and request_response.get_status() == 'FAILED', then an exception will be raises!!!
 
-        # in this case: no exception was raised! That means: the status is either 'FINISHED' or 'WAITING'
-        if request_response.get_status() == 'FINISHED':
-            return (request_response.get_standardized_structure(), None)
-        else:
-            request_id = request_response.get_request_id()
-            response_handler = PubChemStandardizationWaitResponseHandler(request_id, input_structure)
-            return (response_handler.await_result(sec=request_processing_time), None)
+                # in this case: no exception was raised! That means: the status is either 'FINISHED' or 'WAITING'
+                if request_response.get_status() == 'FINISHED':
+                    return (request_response.get_standardized_structure(), None)
+                else:
+                    request_id = request_response.get_request_id()
+                    response_handler = PubChemStandardizationWaitResponseHandler(request_id, input_structure)
+                    return (response_handler.await_result(sec=request_processing_time), None)
+            except PubChemServerError as e:
+                # temporary server-side problems (busy, timeout, e.g. HTTP 502): wait and retry
+                if attempt == retries:
+                    raise
+                LOGGER.warning(f'{e.__class__.__name__} for query "{input_structure}", retrying in 30 s')
+                sleep(30)
     except PubChemError as e:
         if return_none_if_error:
             LOGGER.warning("An exception of class " + str(e.__class__.__name__) + " was thrown. Return 'None' for query \"" + input_structure + "\".")

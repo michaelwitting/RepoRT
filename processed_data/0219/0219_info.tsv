@@ -1,2 +1,2 @@
 id	name	method.type	source	url	pmid	authors	missing information	comment
-0219	SNU_RIKEN_POS	RP	PredRet				column length, ID, particle size, gradient, temperature, flow rate	
+0219	SNU_RIKEN_POS	RP	PredRet	https://doi.org/10.1021/acs.analchem.9b05765		Paolo Bonini, Tobias Kind, Hiroshi Tsugawa, Dinesh Kumar Barupal, Oliver Fiehn		merged with 0429
