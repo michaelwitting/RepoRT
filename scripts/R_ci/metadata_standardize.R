@@ -132,6 +132,6 @@ for(data_folder in data_folders) {
     file.copy(info_file, paste0(result_folder,
                                 "/",
                                 basename(data_folder),
-                                "_info.tsv"))
+                                "_info.tsv"), overwrite = TRUE)
   }
 }

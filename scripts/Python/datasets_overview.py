@@ -7,7 +7,7 @@ if __name__ == '__main__':
                               ).rename({'doi': 'url'}, axis=1).set_index('id')
         dfs = []
         for f in glob(f'{mode_}_data/*/*_info.tsv'):
-            dfs.append(pd.read_csv(f, sep='\t', dtype={'id': 'str', 'pmid': 'str'}))
+            dfs.append(pd.read_csv(f, sep='\t', dtype={'id': 'str', 'pmid': 'str'}).fillna(''))  # empty fields also overwrite
         studies_new = pd.concat(dfs, ignore_index=True).sort_values('id').set_index('id')
         studies.update(studies_new)
         new_entries = studies_new.loc[studies_new.index.difference(studies.index)]
