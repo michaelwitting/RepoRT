@@ -111,3 +111,8 @@ if __name__ == '__main__':
                 tsv_res = to_hierarchical(dict(read_tsv(tsv_file)))
                 if not yaml_res == tsv_res:
                     print(f'WARNING: {dataset} metadata files contain conflicting information!', yaml_file, tsv_file, yaml_res, tsv_res)
+                    if mode_ == 'processed':
+                        # processed TSV is the output of metadata standardization -> regenerate YAML from it
+                        print(f'regenerating {yaml_file} from {tsv_file}')
+                        with open(yaml_file, 'w') as out:
+                            yaml.safe_dump(dict(tsv_res), out, default_flow_style=False, sort_keys=False, allow_unicode=True)
